@@ -1,0 +1,51 @@
+'let a message': Laissez un message
+'chat call': Appel tchat
+'audio call': Appel audio
+'video call': Appel vidéo
+'information help': en savoir +
+'faq help': en savoir +
+'Your discussion has ended': Votre conversation est terminée.<br /> Merci de nous avoir contacté.
+'Please, rate this discussion': Votre avis :
+'Discussion helpful ?': Ce dialogue vous a-t-il été utile ?
+'Would you recommend this experience to your friends?': Recommanderiez-vous un tel dialogue à vos amis ?
+'Any comments ?': Vos suggestions :
+'chat transcript': Pour recevoir le contenu de vos tchats, laissez votre e-mail.
+'Webuser is typing': est en train d'écrire...
+'Type your text here': Tapez votre message ici
+'agent dont answer': Le conseiller est indisponible
+'chat redirection': Connexion en tchat en cours
+'agent close communication': Le conseiller a raccroché
+'Deprecated version of Flash Chat only': Version obsoléte du logiciel Flash. Tchat uniquement.
+'i am currently unavailable': Désolé, je suis indisponible pour le moment. Merci de me laisser un message.
+'Your mail': Votre email
+'Or': ou
+'Please type your message here': Tapez votre message ici
+'message field required': Champ message obligatoire
+'email or phone field required': champ email ou telephone obligatoire
+'send': Envoyer
+'not ready to switch': 'not ready to switch'
+'will answer in a few seconds': 'sera disponible dans quelques secondes.'
+'Email adress': 'Adresse Email'
+'Phone number': 'Numéro de téléphone'
+'email invalide': 'Adresse Email invalide'
+'Discutez en video' : 'Discutez en vidéo'
+'Discutez en audio' : 'Discutez en audio'
+'Discutez en chat' : 'Discutez en tchat'
+'Laissez un message' : 'Laissez un message'
+'agent-accept-communication' : Communication acceptée
+'agent indisponible. redirection vers message': Agent indisponible, redirection vers message
+'webuser': Moi
+'user flash crash': shockwave flash s' est arreté. Vous êtes connecté en mode tchat texte
+'Survey sent': Message envoyé
+'message sent': Message envoyé
+'cgv': En utilisant ce service, vous acceptez les <a href="http://www.videodesk.fr/terms" target="_blank">Conditions Générales de Vente</a> de Videodesk S.A.S. et toute mise à jour qui lui est apportée. En cas de désaccord avec ces Conditions, veuillez ne pas utiliser ce service.
+'You will can enter your text here': Vous pourrez saisir votre texte ici
+'Discussion with %site%': Discussion avec %site%
+
+'hello': Bonjour
+'videodesk team': L'équipe videodesk<br /><a href="http://www.videodesk.fr">www.videodesk.fr</a>
+'new message from': Nouveau message depuis le site
+'message from videodesk module': Nouveau message depuis le module videodesk
+'message originally intended to': message envoyé à :
+
+'Enter your question here': Posez votre question ici :

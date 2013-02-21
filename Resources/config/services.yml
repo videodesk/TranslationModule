@@ -1,0 +1,7 @@
+parameters:
+#    videodesk_translation_module.example.class: Videodesk\Bundle\TranslationModuleBundle\Example
+
+services:
+#    videodesk_translation_module.example:
+#        class: %videodesk_translation_module.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
