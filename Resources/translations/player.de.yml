@@ -7,9 +7,9 @@
 'Your discussion has ended': Ihre Unterhaltung ist beendet.<br />Vielen Dank für Ihr Vertrauen.
 'Please, rate this discussion': Ihre Meinung ist uns wichtig
 'Discussion helpful ?': War dieser Dialog hilfreich?
-'Would you recommend this experience to your friends?': W¸rden Sie dies Ihren Freunden weiterempfehlen?
+'Would you recommend this experience to your friends?': Würden Sie dies Ihren Freunden weiterempfehlen?
 'Any comments ?': Mögliche Vorschläge
-'chat transcript': Wenn Sie die Inhalte Ihrer Chat-Nachrichten erhalten wollen, hinterlassen Sie bitte Ihre E-Mail-Adresse.
+'chat transcript': Wenn Sie die Inhalte Ihrer Chat-<br />Nachrichten erhalten wollen, hinterlassen Sie bitte Ihre E-Mail-Adresse.
 'Webuser is typing': schreibt gerade...
 'Type your text here': 'geben Sie Ihren Text hier ein'
 'agent dont answer': Der Mitarbeiter ist zur Zeit nicht erreichbar
@@ -27,14 +27,14 @@
 'will answer in a few seconds': 'wird in einigen Sekunden antworten.'
 'Email adress': 'E-Mail-Adresse'
 'Phone number': 'Telefonnummer'
-'email invalide': 'Ung¸ltige E-Mail-Adresse'
+'email invalide': 'Ungültige E-Mail-Adresse'
 'Discutez en video' : 'Video-Chat'
 'Discutez en audio' : 'Audio-Chat'
 'Discutez en chat' : 'Text-Chat'
 'Laissez un message' : 'Nachricht'
 'agent-accept-communication' : Anruf angenommen
-'agent indisponible. redirection vers message': Mitarbeiter nicht verf¸gbar, Weiterleitung an Nachricht
-'user flash crash': Shockwave Flash abgest¸rzt. Sie werden im Text-Chat-Modus angemeldet
+'agent indisponible. redirection vers message': Mitarbeiter nicht verfügbar, Weiterleitung an Nachricht
+'user flash crash': Shockwave Flash abgestürzt. Sie werden im Text-Chat-Modus angemeldet
 'Survey sent': Umfrage gesendet
 'message sent': Nachricht wurde gesendet
 'cgv': Da Sie diesen Service benutzen, haben Sie die <a href="http://www.videodesk.com/terms" target="_blank">allgemeinen Geschäftsbedingungen</a> von Videodesk inc akzeptiert. Wenn Sie diesen Service weiterhin benutzen, stimmen Sie damit Änderungen in diesen ebenfalls zu.  
