@@ -1,52 +1,51 @@
-'let a message': Let a message
-'chat call': Chat call
-'audio call': Audio call
-'video call': Video call
-'information help': more informations
-'faq help': more informations
-'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
-'Please, rate this discussion': Your opinion matters to us
-'Discussion helpful ?': Has this dialogue been useful?
-'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
-'Any comments ?': Suggestions
-'chat transcript': If you would like to receive the contents of your chat messages, please leave your e-mail address.
-'Webuser is typing': is writing...
-'Type your text here': 'Type your text here'
-'agent dont answer': The agent is unavailable
-'chat redirection': Chat call
-'agent close communication': The agent hung up
-'Deprecated version of Flash Chat only': Deprecated version of Flash. 
-'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
-'Your mail': Your mail
-'Or': Or
-'Please type your message here': Please type your message here
-'message field required': message required
-'email or phone field required': email or phone required
-'send': send
+'let a message': Laissez un message
+'chat call': Appel tchat
+'audio call': Appel audio
+'video call': Appel vidéo
+'information help': en savoir +
+'faq help': en savoir +
+'Your discussion has ended': Votre conversation est terminée.<br /> Merci de nous avoir contacté.
+'Please, rate this discussion': Votre avis :
+'Discussion helpful ?': Ce dialogue vous a-t-il été utile ?
+'Would you recommend this experience to your friends?': Recommanderiez-vous un tel dialogue à vos amis ?
+'Any comments ?': Vos suggestions :
+'chat transcript': Pour recevoir le contenu de vos tchats, laissez votre e-mail.
+'Webuser is typing': est en train d'écrire...
+'Type your text here': Tapez votre message ici
+'agent dont answer': Le conseiller est indisponible
+'chat redirection': Connexion en tchat en cours
+'agent close communication': Le conseiller a raccroché
+'Deprecated version of Flash Chat only': Version obsoléte du logiciel Flash. Tchat uniquement.
+'i am currently unavailable': Désolé, je suis indisponible pour le moment. Merci de me laisser un message.
+'Your mail': Votre email
+'Or': ou
+'Please type your message here': Tapez votre message ici
+'message field required': Champ message obligatoire
+'email or phone field required': champ email ou telephone obligatoire
+'send': Envoyer
 'not ready to switch': 'not ready to switch'
-'will answer in a few seconds': 'will be available in a few seconds.'
-'Email adress': 'Email address'
-'Phone number': 'Phone number'
-'email invalide': 'Invalid email'
-'Discutez en video' : 'Video chat'
-'Discutez en audio' : 'Audio chat'
-'Discutez en chat' : 'Text chat'
-'Laissez un message' : 'Leave a message'
-'agent-accept-communication' : Communication accepted
-'agent indisponible. redirection vers message': Agent unavailable, redirection to message
-'webuser': Me
-'user flash crash': shockwave flash has crashed. You're conneced in text chat mode
-'Survey sent': Survey sent
-'message sent': 'Message sent'
-'cgv': Your use of this service means you have accepted the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you do not wish to agree
-'You will can enter your text here': You will be able to enter your text here
+'will answer in a few seconds': 'sera disponible dans quelques secondes.'
+'Email adress': 'Adresse Email'
+'Phone number': 'Numéro de téléphone'
+'email invalide': 'Adresse Email invalide'
+'Discutez en video' : 'Discutez en vidéo'
+'Discutez en audio' : 'Discutez en audio'
+'Discutez en chat' : 'Discutez en tchat'
+'Laissez un message' : 'Laissez un message'
+'agent-accept-communication' : Communication acceptée
+'agent indisponible. redirection vers message': Agent indisponible, redirection vers message
+'webuser': Moi
+'user flash crash': shockwave flash s' est arreté. Vous êtes connecté en mode tchat texte
+'Survey sent': Message envoyé
+'message sent': Message envoyé
+'cgv': En utilisant ce service, vous acceptez les <a href="http://www.videodesk.fr/terms" target="_blank">Conditions Générales de Vente</a> de Videodesk S.A.S. et toute mise à jour qui lui est apportée. En cas de désaccord avec ces Conditions, veuillez ne pas utiliser ce service.
+'You will can enter your text here': Vous pourrez saisir votre texte ici
+'Discussion with %site%': Discussion avec %site%
 
-'Discussion with %site%': Discussion with %site%
+'hello': Bonjour
+'videodesk team': L'équipe videodesk<br /><a href="http://www.videodesk.fr">www.videodesk.fr</a>
+'new message from': Nouveau message depuis le site
+'message from videodesk module': Nouveau message depuis le module videodesk
+'message originally intended to': message envoyé à :
 
-'hello': Hello
-'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': New message on website
-'message from videodesk module': New message from videodesk module
-'message originally intended to': message sent to :
-
-'Enter your question here': Enter your question here
+'Enter your question here': Posez votre question ici :
