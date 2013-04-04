@@ -49,3 +49,18 @@
 'message originally intended to': message envoyé à :
 
 'Enter your question here': Posez votre question ici :
+
+#CRM
+Please provide the details below and we will answer in a few seconds: Merci de remplir les champs ci-dessous et nous vous répondrons dans quelques instants.
+firstname: Prénom
+lastname: Nom
+email: Email
+phone: Téléphone
+company: Société
+send: Envoyer
+firstname required: Prénom obligatoire
+lastname required: Nom obligatoire
+email required: Email obligatoire
+email invalid: Email incorrect
+phone required: Télephone obligatoire
+company required: Société obligatoire
