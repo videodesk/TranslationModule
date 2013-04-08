@@ -65,3 +65,10 @@ email required: Email required
 email invalid: Email invalid
 phone required: Phone required
 company required: Company required
+
+#survey
+bad: bad
+poor: poor
+regular: regular
+good: good
+gorgeous: gorgeous

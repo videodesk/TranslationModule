@@ -64,3 +64,11 @@ email required: Email obligatoire
 email invalid: Email incorrect
 phone required: Télephone obligatoire
 company required: Société obligatoire
+
+#survey
+#survey
+bad: Mauvais
+poor: Faible
+regular: Moyen
+good: Bien
+gorgeous: Excel'lenté
