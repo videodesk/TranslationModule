@@ -1,4 +1,4 @@
-'let a message': Message
+'let a message': Laissez un message
 'chat call': Appel tchat
 'audio call': Appel audio
 'video call': Appel vidéo
@@ -31,7 +31,7 @@
 'Discutez en video' : 'Discutez en vidéo'
 'Discutez en audio' : 'Discutez en audio'
 'Discutez en chat' : 'Discutez en tchat' 
-'Laissez un message' : 'Laissez un message'
+'Laissez un message' : 'Message'
 'agent-accept-communication' : Communication acceptée
 'agent indisponible. redirection vers message': Agent indisponible, redirection vers message
 'webuser': Moi
