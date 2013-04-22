@@ -8,7 +8,7 @@
 'Please, rate this discussion': Lütfen görüşmeyi puanlayın:
 'Discussion helpful ?': Bu görüşme size yardımcı oldu mu?
 'Would you recommend this experience to your friends?': Bu tecrübeyi arkadaşlarınızla paylaşmak ister misiniz?
-'Any comments ?': Yorumunuz?:
+'Any comments ?': Yorumunuz?
 'chat transcript': Görüşme metni.
 'Webuser is typing': Kullanıcı yazıyor...
 'Type your text here': Metninizi buraya yazın
@@ -38,14 +38,14 @@
 'user flash crash': Kullanıcının Flash oynatıcısı çöktü
 'Survey sent': Anket gönderildi
 'message sent': Mesaj göndferildi
-'cgv': Videodesk <a href="http://www.videodesk.es/terms" target="_blank">Servis Koşulları</a>nı kabul etmeden bu servisi kullanamazsınız.
+'cgv': Videodesk <a href="http://www.videodesk.com/terms" target="_blank">Servis Koşulları</a> nı kabul etmeden bu servisi kullanamazsınız.
 'You will can enter your text here': Metninizi buraya yazabilirsiniz
 'Discussion with %site%': %site% ile yardım bağlantısı
 
 'hello': Merhaba
-'videodesk team': Videodesk takımı<br /><a href="http://www.videodesk.es">www.videodesk.es</a>
-'new message from': Yeni mesaj;
+'videodesk team': Videodesk takımı<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from': Yeni mesaj
 'message from videodesk module': Videodesk modülünden yeni mesaj
-'message originally intended to': Orijinal mesaj şuraya yöneltildi :
+'message originally intended to': Orijinal mesaj şuraya yöneltildi:
 
 'Enter your question here': Sorunuzu buraya yazın:
