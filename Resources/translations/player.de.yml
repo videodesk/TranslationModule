@@ -50,6 +50,28 @@
 
 'Enter your question here': Fragen Sie uns hier:
 
+#CRM
+Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
+firstname: Firstname
+lastname: Lastname
+email: Email
+phone: Phone
+company: Company
+send: Send
+firstname required: Firstname required
+lastname required: Lastname required
+email required: Email required
+email invalid: Email invalid
+phone required: Phone required
+company required: Company required
+
+#survey
+bad: bad
+poor: poor
+regular: regular
+good: good
+gorgeous: gorgeous
+
 #module texts
 'Live Help': 'KONTAKT'
 'agent(s) available': 'erreichbare(r) Mitarbeiter'
