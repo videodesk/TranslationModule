@@ -1,83 +1,83 @@
-'let a message': Laissez un message
-'chat call': Appel tchat
-'audio call': Appel audio
-'video call': Appel vidéo
-'information help': en savoir +
-'faq help': en savoir +
-'Your discussion has ended': Votre conversation est terminée.<br /> Merci de nous avoir contacté.
-'Please, rate this discussion': Votre avis :
-'Discussion helpful ?': Ce dialogue vous a-t-il été utile ?
-'Would you recommend this experience to your friends?': Recommanderiez-vous un tel dialogue à vos amis ?
-'Any comments ?': Vos suggestions :
-'chat transcript': Pour recevoir le contenu de vos tchats, laissez votre e-mail.
-'Webuser is typing': est en train d'écrire...
-'Type your text here': Tapez votre message ici
-'agent dont answer': Le conseiller est indisponible
-'chat redirection': Connexion en tchat en cours
-'agent close communication': Le conseiller a raccroché
-'Deprecated version of Flash Chat only': Version obsoléte du logiciel Flash. Tchat uniquement.
-'i am currently unavailable': Désolé, je suis indisponible pour le moment. Merci de me laisser un message.
-'Your mail': Votre email
-'Or': ou
-'Please type your message here': Tapez votre message ici
-'message field required': Champ message obligatoire
-'email or phone field required': champ email ou telephone obligatoire
-'send': Envoyer
-'not ready to switch': 'not ready to switch'
-'will answer in a few seconds': 'sera disponible dans quelques secondes.'
-'Email adress': 'Adresse Email'
-'Phone number': 'Numéro de téléphone'
-'email invalide': 'Adresse Email invalide'
-'Discutez en video' : 'Discutez en vidéo'
-'Discutez en audio' : 'Discutez en audio'
-'Discutez en chat' : 'Discutez en tchat' 
-'Laissez un message' : 'Message'
-'agent-accept-communication' : Communication acceptée
-'agent indisponible. redirection vers message': Agent indisponible, redirection vers message
-'webuser': Moi
-'user flash crash': shockwave flash s' est arreté. Vous êtes connecté en mode tchat texte
-'Survey sent': Message envoyé
-'message sent': Message envoyé
-'cgv': En utilisant ce service, vous acceptez les <a href="http://www.videodesk.fr/terms" target="_blank">Conditions Générales de Vente</a> de Videodesk S.A.S. et toute mise à jour qui lui est apportée. En cas de désaccord avec ces Conditions, veuillez ne pas utiliser ce service.
-'You will can enter your text here': Vous pourrez saisir votre texte ici
-'Discussion with %site%': Discussion avec %site%
+'let a message': Pošalji poruku
+'chat call': Chat poziv
+'audio call': Audio poziv
+'video call': Video poziv
+'information help': više informacija
+'faq help': više informacija
+'Your discussion has ended': Vaša konverzacija je završena.<br />Hvala što ste nas kontaktirali.
+'Please, rate this discussion': Vaše mišljenje nam je važno
+'Discussion helpful ?': Da li je ovaj dijalog bio koristan?
+'Would you recommend this experience to your friends?': Da li bi ste nas preporucili prijatelju?
+'Any comments ?': Predlozi?
+'chat transcript': Ukoliko želite da primite sadržaj ove konverzacije, molimo ostavite Vašu e-mail adresu.
+'Webuser is typing': piše...
+'Type your text here': 'Unesite tekst ovde'
+'agent dont answer': Agent je nedostupan trenutno
+'chat redirection': Chat poziv
+'agent close communication': Agent je prekinuo
+'Deprecated version of Flash Chat only': Verzija flasha je zastarela 
+'i am currently unavailable': Izvinjavamo se, trenutno nismo dostupni na chatu. Molimo Vas ostavite poruku.
+'Your mail': Vaš email
+'Or': Ili
+'Please type your message here': Molimo otkucajte svoju poruku ovde
+'message field required': Ovo polje je obavezno
+'email or phone field required': email ili telefon polje je obavezno
+'send': pošalji
+'not ready to switch': 'nije spremno za prebacivanje'
+'will answer in a few seconds': 'Odgovr stiže za par sekundi.'
+'Email adress': 'Email adresa'
+'Phone number': 'Broj telefona'
+'email invalide': 'Email je neispravan'
+'Discutez en video' : 'Video chat'
+'Discutez en audio' : 'Audio chat' 
+'Discutez en chat' : 'Tekst chat'
+'Laissez un message' : 'Ostavite poruku'
+'agent-accept-communication' : Agent je prihvatio konverzaciju
+'agent indisponible. redirection vers message': Agent je nedostupan, prebacivanje na poruke
+'webuser': Ja
+'user flash crash': shockwave flash se srušio. Konektovani ste na tekstualni chat mod
+'Survey sent': Anketa poslata
+'message sent': 'Poruka poslata'
+'cgv': Upotreba ovog servisa znaci da ste prihvatili<a href="http://www.videodesk.com/terms" target="_blank">Uslove korišcenja</a> Videodesk inc i da nastavak korišcenja ovog servisa znaci da ste saglasni na promene. Ukoliko ne želite da prihvatite
+'You will can enter your text here': Ovde možete uneti tekst
 
-'hello': Bonjour
-'videodesk team': L'équipe videodesk<br /><a href="http://www.videodesk.fr">www.videodesk.fr</a>
-'new message from': Nouveau message depuis le site
-'message from videodesk module': Nouveau message depuis le module videodesk
-'message originally intended to': message envoyé à :
+'Discussion with %site%': Diskusija sa %site%
 
-'Enter your question here': Posez votre question ici :
+'hello': Zdravo
+'videodesk team': Videodesk tim<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from':Nova poruka na sajtu
+'message from videodesk module': Nova poruka sa videodesk modula
+'message originally intended to': poruka poslata:
+
+'Enter your question here': Unesite ovde Vaše pitanje
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Merci de remplir les champs ci-dessous et nous vous répondrons dans quelques instants.
-firstname: Prénom
-lastname: Nom
+Please provide the details below and we will answer in a few seconds: Molimo Vas dostavite detalje ispod i mi cemo odgovoriti u narednih nekoliko sekundi
+firstname: Ime
+lastname: Prezime
 email: Email
-phone: Téléphone
-company: Société
-send: Envoyer
-firstname required: Prénom obligatoire
-lastname required: Nom obligatoire
-email required: Email obligatoire
-email invalid: Email incorrect
-phone required: Télephone obligatoire
-company required: Société obligatoire
+phone: Telefon
+company: Firma
+send: Pošalji
+firstname required: Ime obavezno
+lastname required: Prezime obavezno
+email required: Email obavezno
+email invalid: Email neispravan
+phone required: Telefon obavezno
+company required: Firma obavezno
 
 #survey
-bad: Mauvais
-poor: Faible
-regular: Moyen
-good: Bien
-gorgeous: Excellent
+bad: loše
+poor: slabo
+regular: prosecno
+good: dobro
+gorgeous: savršeno
 
 #module texts
-'Live Help': 'Conseiller disponible'
-'agent(s) available': 'conseiller(s) disponible(s)'
-'Chat (video or text) for free with ecommerce experts': 'Discutez (tchat, vidéo) gratuitement avec des experts'
-'information help': Vous pouvez maintenant discuter avec les conseillers disponibles. Vous avez le choix entre le dialogue vidéo, audio ou tchat. Bénéficiez ainsi gratuitement d'une aide en temps réel.<br /><br />Immédiat, simple et anonyme.
-'pending call text': Bonjour, Vous souhaitez contacter Videodesk. Le contact demandé est disponible immédiatement pour vous répondre.
-'flash security panel': Cliquez sur "Autoriser" pour dialoguer
-'Leave a text message': Désolé, je suis indisponible pour le moment. Merci de me laisser un message.
-
+'Live Help': Kontakt
+'agent(s) available': dostupan agent(i)
+'Chat (video or text) for free with ecommerce experts': Chat (video ili tekst) besplatno sa našim online ekspertima
+'information help':   Sada možete chatovati sa dostupnim agentima. Možete odabrati video, audio ili tekst chat. Odmah, jednostavno, anonimno i besplatno.
+'pending call text': Zdravo, konaktirate Videodesk. Tekstualni chat je na cekanju.
+'flash security panel': Klinite na "Dozvoli" za konvezaciju
+'Leave a text message': Izvinjavamo se, trenutno nismo dostupni. Molimo Vas ostavite poruku.
