@@ -4,14 +4,14 @@
 'video call': Video poziv
 'information help': više informacija
 'faq help': više informacija
-'Your discussion has ended': Vaša konverzacija je završena.<br />Hvala što ste nas kontaktirali.
+'Your discussion has ended': Vaša konverzacija je završena.<br /> Hvala što ste nas kontaktirali.
 'Please, rate this discussion': Vaše mišljenje nam je važno
 'Discussion helpful ?': Da li je ovaj dijalog bio koristan?
 'Would you recommend this experience to your friends?': Da li bi ste nas preporucili prijatelju?
 'Any comments ?': Predlozi?
 'chat transcript': Ukoliko želite da primite sadržaj ove konverzacije, molimo ostavite Vašu e-mail adresu.
 'Webuser is typing': piše...
-'Type your text here': 'Unesite tekst ovde'
+'Type your text here': Unesite tekst ovde
 'agent dont answer': Agent je nedostupan trenutno
 'chat redirection': Chat poziv
 'agent close communication': Agent je prekinuo
@@ -23,15 +23,15 @@
 'message field required': Ovo polje je obavezno
 'email or phone field required': email ili telefon polje je obavezno
 'send': pošalji
-'not ready to switch': 'nije spremno za prebacivanje'
-'will answer in a few seconds': 'Odgovr stiže za par sekundi.'
-'Email adress': 'Email adresa'
-'Phone number': 'Broj telefona'
-'email invalide': 'Email je neispravan'
-'Discutez en video' : 'Video chat'
-'Discutez en audio' : 'Audio chat' 
-'Discutez en chat' : 'Tekst chat'
-'Laissez un message' : 'Ostavite poruku'
+'not ready to switch': nije spremno za prebacivanje
+'will answer in a few seconds': Odgovr stiže za par sekundi.
+'Email adress': Email adresa
+'Phone number': Broj telefona
+'email invalide': Email je neispravan
+'Discutez en video' : Video chat
+'Discutez en audio' : Audio chat 
+'Discutez en chat' : Tekst chat
+'Laissez un message' : Ostavite poruku
 'agent-accept-communication' : Agent je prihvatio konverzaciju
 'agent indisponible. redirection vers message': Agent je nedostupan, prebacivanje na poruke
 'webuser': Ja
@@ -77,7 +77,7 @@ gorgeous: savršeno
 'Live Help': Kontakt
 'agent(s) available': dostupan agent(i)
 'Chat (video or text) for free with ecommerce experts': Chat (video ili tekst) besplatno sa našim online ekspertima
-'information help':   Sada možete chatovati sa dostupnim agentima. Možete odabrati video, audio ili tekst chat. Odmah, jednostavno, anonimno i besplatno.
+'information help': Sada možete chatovati sa dostupnim agentima. Možete odabrati video, audio ili tekst chat. Odmah, jednostavno, anonimno i besplatno.
 'pending call text': Zdravo, konaktirate Videodesk. Tekstualni chat je na cekanju.
 'flash security panel': Klinite na "Dozvoli" za konvezaciju
 'Leave a text message': Izvinjavamo se, trenutno nismo dostupni. Molimo Vas ostavite poruku.
