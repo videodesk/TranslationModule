@@ -55,14 +55,14 @@ Please provide the details below and we will answer in a few seconds: Please pro
 firstname: Firstname
 lastname: Lastname
 email: Email
-phone: Phone
+phone: Teléfono
 company: Company
-send: Send
+send: Enviar
 firstname required: Firstname required
 lastname required: Lastname required
 email required: Email required
 email invalid: Email invalid
-phone required: Phone required
+phone required: Teléfono
 company required: Company required
 
 #survey
