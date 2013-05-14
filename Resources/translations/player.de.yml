@@ -51,26 +51,26 @@
 'Enter your question here': Fragen Sie uns hier:
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
-firstname: Firstname
-lastname: Lastname
-email: Email
-phone: Phone
-company: Company
-send: Send
-firstname required: Firstname required
-lastname required: Lastname required
-email required: Email required
-email invalid: Email invalid
-phone required: Phone required
-company required: Company required
+Please provide the details below and we will answer in a few seconds: Bitte geben Sie die Details aus und wir werden in ein paar Sekunden zu beantworten
+firstname: Vorname
+lastname: Nachname
+email: E-Mail
+phone: Telefon
+company: Firma
+send: Senden
+firstname required: Vorname erforderlich
+lastname required: Nachname erforderlich
+email required: E-Mail erforderlich
+email invalid: E-Mail ungültig 
+phone required: Telefon erforderlich
+company required: Firma erforderlich
 
 #survey
-bad: bad
-poor: poor
-regular: regular
-good: good
-gorgeous: gorgeous
+bad: schlecht
+poor: Armen
+regular: regelmäßige
+good: gut
+gorgeous: herrlich
 
 #module texts
 'Live Help': 'KONTAKT'
