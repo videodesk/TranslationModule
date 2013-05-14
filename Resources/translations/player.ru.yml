@@ -1,84 +1,84 @@
-'let a message': Laissez un message
-'chat call': Appel tchat
-'audio call': Appel audio
-'video call': Appel vidéo
-'information help': en savoir +
-'faq help': en savoir +
-'Your discussion has ended': Votre conversation est terminée.<br /> Merci de nous avoir contacté.
-'Please, rate this discussion': Votre avis :
-'Discussion helpful ?': Ce dialogue vous a-t-il été utile ?
-'Would you recommend this experience to your friends?': Recommanderiez-vous un tel dialogue à vos amis ?
-'Any comments ?': Vos suggestions :
-'chat transcript': Pour recevoir le contenu de vos tchats, laissez votre e-mail.
-'Webuser is typing': est en train d'écrire...
-'Type your text here': Tapez votre message ici
-'agent dont answer': Le conseiller est indisponible
-'chat redirection': Connexion en tchat en cours
-'agent close communication': Le conseiller a raccroché
-'Deprecated version of Flash Chat only': Version obsoléte du logiciel Flash. Tchat uniquement.
-'i am currently unavailable': Désolé, je suis indisponible pour le moment. Merci de me laisser un message.
-'Your mail': Votre email
-'Or': ou
-'Please type your message here': Tapez votre message ici
-'message field required': Champ message obligatoire
-'email or phone field required': champ email ou telephone obligatoire
-'send': Envoyer
-'not ready to switch': 'not ready to switch'
-'will answer in a few seconds': 'sera disponible dans quelques secondes.'
-'Email adress': 'Adresse Email'
-'Phone number': 'Numéro de téléphone'
-'email invalide': 'Adresse Email invalide'
-'Discutez en video' : 'Discutez en vidéo'
-'Discutez en audio' : 'Discutez en audio'
-'Discutez en chat' : 'Discutez en tchat' 
-'Laissez un message' : 'Message'
-'agent-accept-communication' : Communication acceptée
-'agent indisponible. redirection vers message': Agent indisponible, redirection vers message
-'webuser': Moi
-'user flash crash': shockwave flash s' est arreté. Vous êtes connecté en mode tchat texte
-'Survey sent': Message envoyé
-'message sent': Message envoyé
-'cgv': En utilisant ce service, vous acceptez les <a href="http://www.videodesk.fr/terms" target="_blank">Conditions Générales de Vente</a> de Videodesk S.A.S. et toute mise à jour qui lui est apportée. En cas de désaccord avec ces Conditions, veuillez ne pas utiliser ce service.
-'You will can enter your text here': Vous pourrez saisir votre texte ici
-'Discussion with %site%': Discussion avec %site%
+'let a message': Оставьте сообщение
+'chat call': Вызов в текстовый чат
+'audio call': Аудиовызов
+'video call': Видеовызов
+'information help': Справочная информация
+'faq help': faq (помощь)
+'Your discussion has ended': Ваш разговор закончен.<br /> Спасибо за обращение к нам.
+'Please, rate this discussion': Оцените, пожалуйста, этот диалог :
+'Discussion helpful ?': Этот диалог помог Вам ?
+'Would you recommend this experience to your friends?': Вы рекомендовали бы этот диалог своим друзьям ?
+'Any comments ?': Ваши предложения :
+'chat transcript': Чтобы получить содержимое ваших чатов, оставьте свой e-mail.
+'Webuser is typing': начинает писать...
+'Type your text here': Введите ваш текст здесь
+'agent dont answer': Консультант недоступен
+'chat redirection': Подключение к чату
+'agent close communication': Консультант закончил разговор
+'Deprecated version of Flash Chat only': Устаревшая версия плагина Flash. Только текстовый чат.
+'i am currently unavailable': К сожалению, сейчас я недоступен. Спасибо за оставленное мне сообщение.
+'Your mail': Ваш e-mail
+'Or': или
+'Please type your message here': Введите ваше сообщение здесь
+'message field required': Поле "Сообщение" обязательно для заполнения
+'email or phone field required': Поле "e-mail или телефон" обязательно для заполнения'
+'send': Отправить
+'not ready to switch': 'не готов переключится'
+'will answer in a few seconds': 'будет доступен в течение нескольких секунд.'
+'Email adress': 'E-mail адрес'
+'Phone number': 'Номер телефона'
+'email invalide': 'Неправильный e-mail адрес'
+'Discutez en video' : 'Видеочат'
+'Discutez en audio' : 'Аудиочат'
+'Discutez en chat' : 'Текстовый чат' 
+'Laissez un message' : 'Оставьте сообщение'
+'agent-accept-communication' : Cоединение принято
+'agent indisponible. redirection vers message': Консультант недоступен, перенаправление сообщения
+'webuser': Я
+'user flash crash': Shockwave Flash остановлен. Вы вошли в режим текстового чата
+'Survey sent': Форма отправлена
+'message sent': Сообщение отправлено
+'cgv': Используя эту услугу, вы принимаете <a href="http://www.videodesk.fr/terms" target="_blank">Conditions Générales de Vente</a> Videodesk S.A.S. и любые изменения, сделанные к нему. Если вы не согласны с этими условиями, пожалуйста, не используйте эту услугу.
+'You will can enter your text here': Вы можете ввести ваш текст здесь
+'Discussion with %site%': Обсуждение с %site%
 
-'hello': Bonjour
-'videodesk team': L'équipe videodesk<br /><a href="http://www.videodesk.fr">www.videodesk.fr</a>
-'new message from': Nouveau message depuis le site
-'message from videodesk module': Nouveau message depuis le module videodesk
-'message originally intended to': message envoyé à :
+'hello': Здравствуйте
+'videodesk team': Команда videodesk<br /><a href="http://www.videodesk.fr">www.videodesk.fr</a>
+'new message from': Новое сообщение от
+'message from videodesk module': Новое сообщение от модуля videodesk
+'message originally intended to': сообщение изначально предназначено для :
 
-'Enter your question here': Posez votre question ici :
+'Enter your question here': Введите ваш вопрос здесь :
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Merci de remplir les champs ci-dessous et nous vous répondrons dans quelques instants.
-firstname: Prénom
-lastname: Nom
-email: Email
-phone: Téléphone
-company: Société
-send: Envoyer
-firstname required: Prénom obligatoire
-lastname required: Nom obligatoire
-email required: Email obligatoire
-email invalid: Email incorrect
-phone required: Télephone obligatoire
-company required: Société obligatoire
+Please provide the details below and we will answer in a few seconds: Пожалуйста, заполните форму, и мы ответим в течение нескольких секунд.
+firstname: Имя
+lastname: Фамилия
+email: E-mail
+phone: Телефон
+company: Компания
+send: Отправить
+firstname required: Имя обязательно для заполнения
+lastname required: Фамилия обязательна для заполнения
+email required: E-mail обязателен для заполнения
+email invalid: Неправильный e-mail адрес
+phone required: Телефон обязателен для заполнения
+company required: Компания обязательна для заполнения
 
 #survey
-bad: Mauvais
-poor: Faible
-regular: Moyen
-good: Bien
-gorgeous: Excellent
+bad: Плохой
+poor: Бедный
+regular: Обычный
+good: Хороший
+gorgeous: Отличный
 
 #module texts
-'Live Help': 'Conseiller disponible'
-'agent(s) available': 'conseiller(s) disponible(s)'
-'Chat (video or text) for free with ecommerce experts': 'Discutez (tchat, vidéo) gratuitement avec des experts'
-'information help': Vous pouvez maintenant discuter avec les conseillers disponibles. Vous avez le choix entre le dialogue vidéo, audio ou tchat. Bénéficiez ainsi gratuitement d'une aide en temps réel.<br /><br />Immédiat, simple et anonyme.
-'pending call text': Bonjour, Vous souhaitez contacter Videodesk. Le contact demandé est disponible immédiatement pour vous répondre.
-'flash security panel': Cliquez sur "Autoriser" pour dialoguer
-'Leave a text message': Désolé, je suis indisponible pour le moment. Merci de me laisser un message.
+'Live Help': 'Онлайн-поддержка'
+'agent(s) available': 'консультант(ы) доступен(ны)'
+'Chat (video or text) for free with ecommerce experts': 'Чат (видео или текстовый) бесплатно с экспертами'
+'information help': Теперь вы можете общаться с доступными консультантами. Вы можете выбирать между диалогом через видео, аудио или текстовым диалогом. Пользуйтесь бесплатной помощью в режиме реального времени.<br /><br />Незамедлительно, просто и анонимно.
+'pending call text': Здравствуйте, Вы хотите связаться с Videodesk. Запрашиваемый контакт доступен сейчас, чтобы ответить вам.
+'flash security panel': Нажмите кнопку "Разрешить", чтобы общаться
+'Leave a text message': К сожалению, сейчас я недоступен. Спасибо за оставленное мне сообщение.
 
  
