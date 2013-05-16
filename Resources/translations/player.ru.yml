@@ -21,17 +21,17 @@
 'Or': или
 'Please type your message here': Введите ваше сообщение здесь
 'message field required': Поле "Сообщение" обязательно для заполнения
-'email or phone field required': Поле "e-mail или телефон" обязательно для заполнения'
+'email or phone field required': Поле "e-mail или телефон" обязательно для заполнения
 'send': Отправить
-'not ready to switch': 'не готов переключится'
-'will answer in a few seconds': 'будет доступен в течение нескольких секунд.'
-'Email adress': 'E-mail адрес'
-'Phone number': 'Номер телефона'
-'email invalide': 'Неправильный e-mail адрес'
-'Discutez en video' : 'Видеочат'
-'Discutez en audio' : 'Аудиочат'
-'Discutez en chat' : 'Текстовый чат' 
-'Laissez un message' : 'Оставьте сообщение'
+'not ready to switch': не готов переключится
+'will answer in a few seconds': будет доступен в течение нескольких секунд.
+'Email adress': E-mail адрес
+'Phone number': Номер телефона
+'email invalide': Неправильный e-mail адрес
+'Discutez en video' : Видеочат
+'Discutez en audio' : Аудиочат
+'Discutez en chat' : Текстовый чат
+'Laissez un message' : Оставьте сообщение
 'agent-accept-communication' : Cоединение принято
 'agent indisponible. redirection vers message': Консультант недоступен, перенаправление сообщения
 'webuser': Я
@@ -73,9 +73,9 @@ good: Хороший
 gorgeous: Отличный
 
 #module texts
-'Live Help': 'Онлайн-поддержка'
-'agent(s) available': 'консультант(ы) доступен(ны)'
-'Chat (video or text) for free with ecommerce experts': 'Чат (видео или текстовый) бесплатно с экспертами'
+'Live Help': Онлайн-поддержка
+'agent(s) available': консультант(ы) доступен(ны)
+'Chat (video or text) for free with ecommerce experts': Чат (видео или текстовый) бесплатно с экспертами
 'information help': Теперь вы можете общаться с доступными консультантами. Вы можете выбирать между диалогом через видео, аудио или текстовым диалогом. Пользуйтесь бесплатной помощью в режиме реального времени.<br /><br />Незамедлительно, просто и анонимно.
 'pending call text': Здравствуйте, Вы хотите связаться с Videodesk. Запрашиваемый контакт доступен сейчас, чтобы ответить вам.
 'flash security panel': Нажмите кнопку "Разрешить", чтобы общаться
