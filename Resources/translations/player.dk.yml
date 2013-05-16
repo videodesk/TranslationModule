@@ -1,0 +1,83 @@
+'let a message': Let a message
+'chat call': Chat call
+'audio call': Audio call
+'video call': Video call
+'information help': more informations
+'faq help': more informations
+'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
+'Please, rate this discussion': Your opinion matters to us
+'Discussion helpful ?': Has this dialogue been useful?
+'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
+'Any comments ?': Suggestions
+'chat transcript': If you would like to receive the contents of your chat messages, please leave your e-mail address.
+'Webuser is typing': is writing...
+'Type your text here': 'Type your text here'
+'agent dont answer': The agent is unavailable
+'chat redirection': Chat call
+'agent close communication': The agent hung up
+'Deprecated version of Flash Chat only': Deprecated version of Flash. 
+'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
+'Your mail': Your mail
+'Or': Or
+'Please type your message here': Please type your message here
+'message field required': message required
+'email or phone field required': email or phone required
+'send': send
+'not ready to switch': 'not ready to switch'
+'will answer in a few seconds': 'will be available in a few seconds.'
+'Email adress': 'Email address'
+'Phone number': 'Phone number'
+'email invalide': 'Invalid email'
+'Discutez en video' : 'Video chat'
+'Discutez en audio' : 'Audio chat' 
+'Discutez en chat' : 'Text chat'
+'Laissez un message' : 'Leave a message'
+'agent-accept-communication' : Communication accepted
+'agent indisponible. redirection vers message': Agent unavailable, redirection to message
+'webuser': Me
+'user flash crash': shockwave flash has crashed. You're conneced in text chat mode
+'Survey sent': Survey sent
+'message sent': 'Message sent'
+'cgv': Your use of this service means you have accepted the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
+'You will can enter your text here': You will be able to enter your text here
+
+'Discussion with %site%': Discussion with %site%
+
+'hello': Hello
+'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from': New message on website
+'message from videodesk module': New message from videodesk module
+'message originally intended to': message sent to :
+
+'Enter your question here': Enter your question here
+
+#CRM
+Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
+firstname: Firstname
+lastname: Lastname
+email: Email
+phone: Phone
+company: Company
+send: Send
+firstname required: Firstname required
+lastname required: Lastname required
+email required: Email required
+email invalid: Email invalid
+phone required: Phone required
+company required: Company required
+
+#survey
+bad: bad
+poor: poor
+regular: regular
+good: good
+gorgeous: gorgeous
+
+#module texts
+'Live Help': CONTACT
+'agent(s) available': available agent(s)
+'Chat (video or text) for free with ecommerce experts': Chat (video or text) for free with e­commerce experts
+'information help':   You can now chat with available agents. You can choose between video, audio or text chat. Immediate, simple, anonymous and free.
+'pending call text': Hello, You want to contact Videodesk. He requested contact is immediately available to you.
+'flash security panel': Click on "Allow" to discuss
+'Leave a text message': Sorry, I'm currently unavailable. Please leave me a message.
