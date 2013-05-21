@@ -1,84 +1,84 @@
-'let a message': Let a message
-'chat call': Chat call
-'audio call': Audio call
-'video call': Video call
-'information help': more informations
-'faq help': more informations
-'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
-'Please, rate this discussion': Your opinion matters to us
-'Discussion helpful ?': Has this dialogue been useful?
-'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
-'Any comments ?': Suggestions
-'chat transcript': If you would like to receive the contents of your chat messages, please leave your e-mail address.
-'Webuser is typing': is writing...
-'Type your text here': Type your text here
-'agent dont answer': The agent is unavailable
-'chat redirection': Chat call
-'agent close communication': The agent hung up
+'let a message': Låt ett meddelande
+'chat call': Chat
+'audio call': Ljudsamtal
+'video call': Videosamtal
+'information help': Information
+'faq help': Hjälp
+'Your discussion has ended': Ditt samtal har avslutats<br />Tack för att du kontaktade oss.
+'Please, rate this discussion': Dina synpunkter är viktiga för oss.
+'Discussion helpful ?': Har denna dialog varit hjälpsam?
+'Would you recommend this experience to your friends?': Skulle du rekommendera denna erfarenhet till vänner?
+'Any comments ?': Kommentarer
+'chat transcript': Skulle du vilja ha en mail på konversationen, lämna din e-mail adress.
+'Webuser is typing': Skriver...
+'Type your text here': Skriv din text här...
+'agent dont answer': Din agent är inte online
+'chat redirection': Chat
+'agent close communication': Agenten har lagt på.
 'Deprecated version of Flash Chat only': Deprecated version of Flash. 
-'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
-'Your mail': Your mail
-'Or': Or
-'Please type your message here': Please type your message here
-'message field required': message required
-'email or phone field required': email or phone required
-'send': send
-'not ready to switch': not ready to switch
-'will answer in a few seconds': will be available in a few seconds.
-'Email adress': Email address
-'Phone number': Phone number
-'email invalide': Invalid email
+'i am currently unavailable': Jag är för tillfället inte tillgänglig. Vänligen lämna ett meddelande.
+'Your mail': Din e-post
+'Or': Eller
+'Please type your message here': Skriv ditt meddelande här
+'message field required': Meddelande krävs
+'email or phone field required': e-post eller telefon krävs
+'send': skicka
+'not ready to switch': inte redo att byta
+'will answer in a few seconds': är tillgänlig om en stund.
+'Email adress': e-post adress
+'Phone number': Telefonnummer
+'email invalide': oigiltig e-post
 'Discutez en video' : Video chat
-'Discutez en audio' : Audio chat
+'Discutez en audio' : Ljud chat
 'Discutez en chat' : Text chat
-'Laissez un message' : Leave a message
-'agent-accept-communication' : Communication accepted
-'agent indisponible. redirection vers message': Agent unavailable, redirection to message
-'webuser': Me
-'user flash crash': shockwave flash has crashed. You're conneced in text chat mode
-'Survey sent': Survey sent
-'message sent': Message sent
-'cgv': Your use of this service means you have accepted the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
-'You will can enter your text here': You will be able to enter your text here
+'Laissez un message' : Lämna ett meddelande
+'agent-accept-communication' : Kommunikationen accepterad
+'agent indisponible. redirection vers message': Agent otillgänglig, omdirigering till meddelande
+'webuser': Jag
+'user flash crash': Shockwave Flash har kraschat. Du är ansluten i text chat-läge
+'Survey sent': undersökning skickat
+'message sent': Meddelande skickat
+'cgv': Din användning av denna tjänst innebär att du har accepterat <a href="http://www.videodesk.com/terms" target Villkor </ a> av Videodesk inc och din fortsatta användning av denna tjänst innebär att du samtycker till eventuella uppdateringar. Om du inte håller med dessa Villkor, använd snälla inte denna tjänst.
+'You will can enter your text here': Du kommer att kunna skriva in din text här
 
-'Discussion with %site%': Discussion with %site%
+'Discussion with %site%': Diskussion med %site%
 
-'hello': Hello
+'hello': Hej
 'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': New message on website
-'message from videodesk module': New message from videodesk module
-'message originally intended to': message sent to :
+'new message from': Nytt meddelande på din sida.
+'message from videodesk module': Nytt meddelande från videodesk modulen
+'message originally intended to': Meddelande skickas till:
 
-'Enter your question here': Enter your question here
+'Enter your question here': Skriv din fråga här
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
-firstname: Firstname
-lastname: Lastname
-email: Email
-phone: Phone
-company: Company
-send: Send
-firstname required: Firstname required
-lastname required: Lastname required
-email required: Email required
-email invalid: Email invalid
-phone required: Phone required
-company required: Company required
+Please provide the details below and we will answer in a few seconds: Vänligen lämna era uppgifter nedan, så kontaktar vi er strax.
+firstname: Namn
+lastname: Efternamn
+email: E-post
+phone: Telefon
+company: Företag
+send: Skicka
+firstname required: Namn Krävs
+lastname required: Efternamn Krävs
+email required: E-post Krävs
+email invalid: E-post Ogiltigd
+phone required: Telefon Krävs
+company required: Företag Krävs
 
 #survey
-bad: bad
-poor: poor
-regular: regular
-good: good
-gorgeous: gorgeous
+bad: Usel
+poor: Dålig
+regular: Ok
+good: Bra
+gorgeous: Superbra
 
 #module texts
-'Live Help': CONTACT
-'agent(s) available': available agent(s)
-'Chat (video or text) for free with ecommerce experts': Chat (video or text) for free with e­commerce experts
-'information help':   You can now chat with available agents. You can choose between video, audio or text chat. Immediate, simple, anonymous and free.
-'pending call text': Hello, You want to contact Videodesk. He requested contact is immediately available to you.
-'flash security panel': Click on "Allow" to discuss
-'Leave a text message': Sorry, I'm currently unavailable. Please leave me a message.
+'Live Help': Kontakt
+'agent(s) available': Tillgängliga agenter(s)
+'Chat (video or text) for free with ecommerce experts': Chat (video eller text)
+'information help':   Du kan nu chatta med tillgängliga agenter. Du kan välja mellan video, ljud eller text chat.
+'pending call text': Hej, vill du kontakta Videodesk. Begärd kontakt är omedelbart tillgänglig för dig.
+'flash security panel': Klicka på "Allow/Tillåt" för att diskutera
+'Leave a text message': Tyvärr, jag är för närvarande inte tillgänglig. Lämna gärna ett meddelande till mig.
 
