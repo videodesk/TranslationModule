@@ -51,26 +51,26 @@
 
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
-firstname: Firstname
-lastname: Lastname
+Please provide the details below and we will answer in a few seconds: Por favor, forneça os detalhes abaixo e vamos responder em poucos segundos
+firstname: primeiro nome
+lastname: sobrenome
 email: Email
-phone: Phone
-company: Company
-send: Send
-firstname required: Firstname required
-lastname required: Lastname required
-email required: Email required
-email invalid: Email invalid
-phone required: Phone required
-company required: Company required
+phone: Telefone
+company: Companhia
+send: Enviar
+firstname required: Primeiro nome necessário
+lastname required: sobrenome necessário
+email required: Email necessário
+email invalid: E-mail inválido
+phone required: Telefone necessário
+company required: Empresa requerida
 
 #survey
-bad: bad
-poor: poor
+bad: ruim
+poor: pobre
 regular: regular
-good: good
-gorgeous: gorgeous
+good: bom
+gorgeous: deslumbrante
 
 #module texts
 'Live Help': 'Agente disponível'

@@ -23,19 +23,19 @@
 'message field required': Champ message obligatoire
 'email or phone field required': champ email ou telephone obligatoire
 'send': Envoyer
-'not ready to switch': 'not ready to switch'
-'will answer in a few seconds': 'sera disponible dans quelques secondes.'
-'Email adress': 'Adresse Email'
-'Phone number': 'Numéro de téléphone'
-'email invalide': 'Adresse Email invalide'
-'Discutez en video' : 'Discutez en vidéo'
-'Discutez en audio' : 'Discutez en audio'
-'Discutez en chat' : 'Discutez en tchat' 
-'Laissez un message' : 'Message'
+'not ready to switch': Action impossible pour le moment
+'will answer in a few seconds': sera disponible dans quelques secondes.
+'Email adress': Adresse Email
+'Phone number': Numéro de téléphone
+'email invalide': Adresse Email invalide
+'Discutez en video' : Discutez en vidéo
+'Discutez en audio' : Discutez en audio
+'Discutez en chat' : Discutez en tchat
+'Laissez un message' : Message
 'agent-accept-communication' : Communication acceptée
 'agent indisponible. redirection vers message': Agent indisponible, redirection vers message
 'webuser': Moi
-'user flash crash': shockwave flash s' est arreté. Vous êtes connecté en mode tchat texte
+'user flash crash': shockwave flash s'est arreté. Vous êtes connecté en mode tchat texte
 'Survey sent': Message envoyé
 'message sent': Message envoyé
 'cgv': En utilisant ce service, vous acceptez les <a href="http://www.videodesk.fr/terms" target="_blank">Conditions Générales de Vente</a> de Videodesk S.A.S. et toute mise à jour qui lui est apportée. En cas de désaccord avec ces Conditions, veuillez ne pas utiliser ce service.
@@ -73,11 +73,11 @@ good: Bien
 gorgeous: Excellent
 
 #module texts
-'Live Help': 'Conseiller disponible'
-'agent(s) available': 'conseiller(s) disponible(s)'
-'Chat (video or text) for free with ecommerce experts': 'Discutez (tchat, vidéo) gratuitement avec des experts'
+'Live Help': Conseiller disponible
+'agent(s) available': conseiller(s) disponible(s)
+'Chat (video or text) for free with ecommerce experts': Discutez (tchat, vidéo) gratuitement avec des experts
 'information help': Vous pouvez maintenant discuter avec les conseillers disponibles. Vous avez le choix entre le dialogue vidéo, audio ou tchat. Bénéficiez ainsi gratuitement d'une aide en temps réel.<br /><br />Immédiat, simple et anonyme.
-'pending call text': Bonjour, Vous souhaitez contacter Videodesk. Le contact demandé est disponible immédiatement pour vous répondre.
+'pending call text': Bonjour, Vous souhaitez nous contacter. Le contact demandé est disponible immédiatement pour vous répondre.
 'flash security panel': Cliquez sur "Autoriser" pour dialoguer
 'Leave a text message': Désolé, je suis indisponible pour le moment. Merci de me laisser un message.
 

@@ -46,31 +46,31 @@
 'videodesk team': Videodesk equipo<br /><a href="http://www.videodesk.es">www.videodesk.es</a>
 'new message from': Nuevo mensaje en el sitio web
 'message from videodesk module': Nuevo mensaje de videodesk módulo
-'message originally intended to': Mensaje destinado a :
+'message originally intended to': Mensaje destinado a:
 
 'Enter your question here': Haga su pregunta aquí:
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
-firstname: Firstname
-lastname: Lastname
+Please provide the details below and we will answer in a few seconds: Por favor, proporcione los detalles a continuación y le responderemos en pocos segundos
+firstname: Nombre
+lastname: Apellido
 email: Email
-phone: Phone
-company: Company
-send: Send
-firstname required: Firstname required
-lastname required: Lastname required
-email required: Email required
-email invalid: Email invalid
-phone required: Phone required
-company required: Company required
+phone: Teléfono 
+company: Empresa
+send: Enviar
+firstname required: Nombre requerido
+lastname required: Apellido requerido
+email required: Email requerido
+email invalid: Email inválido
+phone required: Teléfono
+company required: Empresa requerido
 
 #survey
-bad: bad
-poor: poor
+bad: malo
+poor: pobre
 regular: regular
-good: good
-gorgeous: gorgeous
+good: bueno
+gorgeous: maravilloso
 
 #modules texts
 'Live Help': 'CONTACTO'
