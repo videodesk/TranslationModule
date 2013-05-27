@@ -82,4 +82,42 @@ gorgeous: deslumbrante
 'Leave a text message': Desculpe, estou disponível no momento. Por favor, deixe-me uma mensagem.
 
  
+#---------------FLASH PANEL-----------------
+#TMP MSG
+webcam_activated: Minha webcam está ativada
+webcam_desactivated: Minha webcam está desativada
+mic_activated: Meu microfone ativado
+mic_desactivated: Meu microfone desativado
+vid_resumed: O vídeo de seu contato ativado
+vid_stoped: Vídeo de seu contato parado
+#ROLL MSG
+activate_cam: Ativar minha webcam
+desactivate_cam: Desativar minha webcam
+activate_mic: Ativar o microfone
+desactivate_mic: Desativar o microfone
+stop_vid: Desativar vídeo do meu contato
+resume_vid: Reativar o vídeo de meu contato
+#WAITING MSG
+peerFailed: Desculpe, não foi possível estabelecer vídeo chat.<br />Estamos mudando para o modo de texto
+agentBusy: Desculpe, mas o agente já está ocupado!
+waitRemote: Conectando, obrigado por sua paciência.
+waitLocal: Espera de a sua webcam para ativar
+switchToAudio: Webcam desativada, ativando conexão de áudio
+ncFailed: Desculpe, não foi possível estabelecer uma conexão.<br />Você está em modo chat
+#ATTENTION MSG
+userNoFMSConnection: Por causa de um problema de rede,<br />vamos mudar você para o modo chat.(#1)
+agentNoFMSConnection: Por causa de um problema de rede,<br />Vamos mudar você para o modo chat.(#2)
+agentFlashCrashed: Por causa de um problema de rede,<br />Vamos mudar você para o modo chat.(#4)
+userNoCamButMic: Nós não detectadomos uma webcam.<br /><br />Você deve ser equipado de uma webcam, a fim de lançar um vídeo chat.<br /><br />Vamos mudar você para o modo áudio.(#5)
+userNiCamNiMic: Nós não detectamos nem webcam<br />, nem um microfone. <br />Você deve ser equipado de uma webcam <br />ou um microfone, <br />para ser capaz de ter um vídeo chat.<br /><br />Vamos mudar você para o modo chat.(#6)
+agentNoCamButMic: O agente não tem uma webcam.<br />Vamos mudar você para o modo áudio.(#7)
+agentNiCamNiMic: O agente não tem uma webcam ou um microfone.<br /><br />Vamos mudar você para o modo chat.(#8)
+userDenyFlash: Você negou o acesso a sua webcam <br />e para o seu microfone.<br /><br />Vamos mudar você para o modo chat.(#9)
+noPeerConnection: Por causa de um problema de rede,<br />Vamos mudar você para o modo chat.(#11)
+userConnectionFailed: Por causa de um problema de rede,<br />Vamos mudar você para o modo chat.(#11)
+agentConnectionFailed: Por causa de um problema de rede,<br />Vamos mudar você para o modo chat.(#110)
+userNoMic: Nós não detectamos microfones. <br />Você deve ser equipado com um microfone para ser capaz de lançar um áudio-chat.<br /><br />Vamos mudar você para o modo chat.(#12)
+agentNoMic: O agente não tem qualquer microfone <br />ós mudamos o para o chat.<br /><br />Vamos mudar você para o modo chat.(#13)
+userRtmptConnection: Os desempenhos da rede não permitem uma qualidade de vídeo<br />áudio de qualidade, portanto, recomendamos usar o modo chat(#15)
+agentRtmptConnection: Os desempenhos da rede não permitem uma qualidade de vídeo<br />áudio de qualidade, portanto, recomendamos usar o modo chat(#16)
 

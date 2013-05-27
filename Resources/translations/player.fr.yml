@@ -81,4 +81,41 @@ gorgeous: Excellent
 'flash security panel': Cliquez sur "Autoriser" pour dialoguer
 'Leave a text message': Désolé, je suis indisponible pour le moment. Merci de me laisser un message.
 
- 
+#-----------------FLASH PANEL--------------------
+#TMP MSG
+webcam_activated: Ma webcam est activée
+webcam_desactivated: Ma webcam est désactivée
+mic_activated: Mon micro est activé
+mic_desactivated: Mon micro est désactivé
+vid_resumed: La vidéo du contact est activée
+vid_stoped: La vidéo du contact est désactivée
+#ROLL MSG
+activate_cam: Activer ma webcam
+desactivate_cam: Désactiver ma webcam
+activate_mic: Activer mon micro
+desactivate_mic: Désactiver mon micro
+stop_vid: Désactiver la vidéo du contact
+resum_vid: Activer la vidéo du contact
+#WAITING MSG
+peerFailed: Désolé, le serveur n'est pas parvenu<br />à établir une connexion vidéo.<br />Vous êtes maintenant en tchat
+agentBusy: Désolé, l'agent est déjà en communication !
+waitRemote: Connexion en cours,<br />veuillez patienter quelques instants
+waitLocal: Activation de votre webcam en cours 
+switchToAudio: Webcam désactivée. Connexion audio en cours
+ncFailed: Désolé, nous ne parvenons pas à vous connecter.<br />Vous êtes en mode tchat
+#ATTENTION MSG
+userNoFMSConnection: Suite à un problème réseau,<br />nous vous basculons en mode tchat.(#1)
+agentNoFMSConnection: Suite à un problème réseau,<br />nous vous basculons en mode tchat.(#2)
+agentFlashCrashed: Suite à un problème réseau,<br />nous vous basculons en mode tchat.(#4)
+userNoCamButMic: Nous n'avons détecté aucune webcam.<br /><br />Vous devez être équipé d'une webcam<br />pour pouvoir lancer une discussion vidéo.<br /><br />Nous vous basculons en mode audio.(#5)
+userNiCamNiMic: Nous n'avons détecté ni webcams,<br />ni microphones.<br />Vous devez être équipé d'une webcam<br />ou d'un microphone, pour pouvoir<br />lancer une discussion vidéo.<br /><br />Nous vous basculons en mode tchat.(#6)
+agentNoCamButMic: Votre interlocuteur n'a pas de webcam.<br />Nous vous basculons en mode audio.(#7)
+agentNiCamNiMic: Votre interlocuteur n'a ni webcam, ni microphone.<br /><br />Nous vous basculons en mode tchat.(#8)
+userDenyFlash: Vous avez refusé l'accès à votre webcam et à votre microphone.<br /><br />Nous vous basculons en mode tchat.(#9)
+noPeerConnection: Suite à un problème réseau,<br />nous vous basculons en mode tchat.(#11)
+userConnectionFailed: Suite à un problème réseau,<br />nous vous basculons en mode tchat.(#11)
+agentConnectionFailed: Suite à un problème réseau,<br />nous vous basculons en mode tchat.(#110)
+userNoMic: Nous n'avons détecté aucun microphone.<br />Vous devez être équipé d'un microphone<br />pour pouvoir lancer une discussion audio.<br /><br />Nous vous basculons en mode tchat.(#12)
+agentNoMic: L'agent n'a pas de microphone,<br />il a été basculé en mode tchat.<br /><br />Nous vous basculons en mode tchat.(#13)
+userRtmptConnection: La qualité du réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons l'utilisation du tchat(#15)
+agentRtmptConnection: La qualité du réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons l'utilisation du tchat(#16)

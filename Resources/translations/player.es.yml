@@ -79,4 +79,43 @@ gorgeous: maravilloso
 'information help': Ya puedes hablar con los asesores disponibles. Puedes elegir entre el vídeo, el audio y el chat. Podrás disfrutar gratuitamente de una ayuda instantánea para efectuar una compra.<br /><br />Instantáneo, sencillo y anónimo.
 'pending call text': Hola, Intentas ponerte en contacto con Videodesk. El contacto que has solicitado ya está disponible para responderte,
 'flash security panel': Pulsa en “Autorizar” para activar tu webcam o tu micrófono.
-'Leave a text message': Lo siento, en este momento no estoy disponible. Por favor, deja un mensaje.    
+'Leave a text message': Lo siento, en este momento no estoy disponible. Por favor, deja un mensaje.
+
+#--------------FLASH PANEL----------------
+#TMP MSG
+webcam_activated: Mi webcam está activada
+webcam_desactivated: Mi webcam está desactivada
+mic_activated: Mi micrófono está activado
+mic_desactivated: Mi micrófono está desactivado
+vid_resumed: El vídeo del contacto está activado
+vid_stoped: El vídeo del contacto está desactivado
+#ROLL MSG
+activate_cam: Activar mi webcam
+desactivate_cam: Desactivar mi webcam
+activate_mic: Activar mi micrófono
+desactivate_mic: Desactivar mi micrófono
+stop_vid: Desactivar el vídeo del contacto
+resume_vid: Activar el vídeo del contacto
+#WAITING MSG
+peerFailed: Lo sentimos, el servidor no ha podido<br />establecer una conexión vídeo.<br />Estás en modo chat
+agentBusy: Lo sentimos, ¡el asesor está ocupado!
+waitRemote: Conexión en curso, por favor espere
+waitLocal: Activación de tu webcam en curso
+switchToAudio: Webcam desactivada. Conexión audio en curso
+ncFailed: Lo sentimos, no podemos establecer la conexión.<br />Estás en modo chat
+#ATTENTION MSG
+userNoFMSConnection: Debido a un problema en la red,<br />te pasamos al modo chat.(#1)
+agentNoFMSConnection: Debido a un problema en la red,<br />te pasamos al modo chat.(#2)
+agentFlashCrashed: Debido a un problema en la red,<br />te pasamos al modo chat.(#4)
+userNoCamButMic: No hemos detectado ninguna webcam.<br /><br />Necesitas disponer de una webcam<br />para poder lanzar una conversación vídeo.<br /><br />Te pasamos al modo audio.(#5)
+userNiCamNiMic: No hemos detectado ni webcams,<br />ni micrófonos.<br />Necesitas disponer de una webcam<br />o de un micrófono, para poder<br />lanzar una conversación vídeo.<br /><br />Te pasamos al modo chat.(#6)
+agentNoCamButMic: Tu interlocutor no dispone de webcam.<br />Te pasamos al modo audio.(#7)
+agentNiCamNiMic: Tu interlocutor no dispone de webcam, ni de micrófono.<br /><br />Te pasamos al modo chat.(#8)
+userDenyFlash: Has rechazado el acceso a tu webcam y a tu micrófono.<br />\Te pasamos al modo chat.(#9)
+noPeerConnection: Debido a un problema en la red,<br />te pasamos al modo chat.(#11)
+userConnectionFailed: Debido a un problema en la red,<br />te pasamos al modo chat.(#11)
+agentConnectionFailed: Debido a un problema en la red,<br />te pasamos al modo chat.(#110)
+userNoMic: No hemos detectado ningún micrófono.<br />Necesitas disponer de un micrófono<br />para poder lanzar una conversación audio.<br /><br />Te pasamos al modo chat.(#12)
+agentNoMic: El asesor no dispone de micrófono,<br />lo hemos pasado al modo chat.<br /><br />Te pasamos al modo chat.(#13)
+userRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#15)
+agentRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#16)

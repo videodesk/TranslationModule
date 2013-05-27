@@ -81,4 +81,42 @@ gorgeous: herrlich
 'flash security panel': Klicken Sie auf « annehmen », um das Gespräch zu beginnen.
 'Leave a text message': Leider bin ich im Augenblick nicht zu erreichen. Bitte hinterlassen Sie mir eine Nachricht.
 
+#------------FLASH PANEL-------------
+#TMP MSG
+webcam_activated: Meine Webcam ist aktiviert
+webcam_desactivated: Meine Webcam ist desaktiviert
+mic_activated: Mein Mikrofon ist aktiviert
+mic_desactivated: Mein Mikrofon ist desaktiviert
+vid_resumed: Video ihres Gesprächspartners wird neu geladen
+vid_stoped: Video-Übertragung Ihres Gesprächspartners abgebrochen
+#ROLL MSG
+activate_cam: Meine Webcam aktivieren
+desactivate_cam: Meine Webcam desaktivieren
+activate_mic: Mein Mikrofon aktivieren
+desactivate_mic: Mein Mikrofon desaktivieren
+stop_vid: Video meines Gesprächspartners desaktivieren
+resume_vid: Video meines Gesprächspartners neu aktivieren
+#WAITING MSG
+peerFailed: Leider konnte keine Video-Chatverbindung hergestellt werden.<br />Wir verbinden Sie in den Text-Modus.
+agentBusy: Leider ist der Kontakt zur Zeit besetzt!
+waitRemote: Im Laufe der Verbindung,<br />Gedulden Sie sich
+waitLocal: Warten auf Aktivierung Ihrer Webcam 
+switchToAudio: Webcam desaktiviert, Audio-Verbindung wird aktiviert
+ncFailed: Es konnte leider keine Verbindung hergestellt werden.<br />Sie befinden sich im Chat-Modus
+#ATTENTION MSG
+userNoFMSConnection: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#1)
+agentNoFMSConnection: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#2)
+agentFlashCrashed: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#4)
+userNoCamButMic: Es konnte keine Webcam ermittelt werden.<br /><br />Sie müssen über eine Webcam verfügen, um einen Video-Chat eröffnen zu können.<br /><br />Wir verbinden Sie nun in den Audio-Modus.(#5)
+userNiCamNiMic: Es konnten keine Webcam,und kein Mikrofon ermittelt werden.<br />Sie müssen über eine Webcam<br />bzw. ein Mikrofon verfügen,<br />um einen Video-Chat eröffnen zu können.<br /><br />Wir verbinden Sie in den Chat-Modus.(#6)
+agentNoCamButMic: Der Mitarbeiter hat keine Webcam.<br />Wir verbinden Sie in den Audio-Modus.(#7)
+agentNiCamNiMic: Der Mitarbeiter hat keine Webcam/kein Mikrofon.<br /><br />Wir verbinden Sie in den Chat-Modus.(#8)
+userDenyFlash: Sie haben den Zugriff zu Ihrer Webcam<br />und Ihrem Mikrofon verweigert.<br /><br />Wir verbinden Sie in den Chat-Modus.(#9)
+noPeerConnection: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#11)
+userConnectionFailed: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#11)
+agentConnectionFailed: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#110)
+userNoMic: Wir konnten keine Mikrofone ermitteln.<br />Sie müssen über ein Mikrofon verfügen, um einen Audio-Chat eröffnen zu können.<br /><br />Wir verbinden Sie nun in den Chat Modus.(#12)
+agentNoMic: Der Mitarbeiter hat kein Mikrofon<br />Wir haben ihn in den Chat-Modus verbunden.<br /><br />Wir verbinden Sie in den Chat-Modus.(#13)
+userRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/Audio-Qualität, daher empfehlen wir Ihnen, den Chat zu benutzen.(#15)
+agentRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/Audio-Qualität, daher empfehlen wir Ihnen, den Chat zu benutzen.(#16)
 
