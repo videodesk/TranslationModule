@@ -96,8 +96,8 @@ activate_mic: Activer mon micro
 desactivate_mic: Désactiver mon micro
 stop_vid: Désactiver la vidéo du contact
 resum_vid: Activer la vidéo du contact
-activate_volume: Activater le son
-desactivate_volume: Désactivater le son
+activate_volume: Activer le son
+desactivate_volume: Désactiver le son
 #WAITING MSG
 peerFailed: Désolé, le serveur n'est pas parvenu<br />à établir une connexion vidéo.<br />Vous êtes maintenant en tchat
 agentBusy: Désolé, l'agent est déjà en communication !
