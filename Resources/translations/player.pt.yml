@@ -97,6 +97,8 @@ activate_mic: Ativar o microfone
 desactivate_mic: Desativar o microfone
 stop_vid: Desativar vídeo do meu contato
 resume_vid: Reativar o vídeo de meu contato
+activate_volume: Ativar o som
+desactivate_volume: Desativar o som
 #WAITING MSG
 peerFailed: Desculpe, não foi possível estabelecer vídeo chat.<br />Estamos mudando para o modo de texto
 agentBusy: Desculpe, mas o agente já está ocupado!

@@ -96,6 +96,8 @@ activate_mic: Mein Mikrofon aktivieren
 desactivate_mic: Mein Mikrofon desaktivieren
 stop_vid: Video meines Gesprächspartners desaktivieren
 resume_vid: Video meines Gesprächspartners neu aktivieren
+activate_volume: Aktivieren Sie den Ton
+desactivate_volume: Deaktivieren Sie den Ton
 #WAITING MSG
 peerFailed: Leider konnte keine Video-Chatverbindung hergestellt werden.<br />Wir verbinden Sie in den Text-Modus.
 agentBusy: Leider ist der Kontakt zur Zeit besetzt!
