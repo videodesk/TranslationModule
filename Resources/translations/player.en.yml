@@ -122,4 +122,5 @@ userNoMic: We did not detect microphones.<br />You must be equipped with a micro
 agentNoMic: The agent doesn't have any microphone<br />We switched him to chat mode.<br /><br />We will switch you to chat mode.(#13)
 userRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#15)
 agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
-
+remote_audio_desactivated: The sound is muted
+remote_audio_activated: The sound is active

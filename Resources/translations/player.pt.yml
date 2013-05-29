@@ -123,3 +123,5 @@ agentNoMic: O agente não tem qualquer microfone <br />ós mudamos o para o chat
 userRtmptConnection: Os desempenhos da rede não permitem uma qualidade de vídeo<br />áudio de qualidade, portanto, recomendamos usar o modo chat(#15)
 agentRtmptConnection: Os desempenhos da rede não permitem uma qualidade de vídeo<br />áudio de qualidade, portanto, recomendamos usar o modo chat(#16)
 
+remote_audio_desactivated: O som é silenciado
+remote_audio_activated: O som está ativo

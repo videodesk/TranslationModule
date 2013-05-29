@@ -121,3 +121,5 @@ userNoMic: Nous n'avons détecté aucun microphone.<br />Vous devez être équip
 agentNoMic: L'agent n'a pas de microphone,<br />il a été basculé en mode tchat.<br /><br />Nous vous basculons en mode tchat.(#13)
 userRtmptConnection: La qualité du réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons l'utilisation du tchat(#15)
 agentRtmptConnection: La qualité du réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons l'utilisation du tchat(#16)
+remote_audio_desactivated: Le son est désactivé
+remote_audio_activated: Le son est activé
