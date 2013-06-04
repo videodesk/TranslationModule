@@ -65,6 +65,7 @@ email required: E-post Krävs
 email invalid: E-post Ogiltigd
 phone required: Telefon Krävs
 company required: Företag Krävs
+required: Krävs
 
 #survey
 bad: Usel

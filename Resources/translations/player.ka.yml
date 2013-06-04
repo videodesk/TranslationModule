@@ -65,6 +65,7 @@ email required: Email required
 email invalid: Email invalid
 phone required: Phone required
 company required: Company required
+required: required
 
 #survey
 bad: bad

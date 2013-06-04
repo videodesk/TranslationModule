@@ -65,6 +65,7 @@ email required: Email obavezno
 email invalid: Email neispravan
 phone required: Telefon obavezno
 company required: Firma obavezno
+required: obavezno
 
 #survey
 bad: loše

@@ -64,6 +64,7 @@ email required: E-mail обязателен для заполнения
 email invalid: Неправильный e-mail адрес
 phone required: Телефон обязателен для заполнения
 company required: Компания обязательна для заполнения
+required: обязательна
 
 #survey
 bad: Плохой
