@@ -64,8 +64,7 @@ email required: Email requerido
 email invalid: Email inválido
 phone required: Teléfono
 company required: Empresa requerido
-required: requerido
-
+required: Campo requerido
 #survey
 bad: malo
 poor: pobre
