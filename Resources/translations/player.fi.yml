@@ -1,85 +1,86 @@
-'let a message': Let a message
-'chat call': Chat call
-'audio call': Audio call
-'video call': Video call
-'information help': more informations
-'faq help': more informations
-'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
-'Please, rate this discussion': Your opinion matters to us
-'Discussion helpful ?': Has this dialogue been useful?
-'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
-'Any comments ?': Suggestions
-'chat transcript': If you would like to receive the contents of your chat messages, please leave your e-mail address.
-'Webuser is typing': is writing...
-'Type your text here': Type your text here
-'agent dont answer': The agent is unavailable
-'chat redirection': Chat call
-'agent close communication': The agent hung up
-'Deprecated version of Flash Chat only': Deprecated version of Flash. 
-'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
-'Your mail': Your mail
-'Or': Or
-'Please type your message here': Please type your message here
-'message field required': message required
-'email or phone field required': email or phone required
-'send': send
-'not ready to switch': not ready to switch
-'will answer in a few seconds': will be available in a few seconds.
-'Email adress': Email address
-'Phone number': Phone number
-'email invalide': Invalid email
-'Discutez en video' : Video chat
-'Discutez en audio' : Audio chat
-'Discutez en chat' : Text chat
-'Laissez un message' : Leave a message
-'agent-accept-communication' : Communication accepted
-'agent indisponible. redirection vers message': Agent unavailable, redirection to message
-'webuser': Me
-'user flash crash': shockwave flash has crashed. You're conneced in text chat mode
-'Survey sent': Survey sent
-'message sent': Message sent
-'cgv': Your use of this service means you have accepted the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
-'You will can enter your text here': You will be able to enter your text here
+let a message': Keskustele meidän kanssa
+'chat call': Kirjoistus keskustelu
+'audio call': Ääni keskustelu
+'video call': Video keskustelu
+'information help': Lisätietoa
+'faq help': Lisätietoa
+'Your discussion has ended': Keskustelusi on päättynyt.<br />Me kiitämme.
+'Please, rate this discussion': Mielipiteesi on meille tärkeä
+'Discussion helpful ?': Oliko keskustelu hyödyllinen?
+'Would you recommend this experience to your friends?': Suosittelisitko tätä ystävällesi?
+'Any comments ?': Ehdotuksia
+'chat transcript': Jos haluat kipion tästä keskustelusta, jätä  -sähhköpostiosoitteesi.
+'Webuser is typing': kirjoittaa...
+'Type your text here': Kirjoita viestisi tähän
+'agent dont answer': Asiakaspalvelija ei vasta
+'chat redirection': Kirjoistus keskustelu
+'agent close communication': Asiakaspalvelija lopetti keskustelun
+'Deprecated version of Flash Chat only': Vanha Flash versio. 
+'i am currently unavailable': Pahoittelen, olen tällä hetkellä varattu.
+'Your mail': Sähköpostiosoitteesi
+'Or': Tai
+'Please type your message here': Olehyvä ja kirjoita viestisi tähän
+'message field required': vesti on pakollinen
+'email or phone field required': sähköpostiosoite tai puhelin numero on pakollinen
+'send': lähetä
+'not ready to switch': ei valmis siirtoon
+'will answer in a few seconds': palvelee kohta.
+'Email adress': Sähköpostiosoite
+'Phone number': Puhelin numero
+'email invalide': Virhellinen sähköpostiosoite
+'Discutez en video' : Video keskustelu
+'Discutez en audio' : Ääni keskustelu
+'Discutez en chat' : Kirjoistus keskustelu
+'Laissez un message' : Jätä viesti
+'agent-accept-communication' : Keskustelu hyväksytty
+'agent indisponible. redirection vers message': Aiasiakaspalvelija ei saatavilla, siirry viestinkirjoitukseen
+'webuser': Minä
+'user flash crash': shockwave flash kaatui. Sinu't on siirety kirjoitus keskusteluun
+'Survey sent': Lähetetty
+'message sent': Viesti lähetetty
+'cgv': Käyttämälla tätä palvelua olet hyväksynyt <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
+'You will can enter your text here': Voit kirjoittaa viestisi tähän
 
-'Discussion with %site%': Discussion with %site%
+'Discussion with %site%': Keskustelu kohteeseen %site%
 
-'hello': Hello
+'hello': Hei
 'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': New message on website
-'message from videodesk module': New message from videodesk module
-'message originally intended to': message sent to :
+'new message from': Uusi viesti nettisivultaq
+'message from videodesk module': Uusi viesti Videodesk laajennuksesta
+'message originally intended to': viesti lähetetty kohteeseen :
 
-'Enter your question here': Enter your question here
+'Enter your question here': Kirjoita kysymtksesi tähän
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
-firstname: Firstname
-lastname: Lastname
-email: Email
-phone: Phone
-company: Company
-send: Send
-firstname required: Firstname required
-lastname required: Lastname required
-email required: Email required
-email invalid: Email invalid
-phone required: Phone required
-company required: Company required
-required: required field
+Please provide the details below and we will answer in a few seconds: Täytä alla olevat tiedot niin vastaamme ihan kohta
+firstname: Etunimi
+lastname: Sukunimi
+email: Sähköposti
+phone: Puhelin
+company: Yritys
+send: Lähetä
+firstname required: Etunimi on pakollinen
+lastname required: Sukunimi on pakollinen
+email required: Sähköposti on pakollinen
+email invalid: Sähköposti on virheellinen
+phone required: Puhelin on pakollinen
+company required: Yritys on pakollinen
+required: pakollinen kenttä
 
 #survey
-bad: bad
-poor: poor
-regular: regular
-good: good
-gorgeous: gorgeous
+bad: huono
+poor: surkea
+regular: normaali
+good: hyvä
+gorgeous: loistava
 
 #module texts
-'Live Help': CONTACT
-'agent(s) available': available agent(s)
-'Chat (video or text) for free with ecommerce experts': Chat (video or text) for free with e­commerce experts
-'information help':   You can now chat with available agents. You can choose between video, audio or text chat. Immediate, simple, anonymous and free.
-'pending call text': Hello, You want to contact Videodesk. He requested contact is immediately available to you.
-'flash security panel': Click on "Allow" to discuss
-'Leave a text message': Sorry, I'm currently unavailable. Please leave me a message.
+'Live Help': Keskustele meidän kanssa
+'agent(s) available': Online asiakas palvelija(t)
+'Chat (video or text) for free with ecommerce experts': Keksuskustele ilmaiseksi ammattilaisten kanssa ( teksti tai video )
+'information help':   Voit nyt keskustella kanssamme. Valitse istellesi sopivin tapa keskustella, se on täysin ilmaista.
+'pending call text': Hello, You want to contact Oma online. He requested contact is immediately available to you.
+'flash security panel': Klikkaa "Salli" jotta pysyt keskustella
+'Leave a text message': Pahoittelen, O'len tällä hetkellä varattu. Jätä viesti niin vastaan mahdollisimman pian.
+
 
