@@ -125,3 +125,4 @@ userRtmptConnection: La qualité du réseau ne permet pas une qualité audio et 
 agentRtmptConnection: La qualité du réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons l'utilisation du tchat(#16)
 remote_audio_desactivated: Le son est désactivé
 remote_audio_activated: Le son est activé
+click_allow_to_start: Cliquez sur "Autoriser" pour dialoguer

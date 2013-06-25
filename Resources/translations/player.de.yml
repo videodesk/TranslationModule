@@ -125,3 +125,4 @@ userRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/
 agentRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/Audio-Qualität, daher empfehlen wir Ihnen, den Chat zu benutzen.(#16)
 remote_audio_desactivated: Der Ton ist stummgeschaltet
 remote_audio_activated: Der Ton bleibt eingeschaltet
+click_allow_to_start: Klicken Sie auf « annehmen », um das Gespräch zu beginnen.

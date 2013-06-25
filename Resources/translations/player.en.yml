@@ -126,3 +126,4 @@ userRtmptConnection: The network performances do not allow a good video/audio qu
 agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
 remote_audio_desactivated: The sound is muted
 remote_audio_activated: The sound is active
+click_allow_to_start: Click on "Allow" to start.

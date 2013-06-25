@@ -124,3 +124,4 @@ userRtmptConnection: La calidad de la red no permite una calidad audio y vídeo 
 agentRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#16)
 remote_audio_desactivated: El sonido es desactiva
 remote_audio_activated: El sonido es activa
+click_allow_to_start: Pulsa en “Autorizar” para activar tu webcam o tu micrófono.
