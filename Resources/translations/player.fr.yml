@@ -126,3 +126,41 @@ agentRtmptConnection: La qualité du réseau ne permet pas une qualité audio et
 remote_audio_desactivated: Le son est désactivé
 remote_audio_activated: Le son est activé
 click_allow_to_start: Cliquez sur "Autoriser" pour dialoguer
+
+#REFACTOR
+type here: Ecrivez ici
+Do you want to close the discussion?: Voulez-vous arrêter la discussion ? 
+Yes: Oui
+No: Non
+send: Envoyer
+your firstname: Prénom
+Please fill at least one of highlighted fields: Merci de remplir au moins l'un des champs.
+your lastname: Nom
+your company: Entreprise
+your email: Email
+your phone: Téléphone
+your message: Message
+Your conversation has ended.Thank you for contacting us!: La conversation est terminée. Merci de nous avoir contacter ! 
+Recall this operator now: Rappeler ce conseiller maintenant !
+give us your feedback about the conversation: Votre avis nous intéresse.
+has this dialog been helpful: Cette converation vous a-t-elle été utile ?
+Would you recommend this experience to your facebook friends: Recommanderiez-vous cette expérience avec vos amis Facebook ?
+Any comments or suggestions: Des commentaires ? Des suggestions ?
+Get a reccord of this conversation by e-mail: Recevez le contenu de cette conversation par email.
+Please enter your e-mail address: Votre adresse email.
+Please give a valid address: Merci de fournir une adresse mail correcte.
+The record has been successfully sent: Le contenu de la conversation a bien été envoyé.
+Ongoing discussion: Discussion en cours.
+your message has been successfully sent. We Will contact you soon: Votre message a bien été envoyé. Nous vous recontacterons rapidement.
+Please fill email field: 'Merci de remplir le champ : Email'
+Please fill phone field: 'Merci de remplir le champ : Téléphone'
+Please fill message textarea: 'Merci de remplir le champ : Message'
+Please fill firstname field: 'Merci de remplir le champ : Prénom'
+Please fill lastname field: 'Merci de remplir le champ : Nom'
+Please fill company field: 'Merci de remplir le champ : Entreprise'
+call audio: Appel Audio
+call video: Appel Vidéo
+video suggestion: Proposition de discussion vidéo
+audio suggestion: Proposition de discussion audio
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: NOUS SOMMES LÀ POUR VOUS AIDER!<br /> CONSEILLER DE VENTE EN DIRECT !
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: NOUS SOMMES LÀ POUR VOUS AIDER!<br /> LAISSEZ-NOUS UN MESSAGE !
