@@ -128,7 +128,7 @@ remote_audio_activated: Le son est activé
 click_allow_to_start: Cliquez sur "Autoriser" pour dialoguer
 
 #REFACTOR
-type here: Tappez votre message ici...
+type here: Tapez votre message ici...
 Do you want to close the discussion?: Voulez-vous arrêter la discussion ? 
 Yes: Oui
 No: Non
