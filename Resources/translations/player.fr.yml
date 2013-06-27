@@ -128,7 +128,7 @@ remote_audio_activated: Le son est activé
 click_allow_to_start: Cliquez sur "Autoriser" pour dialoguer
 
 #REFACTOR
-type here: Ecrivez ici
+type here: Tappez votre message ici...
 Do you want to close the discussion?: Voulez-vous arrêter la discussion ? 
 Yes: Oui
 No: Non
@@ -162,5 +162,5 @@ call audio: Appel Audio
 call video: Appel Vidéo
 video suggestion: Proposition de discussion vidéo
 audio suggestion: Proposition de discussion audio
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: NOUS SOMMES LÀ POUR VOUS AIDER!<br /> CONSEILLER DE VENTE EN DIRECT !
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: NOUS SOMMES LÀ POUR VOUS AIDER!<br /> LAISSEZ-NOUS UN MESSAGE !
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: AIDE EN DIRECT !<br /> CONSEILLER DISPONIBLE !
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: AIDE EN DIRECT !<br /> LAISSEZ-NOUS UN MESSAGE !

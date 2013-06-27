@@ -127,3 +127,42 @@ agentRtmptConnection: The network performances do not allow a good video/audio q
 remote_audio_desactivated: The sound is muted
 remote_audio_activated: The sound is active
 click_allow_to_start: Click on "Allow" to start.
+
+
+#REFACTOR
+type here: Type your message here...
+Do you want to close the discussion?: Do you want to close the discussion?
+Yes: Yes
+No: No
+send: Send
+your firstname: First name
+Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
+your lastname: Last name
+your company: Company
+your email: Email
+your phone: Phone
+your message: Message
+Your conversation has ended.Thank you for contacting us!: Your conversation has ended.<br />Thank you for contacting us!
+Recall this operator now: Recall this operator now!
+give us your feedback about the conversation: Give us your feedback about your conversation.
+has this dialog been helpful: Has this dialog been helpful?
+Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
+Any comments or suggestions: Comments? Suggestions?
+Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
+Please enter your e-mail address: Please enter your e-mail address
+Please give a valid address: Please give a valid address
+The record has been successfully sent: The record has been successfully sent
+Ongoing discussion: Ongoing discussion
+your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
+Please fill email field: Please fill email field
+Please fill phone field: Please fill phone field
+Please fill message textarea: Please fill message textarea
+Please fill firstname field: Please fill firstname field
+Please fill lastname field: Please fill lastname field
+Please fill company field: Please fill company field
+call audio: Audio Call
+call video: Video Call
+video suggestion: Video suggestion
+audio suggestion: Audio suggestion
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
