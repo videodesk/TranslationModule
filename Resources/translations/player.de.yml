@@ -126,3 +126,13 @@ agentRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video
 remote_audio_desactivated: Der Ton ist stummgeschaltet
 remote_audio_activated: Der Ton bleibt eingeschaltet
 click_allow_to_start: Klicken Sie auf « annehmen », um das Gespräch zu beginnen.
+
+#transcript mail
+Hi: Hello,
+You reached: You contacted 
+We have to pleasure to send you the transcript of your discussion.: We have to pleasure to send you the transcript of your discussion.
+We look forward to seeing you again on: We look forward to seeing you again 
+Thank you for your visit: Thank you for your visit.
+videodesk team: The Videodesk team
+transcript: Transcript,
+yours transcripts with: Your transcript with
