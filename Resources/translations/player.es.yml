@@ -125,3 +125,14 @@ agentRtmptConnection: La calidad de la red no permite una calidad audio y vídeo
 remote_audio_desactivated: El sonido es desactiva
 remote_audio_activated: El sonido es activa
 click_allow_to_start: Pulsa en “Autorizar” para activar tu webcam o tu micrófono.
+
+
+#transcript mail
+Hi: Hello,
+You reached: You contacted 
+We have to pleasure to send you the transcript of your discussion.: We have to pleasure to send you the transcript of your discussion.
+We look forward to seeing you again on: We look forward to seeing you again 
+Thank you for your visit: Thank you for your visit.
+videodesk team: The Videodesk team
+transcript: Transcript,
+yours transcripts with: Your transcript with
