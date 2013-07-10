@@ -1,0 +1,128 @@
+'let a message': Let a message
+'chat call': Chat call
+'audio call': Audio call 
+'video call': Video call
+'information help': more informations
+'faq help': more informations
+'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
+'Please, rate this discussion': Your opinion matters to us
+'Discussion helpful ?': Has this dialogue been useful?
+'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
+'Any comments ?': Suggestions
+'chat transcript': If you would like to receive the contents of your chat messages, please leave your e-mail address.
+'Webuser is typing': is writing...
+'Type your text here': Type your text here
+'agent dont answer': The agent is unavailable
+'chat redirection': Chat call
+'agent close communication': The agent hung up
+'Deprecated version of Flash Chat only': Deprecated version of Flash. 
+'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
+'Your mail': Your mail
+'Or': Or
+'Please type your message here': Please type your message here
+'message field required': message required
+'email or phone field required': email or phone required
+'send': send
+'not ready to switch': not ready to switch
+'will answer in a few seconds': will be available in a few seconds.
+'Email adress': Email address
+'Phone number': Phone number
+'Phone': Phone number
+'email invalide': Invalid email
+'Discutez en video' : Video chat
+'Discutez en audio' : Audio chat
+'Discutez en chat' : Text chat
+'Laissez un message' : Leave a message
+'agent-accept-communication' : Communication accepted
+'agent indisponible. redirection vers message': Agent unavailable, redirection to message
+'webuser': Me
+'user flash crash': shockwave flash has crashed. You're conneced in text chat mode
+'Survey sent': Survey sent
+'message sent': Message sent
+'cgv': Your use of this service means you have accepted the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
+'You will can enter your text here': You will be able to enter your text here
+
+'Discussion with %site%': Discussion with %site%
+
+'hello': Hello
+'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from': New message on website
+'message from videodesk module': New message from videodesk module
+'message originally intended to': message sent to :
+
+'Enter your question here': Enter your question here
+
+#CRM
+Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
+firstname: Firstname
+lastname: Lastname
+email: Email
+phone: Phone
+company: Company
+send: Send
+firstname required: Firstname required
+lastname required: Lastname required
+email required: Email required
+email invalid: Email invalid
+phone required: Phone required
+company required: Company required
+required: required field
+
+#survey
+bad: bad
+poor: poor
+regular: regular
+good: good
+gorgeous: gorgeous
+
+#module texts
+'Live Help': CONTACT
+'agent(s) available': available agent(s)
+'Chat (video or text) for free with ecommerce experts': Chat (video or text) for free with e­commerce experts
+'information help':   You can now chat with available agents. You can choose between video, audio or text chat. Immediate, simple, anonymous and free.
+'pending call text': Hello, You want to contact Videodesk. He requested contact is immediately available to you.
+'flash security panel': Click on "Allow" to discuss
+'Leave a text message': Sorry, I'm currently unavailable. Please leave me a message.
+
+#--------------FLASH PANEL-----------------
+#TMP MSG
+webcam_activated: My webcam is activated
+webcam_desactivated: My webcam is disabled
+mic_activated: My microphone activated
+mic_desactivated: My microphone disabled
+vid_resumed: Video of your contact resuming
+vid_stoped: Video of your contact stopped
+#ROLL MSG
+activate_cam: Activate my webcam
+desactivate_cam: Disable my webcam
+activate_mic: Activate my microphone
+desactivate_mic: Disable my microphone
+stop_vid: Deactivate video of my contact
+resume_vid: Reactivate the video of my contact
+activate_volume: Activate sound
+desactivate_volume: Desactivate sound
+#WAITING MSG
+peerFailed: Sorry, we couldn't establish video chat.<br />We're switching to text mode
+agentBusy: Sorry, the agent is already busy!
+waitRemote: Please wait, we are currently connecting<br />you. This may take some time.
+waitLocal: Waiting for your webcam to activate 
+switchToAudio: Webcam deactivated, audio connection activating
+ncFailed: Sorry, we couldn't establish a connection.<br />You are in  chat mode
+#ATTENTION MSG
+userNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#1)
+agentNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#2)
+agentFlashCrashed: Because of a network problem,<br />We will switch you to chat mode.(#4)
+userNoCamButMic: We have not detected a webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We will switch you to audio mode.(#5)
+userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We will switch you to chat mode.(#6)
+agentNoCamButMic: The agent didn't have a webcam.<br />We will switch you to audio mode.(#7)
+agentNiCamNiMic: The agent didn't have a webcam or a microphone.<br /><br />We will switch you in chat mode.(#8)
+userDenyFlash: You denied the access to your webcam<br />and to your microphone.<br /><br />We will switch you in chat mode.(#9)
+noPeerConnection: Because of a network problem,<br />We will switch you to chat mode.(#11)
+userConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#11)
+agentConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#110)
+userNoMic: We did not detect microphones.<br />You must be equipped with a microphone to be able to launch an audio- chat.<br /><br />We will switch you to chat mode.(#12)
+agentNoMic: The agent doesn't have any microphone<br />We switched him to chat mode.<br /><br />We will switch you to chat mode.(#13)
+userRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#15)
+agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
+remote_audio_desactivated: The sound is muted
+remote_audio_activated: The sound is active
