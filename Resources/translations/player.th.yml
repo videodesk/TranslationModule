@@ -1,168 +1,182 @@
-'let a message': zanechte nám vzkaz
-'chat call': psaný rozhovor
-'audio call': audio hovor
-'video call': hovor s videem
-'information help': více informací
-'faq help': více informací
-'Your discussion has ended': Konverzace ukončena. Děkujeme, že jste nás kontaktovali.
-'Please, rate this discussion': Prosíme o hodnocení konverzace. Váš názor je pro nás důležitý.
-'Discussion helpful ?': Byl pro Vás náš rozhovor užitečný?
-'Would you recommend this experience to your friends?': 
-'Any comments ?': Vaše názory a komentáře.
-'chat transcript': Pokud chcete obdržet historii zpráv, vyplňte svůj e-mail.
-'Webuser is typing': právě Vám píšeme...
-'Type your text here': Začněte psát zde
-'agent dont answer': Váš asistent je nedostupný
-'chat redirection': zpráva
-'agent close communication': Váš asistent právě zavěsil.
-'Deprecated version of Flash Chat only': Zastaralá verze Flash. 
-'i am currently unavailable': Jsem právě mimo dostupnost, zanechte mi prosím vzkaz. 
-'Your mail': Váš e-mail
-'Or': Nebo
-'Please type your message here': Začněte psát Vaši zprávu zde
-'message field required': požadována zpráva
-'email or phone field required': požadován e-mail, nebo telefon 
-'send': odeslat
-'not ready to switch': není připraven k přepnutí
-'will answer in a few seconds': odpoví Vám během chvilky 
-'Email adress': e-mail
-'Phone number': telefon
-'Phone': telefon
-'email invalide': neplatný e-mail
-'Discutez en video' : hovor s videem
-'Discutez en audio' : hovor
-'Discutez en chat' : zpráva
-'Laissez un message' : Zanechte nám vzkaz
-'agent-accept-communication' : asistent přijal konverzaci
-'agent indisponible. redirection vers message': 
-'webuser': Já
-'user flash crash': Shockwave flash spadnul. Přepínáme do psané formy komunikace.
-'Survey sent': zaslán průzkum
-'message sent': Zpráva odeslána
-'cgv': Využitím této služby souhlasíte s <a href="http://www.videodesk.com/terms" target="_blank">podmínkami</a> společnosti Videodesk inc. Pokud nesouhlasíte s podmínkami, nevyužívejte prosím tuto službu. 
-'You will can enter your text here': Budete mít možnost zadat text zde
+'let a message': Leave a message
+'chat call': Chat call
+'audio call': Audio call
+'video call': Video call
+'information help': more information
+'faq help': more information
+'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
+'Please, rate this discussion': Your opinion matters to us.
+'Discussion helpful ?': Has this discussion been useful?
+'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
+'Any comments ?': Suggestions
+'chat transcript': If you would like to receive the transcript of your discussion, please leave your e-mail address.
+'Webuser is typing': is writing...
+'Type your text here': Type your text here
+'agent dont answer': The agent is unavailable
+'chat redirection': Chat call
+'agent close communication': The agent ended the call
+'Deprecated version of Flash Chat only': Deprecated version of Flash.
+'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
+'Your mail': Your email
+'Or': Or
+'Please type your message here': Please type your message here
+'message field required': Message required
+'email or phone field required': Email or phone required
+'send': Send
+'not ready to switch': not ready to switch
+'will answer in a few seconds': will be available in a few seconds.
+'Email adress': Email address
+'Phone number': Phone number
+'Phone': Phone number
+'email invalide': Invalid email
+'Discutez en video' : Video chat
+'Discutez en audio' : Audio chat
+'Discutez en chat' : Text chat
+'Laissez un message' : Leave a message
+'agent-accept-communication' : Communication accepted
+'agent indisponible. redirection vers message': Agent unavailable, redirection to message
+'webuser': Me
+'user flash crash': shockwave flash has crashed. You're in text chat mode.
+'Survey sent': Survey sent
+'message sent': Message sent
+'cgv': By using this service means you agree to the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
+'You will can enter your text here': You will be able to enter your text here
 
-'Discussion with %site%': Diskuze s %site%
+'Discussion with %site%': Discussion with %site%
 
-'hello': Dobrý den
-'videodesk team': videodesk team<br/><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': Nová zpráva od
-'message from videodesk module': Nová zpráva od videodesk module
-'message originally intended to': zpráva odeslána:
+'hello': Hello
+'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from': New message on website
+'message from videodesk module': New message from videodesk module
+'message originally intended to': Message sent to:
 
-'Enter your question here': Zanechte nám Váš dotaz.
+'Enter your question here': Enter your question here
 
 #CRM
-Please provide the details below and we will answer in a few seconds: kontaktovat během malé chvíle. 
-firstname: Jméno
-lastname: Příjmení
-email: e-mail
-phone: telefon
-company: společnost
-send: odesláno
-firstname required: požadováno jméno
-lastname required: požadováno příjmení
-email required: požadován e-mail
-email invalid: neplatný e-mail
-phone required: požadován telefon
-company required: požadována společnost
-required: požadované pole
+Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
+firstname: First name
+lastname: Last name
+email: Email
+phone: Phone
+company: Company
+send: Send
+firstname required: Firstname required
+lastname required: Lastname required
+email required: Email required
+email invalid: Email invalid
+phone required: Phone required
+company required: Company required
+required: Mandatory field
 
 #survey
-bad: špatný
-poor: nic moc
-regular: standartní
-good: uspokojující
-gorgeous: perfektní
+bad: bad
+poor: poor
+regular: regular
+good: good
+gorgeous: gorgeous
 
 #module texts
-'Live Help': KONTAKT
-'agent(s) available': dostupní asistenti
-'Chat (video or text) for free with ecommerce experts': Chat (video nebo text) zdarma s odborníky e-commerce
-'information help': Nyní můžete zdarma komunikovat s dostupnými asistenty. Zvolte si videohovor, hovor bez videa, nebo psaný chat. Okamžitě, jednoduše, anonymně a zdarma.
-'pending call text': Dobrý den, chcete nás kontaktovat. Požadovaný asisten je Vám ihned k dispozici. 
-'flash security panel': Klikněte na „Povolit“ pro začátek diskuze
-'Leave a text message': Promiňte, nyní jsem mimo dostupnost. Zanechte mi prosím vzkaz. Děkuji. 
+'Live Help': CONTACT
+'agent(s) available': available agent(s)
+'Chat (video or text) for free with ecommerce experts': Chat (video or text) for free with e­commerce experts.
+'information help':   You can now chat with available agents. You can choose between video, audio or text chat. Immediate, simple, anonymous and free.
+'pending call text': Hello, you want to contact Videodesk. The agent you requested is immediately available to you.
+'flash security panel': Click on "Allow" to discuss.
+'Leave a text message': Sorry, I'm currently unavailable. Please leave me a message.
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: Kamera je nyní aktivní
-webcam_desactivated: Kamera je nyní vypnuta
-mic_activated: Mikrofon je nyní aktivní 
-mic_desactivated: Mikrofon je nyní vypnut 
-vid_resumed: Video je obnoveno  
-vid_stoped: Video je ukončeno 
+webcam_activated: My webcam is activated
+webcam_desactivated: My webcam is disabled
+mic_activated: My microphone activated
+mic_desactivated: My microphone disabled
+vid_resumed: Video of your contact resuming
+vid_stoped: Video of your contact stopped
 #ROLL MSG
-activate_cam: Zapnout webkameru 
-desactivate_cam: Vypnout webkameru 
-activate_mic: Zapnout mikrofon 
-desactivate_mic: Vypnout mikrofon 
-stop_vid: Zrušit video kontaktu
-resume_vid: Opět aktivovat video kontaktu 
-activate_volume: Zapnout zvuk 
-desactivate_volume: Vypnout zvuk
+activate_cam: Activate my webcam
+desactivate_cam: Disable my webcam
+activate_mic: Activate my microphone
+desactivate_mic: Disable my microphone
+stop_vid: Deactivate video of my contact
+resume_vid: Reactivate the video of my contact
+activate_volume: Activate sound
+desactivate_volume: Desactivate sound
 #WAITING MSG
-peerFailed: Nepodařil se navázat videohovor.<br/>Přepínáme do psané formy komunikace.
-agentBusy: Omlouváme se, ale ale asistent je nyní obsazen. 
-waitRemote: Počkejte prosím, právě Vás spojujeme<br/>. Níže nám vše podrobně popište, budeme Vás Chat (videohovor, nebo text) zdarma Může to chvíli trvat.
-waitLocal: Čekáme na zapnutí Vaší webkamery. 
-switchToAudio: Webkamera vypnuta, zapínáme audio spojení 
-ncFailed: Nepodařil se navázat hovor.<br/>Nyní můžete využít psané komunikace.
+peerFailed: Sorry, we couldn't establish video chat.<br />We're switching to text mode
+agentBusy: Sorry, the agent is already busy!
+waitRemote: Please wait, we are currently connecting<br />you. This may take some time.
+waitLocal: Waiting for your webcam to activate
+switchToAudio: Webcam deactivated, audio connection activating
+ncFailed: Sorry, we couldn't establish a connection.<br />You are in chat mode
 #ATTENTION MSG
-userNoFMSConnection: Z důvodu problému na síti,<br/>Přepínáme do psané formy komunikace.(#1)
-agentNoFMSConnection: Z důvodu problému na síti,<br/>Přepínáme do psané formy komunikace.(#2)
-agentFlashCrashed: Z důvodu problému na síti,<br/>Přepínáme do psané formy komunikace.(#4)
-userNoCamButMic: Webkamera nebyla nalezena.<br/><br/>Pro zahájení videohovoru musíte být vybaveni webkamerou.<br/><br/>Přepínáme do psané formy komunikace.(#5)
-userNiCamNiMic: Webkamera nebyla nalezena,<br/>nebo mikrofon.<br/>Musíte být vybaveni webkamerou<br/>nebo mikrofonem,<br/>pro zahájení videohovoru .<br/><br/>Přepínáme do psané formy komunikace.(#6)
-agentNoCamButMic: Asistent není vybaven webkamerou.<br/>Přepínáme do psané formy komunikace.(#7)
-agentNiCamNiMic: Asistent není vybaven webkamerou, či mikrofonem. <br/><br/>Přepínáme do psané formy komunikace.(#8)
-userDenyFlash: Přístup k Vaší webkameře byl zakázán<br/>i k Vašemu mikrofonu.<br/><br/>Přepínáme Vás do psané formy komunikace.(#9)
-noPeerConnection: Z důvodu problému na síti<br/>přepínáme do psané formy komunikace.(#11)
-userConnectionFailed: Z důvodu problému na síti<br/>přepínáme do psané formy komunikace.(#11)
-agentConnectionFailed: Z důvodu problému na síti<br/>přepínáme do psané formy komunikace.(#110)
-userNoMic: Mikrofon nebyl nalezen.<br/>Pro zahájení hovoru musíte být vybaveni mikrofonem.<br/><br/>Přepínáme do psané formy komunikace.(#12)
-agentNoMic: Asistent není vybaven mikrofonem<br/>Započal psanou formu komunikace.<br/><br/>Přepínáme Vás do psané formy komunikace.(#13)
-userRtmptConnection: Video / audio kvalita není dobrá, doporučujeme využití psané formy komunikace.(#15)
-agentRtmptConnection: Video / audio kvalita je špatná, doporučujeme využití psané formy komunikace.(#16)
-remote_audio_desactivated: T Zvuk je vypnut
-remote_audio_activated: Zvuk je zapnut
-click_allow_to_start: Klikněte na „Povolit“ pro začátek diskuze
+userNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#1)
+agentNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#2)
+agentFlashCrashed: Because of a network problem,<br />We will switch you to chat mode.(#4)
+userNoCamButMic: We have not detected a webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We will switch you to audio mode.(#5)
+userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We will switch you to chat mode.(#6)
+agentNoCamButMic: The agent didn't have a webcam.<br />We will switch you to audio mode.(#7)
+agentNiCamNiMic: The agent didn't have a webcam or a microphone.<br /><br />We will switch you in chat mode.(#8)
+userDenyFlash: You denied the access to your webcam<br />and to your microphone.<br /><br />We will switch you in chat mode.(#9)
+noPeerConnection: Because of a network problem,<br />We will switch you to chat mode.(#11)
+userConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#11)
+agentConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#110)
+userNoMic: We did not detect any microphone.<br />You must be equipped with a microphone to be able to launch an audio- chat.<br /><br />We will switch you to chat mode.(#12)
+agentNoMic: The agent doesn't have any microphone<br />We switched him to chat mode.<br /><br />We will switch you to chat mode.(#13)
+userRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#15)
+agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
+
+remote_audio_desactivated: The sound is muted
+remote_audio_activated: The sound is active
+click_allow_to_start: Click on "Allow" to start.
 
 
 #REFACTOR
-type here: Zde začněte psát prosím...
-Do you want to close the discussion?: 
-Yes: Ano
-No: Ne
-send: Odesláno 
-your firstname: Jméno
-Please fill at least one of highlighted fields: polí 
-your lastname: Příjmení
-your company: Společnost
-your email: e-mail
-your phone: telefon
-your message: Vzkaz
-Your conversation has ended.Thank you for contacting us!: že jste nás kontaktovali! Chcete ukončit diskuzi?Vyplňte prosím alespoň jedno ze zvýrazněných Naše konverzace byla ukončena.<br/>Děkujeme, 
-Recall this operator now: Znovu zavolat asistentovi.
-give us your feedback about the conversation: Zanechte nám prosím poznámku k naší konverzaci, děkujeme. 
-has this dialog been helpful: Byl pro Vás náš rozhovor užitečný?
-Would you recommend this experience to your facebook friends: Doporučil byste tuto zkušenost svým facebook přátelům?
-Any comments or suggestions:  Máte nějaké komentáře, či návrhy? 
-Get a reccord of this conversation by e-mail: Chcete obdržet záznam naší konverzace na email? 
-Please enter your e-mail address: Vyplňte prosím Váš e-mail.
-Please give a valid address: Vyplňte funkční e-mail.
-The record has been successfully sent: Záznam byl úspěšně odeslán.
-Ongoing discussion: Právě probíhající diskuze. 
-your message has been successfully sent. We Will contact you soon: Vás brzy kontaktovat.
-Please fill email field: Vyplňte prosím pole e-mail 
-Please fill phone field: Vyplňte prosím pole telefon
-Please fill message textarea: Vyplňte prosím pole text 
-Please fill firstname field: Vyplňte prosím pole jméno
-Please fill lastname field: Vyplňte prosím pole příjmení
-Please fill company field: Vyplňte prosím pole společnost
-call audio: Audio hovor
-call video: Video hovor
-video suggestion: Video doporučení
-audio suggestion: Audio doporučení
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: JSME TU PRO VÁS!<br/>SKUTEČNÝ OSOBNÍ ASISTENT.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: JSME TU PRO VÁS!<br/>ZANECHTE NÁM PROSÍM VZKAZ
+type here: Type your message here...
+Do you want to close the discussion?: Do you want to close the discussion?
+Yes: Yes
+No: No
+send: Send
+your firstname: First name
+Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
+your lastname: Last name
+your company: Company
+your email: Email
+your phone: Phone
+your message: Message
+Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
+Recall this operator now: Recall this operator now!
+give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
+has this dialog been helpful: Has this dialog been helpful?
+Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
+Any comments or suggestions: Comments? Suggestions?
+Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
+Please enter your e-mail address: Please enter your e-mail address
+Please give a valid address: Please give a valid address
+The record has been successfully sent: The record has been successfully sent
+Ongoing discussion: Ongoing discussion
+your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
+Please fill email field: Please fill email field
+Please fill phone field: Please fill phone field
+Please fill message textarea: Please fill message textarea
+Please fill firstname field: Please fill firstname field
+Please fill lastname field: Please fill lastname field
+Please fill company field: Please fill company field
+call audio: Audio Call
+call video: Video Call
+video suggestion: Video suggestion
+audio suggestion: Audio suggestion
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
+GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+
+#transcript mail
+Hi: Hello,
+You reached: You have contacted
+We have to pleasure to send you the transcript of your discussion.: It is our pleasure to send you a transcript of your discussion.
+We look forward to seeing you again on: We look forward to seeing you again.
+Thank you for your visit: Thank you for your visit.
+videodesk team: The Videodesk team
+transcript: Transcript,
+yours transcripts with: Your transcript with
+We can talk, you are seeing.: We can talk, you are seeing.
+We can talk, you are not seeing.: We can talk, you are not seeing.
