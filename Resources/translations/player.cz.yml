@@ -45,7 +45,7 @@
 'Discussion with %site%': Diskuze s %site%
 
 'hello': Dobrý den
-'videodesk team': videodesk team<br/><a href="http://www.videodesk.com">www.videodesk.com</a>
+'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
 'new message from': Nová zpráva od
 'message from videodesk module': Nová zpráva od videodesk module
 'message originally intended to': zpráva odeslána:
@@ -102,26 +102,26 @@ resume_vid: Opět aktivovat video kontaktu
 activate_volume: Zapnout zvuk 
 desactivate_volume: Vypnout zvuk
 #WAITING MSG
-peerFailed: Nepodařil se navázat videohovor.<br/>Přepínáme do psané formy komunikace.
+peerFailed: Nepodařil se navázat videohovor.<br />Přepínáme do psané formy komunikace.
 agentBusy: Omlouváme se, ale ale asistent je nyní obsazen. 
-waitRemote: Počkejte prosím, právě Vás spojujeme<br/>. Níže nám vše podrobně popište, budeme Vás Chat (videohovor, nebo text) zdarma Může to chvíli trvat.
+waitRemote: Počkejte prosím, právě Vás spojujeme<br />. Níže nám vše podrobně popište, budeme Vás Chat (videohovor, nebo text) zdarma Může to chvíli trvat.
 waitLocal: Čekáme na zapnutí Vaší webkamery. 
 switchToAudio: Webkamera vypnuta, zapínáme audio spojení 
-ncFailed: Nepodařil se navázat hovor.<br/>Nyní můžete využít psané komunikace.
+ncFailed: Nepodařil se navázat hovor.<br />Nyní můžete využít psané komunikace.
 #ATTENTION MSG
-userNoFMSConnection: Z důvodu problému na síti,<br/>Přepínáme do psané formy komunikace.(#1)
-agentNoFMSConnection: Z důvodu problému na síti,<br/>Přepínáme do psané formy komunikace.(#2)
-agentFlashCrashed: Z důvodu problému na síti,<br/>Přepínáme do psané formy komunikace.(#4)
-userNoCamButMic: Webkamera nebyla nalezena.<br/><br/>Pro zahájení videohovoru musíte být vybaveni webkamerou.<br/><br/>Přepínáme do psané formy komunikace.(#5)
-userNiCamNiMic: Webkamera nebyla nalezena,<br/>nebo mikrofon.<br/>Musíte být vybaveni webkamerou<br/>nebo mikrofonem,<br/>pro zahájení videohovoru .<br/><br/>Přepínáme do psané formy komunikace.(#6)
-agentNoCamButMic: Asistent není vybaven webkamerou.<br/>Přepínáme do psané formy komunikace.(#7)
-agentNiCamNiMic: Asistent není vybaven webkamerou, či mikrofonem. <br/><br/>Přepínáme do psané formy komunikace.(#8)
-userDenyFlash: Přístup k Vaší webkameře byl zakázán<br/>i k Vašemu mikrofonu.<br/><br/>Přepínáme Vás do psané formy komunikace.(#9)
-noPeerConnection: Z důvodu problému na síti<br/>přepínáme do psané formy komunikace.(#11)
-userConnectionFailed: Z důvodu problému na síti<br/>přepínáme do psané formy komunikace.(#11)
-agentConnectionFailed: Z důvodu problému na síti<br/>přepínáme do psané formy komunikace.(#110)
-userNoMic: Mikrofon nebyl nalezen.<br/>Pro zahájení hovoru musíte být vybaveni mikrofonem.<br/><br/>Přepínáme do psané formy komunikace.(#12)
-agentNoMic: Asistent není vybaven mikrofonem<br/>Započal psanou formu komunikace.<br/><br/>Přepínáme Vás do psané formy komunikace.(#13)
+userNoFMSConnection: Z důvodu problému na síti,<br />Přepínáme do psané formy komunikace.(#1)
+agentNoFMSConnection: Z důvodu problému na síti,<br />Přepínáme do psané formy komunikace.(#2)
+agentFlashCrashed: Z důvodu problému na síti,<br />Přepínáme do psané formy komunikace.(#4)
+userNoCamButMic: Webkamera nebyla nalezena.<br /><br />Pro zahájení videohovoru musíte být vybaveni webkamerou.<br /><br />Přepínáme do psané formy komunikace.(#5)
+userNiCamNiMic: Webkamera nebyla nalezena,<br />nebo mikrofon.<br />Musíte být vybaveni webkamerou<br />nebo mikrofonem,<br />pro zahájení videohovoru .<br /><br />Přepínáme do psané formy komunikace.(#6)
+agentNoCamButMic: Asistent není vybaven webkamerou.<br />Přepínáme do psané formy komunikace.(#7)
+agentNiCamNiMic: Asistent není vybaven webkamerou, či mikrofonem. <br /><br />Přepínáme do psané formy komunikace.(#8)
+userDenyFlash: Přístup k Vaší webkameře byl zakázán<br />i k Vašemu mikrofonu.<br /><br />Přepínáme Vás do psané formy komunikace.(#9)
+noPeerConnection: Z důvodu problému na síti<br />přepínáme do psané formy komunikace.(#11)
+userConnectionFailed: Z důvodu problému na síti<br />přepínáme do psané formy komunikace.(#11)
+agentConnectionFailed: Z důvodu problému na síti<br />přepínáme do psané formy komunikace.(#110)
+userNoMic: Mikrofon nebyl nalezen.<br />Pro zahájení hovoru musíte být vybaveni mikrofonem.<br /><br />Přepínáme do psané formy komunikace.(#12)
+agentNoMic: Asistent není vybaven mikrofonem<br />Započal psanou formu komunikace.<br /><br />Přepínáme Vás do psané formy komunikace.(#13)
 userRtmptConnection: Video / audio kvalita není dobrá, doporučujeme využití psané formy komunikace.(#15)
 agentRtmptConnection: Video / audio kvalita je špatná, doporučujeme využití psané formy komunikace.(#16)
 remote_audio_desactivated: T Zvuk je vypnut
@@ -142,7 +142,7 @@ your company: Společnost
 your email: e-mail
 your phone: telefon
 your message: Vzkaz
-Your conversation has ended.Thank you for contacting us!: že jste nás kontaktovali! Chcete ukončit diskuzi?Vyplňte prosím alespoň jedno ze zvýrazněných Naše konverzace byla ukončena.<br/>Děkujeme, 
+Your conversation has ended.Thank you for contacting us!: že jste nás kontaktovali! Chcete ukončit diskuzi?Vyplňte prosím alespoň jedno ze zvýrazněných Naše konverzace byla ukončena.<br />Děkujeme, 
 Recall this operator now: Znovu zavolat asistentovi.
 give us your feedback about the conversation: Zanechte nám prosím poznámku k naší konverzaci, děkujeme. 
 has this dialog been helpful: Byl pro Vás náš rozhovor užitečný?
@@ -164,5 +164,5 @@ call audio: Audio hovor
 call video: Video hovor
 video suggestion: Video doporučení
 audio suggestion: Audio doporučení
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: JSME TU PRO VÁS!<br/>SKUTEČNÝ OSOBNÍ ASISTENT.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: JSME TU PRO VÁS!<br/>ZANECHTE NÁM PROSÍM VZKAZ
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: JSME TU PRO VÁS!<br />SKUTEČNÝ OSOBNÍ ASISTENT.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: JSME TU PRO VÁS!<br />ZANECHTE NÁM PROSÍM VZKAZ
