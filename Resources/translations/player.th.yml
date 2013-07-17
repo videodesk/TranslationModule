@@ -1,182 +1,182 @@
-'let a message': Leave a message
-'chat call': Chat call
-'audio call': Audio call
-'video call': Video call
-'information help': more information
-'faq help': more information
-'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
-'Please, rate this discussion': Your opinion matters to us.
-'Discussion helpful ?': Has this discussion been useful?
-'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
-'Any comments ?': Suggestions
-'chat transcript': If you would like to receive the transcript of your discussion, please leave your e-mail address.
-'Webuser is typing': is writing...
-'Type your text here': Type your text here
-'agent dont answer': The agent is unavailable
-'chat redirection': Chat call
-'agent close communication': The agent ended the call
+'let a message': ฝากข้อความ
+'chat call': สนทนาด้วยแช็ท
+'audio call': สนทนาด้วยเสียง
+'video call': สนทนาด้วยวิดีโอ
+'information help': ข้อมูลเพิ่มเติม
+'faq help': ข้อมูลเพิ่มเติม
+'Your discussion has ended': การสนทนาของคุณสิ้นสุดลงแล้ว<br />ขอบคุณสำหรับการติดต่อเรา
+'Please, rate this discussion': ความคิดเห็นของคุณเป็นสิ่งสำคัญสำหรับเรา
+'Discussion helpful ?': การสนทนานี้มีประโชยน์หรือไม่?
+'Would you recommend this experience to your friends?': คุณจะแนะนำประสบการณ์นี้ให้เพื่อนของคุณหรือไม่?
+'Any comments ?': คำแนะนำ
+'chat transcript': หากคุณต้องการสำเนาการสนทนาของคุณ โปรดทิ้งที่อยู่อีเมลของคุณเอาไว้
+'Webuser is typing': กำลังพิมพ์...
+'Type your text here': พิมพ์ข้อความของคุณที่นี่
+'agent dont answer': เจ้าหน้าที่ไม่อยู่
+'chat redirection': สนทนาด้วยแช็ท
+'agent close communication': เจ้าหน้าที่จบการสนทนา
 'Deprecated version of Flash Chat only': Deprecated version of Flash.
-'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
-'Your mail': Your email
-'Or': Or
-'Please type your message here': Please type your message here
-'message field required': Message required
-'email or phone field required': Email or phone required
-'send': Send
-'not ready to switch': not ready to switch
-'will answer in a few seconds': will be available in a few seconds.
-'Email adress': Email address
-'Phone number': Phone number
-'Phone': Phone number
-'email invalide': Invalid email
-'Discutez en video' : Video chat
-'Discutez en audio' : Audio chat
-'Discutez en chat' : Text chat
-'Laissez un message' : Leave a message
-'agent-accept-communication' : Communication accepted
-'agent indisponible. redirection vers message': Agent unavailable, redirection to message
-'webuser': Me
-'user flash crash': shockwave flash has crashed. You're in text chat mode.
-'Survey sent': Survey sent
-'message sent': Message sent
-'cgv': By using this service means you agree to the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
-'You will can enter your text here': You will be able to enter your text here
+'i am currently unavailable': ขออภัย ฉันไม่สามารถสนทนาได้ในตอนนี้ กรุณาทิ้งข้อความถึงฉันไว้
+'Your mail': อีเมล์ของคุณ
+'Or': หรือ
+'Please type your message here': กรุณาพิมพ์ข้อความของคุณที่นี่
+'message field required': ต้องใส่ข้อความ
+'email or phone field required': ต้องใส่ อีเมล์หรือเบอร์โทรศัพท์
+'send': ส่ง
+'not ready to switch': ยังไม่พร้อมที่จะสลับ
+'will answer in a few seconds': จะสามารถใช้งานได้ในอีกไม่กี่วินาที
+'Email adress': ที่อยู่อีเมล์
+'Phone number': หมายเลขโทรศัพท์
+'Phone': หมายเลขโทรศัพท์
+'email invalide': ไม่พบอีเมล์
+'Discutez en video' : สนทนาด้วยวิดีโอ
+'Discutez en audio' : สนทนาด้วยเสียง
+'Discutez en chat' : สนทนาด้วยแช็ท
+'Laissez un message' : ฝากข้อความ
+'agent-accept-communication' : ยอมรับการติดต่อสื่อสาร
+'agent indisponible. redirection vers message': ไม่มีเจ้าที่ในตอนนี้, ย้ายไปยังการสนทนาข้อความ
+'webuser': ฉัน
+'user flash crash': shockwave flash ไม่ทำงาน. คุณกำลังอยู่ในการสนทนาแบบข้อความ
+'Survey sent': สำรวจแล้ว
+'message sent': ส่งข้อความแล้ว
+'cgv': โดยการใช้งานบริการนี้ นั้นหมายความว่าคุณได้ยินยอมใน <a href="http://www.videodesk.com/terms" target="_blank">ข้อตกลงและเงื่อนไข</a> ของ Videodesk inc และในการใช้งานบริการนี้ต่อไปของคุณ นั้นความความว่าคุณได้ยินยอมทุกอย่างในการปรับปรุง ถ้าคุณไม่ยินยอมในข้อตกลงและเงื่อนไขเหล่านี้, โปรดอย่าใช้บริการนี้ 
+'You will can enter your text here': คุณสามารถป้อนข้อความของคุณได้ที่นี่
 
-'Discussion with %site%': Discussion with %site%
+'Discussion with %site%': การสนทนากับ %site%
 
-'hello': Hello
-'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': New message on website
-'message from videodesk module': New message from videodesk module
-'message originally intended to': Message sent to:
+'hello': สวัสดี
+'videodesk team': ทีมงาน videodesk <br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from': ข้อความใหม่บนเว็บไซต์
+'message from videodesk module': ข้อความใหม่จาก videodesk module
+'message originally intended to': ข้อความที่ส่งไปยัง:
 
-'Enter your question here': Enter your question here
+'Enter your question here': ใส่คำถามของคุณที่นี่
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
-firstname: First name
-lastname: Last name
-email: Email
-phone: Phone
-company: Company
-send: Send
-firstname required: Firstname required
-lastname required: Lastname required
-email required: Email required
-email invalid: Email invalid
-phone required: Phone required
-company required: Company required
-required: Mandatory field
+Please provide the details below and we will answer in a few seconds: โปรดใส่รายละเอียดทางด้านล่าง และเราจะตอบในเพียงไม่กี่วินาที
+firstname: ชื่อจริง
+lastname: นามสกุล
+email: อีเมล์
+phone: โทรศัพท์
+company: บริษัท
+send: ส่ง
+firstname required: ต้องใส่ ชื่อจริง
+lastname required: ต้องใส่นามสกุล
+email required: ต้องใส่อีเมล์
+email invalid: ไม่พบอีเมล์นี้
+phone required: ต้องใส่เบอร์โทรศัพท์
+company required: ต้องใส่บริษัท
+required: ช่องบังคับ
 
 #survey
-bad: bad
-poor: poor
-regular: regular
-good: good
-gorgeous: gorgeous
+bad: เลวร้าย
+poor: แย่
+regular: ปกติ
+good: ดี
+gorgeous: ไพเราะ
 
 #module texts
-'Live Help': CONTACT
-'agent(s) available': available agent(s)
-'Chat (video or text) for free with ecommerce experts': Chat (video or text) for free with e­commerce experts.
-'information help':   You can now chat with available agents. You can choose between video, audio or text chat. Immediate, simple, anonymous and free.
-'pending call text': Hello, you want to contact Videodesk. The agent you requested is immediately available to you.
-'flash security panel': Click on "Allow" to discuss.
-'Leave a text message': Sorry, I'm currently unavailable. Please leave me a message.
+'Live Help': ติดต่อ
+'agent(s) available': มีเจ้าหน้าที่ ติดต่อได้(s)
+'Chat (video or text) for free with ecommerce experts': สนทนา (วิดีโอ หรือ แช็ท) ฟรีกับผู้เชี่ยวชาญอีคอมเมิร์ซ
+'information help':   คุณสามารถสทนากับเจ้าหน้าที่ได้ในตอนนี้ คุณสามารถเลือกระหว่างการสนทนาด้วยภาพ เสียง หรือแช็ท ได้ในทันที ง่าย ไม่ต้องระบุชื่อ และฟรี
+'pending call text': สวัสดี คุณต้องการติดต่อกับ Videodesk เจ้าหน้าที่ที่คุณต้องการติดต่อพร้อมให้บริการคุณในทันที
+'flash security panel': คลิกที่ "อณุญาต" เพื่อสนทนา
+'Leave a text message': ขออภัย ฉันไม่สามารถสนทนาได้ในตอนนี้ กรุณาทิ้งข้อความถึงฉันไว้
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: My webcam is activated
-webcam_desactivated: My webcam is disabled
-mic_activated: My microphone activated
-mic_desactivated: My microphone disabled
-vid_resumed: Video of your contact resuming
-vid_stoped: Video of your contact stopped
+webcam_activated: เว็บแคมของฉันเปิดการใช้งานอยู่
+webcam_desactivated: เว็บแคมของฉันปิดการใช้งานอยู่
+mic_activated: ไมโครโฟนของฉันเปิดการใช้งานอยู่
+mic_desactivated: ไมโครโฟนของฉันปิดกาใช้งานอยู่
+vid_resumed: กลับสู่การติดต่อด้วยวิดีโอ
+vid_stoped: หยุดการใช้งานการติดต่อด้วยวิดีโอ
 #ROLL MSG
-activate_cam: Activate my webcam
-desactivate_cam: Disable my webcam
-activate_mic: Activate my microphone
-desactivate_mic: Disable my microphone
-stop_vid: Deactivate video of my contact
-resume_vid: Reactivate the video of my contact
-activate_volume: Activate sound
-desactivate_volume: Desactivate sound
+activate_cam: เปิดใช้งานเว็บแคมของฉัน
+desactivate_cam: ปิดใช้งานเว็บแคมของฉัน
+activate_mic: เปิดการใช้งานไมโครโฟนของฉัน
+desactivate_mic: ปิดการใช้งานไมโครโฟนของฉัน
+stop_vid: ปิดการใช้งานวิดีโอในการติดต่อของฉัน
+resume_vid: เปิดการใช้งานวิดีโอในการติดต่อของฉันอีกครั้ง
+activate_volume: เปิดการใช้งานเสียง
+desactivate_volume: ปิดการใช้งานเสียง
 #WAITING MSG
-peerFailed: Sorry, we couldn't establish video chat.<br />We're switching to text mode
-agentBusy: Sorry, the agent is already busy!
-waitRemote: Please wait, we are currently connecting<br />you. This may take some time.
-waitLocal: Waiting for your webcam to activate
-switchToAudio: Webcam deactivated, audio connection activating
-ncFailed: Sorry, we couldn't establish a connection.<br />You are in chat mode
+peerFailed: ขออภัย, เราไม่สามารถต่อการสนทนาวิดีโอได้<br />เรากำลังสลับไปยังรูปแบบแช็ท
+agentBusy: ขออภัย, เจ้าหน้าที่ไม่ว่าง!
+waitRemote: กรุณารอ, เรากำลังเชื่อมต่อ<br />คุณ ซึ่งนี้อาจจะใช้เวลาซักระยะ
+waitLocal: กำลังรอเการเปิดใช้งานว็บแคมของคุณ
+switchToAudio: เว็บแคมถูกปิดการใช้งาน, กำลังเชื่อมต่อการใช้งานเสียง
+ncFailed: ขออภัย เราไม่สามารถทำการเชื่อมต่อได้<br />คุณอยู่ในรูปแบบแช็ท
 #ATTENTION MSG
-userNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#1)
-agentNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#2)
-agentFlashCrashed: Because of a network problem,<br />We will switch you to chat mode.(#4)
-userNoCamButMic: We have not detected a webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We will switch you to audio mode.(#5)
-userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We will switch you to chat mode.(#6)
-agentNoCamButMic: The agent didn't have a webcam.<br />We will switch you to audio mode.(#7)
-agentNiCamNiMic: The agent didn't have a webcam or a microphone.<br /><br />We will switch you in chat mode.(#8)
-userDenyFlash: You denied the access to your webcam<br />and to your microphone.<br /><br />We will switch you in chat mode.(#9)
-noPeerConnection: Because of a network problem,<br />We will switch you to chat mode.(#11)
-userConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#11)
-agentConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#110)
-userNoMic: We did not detect any microphone.<br />You must be equipped with a microphone to be able to launch an audio- chat.<br /><br />We will switch you to chat mode.(#12)
-agentNoMic: The agent doesn't have any microphone<br />We switched him to chat mode.<br /><br />We will switch you to chat mode.(#13)
-userRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#15)
-agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
+userNoFMSConnection: เนื่องจากปัญหาเครือข่าย,<br />เราจะทำการสลับคุณไปในรูปแบบการแช็ท(#1)
+agentNoFMSConnection: เนื่องจากปัญหาเครื่อข่าย,<br />เราจะทำการสลับคุณไปในรูปแบบการแช็ท(#2)
+agentFlashCrashed: นื่องจากปัญหาเครื่อข่าย,<br />เราจะทำการสลับคุณไปในรูปแบบการแช็ท(#4)
+userNoCamButMic: เราตรวจไม่พบเว็บแคม<br /><br /> คุณจะต้องทำการติดตั้งเว็บแคมเพื่อเริ่มต้นวิดีโอแช็ท<br /><br />เราจะสลับคุณไปยังรูปแบบเสียง(#5)
+userNiCamNiMic: เราตรวจไม่พบเว็บแคม,<br />หรือไมโครโฟน<br />คุณจะต้องทำการติดตั้งเว็บแคม<br />หรือไมโครโฟน<br />เพื่อเริ่มต้นวิดีโอแช็ท<br /><br />เราจะทำการสลับคุณไปยังรูปแบบการแช็ท.(#6)
+agentNoCamButMic: เจ้าหน้าที่ไม่มีเว็บแคม<br />เราจะสลับคุณไปยังรูปแบบเสียง(#7)
+agentNiCamNiMic: เจ้าหน้าที่ไม่มีเว็บแคมหรือไมโครโฟน<br /><br />เราจะสลับคุณไปยังรูปแบบการแช็ท(#8)
+userDenyFlash: คุณปฎิเสธการเข้าถึงเว็บแค็มของคุณ<br />และการเข้าถึงไมโครโฟนของคุณ<br /><br />เราจะสลับคุณไปยังรูปแบบการแช็ท(#9)
+noPeerConnection: เนื่องจากปัญหาเครือข่าย,<br />เราจะทำการสลับคุณไปในรูปแบบการแช็ท(#11)
+userConnectionFailed: เนื่องจากปัญหาเครือข่าย,<br />เราจะทำการสลับคุณไปในรูปแบบการแช็ท(#11)
+agentConnectionFailed: เนื่องจากปัญหาเครือข่าย,<br />เราจะทำการสลับคุณไปในรูปแบบการแช็ท(#110)
+userNoMic: เราตรวจไม่พบไมโครโฟนใดๆเลย<br />คุณจะต้องทำกาติดตั้งไมโครโฟนเพื่อเริ่มทำการแช็ทด้วยเสียง<br /><br />เราจะสลับคุณไปยังรูปแบบการแช็ท(#12)
+agentNoMic: เจ้าหน้าที่ไม่มีไมโครโฟน<br />เราจะทำการสลับเขาไปยังรูปแบบการแช็ท<br /><br />เราจะทำการสลับคุณไปยังรูปแบบการแช็ท(#13)
+userRtmptConnection: การทำงานของเครือข่ายไม่สามารถให้คุณภาพของวิดีโอและเสียงที่ดีได้ ดังนั้นเราแนะนำให้ใช้การแช็ทผ่านข้อความในการสนทนา (#15)
+agentRtmptConnection: การทำงานของเครือข่ายไม่สามารถให้คุณภาพของวิดีโอและเสียงที่ดีได้ ดังนั้นเราแนะนำให้ใช้การแช็ทผ่านข้อความในการสนทนา(#16)
 
-remote_audio_desactivated: The sound is muted
-remote_audio_activated: The sound is active
-click_allow_to_start: Click on "Allow" to start.
+remote_audio_desactivated: เสียงถูกปิดอยู่
+remote_audio_activated: เสียงถูกเปิดอยู่
+click_allow_to_start: คลิ๊กที่ "อนุญาต" เพื่อเริ่ม.
 
 
 #REFACTOR
-type here: Type your message here...
-Do you want to close the discussion?: Do you want to close the discussion?
-Yes: Yes
-No: No
-send: Send
-your firstname: First name
-Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
-your lastname: Last name
-your company: Company
-your email: Email
-your phone: Phone
-your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
-Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
-has this dialog been helpful: Has this dialog been helpful?
-Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
-Any comments or suggestions: Comments? Suggestions?
-Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
-Please enter your e-mail address: Please enter your e-mail address
-Please give a valid address: Please give a valid address
-The record has been successfully sent: The record has been successfully sent
-Ongoing discussion: Ongoing discussion
-your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
-Please fill email field: Please fill email field
-Please fill phone field: Please fill phone field
-Please fill message textarea: Please fill message textarea
-Please fill firstname field: Please fill firstname field
-Please fill lastname field: Please fill lastname field
-Please fill company field: Please fill company field
-call audio: Audio Call
-call video: Video Call
-video suggestion: Video suggestion
-audio suggestion: Audio suggestion
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
-GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+type here: พิมพ์ข้อความของคุณที่นี่...
+Do you want to close the discussion?: คุณต้องการปิดการสนทนาใช่ไหม?
+Yes: ใช่
+No: ไม่
+send: ส่ง
+your firstname: ชื่อจริง
+Please fill at least one of highlighted fields: กรุณากรอกอย่างน้อยหนึ่งช่องที่เน้นแถบสี
+your lastname: นามสกุล
+your company: บริษัท
+your email: อีเมล์
+your phone: โทรศัพท์
+your message: ข้อความ
+Your conversation has ended.Thank you for contacting us!: <strong>การสนทนาของคุณสิ้นสุดลงแล้ว</strong><br />ขอบคุณสำหรับการติดต่อเรา!
+Recall this operator now: เรียกเจ้าหน้าที่นี้อีกครั้งในตอนนี้!
+give us your feedback about the conversation: โปรดแจ้ง<strong>ข้อเสนอแนะ</strong><br/>เกี่ยวกับการสนทนาแก่เรา
+has this dialog been helpful: การโต้ตอบนี้เป็นประโยชน์ใช่ไหม?
+Would you recommend this experience to your facebook friends: คุณจะแนะนำประสบการณ์นี้ให้เพื่อน Facebook ของคุณใช่ไหม?
+Any comments or suggestions: ความคิดเห็น? คำเสนอแนะ?
+Get a reccord of this conversation by e-mail: รับบันทึกการสนทนาของคุณผ่านทางอีเมล์
+Please enter your e-mail address: กรุณาใส่ที่อยู่อีเมล์ของคุณ
+Please give a valid address: กรุณาให้ที่อยู่ที่ถูกต้อง
+The record has been successfully sent: บันทึกถูกส่งเรียบร้อยแล้ว
+Ongoing discussion: กำลังสนทนาอยู่
+your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />ข้อความของคุณถูกส่งเรียบร้อยแล้ว เราจะติดต่อคุณในไม่ช้า
+Please fill email field: กรุณากรอกข้อมูลอีเมล์
+Please fill phone field: กรุณากรอกข้อมูลโทรศัพท์
+Please fill message textarea: กรุณากรอกข้อความในช่องข้อความ
+Please fill firstname field: กรุณากรอกข้อมูลชื่อจริง
+Please fill lastname field: กรุณากรอกข้อมูลนามสกุล
+Please fill company field: กรุณากรอกข้อมูลชื่อบริษัท
+call audio: สนทนาด้วยเสียง
+call video: สนทนาด้วยวิดีโอ
+video suggestion: ข้อเสนอแนะวิดีโอ
+audio suggestion: ข้อเสนอแนะเสียง
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: เราอยู่ที่นี่เพื่อช่วยเหลือ!<br />ที่ปรึกษาฝ่ายขายออนไลน์.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: Wเราอยู่ที่นี่เพื่อช่วยเหลือ!<br />กรุณาฝากข้อความ.
+GIVE US YOUR FEEDBACK! THANK YOU: ให้ข้อเสนอแนะแก่เรา!<br />ขอบคุณ
 
 #transcript mail
-Hi: Hello,
-You reached: You have contacted
-We have to pleasure to send you the transcript of your discussion.: It is our pleasure to send you a transcript of your discussion.
-We look forward to seeing you again on: We look forward to seeing you again.
-Thank you for your visit: Thank you for your visit.
-videodesk team: The Videodesk team
-transcript: Transcript,
-yours transcripts with: Your transcript with
-We can talk, you are seeing.: We can talk, you are seeing.
-We can talk, you are not seeing.: We can talk, you are not seeing.
+Hi: สวัสดี,
+You reached: คุณได้รับการติดต่อ
+We have to pleasure to send you the transcript of your discussion.: มันเป็นความยินดีของเราที่ได้ส่งสำเนาการสนทนาของคุณ
+We look forward to seeing you again on: เราหวังว่าจะได้พบคุณอีกครั้ง
+Thank you for your visit: ขอบคุณสำหรับการเยี่ยมชมของคุณ
+videodesk team: ทีมงาน Videodesk
+transcript: สำเนา,
+yours transcripts with: สำเนาของคุณกับ
+We can talk, you are seeing.: เราสามารถพูดคุยได้ ทั้งที่คุณเห็น.
+We can talk, you are not seeing.: เราสามารถพูดคุยได้ ทั้งที่คุณไม่เห็น
