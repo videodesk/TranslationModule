@@ -85,6 +85,91 @@ gorgeous: gorgeous
 'Leave a text message': Sorry, I'm currently unavailable. Please leave me a message.
 
 
+#--------------FLASH PANEL-----------------
+#TMP MSG
+webcam_activated: My webcam is activated
+webcam_desactivated: My webcam is disabled
+mic_activated: My microphone activated
+mic_desactivated: My microphone disabled
+vid_resumed: Video of your contact resuming
+vid_stoped: Video of your contact stopped
+#ROLL MSG
+activate_cam: Activate my webcam
+desactivate_cam: Disable my webcam
+activate_mic: Activate my microphone
+desactivate_mic: Disable my microphone
+stop_vid: Deactivate video of my contact
+resume_vid: Reactivate the video of my contact
+activate_volume: Activate sound
+desactivate_volume: Desactivate sound
+#WAITING MSG
+peerFailed: Sorry, we couldn't establish video chat.<br />We're switching to text mode
+agentBusy: Sorry, the agent is already busy!
+waitRemote: Please wait, we are currently connecting<br />you. This may take some time.
+waitLocal: Waiting for your webcam to activate
+switchToAudio: Webcam deactivated, audio connection activating
+ncFailed: Sorry, we couldn't establish a connection.<br />You are in chat mode
+#ATTENTION MSG
+userNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#1)
+agentNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#2)
+agentFlashCrashed: Because of a network problem,<br />We will switch you to chat mode.(#4)
+userNoCamButMic: We have not detected a webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We will switch you to audio mode.(#5)
+userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We will switch you to chat mode.(#6)
+agentNoCamButMic: The agent didn't have a webcam.<br />We will switch you to audio mode.(#7)
+agentNiCamNiMic: The agent didn't have a webcam or a microphone.<br /><br />We will switch you in chat mode.(#8)
+userDenyFlash: You denied the access to your webcam<br />and to your microphone.<br /><br />We will switch you in chat mode.(#9)
+noPeerConnection: Because of a network problem,<br />We will switch you to chat mode.(#11)
+userConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#11)
+agentConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#110)
+userNoMic: We did not detect any microphone.<br />You must be equipped with a microphone to be able to launch an audio- chat.<br /><br />We will switch you to chat mode.(#12)
+agentNoMic: The agent doesn't have any microphone<br />We switched him to chat mode.<br /><br />We will switch you to chat mode.(#13)
+userRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#15)
+agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
+
+remote_audio_desactivated: The sound is muted
+remote_audio_activated: The sound is active
+click_allow_to_start: Click on "Allow" to start.
+
+
+#REFACTOR
+type here: Type your message here...
+Do you want to close the discussion?: Do you want to close the discussion?
+Yes: Yes
+No: No
+send: Send
+your firstname: First name
+Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
+your lastname: Last name
+your company: Company
+your email: Email
+your phone: Phone
+your message: Message
+Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
+Recall this operator now: Recall this operator now!
+give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
+has this dialog been helpful: Has this dialog been helpful?
+Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
+Any comments or suggestions: Comments? Suggestions?
+Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
+Please enter your e-mail address: Please enter your e-mail address
+Please give a valid address: Please give a valid address
+The record has been successfully sent: The record has been successfully sent
+Ongoing discussion: Ongoing discussion
+your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
+Please fill email field: Please fill email field
+Please fill phone field: Please fill phone field
+Please fill message textarea: Please fill message textarea
+Please fill firstname field: Please fill firstname field
+Please fill lastname field: Please fill lastname field
+Please fill company field: Please fill company field
+call audio: Audio Call
+call video: Video Call
+video suggestion: Video suggestion
+audio suggestion: Audio suggestion
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
+GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+
 #transcript mail
 Hi: Hello,
 You reached: You contacted 

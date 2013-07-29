@@ -1,61 +1,61 @@
-'let a message': gửi tin nhắn Vietnamese
-'chat call': Chat-Call in Vietnamese
-'audio call': Audio-Call in Vietnamese
-'video call': Video-Call in Vietnamese
-'information help': information help in Vietnamese
-'faq help': mehr Infos
-'Your discussion has ended': Ihre Unterhaltung ist beendet.<br />Vielen Dank für Ihr Vertrauen.
-'Please, rate this discussion': Ihre Meinung ist uns wichtig
-'Discussion helpful ?': War dieser Dialog hilfreich?
-'Would you recommend this experience to your friends?': Würden Sie dies Ihren Freunden weiterempfehlen?
-'Any comments ?': Mögliche Vorschläge
-'chat transcript': Wenn Sie die Inhalte Ihrer Chat-<br />Nachrichten erhalten wollen, hinterlassen Sie bitte Ihre E-Mail-Adresse.
-'Webuser is typing': schreibt gerade...
-'Type your text here': 'geben Sie Ihren Text hier ein'
-'agent dont answer': Der Mitarbeiter ist zur Zeit nicht erreichbar
-'chat redirection': Chat-Anruf
-'agent close communication': Der Mitarbeiter hat aufgelegt
-'Deprecated version of Flash Chat only': Alte Flash-Version. 
-'i am currently unavailable': Leider bin ich im Augenblick nicht zu erreichen. 
-'Your mail': Ihre E-Mail
-'Or': Oder
-'Please type your message here': Bitte geben Sie hier Ihre Nachricht ein
-'message field required': Nachricht erforderlich
-'email or phone field required': E-Mail oder Telefonnummer erforderlich
-'send': senden
-'not ready to switch': 'nicht bereit zum Wechsel'
-'will answer in a few seconds': 'wird in einigen Sekunden antworten.'
-'Email adress': 'E-Mail-Adresse'
-'Phone number': 'Telefonnummer'
-'Phone': 'Telefonnummer'
-'email invalide': 'Ungültige E-Mail-Adresse'
-'Discutez en video' : 'Video-Chat'
-'Discutez en audio' : 'Audio-Chat'
-'Discutez en chat' : 'Text-Chat'
-'Laissez un message' : 'Nachricht' 
-'agent-accept-communication' : Anruf angenommen
-'agent indisponible. redirection vers message': Mitarbeiter nicht verfügbar, Weiterleitung an Nachricht
-'webuser': ich
-'user flash crash': Shockwave Flash abgestürzt. Sie werden im Text-Chat-Modus angemeldet
-'Survey sent': Umfrage gesendet
-'message sent': Nachricht wurde gesendet
-'cgv': Da Sie diesen Service benutzen, haben Sie die <a href="http://www.videodesk.com/terms" target="_blank">allgemeinen Geschäftsbedingungen</a> von Videodesk inc akzeptiert. Wenn Sie diesen Service weiterhin benutzen, stimmen Sie damit Änderungen in diesen ebenfalls zu.  
-'Discussion with %site%': Diskussion mit %site%
-'You will can enter your text here': Sie können Sie hier Ihren Text ein
+'let a message': Leave a message
+'chat call': Chat call
+'audio call': Audio call
+'video call': Video call
+'information help': more information
+'faq help': more information
+'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
+'Please, rate this discussion': Your opinion matters to us.
+'Discussion helpful ?': Has this discussion been useful?
+'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
+'Any comments ?': Suggestions
+'chat transcript': If you would like to receive the transcript of your discussion, please leave your e-mail address.
+'Webuser is typing': is writing...
+'Type your text here': Type your text here
+'agent dont answer': The agent is unavailable
+'chat redirection': Chat call
+'agent close communication': The agent ended the call
+'Deprecated version of Flash Chat only': Deprecated version of Flash.
+'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
+'Your mail': Your email
+'Or': Or
+'Please type your message here': Please type your message here
+'message field required': Message required
+'email or phone field required': Email or phone required
+'send': Send
+'not ready to switch': not ready to switch
+'will answer in a few seconds': will be available in a few seconds.
+'Email adress': Email address
+'Phone number': Phone number
+'Phone': Phone number
+'email invalide': Invalid email
+'Discutez en video' : Video chat
+'Discutez en audio' : Audio chat
+'Discutez en chat' : Text chat
+'Laissez un message' : Leave a message
+'agent-accept-communication' : Communication accepted
+'agent indisponible. redirection vers message': Agent unavailable, redirection to message
+'webuser': Me
+'user flash crash': shockwave flash has crashed. You're in text chat mode.
+'Survey sent': Survey sent
+'message sent': Message sent
+'cgv': By using this service means you agree to the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
+'You will can enter your text here': You will be able to enter your text here
 
-'hello': Hallo
-'videodesk team': videodesk Team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': Neue Nachricht auf der Website
-'message from videodesk module': Neue Nachricht von videodesk Modul
-'message originally intended to': Nachricht an:
+'Discussion with %site%': Discussion with %site%
 
-'Enter your question here': Fragen Sie uns hier:
+'hello': Hello
+'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from': New message on website
+'message from videodesk module': New message from videodesk module
+'message originally intended to': Message sent to:
 
+'Enter your question here': Enter your question here
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
-firstname: Firstname
-lastname: Lastname
+firstname: First name
+lastname: Last name
 email: Email
 phone: Phone
 company: Company
@@ -66,7 +66,7 @@ email required: Email required
 email invalid: Email invalid
 phone required: Phone required
 company required: Company required
-required: required field
+required: Mandatory field
 
 #survey
 bad: bad
@@ -78,21 +78,105 @@ gorgeous: gorgeous
 #module texts
 'Live Help': CONTACT
 'agent(s) available': available agent(s)
-'Chat (video or text) for free with ecommerce experts': Chat (video or text) for free with e­commerce experts
+'Chat (video or text) for free with ecommerce experts': Chat (video or text) for free with e­commerce experts.
 'information help':   You can now chat with available agents. You can choose between video, audio or text chat. Immediate, simple, anonymous and free.
-'pending call text': Hello, You want to contact Videodesk. He requested contact is immediately available to you.
-'flash security panel': Click on "Allow" to discuss
+'pending call text': Hello, you want to contact Videodesk. The agent you requested is immediately available to you.
+'flash security panel': Click on "Allow" to discuss.
 'Leave a text message': Sorry, I'm currently unavailable. Please leave me a message.
 
+#--------------FLASH PANEL-----------------
+#TMP MSG
+webcam_activated: My webcam is activated
+webcam_desactivated: My webcam is disabled
+mic_activated: My microphone activated
+mic_desactivated: My microphone disabled
+vid_resumed: Video of your contact resuming
+vid_stoped: Video of your contact stopped
+#ROLL MSG
+activate_cam: Activate my webcam
+desactivate_cam: Disable my webcam
+activate_mic: Activate my microphone
+desactivate_mic: Disable my microphone
+stop_vid: Deactivate video of my contact
+resume_vid: Reactivate the video of my contact
+activate_volume: Activate sound
+desactivate_volume: Desactivate sound
+#WAITING MSG
+peerFailed: Sorry, we couldn't establish video chat.<br />We're switching to text mode
+agentBusy: Sorry, the agent is already busy!
+waitRemote: Please wait, we are currently connecting<br />you. This may take some time.
+waitLocal: Waiting for your webcam to activate
+switchToAudio: Webcam deactivated, audio connection activating
+ncFailed: Sorry, we couldn't establish a connection.<br />You are in chat mode
+#ATTENTION MSG
+userNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#1)
+agentNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#2)
+agentFlashCrashed: Because of a network problem,<br />We will switch you to chat mode.(#4)
+userNoCamButMic: We have not detected a webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We will switch you to audio mode.(#5)
+userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We will switch you to chat mode.(#6)
+agentNoCamButMic: The agent didn't have a webcam.<br />We will switch you to audio mode.(#7)
+agentNiCamNiMic: The agent didn't have a webcam or a microphone.<br /><br />We will switch you in chat mode.(#8)
+userDenyFlash: You denied the access to your webcam<br />and to your microphone.<br /><br />We will switch you in chat mode.(#9)
+noPeerConnection: Because of a network problem,<br />We will switch you to chat mode.(#11)
+userConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#11)
+agentConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#110)
+userNoMic: We did not detect any microphone.<br />You must be equipped with a microphone to be able to launch an audio- chat.<br /><br />We will switch you to chat mode.(#12)
+agentNoMic: The agent doesn't have any microphone<br />We switched him to chat mode.<br /><br />We will switch you to chat mode.(#13)
+userRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#15)
+agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
+
+remote_audio_desactivated: The sound is muted
+remote_audio_activated: The sound is active
+click_allow_to_start: Click on "Allow" to start.
+
+
+#REFACTOR
+type here: Type your message here...
+Do you want to close the discussion?: Do you want to close the discussion?
+Yes: Yes
+No: No
+send: Send
+your firstname: First name
+Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
+your lastname: Last name
+your company: Company
+your email: Email
+your phone: Phone
+your message: Message
+Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
+Recall this operator now: Recall this operator now!
+give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
+has this dialog been helpful: Has this dialog been helpful?
+Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
+Any comments or suggestions: Comments? Suggestions?
+Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
+Please enter your e-mail address: Please enter your e-mail address
+Please give a valid address: Please give a valid address
+The record has been successfully sent: The record has been successfully sent
+Ongoing discussion: Ongoing discussion
+your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
+Please fill email field: Please fill email field
+Please fill phone field: Please fill phone field
+Please fill message textarea: Please fill message textarea
+Please fill firstname field: Please fill firstname field
+Please fill lastname field: Please fill lastname field
+Please fill company field: Please fill company field
+call audio: Audio Call
+call video: Video Call
+video suggestion: Video suggestion
+audio suggestion: Audio suggestion
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
+GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
 
 #transcript mail
 Hi: Hello,
-You reached: You contacted 
-We have to pleasure to send you the transcript of your discussion.: We have to pleasure to send you the transcript of your discussion.
-We look forward to seeing you again on: We look forward to seeing you again 
+You reached: You have contacted
+We have to pleasure to send you the transcript of your discussion.: It is our pleasure to send you a transcript of your discussion.
+We look forward to seeing you again on: We look forward to seeing you again.
 Thank you for your visit: Thank you for your visit.
 videodesk team: The Videodesk team
 transcript: Transcript,
 yours transcripts with: Your transcript with
 We can talk, you are seeing.: We can talk, you are seeing.
-We can talk, you are not seeing.: We can talk, you are not seeing.
+We can talk, you are not seeing.: We can talk, the agent does not see you.

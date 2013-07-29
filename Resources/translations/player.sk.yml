@@ -126,3 +126,56 @@ userRtmptConnection: The network performances do not allow a good video/audio qu
 agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
 remote_audio_desactivated: The sound is muted
 remote_audio_activated: The sound is active
+
+
+#REFACTOR
+type here: Type your message here...
+Do you want to close the discussion?: Do you want to close the discussion?
+Yes: Yes
+No: No
+send: Send
+your firstname: First name
+Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
+your lastname: Last name
+your company: Company
+your email: Email
+your phone: Phone
+your message: Message
+Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
+Recall this operator now: Recall this operator now!
+give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
+has this dialog been helpful: Has this dialog been helpful?
+Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
+Any comments or suggestions: Comments? Suggestions?
+Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
+Please enter your e-mail address: Please enter your e-mail address
+Please give a valid address: Please give a valid address
+The record has been successfully sent: The record has been successfully sent
+Ongoing discussion: Ongoing discussion
+your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
+Please fill email field: Please fill email field
+Please fill phone field: Please fill phone field
+Please fill message textarea: Please fill message textarea
+Please fill firstname field: Please fill firstname field
+Please fill lastname field: Please fill lastname field
+Please fill company field: Please fill company field
+call audio: Audio Call
+call video: Video Call
+video suggestion: Video suggestion
+audio suggestion: Audio suggestion
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
+GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+
+#transcript mail
+Hi: Hello,
+You reached: You have contacted
+We have to pleasure to send you the transcript of your discussion.: It is our pleasure to send you a transcript of your discussion.
+We look forward to seeing you again on: We look forward to seeing you again.
+Thank you for your visit: Thank you for your visit.
+videodesk team: The Videodesk team
+transcript: Transcript,
+yours transcripts with: Your transcript with
+We can talk, you are seeing.: We can talk, you are seeing.
+We can talk, you are not seeing.: We can talk, the agent does not see you.
+
