@@ -81,9 +81,9 @@ gorgeous: Отличный
 'information help': Теперь вы можете общаться с доступными консультантами. Вы можете выбирать между диалогом через видео, аудио или текстовым диалогом. Пользуйтесь бесплатной помощью в режиме реального времени.<br /><br />Незамедлительно, просто и анонимно.
 'pending call text': Здравствуйте, Вы хотите связаться с Videodesk. Запрашиваемый контакт доступен сейчас, чтобы ответить вам.
 'flash security panel': Нажмите кнопку "Разрешить", чтобы общаться
-'Leave a text message': К сожалению, сейчас я недоступен. Спасибо за оставленное мне сообщение.
+'Leave a text message': К сожалению, сейчас я недоступен. Спасибо за оставленное мне сообщение. 
 
- 
+
 #--------------FLASH PANEL-----------------
 #TMP MSG
 webcam_activated: My webcam is activated
@@ -169,7 +169,7 @@ WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES AD
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
 GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
 
- #transcript mail
+#transcript mail
 Hi: привет,
 You reached: Вы связались
 We have to pleasure to send you the transcript of your discussion.: Мы должны удовольствие направить Вам стенограмму вашего обсуждения.
