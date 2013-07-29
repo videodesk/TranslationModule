@@ -167,6 +167,17 @@ audio suggestion: Audio doporučení
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: JSME TU PRO VÁS!<br />SKUTEČNÝ OSOBNÍ ASISTENT.
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: JSME TU PRO VÁS!<br />ZANECHTE NÁM PROSÍM VZKAZ
 
+#V1.2
+required field: required field
+message sent: message sent
+Before contacting you operator: Before contacting you operator,<br/>Please give up a few infos:
+No operator is available for the moment: No operator is available for the moment.
+Please leave me a message: Please leave me a message
+Please leave a message: Please leave a message
+Do you Want to start an audio call with me: Do you Want to start an audio call with me?
+Do you Want to start a video call with me: Do you Want to start a video call with me?
+e-mail invalid: e-mail invalid
+
 #transcript mail
 Hi: Dobrý den,,
 You reached: jste kontaktován

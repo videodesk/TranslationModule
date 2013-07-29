@@ -169,6 +169,17 @@ WE ARE HERE TO HELP! LIVE SALES ADVISOR: เราอยู่ที่นี่
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: Wเราอยู่ที่นี่เพื่อช่วยเหลือ!<br />กรุณาฝากข้อความ.
 GIVE US YOUR FEEDBACK! THANK YOU: ให้ข้อเสนอแนะแก่เรา!<br />ขอบคุณ
 
+#V1.2
+required field: Required field
+message sent: Message sent
+Before contacting you operator: Before contacting you operator,<br/>Please give up a few infos:
+No operator is available for the moment: No operator is available for the moment.
+Please leave me a message: Please leave me a message
+Please leave a message: Please leave a message
+Do you Want to start an audio call with me: Do you Want to start an audio call with me?
+Do you Want to start a video call with me: Do you Want to start a video call with me?
+e-mail invalid: Invalid Email
+
 #transcript mail
 Hi: สวัสดี,
 You reached: คุณได้รับการติดต่อ

@@ -166,6 +166,16 @@ WE ARE HERE TO HELP! LIVE SALES ADVISOR: AIDE EN DIRECT !<br /> CONSEILLER DISPO
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: AIDE EN DIRECT !<br /> LAISSEZ-NOUS UN MESSAGE !
 GIVE US YOUR FEEDBACK! THANK YOU: DONNEZ-NOUS VOTRE AVIS !<br /> MERCI
 
+#V1.2
+required field: Champs obligatoire
+message sent: Message envoyé
+Before contacting you operator: Avant de rentrer en communication avec un conseiller,<br />merci de nous donner quelques informations :
+No operator is available for the moment: Pas de conseiller disponible pour le moment.
+Please leave me a message: Merci de me laisser un message.
+Please leave a message: Merci de laisser un message.
+Do you Want to start an audio call with me: Voulez-vous commencer une discussion audio ?
+Do you Want to start a video call with me: Voulez-vous commencer une discussion vidéo ?
+e-mail invalid: Email invalide.
 
 #transcript mail
 Hi: Bonjour,
