@@ -176,6 +176,10 @@ Please leave a message: Merci de laisser un message.
 Do you Want to start an audio call with me: Voulez-vous commencer une discussion audio ?
 Do you Want to start a video call with me: Voulez-vous commencer une discussion vidéo ?
 e-mail invalid: Email invalide.
+close webpage cause end of the discussion: La fermeture de la page entraine la fin de la discussion
+survey sent: Message envoyé
+agent hangup: Le conseiller a raccroché
+agent unavailable: Conseiller indisponible
 
 #transcript mail
 Hi: Bonjour,
