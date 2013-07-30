@@ -34,9 +34,9 @@
 'Discutez en chat' : Text chat
 'Laissez un message' : Leave a message
 'agent-accept-communication' : Communication accepted
-'agent indisponible. redirection vers message': Agent unavailable, redirection to message
+'agent indisponible. redirection vers message': Your agent is unavailable, you can leave a message
 'webuser': Me
-'user flash crash': shockwave flash has crashed. You're in text chat mode.
+'user flash crash': Your video software has a problem, please use text chat
 'Survey sent': Survey sent
 'message sent': Message sent
 'cgv': By using this service means you agree to the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
@@ -57,14 +57,14 @@ Please provide the details below and we will answer in a few seconds: Please pro
 firstname: First name
 lastname: Last name
 email: Email
-phone: Phone
+phone: Phone nb
 company: Company
 send: Send
 firstname required: Firstname required
 lastname required: Lastname required
 email required: Email required
-email invalid: Email invalid
-phone required: Phone required
+email invalid: Invalid e-mail
+phone required: Phone nb required
 company required: Company required
 required: Mandatory field
 
@@ -76,57 +76,57 @@ good: good
 gorgeous: gorgeous
 
 #module texts
-'Live Help': CONTACT
+'Live Help': Live Help
 'agent(s) available': available agent(s)
-'Chat (video or text) for free with ecommerce experts': Chat (video or text) for free with e­commerce experts.
+'Chat (video or text) for free with ecommerce experts': Chat (text, audio or video) for free with our experts.
 'information help':   You can now chat with available agents. You can choose between video, audio or text chat. Immediate, simple, anonymous and free.
-'pending call text': Hello, you want to contact Videodesk. The agent you requested is immediately available to you.
+'pending call text': Hello, you want to contact us. Your agent is immediately available to you.
 'flash security panel': Click on "Allow" to discuss.
 'Leave a text message': Sorry, I'm currently unavailable. Please leave me a message.
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: My webcam is activated
-webcam_desactivated: My webcam is disabled
-mic_activated: My microphone activated
-mic_desactivated: My microphone disabled
-vid_resumed: Video of your contact resuming
-vid_stoped: Video of your contact stopped
+webcam_activated: My webcam is on
+webcam_desactivated: My webcam is off
+mic_activated: My microphone is on
+mic_desactivated: My microphone is muted
+vid_resumed: The video of your agent is resuming
+vid_stoped: The video of your agent is off
 #ROLL MSG
 activate_cam: Activate my webcam
 desactivate_cam: Disable my webcam
 activate_mic: Activate my microphone
-desactivate_mic: Disable my microphone
-stop_vid: Deactivate video of my contact
-resume_vid: Reactivate the video of my contact
-activate_volume: Activate sound
-desactivate_volume: Desactivate sound
+desactivate_mic: Mute my microphone
+stop_vid: Stop the video of the agent
+resume_vid: Resume the video of the agent
+activate_volume: Unmute the speakers
+desactivate_volume: Mute the speakers
 #WAITING MSG
-peerFailed: Sorry, we couldn't establish video chat.<br />We're switching to text mode
+peerFailed: Sorry, we couldn't set up the call.<br />You can text chat with your agent
 agentBusy: Sorry, the agent is already busy!
-waitRemote: Please wait, we are currently connecting<br />you. This may take some time.
-waitLocal: Waiting for your webcam to activate
-switchToAudio: Webcam deactivated, audio connection activating
-ncFailed: Sorry, we couldn't establish a connection.<br />You are in chat mode
+waitRemote: Please wait, we are currently connecting<br />you. This may take some time
+waitLocal: Waiting for your webcam to connect
+switchToAudio: Webcam disabled, we set up an audio connection
+ncFailed: Sorry, we couldn't set up the calln.<br />You can text chat with your agent
 #ATTENTION MSG
-userNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#1)
-agentNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#2)
-agentFlashCrashed: Because of a network problem,<br />We will switch you to chat mode.(#4)
-userNoCamButMic: We have not detected a webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We will switch you to audio mode.(#5)
-userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We will switch you to chat mode.(#6)
-agentNoCamButMic: The agent didn't have a webcam.<br />We will switch you to audio mode.(#7)
-agentNiCamNiMic: The agent didn't have a webcam or a microphone.<br /><br />We will switch you in chat mode.(#8)
-userDenyFlash: You denied the access to your webcam<br />and to your microphone.<br /><br />We will switch you in chat mode.(#9)
-noPeerConnection: Because of a network problem,<br />We will switch you to chat mode.(#11)
-userConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#11)
-agentConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#110)
-userNoMic: We did not detect any microphone.<br />You must be equipped with a microphone to be able to launch an audio- chat.<br /><br />We will switch you to chat mode.(#12)
-agentNoMic: The agent doesn't have any microphone<br />We switched him to chat mode.<br /><br />We will switch you to chat mode.(#13)
-userRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#15)
-agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
+userNoFMSConnection: Because of a network problem,<br />We switch you to text chat.(#1)
+agentNoFMSConnection: Because of a network problem,<br />We switch you to text chat.(#2)
+agentFlashCrashed: Because of a network problem,<br />We switch you to text chat.(#4)
+userNoCamButMic: We did not detect your webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We switch you to audio mode.(#5)
+userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We switch you to chat mode.(#6)
+agentNoCamButMic: The agent has no webcam.<br />We switch you to audio chat.(#7)
+agentNiCamNiMic: The agent has no webcam and no microphone.<br /><br />We switch you in text chat.(#8)
+userDenyFlash: You denied access to your webcam<br />and to your microphone.<br /><br />We switch you in text chat.(#9)
+noPeerConnection: Because of a network problem,<br />We switch you to text chat.(#11)
+userConnectionFailed: Because of a network problem,<br />We switch you to text chat.(#11)
+agentConnectionFailed: Because of a network problem,<br />We witch you to text chat.(#110)
+userNoMic: We did not detect any microphone.<br />You must be equipped with a microphone to be able to launch an audio chat.<br /><br />We witch you to text chat.(#12)
+agentNoMic: The agent has no microphone<br />We witch you to text chat.(#13)
+userRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#15)
+agentRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#16)
 
 remote_audio_desactivated: The sound is muted
-remote_audio_activated: The sound is active
+remote_audio_activated: The sound is on
 click_allow_to_start: Click on "Allow" to start.
 
 
@@ -143,7 +143,7 @@ your company: Company
 your email: Email
 your phone: Phone
 your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
+Your conversation has ended.Thank you for contacting us!: <strong>Your discussion is closed.</strong><br />Thank you for contacting us!
 Recall this operator now: Recall this operator now!
 give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
 has this dialog been helpful: Has this dialog been helpful?
@@ -163,8 +163,8 @@ Please fill lastname field: Please fill lastname field
 Please fill company field: Please fill company field
 call audio: Audio Call
 call video: Video Call
-video suggestion: Video call
-audio suggestion: Audio call
+video suggestion: Video suggestion
+audio suggestion: Audio suggestion
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
 GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
@@ -183,7 +183,6 @@ close webpage cause end of the discussion: Close webpage cause end of the discus
 survey sent: Survey sent 
 agent hangup: Agent hangup
 agent unavailable: Agent unavailable 
-    
 
 #transcript mail
 Hi: Hello,
@@ -194,5 +193,5 @@ Thank you for your visit: Thank you for your visit.
 videodesk team: The Videodesk team
 transcript: Transcript,
 yours transcripts with: Your transcript with
-We can talk, you are seeing.: We can talk, you are seeing.
-We can talk, you are not seeing.: We can talk, the agent does not see you.
+We can talk, you are seeing.: You can talk, the agent is seeing you.
+We can talk, you are not seeing.: You can talk, the agent does not see you.
