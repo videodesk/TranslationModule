@@ -153,7 +153,6 @@ Get a reccord of this conversation by e-mail: Get a reccord of your conversation
 Please enter your e-mail address: Please enter your e-mail address
 Please give a valid address: Please give a valid address
 The record has been successfully sent: The record has been successfully sent
-Ongoing discussion: Ongoing discussion
 your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
 Please fill email field: Please fill email field
 Please fill phone field: Please fill phone field
@@ -182,7 +181,14 @@ e-mail invalid: Invalid Email
 close webpage cause end of the discussion: Close webpage cause end of the discussion
 survey sent: Survey sent 
 agent hangup: Agent hangup
-agent unavailable: Agent unavailable 
+agent unavailable: Agent unavailable
+Agent deny call: Agent deny call
+Agent dont answer call: Agent dont answer call
+Give us your feedback
+Ongoing discussion: Ongoing discussion
+Click here to enlarge: Click here to enlarge
+Give us your feedback: Give us your feedback
+Thank you: Thank you
 
 #transcript mail
 Hi: Hello,
