@@ -18,7 +18,7 @@
 'Deprecated version of Flash Chat only': Deprecated version of Flash.
 'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
 'Your mail': Your email
-'Or': Or
+'Or': Or your phone number
 'Please type your message here': Please type your message here
 'message field required': Message required
 'email or phone field required': Email or phone required
@@ -189,6 +189,7 @@ Click here to enlarge: Click here to enlarge
 Give us your feedback: Give us your feedback
 Thank you: Thank you
 click here to enlarge: Click to enlarge 
+Your question: Your question
 
 #transcript mail
 Hi: Hello,

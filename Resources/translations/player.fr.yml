@@ -18,7 +18,7 @@
 'Deprecated version of Flash Chat only': Version obsoléte du logiciel Flash. Tchat uniquement.
 'i am currently unavailable': Désolé, je suis indisponible pour le moment. Merci de me laisser un message.
 'Your mail': Votre email
-'Or': ou
+'Or': Ou votre numéro de téléphone
 'Please type your message here': Tapez votre message ici
 'message field required': Champ message obligatoire
 'email or phone field required': champ email ou telephone obligatoire
@@ -142,7 +142,7 @@ your phone: Téléphone
 your message: Message
 Your conversation has ended.Thank you for contacting us!: <strong>La conversation est terminée.</strong><br/>Merci de nous avoir contacté ! 
 Recall this operator now: Rappeler ce conseiller maintenant !
-give us your feedback about the conversation: Votre <strong>avis</strong> nous intéresse.
+give us your feedback about the conversation: Votre <b>avis</b> nous intéresse.
 has this dialog been helpful: Cette conversation vous a-t-elle été utile ?
 Would you recommend this experience to your facebook friends: Recommanderiez-vous cette expérience à vos amis Facebook ?
 Any comments or suggestions: Des commentaires ? Des suggestions ?
@@ -185,7 +185,8 @@ Ongoing discussion: Discussion en cours
 Click here to enlarge: Cliquez pour la voir
 Give us your feedback: Donnez votre avis
 Thank you: Merci à vous
-click here to enlarge: Cliquer pour agrandir 
+click here to enlarge: Cliquer pour agrandir
+Your question: Votre question
 
 #transcript mail
 Hi: Bonjour,
