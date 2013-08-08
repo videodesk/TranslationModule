@@ -9,7 +9,7 @@
 'Discussion helpful ?': Cette conversation vous a-t-elle été utile ?
 'Would you recommend this experience to your friends?': Recommanderiez-vous un tel dialogue à vos amis ?
 'Any comments ?': Des commentaires ? Des suggestions ?
-'chat transcript': Recevez le contenu de cette conversation par email.
+'chat transcript': Recevez cette conversation par email.
 'Webuser is typing': est en train d'écrire...
 'Type your text here': Tapez votre message ici
 'agent dont answer': Le conseiller est indisponible
@@ -197,6 +197,9 @@ webcam_blocked: Votre webcam n'est pas autorisée
 microphone_blocked: Votre microphone n'est pas autorisé
 click_to_unlock: Cliquez sur l'icône caméra pour l'autoriser
 reload_to_unlock: Réactualisez-votre page pour rendre votre webcam disponible
+hangup: Raccrocher
+alternative_message_1: Désolé, tous nos conseillés sont occupés.
+alternative_message_2: Merci de votre compréhension.
 
 #transcript mail
 Hi: Bonjour,
