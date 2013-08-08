@@ -5,11 +5,11 @@
 'information help': en savoir +
 'faq help': en savoir +
 'Your discussion has ended': Votre conversation est terminée.<br /> Merci de nous avoir contacté.
-'Please, rate this discussion': Votre avis :
-'Discussion helpful ?': Ce dialogue vous a-t-il été utile ?
+'Please, rate this discussion': Votre <b>avis</b> nous intéresse.
+'Discussion helpful ?': Cette conversation vous a-t-elle été utile ?
 'Would you recommend this experience to your friends?': Recommanderiez-vous un tel dialogue à vos amis ?
-'Any comments ?': Vos suggestions :
-'chat transcript': Recevoir votre conversation par email.
+'Any comments ?': Des commentaires ? Des suggestions ?
+'chat transcript': Recevez le contenu de cette conversation par email.
 'Webuser is typing': est en train d'écrire...
 'Type your text here': Tapez votre message ici
 'agent dont answer': Le conseiller est indisponible
@@ -144,7 +144,7 @@ Your conversation has ended.Thank you for contacting us!: <strong>La conversatio
 Recall this operator now: Rappeler ce conseiller maintenant !
 give us your feedback about the conversation: Votre <b>avis</b> nous intéresse.
 has this dialog been helpful: Cette conversation vous a-t-elle été utile ?
-Would you recommend this experience to your facebook friends: Recommanderiez-vous cette expérience à vos amis Facebook ?
+Would you recommend this experience to your facebook friends: Recommanderiez-vous un tel dialogue à vos amis ?
 Any comments or suggestions: Des commentaires ? Des suggestions ?
 Get a reccord of this conversation by e-mail: Recevez le contenu de cette conversation par email.
 Please enter your e-mail address: Votre adresse email.
