@@ -195,10 +195,11 @@ allow: allow
 to_start_your_microphone: To start your microphone
 to_start_your_webcam: To start your webcam
 terms_of-use: You can read the terms of use
-here : here
-webcam_blocked : Your webcam is currently blocked
-microphone_blocked : Your microphone is currently blocked
-click_to_unlock : Click on the cam icon to unlock it now
+here: here
+webcam_blocked: Your webcam is currently blocked
+microphone_blocked: Your microphone is currently blocked
+click_to_unlock: Click on the cam icon to unlock it now
+reload_to_unlock: Refresh your page to make your webcam available
 
 #transcript mail
 Hi: Hello,
