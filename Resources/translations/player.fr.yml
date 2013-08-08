@@ -191,8 +191,12 @@ click_on: Cliquez sur
 allow: Autoriser
 to_start_your_microphone: Pour activer votre microphone
 to_start_your_webcam: Pour activer votre webcam.
-terms_of_use : Conditions d'utilisations 
+terms_of_use : Conditions d'utilisations, 
 here : cliquez ici
+webcam_blocked : Votre webcam n'est pas autorisée
+microphone_blocked : Votre microphone n'est pas autorisé
+click_to_unlock : Cliquez sur l'icône caméra pour l'autoriser
+
 #transcript mail
 Hi: Bonjour,
 You reached: Vous avez contacté 
