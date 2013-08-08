@@ -107,7 +107,7 @@ agentBusy: Sorry, the agent is already busy!
 waitRemote: Please wait, we are currently connecting<br />you. This may take some time
 waitLocal: Waiting for your webcam to connect
 switchToAudio: Webcam disabled, we set up an audio connection
-ncFailed: Sorry, we couldn't set up the calln.<br />You can text chat with your agent
+ncFailed: Sorry, we couldn't set up the call.<br />You can text chat with your agent
 #ATTENTION MSG
 userNoFMSConnection: Because of a network problem,<br />We switch you to text chat.(#1)
 agentNoFMSConnection: Because of a network problem,<br />We switch you to text chat.(#2)

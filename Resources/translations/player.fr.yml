@@ -106,7 +106,7 @@ agentBusy: Désolé, l'agent est déjà en communication !
 waitRemote: Connexion en cours,<br />veuillez patienter quelques instants
 waitLocal: Activation de votre webcam en cours 
 switchToAudio: Webcam désactivée. Connexion audio en cours
-ncFailed: Désolé, nous ne parvenons pas<br />à établir la communication.<br />Vous êtes en mode tchat
+ncFailed: Désolé, nous ne parvenons pas à établir la communication.<br />Vous êtes en mode tchat
 #ATTENTION MSG
 userNoFMSConnection: Problème de réseau,<br />nous vous basculons en tchat.(#1)
 agentNoFMSConnection: Problème de réseau,<br />nous vous basculons en tchat.(#2)
