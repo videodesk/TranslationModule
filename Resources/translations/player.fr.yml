@@ -52,7 +52,7 @@
 'Enter your question here': Posez votre question ici :
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Merci de remplir les champs ci-dessous et nous vous répondons dans quelques instants.
+Please provide the details below and we will answer in a few seconds: Avant de contacter votre conseiller, veuillez remplir ces champs.
 firstname: Prénom
 lastname: Nom
 email: Email
@@ -166,7 +166,7 @@ WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: AIDE EN DIRECT !<br /> LAISSEZ-NOUS
 GIVE US YOUR FEEDBACK! THANK YOU: DONNEZ-NOUS VOTRE AVIS !<br /> MERCI
 
 #V1.2
-required field: Champs obligatoire
+required field: Champ obligatoire
 message sent: Message envoyé
 Before contacting you operator: Avant de rentrer en communication avec un conseiller,<br />merci de nous donner quelques informations :
 No operator is available for the moment: Pas de conseiller disponible pour le moment.

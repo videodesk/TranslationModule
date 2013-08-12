@@ -53,7 +53,7 @@
 'Enter your question here': Enter your question here
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
+Please provide the details below and we will answer in a few seconds: Before contacting your agent, please give us a few info.
 firstname: First name
 lastname: Last name
 email: Email
@@ -171,7 +171,7 @@ GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
 #V1.2
 required field: Required field
 message sent: Message sent
-Before contacting you operator: Before contacting you operator,<br/>Please give up a few infos:
+Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
 No operator is available for the moment: No operator is available for the moment.
 Please leave me a message: Please leave me a message
 Please leave a message: Please leave a message
