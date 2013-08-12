@@ -200,6 +200,9 @@ reload_to_unlock: Réactualisez-votre page pour rendre votre webcam disponible
 hangup: Raccrocher
 alternative_message_1: Désolé, tous nos conseillés sont occupés.
 alternative_message_2: Merci de votre compréhension.
+accept_video_call: Accepter l'appel vidéo
+accept_audio_call: Accepter l'appel audio
+deny_call: Refuser l'appel
 
 #transcript mail
 Hi: Bonjour,
