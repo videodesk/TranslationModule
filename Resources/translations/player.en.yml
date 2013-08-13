@@ -50,7 +50,7 @@
 'message from videodesk module': New message from videodesk module
 'message originally intended to': Message sent to:
 
-'Enter your question here': Enter your question here
+'Enter your question here': Type your message here...
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Before contacting your agent, please give us a few info.
@@ -179,7 +179,8 @@ Do you Want to start an audio call with me: Do you want to start an audio call w
 Do you Want to start a video call with me: Do you want to start a video call with me?
 e-mail invalid: Invalid Email
 close webpage cause end of the discussion: Close webpage cause end of the discussion
-survey sent: Survey sent 
+survey sent: Survey sent
+Survey sent: Survey sent
 agent hangup: Agent hangup
 agent unavailable: Agent unavailable
 Agent deny call: Agent deny call

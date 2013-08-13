@@ -49,7 +49,7 @@
 'message from videodesk module': Nouveau message depuis le module videodesk
 'message originally intended to': message envoyé à :
 
-'Enter your question here': Posez votre question ici :
+'Enter your question here': Tapez votre message ici...
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Avant de contacter votre conseiller, veuillez remplir ces champs.
@@ -177,6 +177,7 @@ Do you Want to start a video call with me: Voulez-vous commencer une discussion 
 e-mail invalid: Email invalide.
 close webpage cause end of the discussion: La fermeture de la page entraine la fin de la discussion
 survey sent: Message envoyé
+Survey sent: Message envoyé
 agent hangup: Le conseiller a raccroché
 agent unavailable: Conseiller indisponible
 Agent deny call: Le conseiller n'est pas disponible
