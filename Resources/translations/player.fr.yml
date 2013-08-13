@@ -203,6 +203,11 @@ alternative_message_2: Merci de votre compréhension.
 accept_video_call: Accepter l'appel vidéo
 accept_audio_call: Accepter l'appel audio
 deny_call: Refuser l'appel
+initiate_video_call: Voulez-vous commencer une discussion vidéo ?
+initiate_audio_call: Voulez-vous commencer une discussion audio ?
+initiate_video_btn: Appel vidéo
+initiate_audio_btn: Appel audio
+
 
 #transcript mail
 Hi: Bonjour,
