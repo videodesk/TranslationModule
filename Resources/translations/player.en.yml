@@ -204,9 +204,6 @@ reload_to_unlock: Refresh your page to make your webcam available
 hangup: Hang up
 alternative_message_1: Sorry, all our agent are unavailable.
 alternative_message_2: Thank you for your understanding.
-accept_video_call: Accept video call
-accept_audio_call: Accept audio call
-deny_call: Deny call
 initiate_video_call: Do you want to start a video call with me?
 initiate_audio_call: Do you want to start an audio call with me?
 initiate_video_btn: Video call
