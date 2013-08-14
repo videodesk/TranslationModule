@@ -159,8 +159,8 @@ Please fill lastname field: 'Merci de remplir le champ : Nom'
 Please fill company field: 'Merci de remplir le champ : Entreprise'
 call audio: Appel Audio
 call video: Appel Vidéo
-video suggestion: Voulez-vous commencer une discussion vidéo ?
-audio suggestion: Voulez-vous commencer une discussion audio ?
+video suggestion: Appel vidéo
+audio suggestion: Appel audio
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: AIDE EN DIRECT !<br /> CONSEILLER DISPONIBLE !
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: AIDE EN DIRECT !<br /> LAISSEZ-NOUS UN MESSAGE !
 GIVE US YOUR FEEDBACK! THANK YOU: DONNEZ-NOUS VOTRE AVIS !<br /> MERCI
