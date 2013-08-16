@@ -206,8 +206,8 @@ alternative_message_1: Sorry, all our agent are unavailable.
 alternative_message_2: Thank you for your understanding.
 initiate_video_call: Do you want to start a video call with me?
 initiate_audio_call: Do you want to start an audio call with me?
-initiate_video_btn: Video call
-initiate_audio_btn: Audio call
+initiate_video_btn: Accept the video call
+initiate_audio_btn: Accept the audio call
 
 
 #transcript mail
