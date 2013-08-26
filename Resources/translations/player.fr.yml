@@ -199,7 +199,7 @@ microphone_blocked: Votre microphone n'est pas autorisé
 click_to_unlock: Cliquez sur l'icône caméra pour l'autoriser
 reload_to_unlock: Réactualisez-votre page pour rendre votre webcam disponible
 hangup: Raccrocher
-alternative_message_1: Désolé, tous nos conseillés sont occupés.
+alternative_message_1: Tous nos conseillés sont occupés.
 alternative_message_2: Merci de votre compréhension.
 initiate_video_call: Voulez-vous commencer une discussion vidéo ?
 initiate_audio_call: Voulez-vous commencer une discussion audio ?
