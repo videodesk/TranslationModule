@@ -207,8 +207,8 @@ initiate_video_call: Do you want to start a video call with me?
 initiate_audio_call: Do you want to start an audio call with me?
 initiate_video_btn: Accept the video call
 initiate_audio_btn: Accept the audio call
-webuser_accept_audio_call: You accept the audio conversation
-webuser_accept_video_call: You accept the video conversation
+webuser_accept_audio_call: You accepted the audio conversation
+webuser_accept_video_call: You accepted the video conversation
 
 #transcript mail
 Hi: Hello,
