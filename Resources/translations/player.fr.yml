@@ -203,9 +203,10 @@ alternative_message_1: Désolé, tous nos conseillés sont occupés.
 alternative_message_2: Merci de votre compréhension.
 initiate_video_call: Voulez-vous commencer une discussion vidéo ?
 initiate_audio_call: Voulez-vous commencer une discussion audio ?
-initiate_video_btn: Appel vidéo
-initiate_audio_btn: Appel audio
-
+initiate_video_btn: Accepter l'appel vidéo
+initiate_audio_btn: Accepter l'appel audio
+webuser_accept_audio_call: Vous avez accepter la conversation audio
+webuser_accept_video_call: Vous avez accepter la conversation vidéo
 
 #transcript mail
 Hi: Bonjour,
