@@ -63,7 +63,7 @@ send: Send
 firstname required: Firstname required
 lastname required: Lastname required
 email required: Email required
-email invalid: Invalid e-mail
+email invalid: Invalid email
 phone required: Phone nb required
 company required: Company required
 required: Mandatory field
