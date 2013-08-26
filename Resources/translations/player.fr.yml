@@ -146,7 +146,7 @@ give us your feedback about the conversation: Votre <b>avis</b> nous intéresse.
 has this dialog been helpful: Cette conversation vous a-t-elle été utile ?
 Would you recommend this experience to your facebook friends: Recommanderiez-vous un tel dialogue à vos amis ?
 Any comments or suggestions: Des commentaires ? Des suggestions ?
-Get a reccord of this conversation by e-mail: Recevez le contenu de cette conversation par email.
+Get a reccord of this conversation by e-mail: Recevez cette conversation par email.
 Please enter your e-mail address: Votre adresse email.
 Please give a valid address: Merci de fournir une adresse mail valide.
 The record has been successfully sent: Le contenu de la conversation a bien été envoyé.
@@ -192,8 +192,8 @@ click_on: Cliquez sur
 allow: Autoriser
 to_start_your_microphone: Pour activer votre microphone
 to_start_your_webcam: Pour activer votre webcam.
-terms_of_use: Conditions d'utilisations, 
-here: cliquez ici
+terms_of_use: 'Conditions d'utilisations, '
+here: 'cliquez ici'
 webcam_blocked: Votre webcam n'est pas autorisée
 microphone_blocked: Votre microphone n'est pas autorisé
 click_to_unlock: Cliquez sur l'icône caméra pour l'autoriser
