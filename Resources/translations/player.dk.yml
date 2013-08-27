@@ -143,17 +143,16 @@ your company: Company
 your email: Email
 your phone: Phone
 your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
+Your conversation has ended.Thank you for contacting us!: <strong>Your discussion is closed.</strong><br />Thank you for contacting us!
 Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
-has this dialog been helpful: Has this dialog been helpful?
-Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
+give us your feedback about the conversation: Give us your <b>feedback</b><br/>about this discussion.
+has this dialog been helpful: Has this discussion been helpful?
+Would you recommend this experience to your facebook friends: Would you recommend this experience to your friends?
 Any comments or suggestions: Comments? Suggestions?
-Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
+Get a reccord of this conversation by e-mail: Get a record of your conversation by e-mail.
 Please enter your e-mail address: Please enter your e-mail address
 Please give a valid address: Please give a valid address
 The record has been successfully sent: The record has been successfully sent
-Ongoing discussion: Ongoing discussion
 your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
 Please fill email field: Please fill email field
 Please fill phone field: Please fill phone field
@@ -161,37 +160,65 @@ Please fill message textarea: Please fill message textarea
 Please fill firstname field: Please fill firstname field
 Please fill lastname field: Please fill lastname field
 Please fill company field: Please fill company field
-call audio: Audio Call
-call video: Video Call
-video suggestion: Video suggestion
-audio suggestion: Audio suggestion
+call audio: Audio call
+call video: Video call
+video suggestion: Accept audio call
+audio suggestion: Accept video call
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
 GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
 
 #V1.2
-required field: required field
-message sent: message sent
-Before contacting you operator: Before contacting you operator,<br/>Please give up a few infos:
+required field: Required field
+message sent: Message sent
+Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
 No operator is available for the moment: No operator is available for the moment.
 Please leave me a message: Please leave me a message
 Please leave a message: Please leave a message
-Do you Want to start an audio call with me: Do you Want to start an audio call with me?
-Do you Want to start a video call with me: Do you Want to start a video call with me?
-e-mail invalid: e-mail invalid
+Do you Want to start an audio call with me: Do you want to start an audio call with me?
+Do you Want to start a video call with me: Do you want to start a video call with me?
+e-mail invalid: Invalid Email
 close webpage cause end of the discussion: Close webpage cause end of the discussion
-survey sent: Survey sent 
+survey sent: Survey sent
+Survey sent: Survey sent
 agent hangup: Agent hangup
-agent unavailable: Agent unavailable 
+agent unavailable: Agent unavailable
+Agent deny call: Agent deny call
+Agent dont answer call: Agent dont answer call
+Ongoing discussion: Ongoing discussion
+Click here to enlarge: Click here to enlarge
+Give us your feedback: Give us your feedback
+Thank you: Thank you
+click here to enlarge: Click to enlarge 
+Your question: Your question
+click_on: Click on
+allow: allow
+to_start_your_microphone: To start your microphone
+to_start_your_webcam: To start your webcam
+terms_of_use: 'You can read the terms of use '
+here: 'here'
+webcam_blocked: Your webcam is currently blocked
+microphone_blocked: Your microphone is currently blocked
+click_to_unlock: Click on the cam icon to unlock it now
+reload_to_unlock: Refresh your page to make your webcam available
+hangup: Hang up
+alternative_message_1: Sorry, our agents are unavailable.
+alternative_message_2: Thank you for your understanding.
+initiate_video_call: Do you want to start a video call with me?
+initiate_audio_call: Do you want to start an audio call with me?
+initiate_video_btn: Accept the video call
+initiate_audio_btn: Accept the audio call
+webuser_accept_audio_call: You accepted the audio conversation
+webuser_accept_video_call: You accepted the video conversation
 
 #transcript mail
 Hi: Hello,
-You reached: You contacted 
-We have to pleasure to send you the transcript of your discussion.: We have to pleasure to send you the transcript of your discussion.
-We look forward to seeing you again on: We look forward to seeing you again 
+You reached: You have contacted
+We have to pleasure to send you the transcript of your discussion.: It is our pleasure to send you a transcript of your discussion.
+We look forward to seeing you again on: We look forward to seeing you again.
 Thank you for your visit: Thank you for your visit.
 videodesk team: The Videodesk team
 transcript: Transcript,
 yours transcripts with: Your transcript with
-We can talk, you are seeing.: We can talk, you are seeing.
-We can talk, you are not seeing.: We can talk, you are not seeing.
+We can talk, you are seeing.: You can talk, the agent is seeing you.
+We can talk, you are not seeing.: You can talk, the agent does not see you.

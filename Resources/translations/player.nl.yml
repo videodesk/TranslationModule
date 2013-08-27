@@ -172,17 +172,45 @@ GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
 #V1.2
 required field: Required field
 message sent: Message sent
-Before contacting you operator: Before contacting you operator,<br/>Please give up a few infos:
+Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
 No operator is available for the moment: No operator is available for the moment.
 Please leave me a message: Please leave me a message
 Please leave a message: Please leave a message
-Do you Want to start an audio call with me: Do you Want to start an audio call with me?
-Do you Want to start a video call with me: Do you Want to start a video call with me?
+Do you Want to start an audio call with me: Do you want to start an audio call with me?
+Do you Want to start a video call with me: Do you want to start a video call with me?
 e-mail invalid: Invalid Email
 close webpage cause end of the discussion: Close webpage cause end of the discussion
-survey sent: Survey sent 
+survey sent: Survey sent
+Survey sent: Survey sent
 agent hangup: Agent hangup
 agent unavailable: Agent unavailable
+Agent deny call: Agent deny call
+Agent dont answer call: Agent dont answer call
+Ongoing discussion: Ongoing discussion
+Click here to enlarge: Click here to enlarge
+Give us your feedback: Give us your feedback
+Thank you: Thank you
+click here to enlarge: Click to enlarge 
+Your question: Your question
+click_on: Click on
+allow: allow
+to_start_your_microphone: To start your microphone
+to_start_your_webcam: To start your webcam
+terms_of_use: 'You can read the terms of use '
+here: 'here'
+webcam_blocked: Your webcam is currently blocked
+microphone_blocked: Your microphone is currently blocked
+click_to_unlock: Click on the cam icon to unlock it now
+reload_to_unlock: Refresh your page to make your webcam available
+hangup: Hang up
+alternative_message_1: Sorry, our agents are unavailable.
+alternative_message_2: Thank you for your understanding.
+initiate_video_call: Do you want to start a video call with me?
+initiate_audio_call: Do you want to start an audio call with me?
+initiate_video_btn: Accept the video call
+initiate_audio_btn: Accept the audio call
+webuser_accept_audio_call: You accepted the audio conversation
+webuser_accept_video_call: You accepted the video conversation
 
 #transcript mail
 Hi: Hi,
