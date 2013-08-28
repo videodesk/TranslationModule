@@ -127,59 +127,85 @@ remote_audio_activated: El sonido es activa
 click_allow_to_start: Pulsa en “Autorizar” para activar tu webcam o tu micrófono.
 
 #REFACTOR
-type here: Type your message here...
-Do you want to close the discussion?: Do you want to close the discussion?
-Yes: Yes
+type here: Escribe su mensjae aqui...
+Do you want to close the discussion?: ¿Quiere terminar la conversacion?
+Yes: Sí
 No: No
-send: Send
-your firstname: First name
-Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
-your lastname: Last name
-your company: Company
+send: Mandar
+your firstname: Nombre
+Please fill at least one of highlighted fields: Por favor, rellene al menos una linea
+your lastname: Apellido
+your company: Empresa
 your email: Email
-your phone: Phone
-your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
-Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
-has this dialog been helpful: Has this dialog been helpful?
-Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
-Any comments or suggestions: Comments? Suggestions?
-Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
-Please enter your e-mail address: Please enter your e-mail address
-Please give a valid address: Please give a valid address
-The record has been successfully sent: The record has been successfully sent
-Ongoing discussion: Ongoing discussion
-your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
-Please fill email field: Please fill email field
-Please fill phone field: Please fill phone field
-Please fill message textarea: Please fill message textarea
-Please fill firstname field: Please fill firstname field
-Please fill lastname field: Please fill lastname field
-Please fill company field: Please fill company field
-call audio: Audio Call
-call video: Video Call
-video suggestion: Video suggestion
-audio suggestion: Audio suggestion
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
-GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+your phone: Telefono
+your message: Mensaje
+Your conversation has ended.Thank you for contacting us!: <strong>¡Se acabo la conversación!</strong><br />¡Gracias para su llamada!
+Recall this operator now: Volver a llamar el asesor
+give us your feedback about the conversation: Su opinión cuenta.
+has this dialog been helpful: ¿Esta conversación ha sido utile?
+Would you recommend this experience to your facebook friends: ¿Aconsejarías un diálogo como este a tus amigos?
+Any comments or suggestions: ¿Tiene comentarios? ¿Sugestiones?
+Get a reccord of this conversation by e-mail: Recibir el contenido de tus conversaciónes chat para Email. 
+Please enter your e-mail address: Dirección Email
+Please give a valid address: Por favor, comunica una dirección Email valida.
+The record has been successfully sent: Le hemos enviado el contenido de la conversación.
+Ongoing discussion: Conversacion en curso
+your message has been successfully sent. We Will contact you soon: Hemos recibido su mensaje le volveremos a contactar lo antes posible.
+Please fill email field: Por favor, rellene la linea Email
+Please fill phone field: Por favor, rellene la linea Telefono
+Please fill message textarea: Por favor, rellene la linea Mensaje
+Please fill firstname field: Por favor, rellene la linea Nombre
+Please fill lastname field: Por favor, rellene la linea Apellido
+Please fill company field: Por favor, rellene la linea Empresa
+call audio: Llamada audio
+call video: Llamada vide
+video suggestion: Aceptar la llamada
+audio suggestion: Aceptar la llamada
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: ¡Ayuda en tiempo real!<br />¡Asesor disponible!
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: ¡Ayuda en tiempo real!<br />¡Deje un mensaje!
+GIVE US YOUR FEEDBACK! THANK YOU: ¡Dénos su opinion!<br />Gracias.
 
 #V1.2
-required field: Required field
-message sent: Message sent
-Before contacting you operator: Before contacting you operator,<br/>Please give up a few infos:
-No operator is available for the moment: No operator is available for the moment.
-Please leave me a message: Please leave me a message
-Please leave a message: Please leave a message
-Do you Want to start an audio call with me: Do you Want to start an audio call with me?
-Do you Want to start a video call with me: Do you Want to start a video call with me?
-e-mail invalid: Invalid Email
-close webpage cause end of the discussion: Close webpage cause end of the discussion
-survey sent: Survey sent 
-agent hangup: Agent hangup
-agent unavailable: Agent unavailable 
-
+required field: Campo obligatorio
+message sent: Mensage enviado
+Before contacting you operator: Por favor, dénos algunas informaciones,<br/>antes de comunicar con un asesor.
+No operator is available for the moment: ¡Todos nuestros asesores están ocupados en este momento!
+Please leave me a message: Por favor, dejeme un mensaje.
+Please leave a message: Por favor, deje un mensaje.
+Do you Want to start an audio call with me: ¿Le gustaria empezar una conversación audio?
+Do you Want to start a video call with me: ¿Le gustaria empezar una conversación video?
+e-mail invalid: Email invalido
+close webpage cause end of the discussion: La cierre de la pagina web lleva al acabo de la conversacion
+survey sent: Mensaje enviado
+Survey sent: Mensaje enviado
+agent hangup: El asesor ha colgado
+agent unavailable: Asesor indisponible
+Agent deny call: El asesor no esta disponible
+Agent dont answer call:  El asesor no coje
+Ongoing discussion: Conversación en curso
+Click here to enlarge: Haga clic para verla
+Give us your feedback: Su opinión cuenta.
+Thank you: Muchas Gracias 
+click here to enlarge: Haga clic para ampliar 
+Your question: Su pregunta
+click_on: Hacer clic
+allow: Autorisar
+to_start_your_microphone: Para activar el micrófono
+to_start_your_webcam: Para activar la camera
+terms_of_use: Condiciones de uso
+here: 'cliquez ici' Haga clic
+webcam_blocked: Su camera no esta autorizada
+microphone_blocked: Su micrófono no esta autorizado click_to_unlock: Cliquez sur l'icône caméra pour l'autoriser Haga clic en la icono camera
+reload_to_unlock: Reactualice su pagina para poner su camera disponible
+hangup: Colgar
+alternative_message_1: Nuestros asesores no estan disponibles
+alternative_message_2: Gracias por su comprension
+initiate_video_call: Le gustaria empezar una conversacion video ?
+initiate_audio_call: Le gustaria empezar una conversacion audio ?
+initiate_video_btn: Aceptar la llamada video
+initiate_audio_btn: Aceptar la llamada audio
+webuser_accept_audio_call: Usted ha aceptado la conversacion audio
+webuser_accept_video_call: Usted ha aceptado la conversacion video
 
 #transcript mail
 Hi: ¡Hola!
