@@ -180,10 +180,10 @@ e-mail invalid: Invalid Email
 close webpage cause end of the discussion: Close webpage cause end of the discussion
 survey sent: Survey sent
 Survey sent: Survey sent
-agent hangup: Agent hangup
-agent unavailable: Agent unavailable
-Agent deny call: Agent deny call
-Agent dont answer call: Agent dont answer call
+agent hangup: Your operator ended the discussion.
+agent unavailable: Your operator is unavailable.
+Agent deny call: Your operator unfortunately had to refuse the call.
+Agent dont answer call: Your operator unfortunately could not respond.
 Ongoing discussion: Ongoing discussion
 Click here to enlarge: Click here to enlarge
 Give us your feedback: Give us your feedback
