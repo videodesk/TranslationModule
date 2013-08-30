@@ -2,16 +2,16 @@
 'chat call': Вызов в текстовый чат
 'audio call': Аудиовызов
 'video call': Видеовызов
-'information help': Справочная информация
-'faq help': faq (помощь)
+'information help': Информационная поддержка
+'faq help': ЧАВО (помощь)
 'Your discussion has ended': Ваш разговор закончен.<br /> Спасибо за обращение к нам.
 'Please, rate this discussion': Оцените, пожалуйста, этот диалог :
 'Discussion helpful ?': Этот диалог помог Вам ?
-'Would you recommend this experience to your friends?': Вы рекомендовали бы этот диалог своим друзьям ?
-'Any comments ?': Ваши предложения :
-'chat transcript': Чтобы получить содержимое ваших чатов, оставьте свой e-mail.
-'Webuser is typing': начинает писать...
-'Type your text here': Введите ваш текст здесь
+'Would you recommend this experience to your friends?': Вы бы рекомендовали подобный опыт своим друзьям ?
+'Any comments ?': Ваши комментарии?
+'chat transcript': Сохраненная копия чата
+'Webuser is typing': пользователь пишет
+'Type your text here': Консультант не отвечает
 'agent dont answer': Консультант недоступен
 'chat redirection': Подключение к чату
 'agent close communication': Консультант закончил разговор
@@ -85,140 +85,142 @@ gorgeous: Отличный
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: My webcam is activated
-webcam_desactivated: My webcam is disabled
-mic_activated: My microphone activated
-mic_desactivated: My microphone disabled
-vid_resumed: Video of your contact resuming
-vid_stoped: Video of your contact stopped
+webcam_activated: Моя вебкамера включена
+webcam_desactivated: Моя вебкамера выключена
+mic_activated: Мой микрофон включен
+mic_desactivated: Мой микрофон выключен
+vid_resumed: Видео Вашего контакта возобновлено
+vid_stoped: Видео Вашего контакта завершено
 #ROLL MSG
-activate_cam: Activate my webcam
-desactivate_cam: Disable my webcam
-activate_mic: Activate my microphone
-desactivate_mic: Disable my microphone
-stop_vid: Deactivate video of my contact
-resume_vid: Reactivate the video of my contact
-activate_volume: Activate sound
-desactivate_volume: Desactivate sound
+activate_cam: Включить мою вебкамеру
+desactivate_cam: Выключить мою вебкамеру
+activate_mic: Включить мой микрофон
+desactivate_mic: Выключить мой микрофон
+stop_vid: Выключить видео моего контакта
+resume_vid: возобновить видео моего контакта
+activate_volume: включить звук
+desactivate_volume: выключить звук
 #WAITING MSG
-peerFailed: Sorry, we couldn't establish video chat.<br />We're switching to text mode
-agentBusy: Sorry, the agent is already busy!
-waitRemote: Please wait, we are currently connecting<br />you. This may take some time.
-waitLocal: Waiting for your webcam to activate
-switchToAudio: Webcam deactivated, audio connection activating
-ncFailed: Sorry, we couldn't establish a connection.<br />You are in chat mode
+peerFailed: Извините, невозможно установить видео-чат <br />переключаем в текстовый режим
+agentBusy: Извините, консультант уже занят!
+waitRemote: Пожалуйста, подождите. Мы уже подключаемся <br />к вам. Это может занять некоторое время.
+waitLocal: Ожидаем подключения вашей камеры
+switchToAudio: Вебкамеры выключена, активируется аудиоподключение.
+ncFailed: Извините, мы не можем установить соединение. <br />В режиме чата.
 #ATTENTION MSG
-userNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#1)
-agentNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#2)
-agentFlashCrashed: Because of a network problem,<br />We will switch you to chat mode.(#4)
-userNoCamButMic: We have not detected a webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We will switch you to audio mode.(#5)
-userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We will switch you to chat mode.(#6)
-agentNoCamButMic: The agent didn't have a webcam.<br />We will switch you to audio mode.(#7)
-agentNiCamNiMic: The agent didn't have a webcam or a microphone.<br /><br />We will switch you in chat mode.(#8)
-userDenyFlash: You denied the access to your webcam<br />and to your microphone.<br /><br />We will switch you in chat mode.(#9)
-noPeerConnection: Because of a network problem,<br />We will switch you to chat mode.(#11)
-userConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#11)
-agentConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#110)
-userNoMic: We did not detect any microphone.<br />You must be equipped with a microphone to be able to launch an audio- chat.<br /><br />We will switch you to chat mode.(#12)
-agentNoMic: The agent doesn't have any microphone<br />We switched him to chat mode.<br /><br />We will switch you to chat mode.(#13)
-userRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#15)
-agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
+userNoFMSConnection: Из сетевых проблем, <br /> мы переключим Вас в режим чата
+agentNoFMSConnection: Из сетевых проблем, <br /> мы переключим Вас в режим чата
+agentFlashCrashed: Из сетевых проблем, <br /> мы переключим Вас в режим чата
+userNoCamButMic: Вебкамера не обнаружена. <br /> <br /> У Вас должна быть вебкамера для <br /> <br />  Мы переключим Вас в аудио режим
+userNiCamNiMic: Вебкамера, <br />  или микрофон не обнаружены <br /> У Вас должна быть вебкамера <br /> или микрофон для запуска видео чата.<br /><br /> Мы переключим Вас в режим чата
+agentNoCamButMic: У консультанта нет вебкамеры. <br /> Мы переключим Вас в аудио режим
+agentNiCamNiMic: У консультанта нет вебкамеры или микрофона. <br /> Мы переключим Вас в режим чата
+userDenyFlash: Вы запретили доступ к вашей вебкамере<br /> или к микрофону. <br /><br /> Мы переключаем Вас в режим чата
+noPeerConnection: Из за сетевых проблем, <br />мы переключим Вас в режим чата
+userConnectionFailed: Из за сетевых проблем, <br />мы переключим Вас в режим чата
+agentConnectionFailed: Из за сетевых проблем, <br />мы переключим Вас в режим чата
+userNoMic: Мы не обнаружили микрофон. <br /> У Вас должен быть микрофон для запуска аудио чата<br /><br /> мы переключим Вас в режим чата
+agentNoMic: У консультанта нет микрофона<br /> Мы переключили его в режим чата. <br /><br /> Мы переключим Вас в режим чата.
+userRtmptConnection: Качество подключения не обеспечит высокое качество видео/аудио, поэтому советуем Вам использовать текстовый чат
+agentRtmptConnection: Качество подключения не обеспечит высокое качество видео/аудио, поэтому советуем Вам использовать текстовый чат
 
-remote_audio_desactivated: The sound is muted
-remote_audio_activated: The sound is active
-click_allow_to_start: Click on "Allow" to start.
+remote_audio_desactivated: Звук выключен
+remote_audio_activated: Звук включен
+click_allow_to_start: Нажмите "разрешить" для того, чтоб начать
 
 
 #REFACTOR
-type here: Type your message here...
-Do you want to close the discussion?: Do you want to close the discussion?
-Yes: Yes
-No: No
-send: Send
-your firstname: First name
-Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
-your lastname: Last name
-your company: Company
-your email: Email
-your phone: Phone
-your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
-Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
-has this dialog been helpful: Has this dialog been helpful?
-Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
-Any comments or suggestions: Comments? Suggestions?
-Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
-Please enter your e-mail address: Please enter your e-mail address
-Please give a valid address: Please give a valid address
-The record has been successfully sent: The record has been successfully sent
-Ongoing discussion: Ongoing discussion
-your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
-Please fill email field: Please fill email field
-Please fill phone field: Please fill phone field
-Please fill message textarea: Please fill message textarea
-Please fill firstname field: Please fill firstname field
-Please fill lastname field: Please fill lastname field
-Please fill company field: Please fill company field
-call audio: Audio Call
-call video: Video Call
-video suggestion: Video suggestion
-audio suggestion: Audio suggestion
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
-GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+type here: Пожалуйста, введите ваше сообщение здесь
+Do you want to close the discussion?: Вы хотите закрыть диалог? 
+Yes: Да
+No: Нет
+send: Отправить
+your firstname: Ваше имя
+Please fill at least one of highlighted fields: Пожалуйста заполните хотя бы одно из указанных полей
+your lastname: Ваша фамилия
+your company: Компания
+your email: E-mail
+your phone: Телефон
+your message: Сообщение
+Your conversation has ended.Thank you for contacting us!: Ваш диалог завершен. Благодарим за обращение к нам!
+Recall this operator now: Перезвонить данному оператору сейчас!
+give us your feedback about the conversation: Оцените, пожалуйста, этот диалог 
+has this dialog been helpful: Этот диалог помог Вам ?
+Would you recommend this experience to your facebook friends: Вы бы рекомендовали подобный опыт своим друзьям на Facebook ?
+Any comments or suggestions: Комментарии? Предложения?
+Get a reccord of this conversation by e-mail: Получить запись этого диалога на e-mail
+Please enter your e-mail address: пожалуйста, введите свой e-mail адрес
+Please give a valid address: пожалуйста введите действующий адрес
+The record has been successfully sent: Запись была успешно отправлена
+Ongoing discussion: текущий диалог
+your message has been successfully sent. We Will contact you soon: Ваше сообщение было успешно отправлено. Мы свяжемся с Вами в ближайшее время
+Please fill email field: Пожалуйста, заполните поле "e-mail"
+Please fill phone field: Пожалуйста, заполните поле "телефон"
+Please fill message textarea: Пожалуйста, заполните поле "текст сообщения"
+Please fill firstname field: Пожалуйста, заполните поле "Имя"
+Please fill lastname field: Пожалуйста, заполните поле " Фамилия"
+Please fill company field: Пожалуйста, заполните поле "Компания"
+call audio: Аудио звонок
+call video: Видео звонок
+video suggestion: Предложение видео
+audio suggestion: Предложение аудио
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: МЫ ЗДЕСЬ ЧТОБЫ ПОМОЧЬ! ОНЛАЙН ПОМОЩНИК ПО ПРОДАЖАМ!
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: МЫ ЗДЕСЬ ЧТОБЫ ПОМОЧЬ! ПОЖАЛУЙСТА, ОСТАВЬТЕ СООБЩЕНИЕ
+GIVE US YOUR FEEDBACK! THANK YOU: ОСТАВЬТЕ СВОЙ ОТЗЫВ! СПАСИБО
 
 #V1.2
-required field: Required field
-message sent: Message sent
-Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
-No operator is available for the moment: No operator is available for the moment.
-Please leave me a message: Please leave me a message
-Please leave a message: Please leave a message
-Do you Want to start an audio call with me: Do you want to start an audio call with me?
-Do you Want to start a video call with me: Do you want to start a video call with me?
-e-mail invalid: Invalid Email
-close webpage cause end of the discussion: Close webpage cause end of the discussion
-survey sent: Survey sent
-Survey sent: Survey sent
-agent hangup: Agent hangup
-agent unavailable: Agent unavailable
-Agent deny call: Agent deny call
-Agent dont answer call: Agent dont answer call
-Ongoing discussion: Ongoing discussion
-Click here to enlarge: Click here to enlarge
-Give us your feedback: Give us your feedback
-Thank you: Thank you
-click here to enlarge: Click to enlarge 
-Your question: Your question
-click_on: Click on
-allow: allow
-to_start_your_microphone: To start your microphone
-to_start_your_webcam: To start your webcam
-terms_of_use: 'You can read the terms of use '
-here: 'here'
-webcam_blocked: Your webcam is currently blocked
-microphone_blocked: Your microphone is currently blocked
-click_to_unlock: Click on the cam icon to unlock it now
-reload_to_unlock: Refresh your page to make your webcam available
-hangup: Hang up
-alternative_message_1: Sorry, our agents are unavailable.
-alternative_message_2: Thank you for your understanding.
-initiate_video_call: Do you want to start a video call with me?
-initiate_audio_call: Do you want to start an audio call with me?
-initiate_video_btn: Accept the video call
-initiate_audio_btn: Accept the audio call
-webuser_accept_audio_call: You accepted the audio conversation
-webuser_accept_video_call: You accepted the video conversation
+required field: Обязательное поле
+message sent: Сообщение отправлено
+Before contacting you operator: Перед тем как связаться с оператором,<br /> пожалуйста дайте немного информации
+No operator is available for the moment: В данный момент нет доступных операторов
+Please leave me a message: Пожалуйста, оставьте сообщение
+Please leave a message: Пожалуйста, оставьте сообщение
+Do you Want to start an audio call with me: Вы хотите начать аудио звонок со мной
+Do you Want to start a video call with me: Вы хотите начать видео звонок со мной
+e-mail invalid: Неправильный e-mail
+close webpage cause end of the discussion: вебстраница закрывается в виду завершения диалога
+survey sent: Форма отправлена
+Survey sent: Форма отправлена
+agent hangup: Консультат отключился
+agent unavailable: Консультант недоступен
+Agent deny call: Консультант отклонил звонок
+Agent dont answer call: Консультант не отвечает
+Ongoing discussion: Текущий диалог
+Click here to enlarge: Нажмите здесь чтобы увеличить
+Give us your feedback: Оставьте свой отзыв
+Thank you: Спасибо
+click here to enlarge: Нажмите чтобы увеличить
+Your question: Ваш вопрос
+click_on: Нажмите
+allow: Разрешить
+to_start_your_microphone: Включить Ваш микрофон
+to_start_your_webcam: Включить Вашу вебкамеру
+terms_of_use: 'Вы можете прочитать правила пользования '
+here: 'Здесь'
+webcam_blocked: Ваша камера в настоящее время заблокирована
+microphone_blocked: Ваш микрофон в настоящее время заблокирован
+click_to_unlock: Нажмите на значке камеры, чтобы разблокировать ее сейчас
+reload_to_unlock: Обновите страницу, чтобы вебкамера стала доступной
+hangup: Завершить
+alternative_message_1: Извините, наши консультанты недоступны
+alternative_message_2: Благодарим за понимание
+initiate_video_call: Вы хотите начать видео звонок со мной
+initiate_audio_call: Вы хотите начать аудио звонок со мной
+initiate_video_btn: Принять видео звонок
+initiate_audio_btn: Принять аудио звонок
+webuser_accept_audio_call: Вы подтвердили аудио диалог
+webuser_accept_video_call: Вы подтвердили видео диалог
+
 
 #transcript mail
 Hi: привет,
 You reached: Вы связались
-We have to pleasure to send you the transcript of your discussion.: Мы должны удовольствие направить Вам стенограмму вашего обсуждения.
+We have to pleasure to send you the transcript of your discussion.: С удовольствие направим Вам стенограмму нашего разговора
 We look forward to seeing you again on: Мы с нетерпением ждем встречи с вами снова 
 Thank you for your visit: Спасибо за ваш визит.
 videodesk team: Команда Videodesk
 transcript: Стенограмма,
-yours transcripts with: Ваша справка с
-We can talk, you are seeing.: Мы можем говорить, вы видите.
-We can talk, you are not seeing.: Мы можем говорить, вы не видите.
+yours transcripts with: Ваши стенограммы с
+We can talk, you are seeing.: Мы можем говорить, вы видите
+We can talk, you are not seeing.: Мы можем говорить, вы не видите
+
