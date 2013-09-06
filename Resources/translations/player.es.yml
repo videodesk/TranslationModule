@@ -7,9 +7,9 @@
 'Your discussion has ended': Tu conversación está terminada.<br /> Gracias por habernos contactado.
 'Please, rate this discussion': Tu opinión:
 'Discussion helpful ?': ¿Te ha parecido útil esta conversación?
-'Would you recommend this experience to your friends?': ¿Aconsejarías un diálogo como este a tus amigos?
+'Would you recommend this experience to your friends?': ¿Aconsejarías este servicio a tus amigos?
 'Any comments ?': Tus sugerencias:
-'chat transcript': Para recibir el contenido de tus conversaciones chat, debes dejar tu email.
+'chat transcript': Para recibir tu conversacion por email, debes dejar tu email.
 'Webuser is typing': está escribiendo...
 'Type your text here': Escribe tu mensaje aquí
 'agent dont answer': El asesor no está disponible
@@ -127,7 +127,7 @@ remote_audio_activated: El sonido es activa
 click_allow_to_start: Pulsa en “Autorizar” para activar tu webcam o tu micrófono.
 
 #REFACTOR
-type here: Escribe su mensjae aqui...
+type here: Escribe tu mensaje aquí...
 Do you want to close the discussion?: ¿Quiere terminar la conversacion?
 Yes: Sí
 No: No
@@ -141,11 +141,11 @@ your phone: Telefono
 your message: Mensaje
 Your conversation has ended.Thank you for contacting us!: <strong>¡Se acabo la conversación!</strong><br />¡Gracias para su llamada!
 Recall this operator now: Volver a llamar el asesor
-give us your feedback about the conversation: Su opinión cuenta.
-has this dialog been helpful: ¿Esta conversación ha sido utile?
-Would you recommend this experience to your facebook friends: ¿Aconsejarías un diálogo como este a tus amigos?
-Any comments or suggestions: ¿Tiene comentarios? ¿Sugestiones?
-Get a reccord of this conversation by e-mail: Recibir el contenido de tus conversaciónes chat para Email. 
+give us your feedback about the conversation: Tu opinión cuenta.
+has this dialog been helpful: ¿Esta conversación ha sido útil?
+Would you recommend this experience to your facebook friends: ¿Aconsejarías este servicio a tus amigos?
+Any comments or suggestions: ¿Tienes algún comentario? ¿Sugerencias?
+Get a reccord of this conversation by e-mail: Recibir tu conversacion por email. 
 Please enter your e-mail address: Dirección Email
 Please give a valid address: Por favor, comunica una dirección Email valida.
 The record has been successfully sent: Le hemos enviado el contenido de la conversación.
@@ -183,10 +183,10 @@ agent unavailable: Asesor indisponible
 Agent deny call: El asesor no esta disponible
 Agent dont answer call:  El asesor no coje
 Ongoing discussion: Conversación en curso
-Click here to enlarge: Haga clic para verla
-Give us your feedback: Su opinión cuenta.
+Click here to enlarge: Haz click para ampliar
+Give us your feedback: Tu opinión cuenta.
 Thank you: Muchas Gracias 
-click here to enlarge: Haga clic para ampliar 
+click here to enlarge: Haz click para ampliar
 Your question: Su pregunta
 click_on: Hacer clic
 allow: Autorisar
