@@ -34,7 +34,7 @@
 'Discutez en chat' : discutati prin text
 'Laissez un message' : Lasati un mesaj
 'agent-accept-communication' : comunicatie acceptata
-'agent indisponible. redirection vers message':Agentul dumneavoastra este indisponibil. Rerirectionare carte mesagerie.
+'agent indisponible. redirection vers message': Agentul dumneavoastra este indisponibil. Rerirectionare carte mesagerie.
 'webuser': eu
 'user flash crash': Programul dumneavoastra de comunicare video intampina o problema. Va rugam sa utilizati comunicare prin text.
 'message sent': Messaj trimis
@@ -78,7 +78,7 @@ gorgeous: foarte frumos
 'Live Help': ajutor in linie
 'agent(s) available': agenti disponibili
 'Chat (video or text) for free with ecommerce experts': Discutati (text, audio sau video) gratuit cu expertii nostri in comert electronic.
-'information help':   Acum puteti discuta cu agentii disponibili. Puteti alege intre comunicatie video, audio sau text. Imediat, simplu, anonim si gratuit.
+'information help': Acum puteti discuta cu agentii disponibili. Puteti alege intre comunicatie video, audio sau text. Imediat, simplu, anonim si gratuit.
 'pending call text': Buna ziua, doriti sa ne contactati. Un agent va sta la dispozitie imediat.
 'flash security panel': Apasati pe "Allow" pentru a discuta.
 'Leave a text message': Imi pare rau, sunt pentru moment indisponibil. Va rug lasati-mi un mesaj.
@@ -142,9 +142,9 @@ your company: Cmpanie
 your email: E-mail
 your phone: Telefon
 your message: Messaj
-Convorbirea dumneavoastra a luat sfarsit. Va multumim ca ne-ati contactat! : <strong>Discutia dumneavoastra a luat sfarsit.</strong><br />Va multumim ca ne-ati contactat!
+Your conversation has ended.Thank you for contacting us!: Convorbirea dumneavoastra a luat sfarsit. Va multumim ca ne-ati contactat! : <strong>Discutia dumneavoastra a luat sfarsit.</strong><br />Va multumim ca ne-ati contactat!
 Recall this operator now: Re-apeleaza acest operator acum!
-Give us your <b>feedback</b><br/>about this discussion.Lasati-ne <b> opinia</b><br/> dumneavoastra despre conversatie
+give us your feedback about the conversation: Lasati-ne <b> opinia</b><br/> dumneavoastra despre conversatie
 has this dialog been helpful: A fost utila aceasta conversatie?
 Would you recommend this experience to your facebook friends: Ati recomanda aceasta experienta prietenilor?
 Any comments or suggestions: Comentarii? Sugestii?
@@ -194,7 +194,7 @@ click_on: Apasati aici
 allow: autorizati
 to_start_your_microphone: Pentru a activa microfonul
 to_start_your_webcam: Pentru a activa camera video
-terms_of_use: 'Puteti citi conditiile de utilizare'
+terms_of_use: 'Puteti citi conditiile de utilizare '
 here: 'aici'
 webcam_blocked: Camera dumneavoastra video este in acest moment blocata
 microphone_blocked: acest moment blocat
