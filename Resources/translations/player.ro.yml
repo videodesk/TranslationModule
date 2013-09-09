@@ -1,0 +1,244 @@
+'let a message': Làsati un mesaj
+'chat call': convorbire in direct
+'audio call': convorbire audio
+'video call': convorbire video
+'information help': mai multe informatii
+'faq help': intrebari si raspunsuri
+'Your discussion has ended': Convorbirea a luat sfàrsit .<br />Thank you for contacting us.Va multumim ca ati luat contactul cu noi.
+'Please, rate this discussion': Your opinion matters to us. Va rugam evaluati aceasta discutie: Opinia dumneavoastra este importanta pentru noi.
+'Discussion helpful ?': Has this discussion been helpful? Discutia v-a fost de ajtor?
+'Would you recommend this experience to your friends?': Ati recomanda aceasta experienta prietenilor dumneavoastra?
+'Any comments ?': Comments? Suggestions? Comentarii? Sugestii ?
+'chat transcript': Get a record of your conversation by e-mail. Obtineti o inregistrare a discutiei via e-mail.
+'Webuser is typing': is writing...  utilizatorul scrie
+'Type your text here': tasteaza textul aici     
+'agent dont answer': agentul nu este disponibil
+'chat redirection': redirectionare de apel
+'agent close communication': agentul a terminat convorbirea
+'Deprecated version of Flash Chat only': Versiune simplificata de convorbire in Flash
+'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.Imi pare rau, sunt momentan indisponibil. Va rog lasati-mi un mesaj.
+'Your mail': adresa dumneavoastra de e-mail
+'Or': sau numarul dumneavoastra de telefon.
+'Please type your message here': Va rugam scrieti mesajul dumeavoastra aici
+'message field required': Mesaj scris necesar
+'email or phone field required': e-mail sau numar de telefon necesar
+'send': trimite
+'not ready to switch': inca nu pregatit de schimbare
+'will answer in a few seconds': sunt pregatit pentru dumneavoastra in cateva secunde.
+'Email adress': adresa de e-mail
+'Phone number': numar de telefon
+'Phone': telefon
+'email invalide': adresa de e-mail invalida
+'Discutez en video' : discutati prin video
+'Discutez en audio' : discutati prin audio
+'Discutez en chat' : discutati prin text
+'Laissez un message' : Lasati un mesaj
+'agent-accept-communication' : comunicatie acceptata
+'agent indisponible. redirection vers message':Agentul dumneavoastra este indisponibil. Rerirectionare carte mesagerie.
+'webuser': eu
+'user flash crash': Programul dumneavoastra de comunicare video intampina o problema. Va rugam sa utilizati comunicare prin text.
+'message sent': Messaj trimis
+'cgv': Prin utilizarea acestui serviciu sunteti de acord cu <a href="http://www.videodesk.com/terms" target="_blank">Termeni si conditii de utilizare </a> a Videodesk inc si folosirea in continuarea acestui serviciu inseamna ca sunteti de acord cu toate imbnatatirile programului. Daca nu sunteti de acord cu aceste conditii de utilizare, va rugam nu utilizati acest serviciu.
+'You will can enter your text here': Puteti introduce textul dumneavoastra aici.
+
+'Discussion with %site%': discutie cu %loc%
+
+'hello': Buna ziua
+'videodesk team': echipa videodesk <br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from': Mesaj nou pe situl internet
+'message from videodesk module': Mesaj nou de la modulul videodesk
+'message originally intended to': Mesaj trimis catre
+
+'Enter your question here': Trimiteti intrebarea dumneavoastra
+
+#CRM
+Va rugam sa ne informati cu detaliile de mai jos si va vom raspunde in cateva clipe: inainte de a contacta agentul dumneavoastra, va rugam sa ne dati cateva informatii.
+firstname: Prenume
+lastname: Nume 
+email: e-mail
+phone: Numar de telefon
+company: Companie
+send: Trimite
+firstname required: Prenume necesar
+lastname required: Nume necesar
+email required: E-mail necesar
+email invalid: adresa e-mail invalidà
+phone required: Numar de telefon, necesar
+company required: Numele companiei, necesar
+required: Càmp obligatoriu
+
+#survey
+bad: nemultumit
+poor: loc pentru mai bine
+regular: obisnuit
+good: bun
+gorgeous: foarte frumos
+
+#module texts
+'Live Help': ajutor in linie
+'agent(s) available': agenti disponibili
+'Chat (video or text) for free with ecommerce experts': Discutati (text, audio sau video) gratuit cu expertii nostri in comert electronic.
+'information help':   Acum puteti discuta cu agentii disponibili. Puteti alege intre comunicatie video, audio sau text. Imediat, simplu, anonim si gratuit.
+'pending call text': Buna ziua, doriti sa ne contactati. Un agent va sta la dispozitie imediat.
+'flash security panel': Apasati pe "Allow" pentru a discuta.
+'Leave a text message': Imi pare rau, sunt pentru moment indisponibil. Va rug lasati-mi un mesaj.
+
+#--------------FLASH PANEL-----------------
+#TMP MSG
+webcam_activated: camera mea video este activa.
+webcam_desactivated: camera mea video este inactiva
+mic_activated: microfonul meu este activ
+mic_desactivated: microfonul meu este inactiv
+vid_resumed: Video al agentului dumneavoasra este re-activat
+vid_stoped: Video al agentului dumneavoasra este terminat
+#ROLL MSG
+activate_cam: Activeaza camera mea video
+desactivate_cam: Dezactiveaza camera mea video
+activate_mic: Activeaza microfonul meu
+desactivate_mic: Dezactiveaza microfonul meu
+stop_vid: Termina video al agentului .
+resume_vid: Re initiaza video al agentului.
+activate_volume: Activeaza sunetul in difuzoare.
+desactivate_volume: Dezactiveaza sunetul in difuzoare.
+#WAITING MSG
+peerFailed: Ne pare rau, nu putem activa convorbirea.<br />Puteti trimite un text carte agentul dumneavoastra.
+agentBusy: Ne pare rau, agentul dumneavoastra este deja inytr-o convorbire.
+waitRemote: Va rugam sa asteptati, suntem pe cale de a va conecta.<br />. Ar putea sa dureze cateva clipe.
+waitLocal: Asteptam conectia video a camerei dumeavoastra.
+switchToAudio: Camera video dezactivata, incercam sa va facem o conectie audio.
+ncFailed: Ne pare rau, nu putem activa convorbirea.<br />Puteti trimite un text carte agentul dumneavoastra
+#ATTENTION MSG
+userNoFMSConnection: Din cauza unei probleme de retea,<br /> va schimbam catre o discutie prin text.(#1)
+agentNoFMSConnection: Din cauza unei probleme de retea,<br /> va schimbam catre o discutie prin text.(#2)
+agentFlashCrashed: Din cauza unei probleme de retea,<br /> va schimbam catre o discutie prin text.(#4)
+userNoCamButMic: Nu va putem detecta camera video.<br /><br />Trebuie sa aveti o camera video pentru a efectua o convorbire video.<br /><br />Va redirectionam spre modul audio.(#5)
+userNiCamNiMic: Nu va putem detecta o camera video,<br /> nici microfonul.<br />Trebuie sa aveti o camera video<br />sau un microfon,<br />pentru a efectua o convorbire video.<br /><br />Va redirectionam spre modul text.(#6)
+agentNoCamButMic: Agentul nu are camera video.<br />Va redirectionam spre convorbire audio.(#7)
+agentNiCamNiMic: Agentul nu are camera video si nici microfon.<br /><br />Va directionam spre o convorbire prin text.(#8)
+userDenyFlash: Nu ati dat acordul pentru semnal video<br /> si nici audio.<br /><br />Va directionam spre o convorbire prin text.(#9)
+noPeerConnection: Din cauza unei probleme de retea,<br />Va directionam spre o convorbire prin text.(#11)
+userConnectionFailed: Din cauza unei probleme de retea,<br />Va directionam spre o convorbire prin text.(#11)
+agentConnectionFailed: Din cauza unei probleme de retea,<br />Va directionam spre o convorbire prin text.(#110)
+userNoMic: Nu detectam nici un microfon.<br />Trebuie sa aveti un Microfon pentru a efectua o convorbire audio.<br /><br />Va directionam spre o convorbire prin text.(#12)
+agentNoMic: Agentul nu are microfon<br />Va directionam spre o convorbire prin text.(#13)
+userRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#15)
+agentRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#16)
+
+remote_audio_desactivated: Sunetul este mut
+remote_audio_activated: Sunetul este activ
+click_allow_to_start: Apasati"De Acord" pentru a incepe.
+
+
+#REFACTOR
+type here: Tastati mesajul dumneavoastra aici...
+Vreti sa incheiati discutia?: 
+Yes: Da
+No: Nu
+send: Trimite
+your firstname: Prenume
+Va rugam completati macar una din datele necesare.
+your lastname: Munele de familie
+your company: Cmpanie
+your email: E-mail
+your phone: Telefon
+your message: Messaj
+Convorbirea dumneavoastra a luat sfarsit. Va multumim ca ne-ati contactat! : <strong>Discutia dumneavoastra a luat sfarsit.</strong><br />Va multumim ca ne-ati contactat!
+Recall this operator now: Re-apeleaza acest operator acum!
+Give us your <b>feedback</b><br/>about this discussion.Lasati-ne <b> opinia</b><br/> dumneavoastra despre conversatie
+has this dialog been helpful: A fost utila aceasta conversatie?
+Would you recommend this experience to your facebook friends: Ati recomanda aceasta experienta prietenilor?
+Any comments or suggestions: Comentarii? Sugestii?
+Get a reccord of this conversation by e-mail: Primiti o dovada a acestei discutii prin e-mail.
+Please enter your e-mail address: Va rugam introduceti adresa dumneavoastra de e-mail.
+Please give a valid address: Va rugam sa ne comunicati o adresa de e-mail valida
+The record has been successfully sent: Aceasta inregistrare a fost trimisa cu succes
+your message has been successfully sent. We Will contact you soon: Mesajul dumneavoastra a fost trimis cu succes.Va vom contacta foarte curànd.
+Please fill email field: Va rugam completati cu adresa de e-mail 
+Please fill phone field: Va rugam completati cu numar de telefon
+Please fill message textarea: Va rugam completati cu text textarea
+Please fill firstname field: Va rugam completati cu prenume field
+Please fill lastname field: Va rugam completati cu nume field
+Please fill company field: Va rugam completati cu numele companiei field
+call audio: Convorbire Audio
+call video: Convorbire Video
+video suggestion: Accept convorbire audio
+audio suggestion: Accept convorbire video
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: SUNTEM AICI PENTRU A VA AJUTA!<br />AGENT DE VANZARI, IN DIRECT.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: SUNTEM AICI PENTRU A VA AJUTA!<br />VA RUGAM LASATI UN MESAJ.
+GIVE US YOUR FEEDBACK! THANK YOU: LASATI O OPINIE!<br />MULTUMIM
+
+#V1.2
+required field: Càmp necesar
+message sent: Mesaj trimis
+Before contacting you operator: INainte de a contacta operatorul,<br/>Va rugam sa ne dati cateva informatii:
+No operator is available for the moment: Nici un operator nu este disponibil momentan.
+Please leave me a message: Va rog lasati-mi un mesaj
+Please leave a message: Va rugam lasati un mesaj
+Do you Want to start an audio call with me: Vreti sa incepeti o discutie audio cu mine?
+Do you Want to start a video call with me: Vreti sa incepeti o discutie video cu mine?
+e-mail invalid: adresa e-mail invalidà
+close webpage cause end of the discussion: Inchiderea paginii va rezulta in terminarea convorbirii.
+survey sent: Opinie treimisa
+Survey sent: Opinie trimisa
+agent hangup: Operatorul dumneavoastra a terminat convorbirea.
+agent unavailable: Operatorul dumneavoastra nu este disponibil.
+Agent deny call: Din pacate, operatorul dumneavoastra a trebuit sa refuze convorbirea.
+Agent dont answer call: Din pacate, operatorul dumneavoastra nu poate raspunde.
+Ongoing discussion: Discutie in mers.
+Click here to enlarge: Apasati aici pentru a màri
+Give us your feedback: Lasati-ne o opinie
+Thank you: Va multumim
+click here to enlarge: Apasati aici pentru a màri 
+Your question: Intrebarea dumneavoastra
+click_on: Apasati aici
+allow: autorizati
+to_start_your_microphone: Pentru a activa microfonul
+to_start_your_webcam: Pentru a activa camera video
+terms_of_use: 'Puteti citi conditiile de utilizare'
+here: 'aici'
+webcam_blocked: Camera dumneavoastra video este in acest moment blocata
+microphone_blocked: acest moment blocat
+click_to_unlock: Apasati pe semnul camerei video pentru a o debloca 
+reload_to_unlock: Re-initializati pagina pentru a activa camera video
+hangup: Terminati
+alternative_message_1: Ne pare rau, agentii nostri sunt indisponibili.
+alternative_message_2: Va multumim pentru intelegere.
+initiate_video_call: Vreti sa incepeti o convorbire video cu mine?
+initiate_audio_call: Vreti sa incepeti o convorbire audio cu mine?
+initiate_video_btn: Accept convorbire video
+initiate_audio_btn: Accept convorbirea audio
+webuser_accept_audio_call: Ati acceptat convorbirea audio
+webuser_accept_video_call: Ati acceptat convorbirea video
+
+#transcript mail
+Hi: Buna ziua
+You reached: Ati contactat
+We have to pleasure to send you the transcript of your discussion.Ne face placere sa va transmitem o transcriptie a discutiei dumneavoastra.
+We look forward to seeing you again on: Speram sa fim din nou in contact in curand.
+Thank you for your visit: Va miltumim pentru vizita.
+videodesk team: Echipa Videodesk
+transcript: Transcriptie,
+yours transcripts with: Transcriptia convorbirii dumneavoastra cu
+We can talk, you are seeing.: Puteti vorbi, agentul dumneavoastra va poate vedea.
+We can talk, you are not seeing.: Puteti vorbi, agentul dumneavoastra nu va poate vedea
+
+# default values for new module
+grabber_advisor_1: Suntem aici pentru a va ajuta!
+grabber_advisor_2: Agenti de vanzari, in direct
+grabber_message_1: Ajutor in linie
+grabber_message_2: Lasati-ne un mesaj.
+invitation_baloon: "Buna!\nCu cum te pot ajuta?"
+invitation_baloon_several_agents: "Buna!\nUn operator este disponibil sa va raspunda la intrabari"
+several agents: cativa agenti
+message_baloon: Ma multumim pentru apel, lasati-mi un mesaj va rog!
+leave_message_1: Ne pare rau, agentii nostri sunt indisponibili.
+leave_message_2: Va rugam sa ne lasati un mesaj!
+crm_txt_1: In timp ce va punem in legatura cu agentul dumneavoastra,  
+crm_txt_2: va rugam sa completati cu urmatoarele detalii: 
+apply_picture: Aplicati aceasta fotografie %user_name%'s pentru profilul:
+
+Attention grabber live advisor: ghid pentru atragerea atentiei in direct
+Attention grabber message: Mesaj pentru atragerea atentiei
+Invitation baloon: Semn de invitatie
+'"Leave me a message" balloon': '"Lasati-mi un mesaj" balon'
+Leave a message: Lasati un mesaj
