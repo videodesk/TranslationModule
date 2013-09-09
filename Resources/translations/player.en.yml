@@ -209,7 +209,9 @@ initiate_video_btn: Accept the video call
 initiate_audio_btn: Accept the audio call
 webuser_accept_audio_call: You accepted the audio conversation
 webuser_accept_video_call: You accepted the video conversation
-conversation_send : the conversation has been send
+conversation_send: e-mail sent
+email_empty: email empty
+email_invalid: email invalid
 
 #transcript mail
 Hi: Hello,
