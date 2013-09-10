@@ -108,19 +108,19 @@ waitLocal: Waiting for your webcam to connect
 switchToAudio: Webcam disabled, we set up an audio connection
 ncFailed: Sorry, we couldn't set up the call.<br />You can text chat with your agent
 #ATTENTION MSG
-userNoFMSConnection: Because of a network problem,<br />We switch you to text chat.(#1)
-agentNoFMSConnection: Because of a network problem,<br />We switch you to text chat.(#2)
-agentFlashCrashed: Because of a network problem,<br />We switch you to text chat.(#4)
-userNoCamButMic: We did not detect your webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We switch you to audio mode.(#5)
-userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We switch you to chat mode.(#6)
-agentNoCamButMic: The agent has no webcam.<br />We switch you to audio chat.(#7)
-agentNiCamNiMic: The agent has no webcam and no microphone.<br /><br />We switch you in text chat.(#8)
-userDenyFlash: You denied access to your webcam<br />and to your microphone.<br /><br />We switch you in text chat.(#9)
-noPeerConnection: Because of a network problem,<br />We switch you to text chat.(#11)
-userConnectionFailed: Because of a network problem,<br />We switch you to text chat.(#11)
-agentConnectionFailed: Because of a network problem,<br />We witch you to text chat.(#110)
-userNoMic: We did not detect any microphone.<br />You must be equipped with a microphone to be able to launch an audio chat.<br /><br />We witch you to text chat.(#12)
-agentNoMic: The agent has no microphone<br />We witch you to text chat.(#13)
+userNoFMSConnection: Because of a network problem, we switch you to text chat.(#1)
+agentNoFMSConnection: Because of a network problem, we switch you to text chat.(#2)
+agentFlashCrashed: Because of a network problem, we switch you to text chat.(#4)
+userNoCamButMic: We did not detect your webcam. You must be equipped with a webcam in order to launch a video chat. We switch you to audio mode.(#5)
+userNiCamNiMic: We did not detect a webcam, or a microphone. You must be equipped with a webcam or a microphone, to be able to launch a video chat. We switch you to chat mode.(#6)
+agentNoCamButMic: The agent has no webcam. We switch you to audio chat.(#7)
+agentNiCamNiMic: The agent has no webcam and no microphone. We switch you in text chat.(#8)
+userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
+noPeerConnection: Because of a network problem, we switch you to text chat.(#11)
+userConnectionFailed: Because of a network problem, we switch you to text chat.(#11)
+agentConnectionFailed: Because of a network problem, we switch you to text chat.(#110)
+userNoMic: We did not detect any microphone. You must be equipped with a microphone to be able to launch an audio chat. We witch you to text chat.(#12)
+agentNoMic: The agent has no microphone, we switch you to text chat.(#13)
 userRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#15)
 agentRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#16)
 
@@ -169,7 +169,7 @@ GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
 
 #V1.2
 required field: Required field
-message sent: Message sent
+message sent: Email sent
 Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
 No operator is available for the moment: No operator is available for the moment.
 Please leave me a message: Please leave me a message
