@@ -126,6 +126,19 @@ remote_audio_desactivated: Le son est désactivé
 remote_audio_activated: Le son est activé
 click_allow_to_start: Cliquez sur "Autoriser" pour dialoguer
 
+#transcript mail
+Hi: Bonjour,
+You reached: Vous avez contacté 
+We have to pleasure to send you the transcript of your discussion.: Nous avons le plaisir de vous transmettre ci-dessous vos échanges par tchat.
+We look forward to seeing you again on: Nous espérons vous revoir bientôt 
+Thank you for your visit: En vous remerciant de votre visite
+videodesk team: l'équipe VideoDesk
+transcript: Appel,
+yours transcripts with: Vos échanges avec
+We can talk, you are seeing.: Vous pouvez parler, le conseiller vous voit.
+We can talk, you are not seeing.: Vous pouvez parler, vous n'êtes pas vu.
+
+
 #REFACTOR
 type here: Tapez votre message ici...
 Do you want to close the discussion?: Voulez-vous mettre fin à la discussion ? 
@@ -210,14 +223,4 @@ conversation_send: message envoyé
 email_empty: email vide
 email_invalid: email non valide
 
-#transcript mail
-Hi: Bonjour,
-You reached: Vous avez contacté 
-We have to pleasure to send you the transcript of your discussion.: Nous avons le plaisir de vous transmettre ci-dessous vos échanges par tchat.
-We look forward to seeing you again on: Nous espérons vous revoir bientôt 
-Thank you for your visit: En vous remerciant de votre visite
-videodesk team: l'équipe VideoDesk
-transcript: Appel,
-yours transcripts with: Vos échanges avec
-We can talk, you are seeing.: Vous pouvez parler, le conseiller vous voit.
-We can talk, you are not seeing.: Vous pouvez parler, vous n'êtes pas vu.
+back to list: Retour à la liste

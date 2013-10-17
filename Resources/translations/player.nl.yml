@@ -86,131 +86,131 @@ gorgeous: gorgeous
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: My webcam is activated
-webcam_desactivated: My webcam is disabled
-mic_activated: My microphone activated
-mic_desactivated: My microphone disabled
-vid_resumed: Video of your contact resuming
-vid_stoped: Video of your contact stopped
+webcam_activated: Mijn webcam is ingeschakeld
+webcam_desactivated: Mijn webcam is uitgeschakeld
+mic_activated: Mijn microfoon is ingeschakeld
+mic_desactivated: Mijn microfoon is uitgeschakeld
+vid_resumed: Video is opnieuw gestart
+vid_stoped: Video is gestopt
 #ROLL MSG
-activate_cam: Activate my webcam
-desactivate_cam: Disable my webcam
-activate_mic: Activate my microphone
-desactivate_mic: Disable my microphone
-stop_vid: Deactivate video of my contact
-resume_vid: Reactivate the video of my contact
-activate_volume: Activate sound
-desactivate_volume: Desactivate sound
+activate_cam: Inschakelen webcam
+desactivate_cam: Uitschakelen webcam
+activate_mic: Inschakelen microfoon
+desactivate_mic: Uitschakelen microfoon
+stop_vid: Schakel video van mijn contact uit
+resume_vid: Schakel video van mijn contact opnieuw in
+activate_volume: Geluid inschakelen
+desactivate_volume: Geluid uitschakelen
 #WAITING MSG
-peerFailed: Sorry, we couldn't establish video chat.<br />We're switching to text mode
-agentBusy: Sorry, the agent is already busy!
-waitRemote: Please wait, we are currently connecting<br />you. This may take some time.
-waitLocal: Waiting for your webcam to activate
-switchToAudio: Webcam deactivated, audio connection activating
-ncFailed: Sorry, we couldn't establish a connection.<br />You are in chat mode
+peerFailed: Sorry, geen video gesprek mogelijk. We schakelen over naar een tekst gesprek
+agentBusy: Sorry, deze medewerker is in gesprek!
+waitRemote:  Nog even geduld, we zijn nog even bezig met opstarten. Het kan nog even duren.
+waitLocal: Wachten totdat de webcam ingeschakeld is
+switchToAudio: webcam uitgeschakeld, audio ingeschakeld
+ncFailed: Sorry, we konden geen connectie maken. U bent in de Chat modus
 #ATTENTION MSG
-userNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#1)
-agentNoFMSConnection: Because of a network problem,<br />We will switch you to chat mode.(#2)
-agentFlashCrashed: Because of a network problem,<br />We will switch you to chat mode.(#4)
-userNoCamButMic: We have not detected a webcam.<br /><br />You must be equipped with a webcam in order to launch a video chat.<br /><br />We will switch you to audio mode.(#5)
-userNiCamNiMic: We did not detect a webcam,<br />or a microphone.<br />You must be equipped with a webcam<br />or a microphone,<br />to be able to launch a video chat.<br /><br />We will switch you to chat mode.(#6)
-agentNoCamButMic: The agent didn't have a webcam.<br />We will switch you to audio mode.(#7)
-agentNiCamNiMic: The agent didn't have a webcam or a microphone.<br /><br />We will switch you in chat mode.(#8)
-userDenyFlash: You denied the access to your webcam<br />and to your microphone.<br /><br />We will switch you in chat mode.(#9)
-noPeerConnection: Because of a network problem,<br />We will switch you to chat mode.(#11)
-userConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#11)
-agentConnectionFailed: Because of a network problem,<br />We will switch you to chat mode.(#110)
-userNoMic: We did not detect any microphone.<br />You must be equipped with a microphone to be able to launch an audio- chat.<br /><br />We will switch you to chat mode.(#12)
-agentNoMic: The agent doesn't have any microphone<br />We switched him to chat mode.<br /><br />We will switch you to chat mode.(#13)
-userRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#15)
-agentRtmptConnection: The network performances do not allow a good video/audio quality, therefore we recommend to use the text chat discussion(#16)
+userNoFMSConnection: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#1)
+agentNoFMSConnection: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#2)
+agentFlashCrashed: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#4)
+userNoCamButMic: We hebben geen webcam kunnen ontdekken. U hebt een webcam nodig om de video chat te gebruiken. We schakelen over naar de Audio modus. (#5)
+userNiCamNiMic: We hebben geen webcam kunnen ontdekken. U hebt een webcam nodig om de video chat te gebruiken. We schakelen over naar de Audio modus. (#6)
+agentNoCamButMic: De medewerker gebruikt geen webcam. We schakelen over naar de audio modus. (#7)
+agentNiCamNiMic: De medewerker gebruikt geen webcam of microfoon. We schakelen over naar de Chat Modus.(#8)
+userDenyFlash: U heeft geen toegang tot uw webcam of uw microfoon. We schakelen over naar de Chat modus(#9)
+noPeerConnection: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#11)
+userConnectionFailed: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#11)
+agentConnectionFailed: BDoor een netwerk probleem, schakelen we over naar de Chat Modus. (#110)
+userNoMic: We hebben geen microfoon kunnen ontdekken. U dient een microfoon aan te sluiten voordat u de audio-chat kunt gebruiken. We schakelen over naar de Chat Modus. (#12)
+agentNoMic: Deze medewerker gebruikt geen microfoon. We schakelen over naar de Chat Modus. (#13)
+userRtmptConnection:  Het netwerk laat geen goede video/audio kwaliteit toe, u kunt beter overschakelen naar de tekst chat (#15)
+agentRtmptConnection: Het netwerk laat geen goede video/audio kwaliteit toe, u kunt beter overschakelen naar de tekst chat (#16)
 
-remote_audio_desactivated: The sound is muted
-remote_audio_activated: The sound is active
-click_allow_to_start: Click on "Allow" to start.
+remote_audio_desactivated: geluid is uitgeschakeld
+remote_audio_activated: geluid is ingeschakeld
+click_allow_to_start: Klik op "Toestaan" om te starten.
 
 
 #REFACTOR
-type here: Type your message here...
-Do you want to close the discussion?: Do you want to close the discussion?
-Yes: Yes
-No: No
-send: Send
-your firstname: First name
-Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
-your lastname: Last name
-your company: Company
-your email: Email
-your phone: Phone
-your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
-Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
-has this dialog been helpful: Has this dialog been helpful?
-Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
-Any comments or suggestions: Comments? Suggestions?
-Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
-Please enter your e-mail address: Please enter your e-mail address
-Please give a valid address: Please give a valid address
-The record has been successfully sent: The record has been successfully sent
-Ongoing discussion: Ongoing discussion
-your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
-Please fill email field: Please fill email field
-Please fill phone field: Please fill phone field
-Please fill message textarea: Please fill message textarea
-Please fill firstname field: Please fill firstname field
-Please fill lastname field: Please fill lastname field
-Please fill company field: Please fill company field
-call audio: Audio Call
-call video: Video Call
-video suggestion: Video suggestion
-audio suggestion: Audio suggestion
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
-GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+type here: Type hier uw bericht...
+Do you want to close the discussion?: Wilt u dit gesprek beeïndigen?
+Yes: Ja
+No: Nee
+send: verzenden
+your firstname: Voornaam
+Please fill at least one of highlighted fields: Vul tenminste één van de aangegeven velden in
+your lastname: Achternaam
+your company: Bedrijfsnaam
+your email: Email adres
+your phone: Telefoonnummer
+your message: Bericht
+Your conversation has ended.Thank you for contacting us!: <strong>Uw gesprek is beeïndigd. </strong><br /> Hartelijk dank voor uw bezoek!
+Recall this operator now: Medewerker weer spreken!
+give us your feedback about the conversation: Geef ons uw <strong>mening</strong><br/>over dit gesprek.
+has this dialog been helpful: Heeft dit gesprek u geholpen
+Would you recommend this experience to your facebook friends: Zou u ons aanraden bij uw Facebook vrienden?
+Any comments or suggestions: Opmerkingen? Suggesties?
+Get a reccord of this conversation by e-mail: Ontvang dit gesprek via email
+Please enter your e-mail address: Please enter your e-mail address (SVP uw email adres opgeven
+Please give a valid address: SVP een correct adres opgeven
+The record has been successfully sent: Dit gesprek is verzonden
+Ongoing discussion: Lopend gesprek
+your message has been successfully sent. We Will contact you soon: Uw bericht is verzonden. We zullen z.s.m. contact met u opnemen
+Please fill email field: SVP email veld invullen
+Please fill phone field: SVP telefoonnummer veld invullen
+Please fill message textarea: SVP het bericht veld invullen
+Please fill firstname field: SVP het voornaam veld invullen
+Please fill lastname field: SVP het achternaam veld invullen
+Please fill company field: SVP het bedrijfsnaam veld invullen
+call audio: Audio bericht
+call video: Video bericht
+video suggestion: Video suggestie
+audio suggestion: Audio suggestie
+WE ARE HERE TO HELP! LIVE SALES ADVISOR:  Kunnen wij u helpen? Medewerkers online.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: Kunnen wij u helpen? U kunt een bericht achterlaten
+GIVE US YOUR FEEDBACK! THANK YOU: Geef ons uw mening! Hartelijk dank
 
 #V1.2
-required field: Required field
-message sent: Message sent
-Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
-No operator is available for the moment: No operator is available for the moment.
-Please leave me a message: Please leave me a message
-Please leave a message: Please leave a message
-Do you Want to start an audio call with me: Do you want to start an audio call with me?
-Do you Want to start a video call with me: Do you want to start a video call with me?
-e-mail invalid: Invalid Email
-close webpage cause end of the discussion: Close webpage cause end of the discussion
-survey sent: Survey sent
-Survey sent: Survey sent
-agent hangup: Agent hangup
-agent unavailable: Agent unavailable
-Agent deny call: Agent deny call
-Agent dont answer call: Agent dont answer call
-Ongoing discussion: Ongoing discussion
-Click here to enlarge: Click here to enlarge
-Give us your feedback: Give us your feedback
-Thank you: Thank you
-click here to enlarge: Click to enlarge 
-Your question: Your question
-click_on: Click on
-allow: allow
-to_start_your_microphone: To start your microphone
-to_start_your_webcam: To start your webcam
-terms_of_use: 'You can read the terms of use '
-here: 'here'
-webcam_blocked: Your webcam is currently blocked
-microphone_blocked: Your microphone is currently blocked
-click_to_unlock: Click on the cam icon to unlock it now
-reload_to_unlock: Refresh your page to make your webcam available
-hangup: Hang up
-alternative_message_1: Sorry, our agents are unavailable.
-alternative_message_2: Thank you for your understanding.
-initiate_video_call: Do you want to start a video call with me?
-initiate_audio_call: Do you want to start an audio call with me?
-initiate_video_btn: Accept the video call
-initiate_audio_btn: Accept the audio call
-webuser_accept_audio_call: You accepted the audio conversation
-webuser_accept_video_call: You accepted the video conversation
+required field: verplicht veld
+message sent: bericht verzonden
+Before contacting you operator: Voordat u de medewerker spreekt, vragen wij u om wat gegevens
+No operator is available for the moment: Op dit moment is er geen medewerker beschikbaar
+Please leave me a message: Laat een bericht achter
+Please leave a message: Laat een bericht achter
+Do you Want to start an audio call with me: Wilt u een audio gesprek met mij starten?
+Do you Want to start a video call with me: Wilt u een video gesprek met mij starten?
+e-mail invalid: Ongeldig email adres
+close webpage cause end of the discussion: Door verwijdering van webpagina is het gesprek beeïndigd
+survey sent: Enquete verzonden
+Survey sent: Enquete verzonden
+agent hangup: Medewerker heeft gesprek beeïndigd
+agent unavailable: Medewerker niet beschikbaar
+Agent deny call: Medewerker heeft gesprek geweigerd
+Agent dont answer call: Medewerker beantwoord het gesprek niet
+Ongoing discussion: Lopende gesprek
+Click here to enlarge: Klik hier om te vergroten
+Give us your feedback: Geef ons uw mening
+Thank you: Hartelijk dank
+click here to enlarge: klik om te vergroten
+Your question: uw vraag
+click_on: Klik door
+allow: toestaan
+to_start_your_microphone: Start uw microfoon
+to_start_your_webcam: Start uw webcam
+terms_of_use: Gebruiksvoorwaarden
+here: hier
+webcam_blocked: Uw webcam is op het moment geblokkeerd
+microphone_blocked: Uw microfoon is op het moment geblokkeerd
+click_to_unlock: Klik op het webcam icoon om gelijk te deblokkeren
+reload_to_unlock: Ververs uw pagina om uw webcam te gebruiken
+hangup: Ophangen
+alternative_message_1: Sorry, onze medewerkers zijn op dit moment niet beschikbaar.
+alternative_message_2: Hartelijk dank voor uw begrip.
+initiate_video_call: Wilt u een video gesprek met mij starten?
+initiate_audio_call: Wilt u een audio gesprek met mij starten?
+initiate_video_btn: Accepteer dit video gesprek
+initiate_audio_btn: Aceepteer dit audio gesprek
+webuser_accept_audio_call: U heeft dit audio gesprek geaccepteerd
+webuser_accept_video_call: U heeft dit video gesprek geaccepteerd
 
 #transcript mail
 Hi: Hi,
