@@ -126,6 +126,19 @@ remote_audio_desactivated: El sonido es desactiva
 remote_audio_activated: El sonido es activa
 click_allow_to_start: Pulsa en “Autorizar” para activar tu webcam o tu micrófono.
 
+#transcript mail
+Hi: ¡Hola!
+You reached: Usted contactado
+We have to pleasure to send you the transcript of your discussion.: Tenemos el placer de enviarle la transcripción de su conversación.
+We look forward to seeing you again on: Esperamos que te ayude
+Thank you for your visit: Gracias por su visita.
+videodesk team: El equipo Videodesk
+transcript: Transcripción
+yours transcripts with: Su transcripción con
+We can talk, you are seeing.: Podemos hablar, usted ve.
+We can talk, you are not seeing.: Podemos hablar, usted no ve.
+
+
 #REFACTOR
 type here: Escribe tu mensaje aquí...
 Do you want to close the discussion?: ¿Quiere terminar la conversacion?
@@ -207,14 +220,4 @@ initiate_audio_btn: Aceptar la llamada audio
 webuser_accept_audio_call: Usted ha aceptado la conversacion audio
 webuser_accept_video_call: Usted ha aceptado la conversacion video
 
-#transcript mail
-Hi: ¡Hola!
-You reached: Usted contactado
-We have to pleasure to send you the transcript of your discussion.: Tenemos el placer de enviarle la transcripción de su conversación.
-We look forward to seeing you again on: Esperamos que te ayude
-Thank you for your visit: Gracias por su visita.
-videodesk team: El equipo Videodesk
-transcript: Transcripción
-yours transcripts with: Su transcripción con
-We can talk, you are seeing.: Podemos hablar, usted ve.
-We can talk, you are not seeing.: Podemos hablar, usted no ve.
+back to list: Volver a la lista
