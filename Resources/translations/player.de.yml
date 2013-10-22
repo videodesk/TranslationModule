@@ -123,6 +123,9 @@ userNoMic: Wir konnten keine Mikrofone ermitteln.<br />Sie müssen über ein Mik
 agentNoMic: Der Mitarbeiter hat kein Mikrofon<br />Wir haben ihn in den Chat-Modus verbunden.<br /><br />Wir verbinden Sie in den Chat-Modus.(#13)
 userRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/Audio-Qualität, daher empfehlen wir Ihnen, den Chat zu benutzen.(#15)
 agentRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/Audio-Qualität, daher empfehlen wir Ihnen, den Chat zu benutzen.(#16)
+userNoSpeakers: Wir haben keine Audio-Ausgang (Lautsprecher, Headset ...) nachgewiesen. Sie können nicht hören, die Agenten, den Sie genannt. Wir schlagen vor, dass Sie Lautsprecher oder Kopfhörer an Ihren Computer anschließen. Allerdings können Sie bereits mit Ihrem Agenten Chat via Text.
+
+
 remote_audio_desactivated: Der Ton ist stummgeschaltet
 remote_audio_activated: Der Ton bleibt eingeschaltet
 click_allow_to_start: Klicken Sie auf « annehmen », um das Gespräch zu beginnen.
@@ -222,6 +225,7 @@ yours transcripts with: Ihr Transkript mit
 We can talk, you are seeing.: Wir können reden, Sie sehen.
 We can talk, you are not seeing.: Wir können reden, Sie sind nicht zu sehen.
 
+
 # default values for new module
 grabber_advisor_1: Wir sind hier!
 grabber_advisor_2: Live Mitarbeiter
@@ -233,3 +237,8 @@ leave_message_1: Alle sind leider unerreichbar
 leave_message_2: Bitte Nachricht hinterlassen!
 crm_txt_1: Ein Mitarbeiter wird angemeldet,
 crm_txt_2: Bitte geben Sie die Details ein:
+
+#new
+fall_back_window_default: Unser Agent ist derzeit nicht verfügbar, bitte versuchen Sie es später
+back to list: Zurück zur Liste
+

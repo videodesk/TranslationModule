@@ -122,6 +122,7 @@ userNoMic: Nous n'avons détecté aucun microphone.<br />Vous devez être équip
 agentNoMic: L'agent n'a pas de microphone,<br />Nous vous basculons en tchat.(#13)
 userRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#15)
 agentRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#16)
+userNoSpeakers: Nous n'avons détecté aucune sortie audio (haut-parleurs, casque ...). Vous ne pouvez pas entendre le conseiller que vous avez appelé. Nous suggérons de connecter des haut-parleurs ou écouteurs à votre ordinateur. Cependant, vous pouvez déjà discuter avec votre agent par chat.
 remote_audio_desactivated: Le son est désactivé
 remote_audio_activated: Le son est activé
 click_allow_to_start: Cliquez sur "Autoriser" pour dialoguer
@@ -223,8 +224,6 @@ conversation_send: message envoyé
 email_empty: email vide
 email_invalid: email non valide
 
-back to list: Retour à la liste
-
 # default values for new module COntenu des phrases modifiables
 grabber_advisor_1: Nous sommes là !
 grabber_advisor_2: Conseillers disponibles
@@ -236,3 +235,8 @@ leave_message_1: Nos conseillers sont indisponibles
 leave_message_2: Merci de laisser un message !
 crm_txt_1: Nous contactons le conseiller, 
 crm_txt_2: merci de renseigner ces champs :
+
+#news
+back to list: Retour à la liste
+fall_back_window_default: Notre conseiller est indisponible pour le moment, veuillez réessayer plus tard.
+

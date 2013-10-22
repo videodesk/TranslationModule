@@ -124,6 +124,7 @@ userNoMic: Nós não detectamos microfones. <br />Você deve ser equipado com um
 agentNoMic: O agente não tem qualquer microfone <br />ós mudamos o para o chat.<br /><br />Vamos mudar você para o modo chat.(#13)
 userRtmptConnection: Os desempenhos da rede não permitem uma qualidade de vídeo<br />áudio de qualidade, portanto, recomendamos usar o modo chat(#15)
 agentRtmptConnection: Os desempenhos da rede não permitem uma qualidade de vídeo<br />áudio de qualidade, portanto, recomendamos usar o modo chat(#16)
+userNoSpeakers: Nós não detectaram qualquer saída de áudio (alto-falantes, fone de ouvido ...). Você não pode ouvir o agente que você ligou. Sugerimos que você conectar alto-falantes ou fones de ouvido para o seu computador. No entanto, você já pode conversar com seu agente via texto.
 
 remote_audio_desactivated: O som é silenciado
 remote_audio_activated: O som está ativo
@@ -222,3 +223,8 @@ transcript: Transcrição
 yours transcripts with: Your transcript with
 We can talk, you are seeing.: Podemos falar, você está vendo.
 We can talk, you are not seeing.: Podemos falar, você não está vendo.
+
+
+#new
+fall_back_window_default: ตัวแทนของเราในขณะนี้โปรดลองใหม่ภายหลัง
+back to list: กลับไปที่รายการ
