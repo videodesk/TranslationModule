@@ -123,6 +123,9 @@ userNoMic: Wir konnten keine Mikrofone ermitteln.<br />Sie müssen über ein Mik
 agentNoMic: Der Mitarbeiter hat kein Mikrofon<br />Wir haben ihn in den Chat-Modus verbunden.<br /><br />Wir verbinden Sie in den Chat-Modus.(#13)
 userRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/Audio-Qualität, daher empfehlen wir Ihnen, den Chat zu benutzen.(#15)
 agentRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/Audio-Qualität, daher empfehlen wir Ihnen, den Chat zu benutzen.(#16)
+userNoSpeakers: Wir haben keine Audio-Ausgang (Lautsprecher, Headset ...) nachgewiesen. Sie können nicht hören, die Agenten, den Sie genannt. Wir schlagen vor, dass Sie Lautsprecher oder Kopfhörer an Ihren Computer anschließen. Allerdings können Sie bereits mit Ihrem Agenten Chat via Text.
+
+
 remote_audio_desactivated: Der Ton ist stummgeschaltet
 remote_audio_activated: Der Ton bleibt eingeschaltet
 click_allow_to_start: Klicken Sie auf « annehmen », um das Gespräch zu beginnen.

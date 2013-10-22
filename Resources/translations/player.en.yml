@@ -123,6 +123,7 @@ userNoMic: We did not detect any microphone. You must be equipped with a microph
 agentNoMic: The agent has no microphone, we switch you to text chat.(#13)
 userRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#15)
 agentRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#16)
+userNoSpeakers: We have not detected any audio output (speakers, headset...). You may not hear the agent you called. We suggest that you connect speakers or headsets to your computer. However, you can already chat with your agent via text.
 
 remote_audio_desactivated: The sound is muted
 remote_audio_activated: The sound is on

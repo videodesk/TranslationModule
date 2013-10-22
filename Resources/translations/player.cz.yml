@@ -124,6 +124,8 @@ userNoMic: Mikrofon nebyl nalezen.<br />Pro zahájení hovoru musíte být vybav
 agentNoMic: Asistent není vybaven mikrofonem<br />Započal psanou formu komunikace.<br /><br />Přepínáme Vás do psané formy komunikace.(#13)
 userRtmptConnection: Video / audio kvalita není dobrá, doporučujeme využití psané formy komunikace.(#15)
 agentRtmptConnection: Video / audio kvalita je špatná, doporučujeme využití psané formy komunikace.(#16)
+userNoSpeakers: Jsme neodhalily žádnou zvukový výstup (reproduktory, sluchátka, ...). Nesmíte slyšet agenta jste volali. Doporučujeme, připojit reproduktory nebo sluchátka s mikrofonem k počítači. Nicméně, již můžete chatovat se svým agentem prostřednictvím textu.
+
 remote_audio_desactivated: T Zvuk je vypnut
 remote_audio_activated: Zvuk je zapnut
 click_allow_to_start: Klikněte na „Povolit“ pro začátek diskuze

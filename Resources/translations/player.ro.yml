@@ -123,6 +123,7 @@ userNoMic: Nu detectam nici un microfon.<br />Trebuie sa aveti un Microfon pentr
 agentNoMic: Agentul nu are microfon<br />Va directionam spre o convorbire prin text.(#13)
 userRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#15)
 agentRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#16)
+userNoSpeakers: Noi nu am detectat nici o ieșire audio (boxe, căști ...). Nu puteți auzi agentul ai sunat. Vă sugerăm să vă conectați difuzoare sau căști la computer. Cu toate acestea, puteți discuta deja cu agentul dvs. prin text.
 
 remote_audio_desactivated: Sunetul este mut
 remote_audio_activated: Sunetul este activ

@@ -122,6 +122,8 @@ userNoMic: No hemos detectado ningún micrófono.<br />Necesitas disponer de un 
 agentNoMic: El asesor no dispone de micrófono,<br />lo hemos pasado al modo chat.<br /><br />Te pasamos al modo chat.(#13)
 userRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#15)
 agentRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#16)
+userNoSpeakers: No hemos detectado ninguna salida de audio (altavoces, auriculares ...). Usted no puede escuchar el agente le llamó. Le sugerimos que conecte altavoces o auriculares a su ordenador. Sin embargo, ya se puede hablar con su agente a través de texto.
+
 remote_audio_desactivated: El sonido es desactiva
 remote_audio_activated: El sonido es activa
 click_allow_to_start: Pulsa en “Autorizar” para activar tu webcam o tu micrófono.

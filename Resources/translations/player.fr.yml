@@ -122,6 +122,7 @@ userNoMic: Nous n'avons détecté aucun microphone.<br />Vous devez être équip
 agentNoMic: L'agent n'a pas de microphone,<br />Nous vous basculons en tchat.(#13)
 userRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#15)
 agentRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#16)
+userNoSpeakers: Nous n'avons détecté aucune sortie audio (haut-parleurs, casque ...). Vous ne pouvez pas entendre le conseiller que vous avez appelé. Nous suggérons de connecter des haut-parleurs ou écouteurs à votre ordinateur. Cependant, vous pouvez déjà discuter avec votre agent par chat.
 remote_audio_desactivated: Le son est désactivé
 remote_audio_activated: Le son est activé
 click_allow_to_start: Cliquez sur "Autoriser" pour dialoguer
