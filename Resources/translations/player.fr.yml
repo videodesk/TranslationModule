@@ -224,3 +224,15 @@ email_empty: email vide
 email_invalid: email non valide
 
 back to list: Retour à la liste
+
+# default values for new module COntenu des phrases modifiables
+grabber_advisor_1: Nous sommes là !
+grabber_advisor_2: Conseillers disponibles
+grabber_message_1: Aide en ligne
+grabber_message_2: Laissez-nous un message
+invitation_baloon: "Bonjour !\nJe suis disponible pour répondre à vos questions."
+invitation_baloon_several_agents: "Bonjour !\n Un conseiller est disponible pour répondre à vos questions."
+leave_message_1: Nos conseillers sont indisponibles
+leave_message_2: Merci de laisser un message !
+crm_txt_1: Nous contactons le conseiller, 
+crm_txt_2: merci de renseigner ces champs :

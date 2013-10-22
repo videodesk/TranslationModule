@@ -221,3 +221,15 @@ webuser_accept_audio_call: Usted ha aceptado la conversacion audio
 webuser_accept_video_call: Usted ha aceptado la conversacion video
 
 back to list: Volver a la lista
+
+# default values for new module COntenu des phrases modifiables
+grabber_advisor_1: ¡Estamos aquí!
+grabber_advisor_2: Asesores disponible
+grabber_message_1: Ayuda en vivo
+grabber_message_2: Déjenos un mensaje
+invitation_baloon: "¡Hola!\n Estoy disponible para atenderle."
+invitation_baloon_several_agents: "¡Hola!\n Un consejero está disponible para responderle"
+leave_message_1: Los asesores están indisponibles
+leave_message_2: ¡Gracias, déjenos un mensaje!
+crm_txt_1: Un asesor le va a atender,
+crm_txt_2: por favor, informe estos campos:
