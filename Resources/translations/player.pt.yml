@@ -223,3 +223,8 @@ transcript: Transcrição
 yours transcripts with: Your transcript with
 We can talk, you are seeing.: Podemos falar, você está vendo.
 We can talk, you are not seeing.: Podemos falar, você não está vendo.
+
+
+#new
+fall_back_window_default: ตัวแทนของเราในขณะนี้โปรดลองใหม่ภายหลัง
+back to list: กลับไปที่รายการ

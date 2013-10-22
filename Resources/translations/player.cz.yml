@@ -223,3 +223,8 @@ transcript: Přepis,,
 yours transcripts with: Vaše přepis s
 We can talk, you are seeing.: Můžeme si promluvit, vidíte.
 We can talk, you are not seeing.: Můžeme si promluvit, agent není vidět.
+
+
+#new
+fall_back_window_default: Náš agent je k dispozici právě teď, zkuste to prosím později
+back to list: Zpět na seznam
