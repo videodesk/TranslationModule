@@ -256,4 +256,5 @@ back to list: Back to the list
 denied_missed_call_msg: Sorry, I cannot take your call. Please leave me a message!
 all_agent_msg_1: Sorry our agents are unavailable.
 all_agent_msg_2: Please leave us a message!
+fallback_default_msg: 'Our agent is not available right now, please try again later'
 
