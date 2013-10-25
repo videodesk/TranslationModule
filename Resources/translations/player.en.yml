@@ -56,14 +56,14 @@ Please provide the details below and we will answer in a few seconds: Before con
 firstname: First name
 lastname: Last name
 email: Email
-phone: Phone nb
+phone: Phone number
 company: Company
 send: Send
 firstname required: Firstname required
 lastname required: Lastname required
 email required: Email required
 email invalid: Invalid email
-phone required: Phone nb required
+phone required: Phone number required
 company required: Company required
 required: Mandatory field
 
