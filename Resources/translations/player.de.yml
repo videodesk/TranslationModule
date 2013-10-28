@@ -225,6 +225,20 @@ yours transcripts with: Ihre Transkription mit
 We can talk, you are seeing.: Sie können sprechen, der Händler sieht Sie.
 We can talk, you are not seeing.: Sie können sprechen, der Händler sieht Sie nicht.
 
+
+# default values for new module
+grabber_advisor_1: Wir sind hier!
+grabber_advisor_2: Live Mitarbeiter
+grabber_message_1: Online Hilfe
+grabber_message_2: Lassen Sie eine Nachricht
+invitation_baloon: "Hallo!\nIch bin jetzt erreichbar, um Ihnen zu helfen"
+invitation_baloon_several_agents: "Hallo!\n Unsere Mitarbeiter sind jetzt erreichbar, um Ihnen zu helfen"
+leave_message_1: Alle sind leider unerreichbar
+leave_message_2: Bitte Nachricht hinterlassen!
+crm_txt_1: Ein Mitarbeiter wird angemeldet,
+crm_txt_2: Bitte geben Sie die Details ein:
+
 #new
 fall_back_window_default: Unser Agent ist derzeit nicht verfügbar, bitte versuchen Sie es später
 back to list: Zurück zur Liste
+

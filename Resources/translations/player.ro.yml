@@ -230,8 +230,6 @@ grabber_message_1: Ajutor in linie
 grabber_message_2: Lasati-ne un mesaj.
 invitation_baloon: "Buna!\nCu cum te pot ajuta?"
 invitation_baloon_several_agents: "Buna!\nUn operator este disponibil sa va raspunda la intrabari"
-several agents: cativa agenti
-message_baloon: Ma multumim pentru apel, lasati-mi un mesaj va rog!
 leave_message_1: Ne pare rau, agentii nostri sunt indisponibili.
 leave_message_2: Va rugam sa ne lasati un mesaj!
 crm_txt_1: In timp ce va punem in legatura cu agentul dumneavoastra,  
