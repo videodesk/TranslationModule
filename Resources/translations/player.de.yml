@@ -131,99 +131,99 @@ remote_audio_activated: Der Ton bleibt eingeschaltet
 click_allow_to_start: Klicken Sie auf « annehmen », um das Gespräch zu beginnen.
 
 #REFACTOR
-type here: geben Sie Ihren Text hier ein
-Do you want to close the discussion?: Möchten Sie Ihre Unterhaltung beenden?
+type here: Tippen Sie Ihre Nachricht hier eın...
+Do you want to close the discussion?: Wollen Sie dieses Gespräch beenden?
 Yes: Ja
 No: Nein
 send: Senden
 your firstname: Vorname
-Please fill at least one of highlighted fields: E-Mail oder Telefonnummer erforderlich
+Please fill at least one of highlighted fields: Bitte füllen Sie mindestens eines der markierten Felder aus
 your lastname: Nachname
 your company: Firma
 your email: E-Mail
-your phone: Telefon
+your phone: Telefonnummer
 your message: Nachricht
-Your conversation has ended.Thank you for contacting us!: <strong>Ihre Unterhaltung ist beendet.</strong><br />Vielen Dank für Ihr Vertrauen.
-Recall this operator now: Jetzt diesen Mitarbeiter zurückanrufen!!
-give us your feedback about the conversation: Ihre Meinung ist uns wichtig.
-has this dialog been helpful: War dieser Dialog hilfreich?
-Would you recommend this experience to your facebook friends: Würden Sie dies Ihren Freunden weiterempfehlen?
-Any comments or suggestions: Vorschläge?
-Get a reccord of this conversation by e-mail: Die Inhalte Ihrer Chat-Nachrichten per E-Mail erhalten
-Please enter your e-mail address: hinterlassen Sie bitte Ihre E-Mail-Adresse
-Please give a valid address: hinterlassen Sie bitte eine gültige Adresse
-The record has been successfully sent: Nachricht wurde gesendet
-Ongoing discussion: laufende Diskussion
-your message has been successfully sent. We Will contact you soon: Ihre Nachricht wurde gesendet,<br />Wir werden Sie in Kürze kontaktieren.
-Please fill email field: Bitte E-Mail adresse hinterlassen
-Please fill phone field: Bitte Telefonnummer hinterlassen
-Please fill message textarea: Bitte Nachricht hinterlassen
-Please fill firstname field: Bitte Vorname hinterlassen
-Please fill lastname field: Bitte Nachnam hinterlassen
-Please fill company field: Bitte Firma hinterlassen
-call audio: Audio-Call
-call video: Video-Call
-video suggestion: Audio Vorschlag
-audio suggestion: Video Vorschlag
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: WIR SIND HIER!<br />LIVE MITARBEITER.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WIR KÖNNEN HELFEN<br />BITTE NACHRICHT HINTERLASSEN.
-GIVE US YOUR FEEDBACK! THANK YOU: BITTE IHRE MEINUNG HINTERLASSEN<br />VIELEN DANK
+Your conversation has ended.Thank you for contacting us!: <strong>Ihr Gespräch ist beendet.</strong><br /> Vielen Dank für die Kontaktaufnahme!
+Recall this operator now: Rufen Sie den Telefonisten jetzt noch einmal an!!
+give us your feedback about the conversation: Geben Sie uns Ihr <b>feedback</b> über dieses Gespräch
+has this dialog been helpful: War dieses Gespräch hilfreich?
+Would you recommend this experience to your facebook friends: Würden Sie diese Erfahrung an Ihre Freunde weiterempfehlen?
+Any comments or suggestions: Kommentare? Vorschläge?
+Get a reccord of this conversation by e-mail: Erhalten Sie eine Aufnahme Ihres Gesprächs per Email.
+Please enter your e-mail address: Bitte geben Sie Ihre Emailadresse an
+Please give a valid address: Bitte geben Sie eine gültige Adresse an
+The record has been successfully sent: Die Aufnahme wurde erfolgreich abgeschickt
+Ongoing discussion: Andauerndes Gespräch
+your message has been successfully sent. We Will contact you soon: Die Aufnahme wurde erfolgreich abgeschickt
+Please fill email field: Bitte geben Sie Ihre Emailadresse an
+Please fill phone field: Bittegeben Sie Ihre Telefonnummer an
+Please fill message textarea: Bitte füllen Sie das Textfeld aus
+Please fill firstname field: Bitte geben Sie Ihren Vornamen an
+Please fill lastname field: Bitte geben Sie Ihren Nachnamen an
+Please fill company field: Bitte geben Sie Ihre Firma an
+call audio: Audioanruf
+call video: Videoanruf
+video suggestion: Audioanruf annehmen
+audio suggestion: Videoanruf annehmen
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: WIR SIND HIER UM IHNEN BEHILFLICH ZU SEIN!<br />LIVE VERKAUFSBERATUNG
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WIR SIND HIER UM IHNEN BEHILFLICH ZU SEIN!<br />BITTE HINTERLASSEN SIE EINE NACHRICHT.
+GIVE US YOUR FEEDBACK! THANK YOU: WIR FREUEN UNS ÜBER IHR FEEDBACK.<br />VIELEN DANK
 
 #V1.2
-required field: erforderlich
+required field: Benötigtes Feld
 message sent: Nachricht gesendet
-Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
-No operator is available for the moment: Kein erreichbarer Mitarbeiter.
-Please leave me a message: Bitte lassen Sie mir eine Nachricht hinter
-Please leave a message: Bitte Nachricht hinterlassen
-Do you Want to start an audio call with me: Möchten Sie mit mir einen Audio-Chat anfangen?
-Do you Want to start a video call with me: Möchten Sie mit mir einen Video-Chat anfangen?
-e-mail invalid: ungültige Adresse
-close webpage cause end of the discussion: Close webpage cause end of the discussion
-survey sent: Umfrage gesendet
-Survey sent: Umfrage gesendet
-agent hangup: Der Mitarbeiter hat die Diskussion beended.
-agent unavailable: Unerreichbarer Mitarbeiter.
-Agent deny call: Der Mitarbeiter had den Anruf verweigert.
-Agent dont answer call: Der Mitarbeiter konnte leider nicht beantworten.
-Ongoing discussion: laufende Diskussion. 
-Click here to enlarge: Klicken Sie hier, zum vergrössern
-Give us your feedback: Hinterlassen Sie Ihre Meinung
+Before contacting you operator: Bevor Sie Ihren Telefonisten kontaktieren,<br/>bitte geben Sie uns ein paar Informationen:
+No operator is available for the moment: Zur Zeit steht kein Telefonist zur Verfügung
+Please leave me a message: Bitte hinterlassen Sie mir eine Nachricht
+Please leave a message: Bitte hinterlassen Sie eine Nachricht
+Do you Want to start an audio call with me: Möchten Sie einen Audioanruf mit mir beginnen?
+Do you Want to start a video call with me: Möchten Sie einen Videoanruf mit mir beginnen?
+e-mail invalid: Ungültige Emailadresse
+close webpage cause end of the discussion: Schließen der Webseite führt zu Beendigung des Gesprächs
+survey sent: Umfrage abgeschickt
+Survey sent: Umfrage abgeschickt
+agent hangup: Ihr Telefonist hat das Gespräch beendet.
+agent unavailable: Ihr Telefonist steht nicht zur Verfügung.
+Agent deny call: Ihr Telefonist musste den Anruf leider ablehnen.
+Agent dont answer call: Ihr Telefonist konnte leider nicht antworten.
+Ongoing discussion: Andauerndes Gespräch
+Click here to enlarge: Zum Vergrößern hier klicken
+Give us your feedback: Geben Sie uns Ihr Feedback
 Thank you: Vielen Dank
-click here to enlarge: Klicken Sie hier, zum vergrössern
+click here to enlarge: Zum Vergrößern hier klicken
 Your question: Ihre Frage
 click_on: Klicken Sie auf
 allow: erlauben
-to_start_your_microphone: um Ihr Mikrofon zu aktivieren
-to_start_your_webcam: um Ihre Webcam zu aktivieren
-terms_of_use: 'Um die Geschäftsbedingungen zu lesen '
+to_start_your_microphone: Um Ihr Mikrophon zu aktivieren
+to_start_your_webcam: Um Ihre Webcam zu aktivieren
+terms_of_use: 'Die Nutzungsbedingungen finden Sie '
 here: 'Hier'
-webcam_blocked: Ihre Webcam ist desaktiviert
-microphone_blocked: Ihr Mikrofon ist desaktiviert
-click_to_unlock: Auf die Webcam klicken, um sie zu aktivieren
-reload_to_unlock: Refresh your page to make your webcam available
-hangup: beenden
-alternative_message_1: Entschuldigung, unsere Mitarbeiter sind unerreichbar
-alternative_message_2: Vielen Dank für Ihr Verständnis. 
-initiate_video_call: Möchten Sie mit mir einen Video-Chat anfangen?
-initiate_audio_call: Möchten Sie mit mir einen Audio-Chat anfangen?
-initiate_video_btn: den Video-Call annehmen
-initiate_audio_btn: den Audio-Call annehmen
-webuser_accept_audio_call: Sie haben den Audio-Call angenommen
-webuser_accept_video_call: Sie haben den Video-Call angenommen
+webcam_blocked: Ihre Webcam ist zur Zeit blockiert
+microphone_blocked: Ihr Mikrophon ist zur Zeit blockiert
+click_to_unlock: Klicken Sie auf das Kamera-Symbol, um sie zu aktivieren
+reload_to_unlock: Aktualisieren Sie Ihre Seite um die Webcam verfügbar zu machen
+hangup: Auflegen
+alternative_message_1: Entschuldigung, unsere Händler stehen nicht zur Verfügung.
+alternative_message_2: Vielen Dank für Ihr Verständnis.
+initiate_video_call: Möchten Sie einen Videoanruf mit mir beginnen?
+initiate_audio_call: Möchten Sie einen Audioanruf mit mir beginnen?
+initiate_video_btn: Videoanruf annehmen
+initiate_audio_btn: Audioanruf annehmen
+webuser_accept_audio_call: Sie haben den Audioanruf angenommen
+webuser_accept_video_call: Sie haben den Videoanruf angenommen
 
 
 #transcript mail
 Hi: Hallo,
 You reached: Sie kontaktiert
-We have to pleasure to send you the transcript of your discussion.: Wir haben die Freude, Ihnen die Abschrift Ihres Diskussion.
-We look forward to seeing you again on: Wir freuen uns auf ein Wiedersehen
+We have to pleasure to send you the transcript of your discussion.: Wir freuen uns, Ihnen eine Transkription Ihres Gespräch zu schicken.
+We look forward to seeing you again on: Wir freuen uns, Sie bald wieder zu sehen.
 Thank you for your visit: Vielen Dank für Ihren Besuch.
-videodesk team: Die Videodesk Team
-transcript: Transkript
-yours transcripts with: Ihr Transkript mit
-We can talk, you are seeing.: Wir können reden, Sie sehen.
-We can talk, you are not seeing.: Wir können reden, Sie sind nicht zu sehen.
+videodesk team: Das Videodesk-Team
+transcript: Transkription
+yours transcripts with: Ihre Transkription mit
+We can talk, you are seeing.: Sie können sprechen, der Händler sieht Sie.
+We can talk, you are not seeing.: Sie können sprechen, der Händler sieht Sie nicht.
 
 #new
 fall_back_window_default: Unser Agent ist derzeit nicht verfügbar, bitte versuchen Sie es später
