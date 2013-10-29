@@ -132,12 +132,11 @@ click_allow_to_start: Click on "Allow" to start.
 #transcript mail
 Hi: Hello,
 You reached: You have contacted
-We have to pleasure to send you the transcript of your discussion.: It is our pleasure to send you a transcript of your discussion.
-We look forward to seeing you again on: We look forward to seeing you again.
-Thank you for your visit: Thank you for your visit.
+We have to pleasure to send you the transcript of your discussion.: We have the pleasure to send you the transcript of your conversation below.
+We look forward to seeing you again on: We are looking forward to hearing from you on videodesk.
+Thank you for your visit: Thank you.
 videodesk team: The Videodesk team
 transcript: Transcript,
-yours transcripts with: Your transcript with
 We can talk, you are seeing.: You can talk, the agent is seeing you.
 We can talk, you are not seeing.: You can talk, the agent does not see you.
 
@@ -228,9 +227,9 @@ email_invalid: email invalid
 #transcript mail
 Hi: Hello,
 You reached: You have contacted
-We have to pleasure to send you the transcript of your discussion.: It is our pleasure to send you a transcript of your discussion.
-We look forward to seeing you again on: We look forward to seeing you again.
-Thank you for your visit: Thank you for your visit.
+We have to pleasure to send you the transcript of your discussion.: We have the pleasure to send you the transcript of your conversation below.
+We look forward to seeing you again on: We are looking forward to hearing from you on videodesk.
+Thank you for your visit: Thank you.
 videodesk team: The Videodesk team
 transcript: Transcript,
 yours transcripts with: Your transcript with
