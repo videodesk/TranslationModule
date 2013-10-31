@@ -1,6 +1,6 @@
 'let a message': Làsati un mesaj
 'chat call': convorbire in direct
-'audio call': audio
+'audio call': convorbire audio
 'video call': convorbire video
 'information help': mai multe informatii
 'faq help': intrebari si raspunsuri
@@ -160,7 +160,7 @@ Please fill message textarea: Va rugam completati cu text textarea
 Please fill firstname field: Va rugam completati cu prenume field
 Please fill lastname field: Va rugam completati cu nume field
 Please fill company field: Va rugam completati cu numele companiei field
-call audio: Convorbire Audio
+call audio: Audio
 call video: Convorbire Video
 video suggestion: Accept convorbire audio
 audio suggestion: Accept convorbire video
