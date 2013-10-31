@@ -107,19 +107,19 @@ waitLocal: Activación de tu webcam en curso
 switchToAudio: Webcam desactivada. Conexión audio en curso
 ncFailed: Lo sentimos, no podemos establecer la conexión.<br />Estás en modo chat
 #ATTENTION MSG
-userNoFMSConnection: Debido a un problema en la red,<br />te pasamos al modo chat.(#1)
-agentNoFMSConnection: Debido a un problema en la red,<br />te pasamos al modo chat.(#2)
-agentFlashCrashed: Debido a un problema en la red,<br />te pasamos al modo chat.(#4)
-userNoCamButMic: No hemos detectado ninguna webcam.<br /><br />Necesitas disponer de una webcam<br />para poder lanzar una conversación vídeo.<br /><br />Te pasamos al modo audio.(#5)
-userNiCamNiMic: No hemos detectado ni webcams,<br />ni micrófonos.<br />Necesitas disponer de una webcam<br />o de un micrófono, para poder<br />lanzar una conversación vídeo.<br /><br />Te pasamos al modo chat.(#6)
-agentNoCamButMic: Tu interlocutor no dispone de webcam.<br />Te pasamos al modo audio.(#7)
-agentNiCamNiMic: Tu interlocutor no dispone de webcam, ni de micrófono.<br /><br />Te pasamos al modo chat.(#8)
-userDenyFlash: Has rechazado el acceso a tu webcam y a tu micrófono.<br />\Te pasamos al modo chat.(#9)
-noPeerConnection: Debido a un problema en la red,<br />te pasamos al modo chat.(#11)
-userConnectionFailed: Debido a un problema en la red,<br />te pasamos al modo chat.(#11)
-agentConnectionFailed: Debido a un problema en la red,<br />te pasamos al modo chat.(#110)
-userNoMic: No hemos detectado ningún micrófono.<br />Necesitas disponer de un micrófono<br />para poder lanzar una conversación audio.<br /><br />Te pasamos al modo chat.(#12)
-agentNoMic: El asesor no dispone de micrófono,<br />lo hemos pasado al modo chat.<br /><br />Te pasamos al modo chat.(#13)
+userNoFMSConnection: Debido a un problema en la red, te pasamos al modo chat.(#1)
+agentNoFMSConnection: Debido a un problema en la red, te pasamos al modo chat.(#2)
+agentFlashCrashed: Debido a un problema en la red, te pasamos al modo chat.(#4)
+userNoCamButMic: No hemos detectado ninguna webcam. Necesitas disponer de una webcam<br />para poder lanzar una conversación vídeo. Te pasamos al modo audio.(#5)
+userNiCamNiMic: No hemos detectado ni webcams, ni micrófonos. Necesitas disponer de una webcam o de un micrófono, para poder lanzar una conversación vídeo. Te pasamos al modo chat.(#6)
+agentNoCamButMic: Tu interlocutor no dispone de webcam. Te pasamos al modo audio.(#7)
+agentNiCamNiMic: Tu interlocutor no dispone de webcam, ni de micrófono. Te pasamos al modo chat.(#8)
+userDenyFlash: Has rechazado el acceso a tu webcam y a tu micrófono. Te pasamos al modo chat.(#9)
+noPeerConnection: Debido a un problema en la red, te pasamos al modo chat.(#11)
+userConnectionFailed: Debido a un problema en la red, te pasamos al modo chat.(#11)
+agentConnectionFailed: Debido a un problema en la red, te pasamos al modo chat.(#110)
+userNoMic: No hemos detectado ningún micrófono. Necesitas disponer de un micrófono para poder lanzar una conversación audio. Te pasamos al modo chat.(#12)
+agentNoMic: El asesor no dispone de micrófono,lo hemos pasado al modo chat.<br /><br />Te pasamos al modo chat.(#13)
 userRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#15)
 agentRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#16)
 userNoSpeakers: No hemos detectado ninguna salida de audio (altavoces, auriculares ...). Usted no puede escuchar el agente le llamó. Le sugerimos que conecte altavoces o auriculares a su ordenador. Sin embargo, ya se puede hablar con su agente a través de texto.
@@ -173,7 +173,7 @@ Please fill firstname field: Por favor, rellene la linea Nombre
 Please fill lastname field: Por favor, rellene la linea Apellido
 Please fill company field: Por favor, rellene la linea Empresa
 call audio: Llamada audio
-call video: Llamada vide
+call video: Llamada video
 video suggestion: Aceptar la llamada
 audio suggestion: Aceptar la llamada
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: ¡Ayuda en tiempo real!<br />¡Asesor disponible!

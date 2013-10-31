@@ -100,26 +100,26 @@ resum_vid: Activer la vidéo du contact
 activate_volume: Activer le son
 desactivate_volume: Désactiver le son
 #WAITING MSG
-peerFailed: Désolé, le serveur n'est pas parvenu<br />à établir une connexion vidéo.<br />Vous êtes maintenant en tchat
+peerFailed: Désolé, le serveur n'est pas parvenu à établir une connexion vidéo. Vous êtes maintenant en tchat
 agentBusy: Désolé, l'agent est déjà en communication !
 waitRemote: Connexion en cours,<br />veuillez patienter quelques instants
 waitLocal: Activation de votre webcam en cours 
 switchToAudio: Webcam désactivée. Connexion audio en cours
 ncFailed: Désolé, nous ne parvenons pas à établir la communication.<br />Vous êtes en mode tchat
 #ATTENTION MSG
-userNoFMSConnection: Problème de réseau,<br />nous vous basculons en tchat.(#1)
-agentNoFMSConnection: Problème de réseau,<br />nous vous basculons en tchat.(#2)
-agentFlashCrashed: Problème de réseau,<br />nous vous basculons en tchat.(#4)
-userNoCamButMic: Nous n'avons détecté aucune webcam.<br /><br />Vous devez être équipé d'une webcam<br />pour pouvoir lancer une discussion vidéo.<br /><br />Nous vous basculons en audio.(#5)
-userNiCamNiMic: Nous n'avons détecté ni webcam,<br />ni micro.<br />Vous devez être équipé d'une webcam<br />ou d'un microphone, pour pouvoir<br />lancer une discussion vidéo.<br /><br />Nous vous basculons en tchat.(#6)
-agentNoCamButMic: Votre interlocuteur n'a pas de webcam.<br />Nous vous basculons en audio.(#7)
-agentNiCamNiMic: Votre interlocuteur n'a ni webcam, ni microphone.<br /><br />Nous vous basculons en tchat.(#8)
-userDenyFlash: Vous avez refusé l'accès à votre webcam et à votre microphone.<br /><br />Nous vous basculons en tchat.(#9)
-noPeerConnection: Problème de réseau,<br />nous vous basculons en tchat.(#11)
-userConnectionFailed: Problème de réseau,<br />nous vous basculons en tchat.(#11)
-agentConnectionFailed: Problème de réseau,<br />nous vous basculons en tchat.(#110)
-userNoMic: Nous n'avons détecté aucun microphone.<br />Vous devez être équipé d'un microphone<br />pour pouvoir lancer une discussion audio.<br /><br />Nous vous basculons en tchat.(#12)
-agentNoMic: L'agent n'a pas de microphone,<br />Nous vous basculons en tchat.(#13)
+userNoFMSConnection: Problème de réseau,nous vous basculons en tchat.(#1)
+agentNoFMSConnection: Problème de réseau,nous vous basculons en tchat.(#2)
+agentFlashCrashed: Problème de réseau,nous vous basculons en tchat.(#4)
+userNoCamButMic: Nous n'avons détecté aucune webcam. Vous devez être équipé d'une webcam pour pouvoir lancer une discussion vidéo. Nous vous basculons en audio.(#5)
+userNiCamNiMic: Nous n'avons détecté ni webcam,ni micro. Vous devez être équipé d'une webcam ou d'un microphone, pour pouvoir lancer une discussion vidéo.Nous vous basculons en tchat.(#6)
+agentNoCamButMic: Votre interlocuteur n'a pas de webcam. Nous vous basculons en audio.(#7)
+agentNiCamNiMic: Votre interlocuteur n'a ni webcam, ni microphone. Nous vous basculons en tchat.(#8)
+userDenyFlash: Vous avez refusé l'accès à votre webcam et à votre microphone.Nous vous basculons en tchat.(#9)
+noPeerConnection: Problème de réseau,nous vous basculons en tchat.(#11)
+userConnectionFailed: Problème de réseau,nous vous basculons en tchat.(#11)
+agentConnectionFailed: Problème de réseau,nous vous basculons en tchat.(#110)
+userNoMic: Nous n'avons détecté aucun microphone.<br />Vous devez être équipé d'un microphone pour pouvoir lancer une discussion audio. Nous vous basculons en tchat.(#12)
+agentNoMic: L'agent n'a pas de microphone,Nous vous basculons en tchat.(#13)
 userRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#15)
 agentRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#16)
 userNoSpeakers: Nous n'avons détecté aucune sortie audio (haut-parleurs, casque ...). Vous ne pouvez pas entendre le conseiller que vous avez appelé. Nous suggérons de connecter des haut-parleurs ou écouteurs à votre ordinateur. Cependant, vous pouvez déjà discuter avec votre agent par chat.
