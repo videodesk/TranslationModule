@@ -242,7 +242,7 @@ crm_txt_2: por favor, informe estos campos:
 back to list: Volver a la lista
 fall_back_window_default: Nuestro asesor no está disponible en este momento, por favor intente más tarde.
 message_baloon: ¡Hola! Déjeme un mensaje y le volveré a contactar!
-denied_missed_call_msg: Lo siento, no puedo responder a su llamada. Gracias de dejarme un mensaje.
+denied_missed_call_msg: Lo siento, no puedo responder a su llamada. Dejarme un mensaje.
 all_agent_msg_1: Lo sentimos, los asesores están indisponibles.
 all_agent_msg_2: ¡Gracias, déjenos un mensaje!
 fallback_default_msg: De momento el asesor no esta disponible, por favor vuelva a contactarle más tarde.
