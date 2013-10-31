@@ -250,7 +250,7 @@ crm_txt_1: While we contact your agent,
 crm_txt_2: please enter the following:
 
 #new
-message_baloon: Leave me a message and I will contact you back!
+message_baloon: Hi, leave me a message and I will contact you back!
 fall_back_window_default: Our agent is unavailable right now, please try later
 back to list: Back to the list
 denied_missed_call_msg: Sorry, I cannot take your call. Please leave me a message!
