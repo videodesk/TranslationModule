@@ -4,19 +4,19 @@
 'video call': convorbire video
 'information help': mai multe informatii
 'faq help': intrebari si raspunsuri
-'Your discussion has ended': Convorbirea a luat sfàrsit .<br />Thank you for contacting us.Va multumim ca ati luat contactul cu noi.
-'Please, rate this discussion': Your opinion matters to us. Va rugam evaluati aceasta discutie: Opinia dumneavoastra este importanta pentru noi.
-'Discussion helpful ?': Has this discussion been helpful? Discutia v-a fost de ajtor?
+'Your discussion has ended': Convorbirea a luat sfàrsit .<br />Va multumim ca ati luat contactul cu noi.
+'Please, rate this discussion': Va rugam evaluati aceasta discutie: Opinia dumneavoastra este importanta pentru noi.
+'Discussion helpful ?': Discutia v-a fost de ajtor?
 'Would you recommend this experience to your friends?': Ati recomanda aceasta experienta prietenilor dumneavoastra?
-'Any comments ?': Comments? Suggestions? Comentarii? Sugestii ?
-'chat transcript': Get a record of your conversation by e-mail. Obtineti o inregistrare a discutiei via e-mail.
-'Webuser is typing': is writing...  utilizatorul scrie
+'Any comments ?': Comentarii? Sugestii ?
+'chat transcript': Obtineti o inregistrare a discutiei via e-mail.
+'Webuser is typing': utilizatorul scrie
 'Type your text here': tasteaza textul aici     
 'agent dont answer': agentul nu este disponibil
 'chat redirection': redirectionare de apel
 'agent close communication': agentul a terminat convorbirea
 'Deprecated version of Flash Chat only': Versiune simplificata de convorbire in Flash
-'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.Imi pare rau, sunt momentan indisponibil. Va rog lasati-mi un mesaj.
+'i am currently unavailable': Imi pare rau, sunt momentan indisponibil. Va rog lasati-mi un mesaj.
 'Your mail': adresa dumneavoastra de e-mail
 'Or': sau numarul dumneavoastra de telefon.
 'Please type your message here': Va rugam scrieti mesajul dumeavoastra aici
@@ -41,7 +41,7 @@
 'cgv': Prin utilizarea acestui serviciu sunteti de acord cu <a href="http://www.videodesk.com/terms" target="_blank">Termeni si conditii de utilizare </a> a Videodesk inc si folosirea in continuarea acestui serviciu inseamna ca sunteti de acord cu toate imbnatatirile programului. Daca nu sunteti de acord cu aceste conditii de utilizare, va rugam nu utilizati acest serviciu.
 'You will can enter your text here': Puteti introduce textul dumneavoastra aici.
 
-'Discussion with %site%': discutie cu %loc%
+'Discussion with %site%': discutie cu %site%
 
 'hello': Buna ziua
 'videodesk team': echipa videodesk <br /><a href="http://www.videodesk.com">www.videodesk.com</a>
@@ -132,7 +132,7 @@ click_allow_to_start: Apasati"De Acord" pentru a incepe.
 
 #REFACTOR
 type here: Tastati mesajul dumneavoastra aici...
-Vreti sa incheiati discutia?: 
+Do you want to close the discussion?: Vreti sa incheiati discutia?
 Yes: Da
 No: Nu
 send: Trimite
@@ -160,8 +160,8 @@ Please fill message textarea: Va rugam completati cu text textarea
 Please fill firstname field: Va rugam completati cu prenume field
 Please fill lastname field: Va rugam completati cu nume field
 Please fill company field: Va rugam completati cu numele companiei field
-call audio: Convorbire Audio
-call video: Convorbire Video
+call audio: Audio
+call video: Video
 video suggestion: Accept convorbire audio
 audio suggestion: Accept convorbire video
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: SUNTEM AICI PENTRU A VA AJUTA!<br />AGENT DE VANZARI, IN DIRECT.

@@ -243,6 +243,7 @@ message_baloon: Bonjour, laissez moi un message et je vous recontacte !
 denied_missed_call_msg: Désolé, je ne peux pas répondre à votre appel. Merci de me laisser un message.
 all_agent_msg_1: Désolé, nos conseillers sont indisponibles.
 all_agent_msg_2: Merci de laisser un message !
+agent-deny-call-media: 'Désolé, le conseiller ne peut plus communiquer en audio ou en vidéo, merci de continuer en tchat'
 fallback_default_msg: Notre conseiller est indisponible pour le moment, veuillez réessayer plus tard.
 
 
