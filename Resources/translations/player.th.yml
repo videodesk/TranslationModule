@@ -222,6 +222,17 @@ yours transcripts with: สำเนาของคุณกับ
 We can talk, you are seeing.: เราสามารถพูดคุยได้ ทั้งที่คุณเห็น.
 We can talk, you are not seeing.: เราสามารถพูดคุยได้ ทั้งที่คุณไม่เห็น
 
+# default values for new module
+grabber_advisor_1: เราอยู่ที่นี่เพื่อช่วยเหลือ!
+grabber_advisor_2: ที่ปรึกษาการขายสด
+grabber_message_1: ช่วยเหลือออนไลน์
+grabber_message_2: ฝากข้อความถึงเรา
+invitation_baloon: " สวัสดี! ฉันออนไลน์อยู่ในตอนนี้เพื่อที่จะตอบคำถามของคุณ"
+invitation_baloon_several_agents: "สวัสดี! มีพนักงานสามารถที่จะตอบคำถามของคุณได้ในขณะนี้"
+leave_message_1: ไม่มีตัวแทนของเราอยู่ในตอนนี้เลย
+leave_message_2: กรุณาฝากข้อความถึงเรา!
+crm_txt_1: ในขณะที่เราติดต่อตัวแทนของคุณ 
+crm_txt_2: กรุณากรอกข้อมูลลงในช่องด้านล่าง:
 
 #new
 fall_back_window_default: Our agent is unavailable right now, please try later
