@@ -235,5 +235,11 @@ crm_txt_1: ในขณะที่เราติดต่อตัวแทน
 crm_txt_2: กรุณากรอกข้อมูลลงในช่องด้านล่าง:
 
 #new
-fall_back_window_default: Our agent is unavailable right now, please try later
-back to list: Back to the list
+fall_back_window_default: ตัวแทนของเราในขณะนี้โปรดลองใหม่ภายหลัง
+back to list: กลับไปที่รายการ
+message_baloon: สวัสดีทิ้งฉันโพสต์และฉันจะสัมผัสคุณกลับมา!
+denied_missed_call_msg: ขอโทษนะฉันไม่สามารถใช้การโทรของคุณ กรุณาปล่อยฉันข้อความ!
+all_agent_msg_1: ขออภัยตัวแทนของเราจะไม่สามารถใช้ได้
+all_agent_msg_2: กรุณาปล่อยให้เราข้อความ!
+agent-deny-call-media: ขออภัยฉันไม่สามารถเปิดปีใด ๆ หรือการสนทนาทางวิดีโอเสียงเพิ่มเติมกรุณาดำเนินการต่อไปผ่านทางข้อความแชท
+fallback_default_msg: ตัวแทนของเราไม่สามารถใช้ได้ในขณะนี้โปรดลองอีกครั้งในภายหลัง

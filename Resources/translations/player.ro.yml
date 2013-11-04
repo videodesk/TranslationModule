@@ -245,3 +245,9 @@ Leave a message: Lasati un mesaj
 #new
 fall_back_window_default: Agentul nostru nu este disponibil chiar acum, vă rugăm să încercați mai târziu
 back to list: Inapoi la lista
+message_baloon: Hi, lăsați-mi un mesaj și vă voi atinge din nou!
+denied_missed_call_msg: Îmi pare rău, eu nu pot prelua apelul. Vă rugăm să lăsați-mi un mesaj!
+all_agent_msg_1: Ne pare rău agenții noștri nu sunt disponibile.
+all_agent_msg_2: Vă rugăm să ne lăsați un mesaj!
+agent-deny-call-media: 'Îmi pare rău, eu nu pot deschide orice an sau apel video mai multe audio, vă rugăm să continuați prin text chat'
+fallback_default_msg: 'Agentii nostri nu sunt disponibile chiar acum, vă rugăm să încercați din nou mai târziu'
