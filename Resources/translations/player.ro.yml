@@ -40,15 +40,12 @@
 'message sent': Messaj trimis
 'cgv': Prin utilizarea acestui serviciu sunteti de acord cu <a href="http://www.videodesk.com/terms" target="_blank">Termeni si conditii de utilizare </a> a Videodesk inc si folosirea in continuarea acestui serviciu inseamna ca sunteti de acord cu toate imbnatatirile programului. Daca nu sunteti de acord cu aceste conditii de utilizare, va rugam nu utilizati acest serviciu.
 'You will can enter your text here': Puteti introduce textul dumneavoastra aici.
-
 'Discussion with %site%': discutie cu %site%
-
 'hello': Buna ziua
 'videodesk team': echipa videodesk <br /><a href="http://www.videodesk.com">www.videodesk.com</a>
 'new message from': Mesaj nou pe situl internet
 'message from videodesk module': Mesaj nou de la modulul videodesk
 'message originally intended to': Mesaj trimis catre
-
 'Enter your question here': Trimiteti intrebarea dumneavoastra
 
 #CRM
@@ -124,11 +121,21 @@ agentNoMic: Agentul nu are microfon<br />Va directionam spre o convorbire prin t
 userRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#15)
 agentRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#16)
 userNoSpeakers: Noi nu am detectat nici o ieșire audio (boxe, căști ...). Nu puteți auzi agentul ai sunat. Vă sugerăm să vă conectați difuzoare sau căști la computer. Cu toate acestea, puteți discuta deja cu agentul dvs. prin text.
-
 remote_audio_desactivated: Sunetul este mut
 remote_audio_activated: Sunetul este activ
 click_allow_to_start: Apasati"De Acord" pentru a incepe.
 
+#transcript mail
+Hi: Buna ziua
+You reached: Ati contactat
+We have to pleasure to send you the transcript of your discussion.: Ne face placere sa va transmitem o transcriptie a discutiei dumneavoastra.
+We look forward to seeing you again on: Speram sa fim din nou in contact in curand.
+Thank you for your visit: Va miltumim pentru vizita.
+videodesk team: Echipa Videodesk
+transcript: Transcriptie,
+yours transcripts with: Transcriptia convorbirii dumneavoastra cu
+We can talk, you are seeing.: Puteti vorbi, agentul dumneavoastra va poate vedea.
+We can talk, you are not seeing.: Puteti vorbi, agentul dumneavoastra nu va poate vedea
 
 #REFACTOR
 type here: Tastati mesajul dumneavoastra aici...
@@ -210,18 +217,9 @@ initiate_video_btn: Accept convorbire video
 initiate_audio_btn: Accept convorbirea audio
 webuser_accept_audio_call: Ati acceptat convorbirea audio
 webuser_accept_video_call: Ati acceptat convorbirea video
-
-#transcript mail
-Hi: Buna ziua
-You reached: Ati contactat
-We have to pleasure to send you the transcript of your discussion.: Ne face placere sa va transmitem o transcriptie a discutiei dumneavoastra.
-We look forward to seeing you again on: Speram sa fim din nou in contact in curand.
-Thank you for your visit: Va miltumim pentru vizita.
-videodesk team: Echipa Videodesk
-transcript: Transcriptie,
-yours transcripts with: Transcriptia convorbirii dumneavoastra cu
-We can talk, you are seeing.: Puteti vorbi, agentul dumneavoastra va poate vedea.
-We can talk, you are not seeing.: Puteti vorbi, agentul dumneavoastra nu va poate vedea
+conversation_send: e-mail trimis
+email_empty: e-mail gol
+email_invalid: e-mail nevalidă
 
 # default values for new module
 grabber_advisor_1: Suntem aici pentru a va ajuta!
@@ -234,13 +232,6 @@ leave_message_1: Ne pare rau, agentii nostri sunt indisponibili.
 leave_message_2: Va rugam sa ne lasati un mesaj!
 crm_txt_1: In timp ce va punem in legatura cu agentul dumneavoastra,  
 crm_txt_2: va rugam sa completati cu urmatoarele detalii: 
-apply_picture: Aplicati aceasta fotografie %user_name%'s pentru profilul:
-
-Attention grabber live advisor: ghid pentru atragerea atentiei in direct
-Attention grabber message: Mesaj pentru atragerea atentiei
-Invitation baloon: Semn de invitatie
-'"Leave me a message" balloon': '"Lasati-mi un mesaj" balon'
-Leave a message: Lasati un mesaj
 
 #new
 fall_back_window_default: Agentul nostru nu este disponibil chiar acum, vă rugăm să încercați mai târziu

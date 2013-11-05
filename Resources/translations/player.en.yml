@@ -40,15 +40,12 @@
 'message sent': Message sent
 'cgv': By using this service means you agree to the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
 'You will can enter your text here': You will be able to enter your text here
-
 'Discussion with %site%': Conversation with %site%
-
 'hello': Hello
 'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
 'new message from': New message on website
 'message from videodesk module': New message from videodesk module
 'message originally intended to': Message sent to:
-
 'Enter your question here': Type your message here...
 
 #CRM
@@ -124,7 +121,6 @@ agentNoMic: The agent has no microphone, we switch you to text chat.(#13)
 userRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#15)
 agentRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#16)
 userNoSpeakers: We have not detected any audio output (speakers, headset...). You may not hear the agent you called. We suggest that you connect speakers or headsets to your computer. However, you can already chat with your agent via text.
-
 remote_audio_desactivated: The sound is muted
 remote_audio_activated: The sound is on
 click_allow_to_start: Click on "Allow" to start.
@@ -137,6 +133,7 @@ We look forward to seeing you again on: We are looking forward to hearing from y
 Thank you for your visit: Thank you.
 videodesk team: The Videodesk team
 transcript: Transcript,
+yours transcripts with: Your transcript with
 We can talk, you are seeing.: You can talk, the agent is seeing you.
 We can talk, you are not seeing.: You can talk, the agent does not see you.
 
@@ -223,18 +220,6 @@ webuser_accept_video_call: You accepted the video conversation
 conversation_send: e-mail sent
 email_empty: email empty
 email_invalid: email invalid
-
-#transcript mail
-Hi: Hello,
-You reached: You have contacted
-We have to pleasure to send you the transcript of your discussion.: We have the pleasure to send you the transcript of your conversation below.
-We look forward to seeing you again on: We are looking forward to hearing from you on videodesk.
-Thank you for your visit: Thank you.
-videodesk team: The Videodesk team
-transcript: Transcript,
-yours transcripts with: Your transcript with
-We can talk, you are seeing.: You can talk, the agent is seeing you.
-We can talk, you are not seeing.: You can talk, the agent does not see you.
 
 # default values for new module
 grabber_advisor_1: We are here to help!

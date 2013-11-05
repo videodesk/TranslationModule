@@ -9,7 +9,7 @@
 'Discussion helpful ?': ¿Te ha parecido útil esta conversación?
 'Would you recommend this experience to your friends?': ¿Aconsejarías este servicio a tus amigos?
 'Any comments ?': Tus sugerencias:
-'chat transcript': Recibir tu conversacion por email. 
+'chat transcript': Recibir tu conversacion por Email. 
 'Webuser is typing': está escribiendo...
 'Type your text here': Escribe tu mensaje aquí
 'agent dont answer': El asesor no está disponible
@@ -17,11 +17,11 @@
 'agent close communication': El asesor ha colgado
 'Deprecated version of Flash Chat only': Versión obsoleta de Flash. Chat únicamente.
 'i am currently unavailable': Lo siento, en este momento no estoy disponible. Por favor, deja un mensaje.
-'Your mail': Tu email
+'Your mail': Tu Email
 'Or': o
 'Please type your message here': Escribe tu mensaje aquí
 'message field required': Campo mensaje obligatorio
-'email or phone field required': campo email o teléfono obligatorio
+'email or phone field required': campo Email o teléfono obligatorio
 'send': Enviar
 'not ready to switch': 'no preparado para cambiar'
 'will answer in a few seconds': 'estará disponible en unos segundos.'
@@ -37,18 +37,15 @@
 'agent indisponible. redirection vers message': Asesor no disponible, redirección hacia mensaje 
 'webuser': Yo
 'user flash crash': shockwave flash se ha parado. Estás conectado en modo chat texto'
-Survey sent: Cuestionario enviado
 'message sent': Mensage enviado
 'cgv': Al utilizar este servicio, confirmas que aceptas las <a href="http://www.videodesk.es/terms" target="_blank">Condiciones generales de venta</a> de Videodesk y, con el uso continuado, das tu consentimiento a cualquier actualización realizada. Si no aceptas las Condiciones generales de venta, por favor, no utilices este servicio.to the Terms and conditions, please do not use this service.
 'You will can enter your text here': Puede introducir su texto aquí
 'Discussion with %site%': Discusión con %site%
-
 'hello': Ola
 'videodesk team': Videodesk equipo<br /><a href="http://www.videodesk.es">www.videodesk.es</a>
 'new message from': Nuevo mensaje en el sitio web
 'message from videodesk module': Nuevo mensaje de videodesk módulo
 'message originally intended to': Mensaje destinado a:
-
 'Enter your question here': Haga su pregunta aquí:
 
 #CRM
@@ -66,6 +63,7 @@ email invalid: Email inválido
 phone required: Teléfono
 company required: Empresa requerido
 required: Campo requerido
+
 #survey
 bad: malo
 poor: pobre
@@ -123,7 +121,6 @@ agentNoMic: El asesor no dispone de micrófono,lo hemos pasado al modo chat.<br 
 userRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#15)
 agentRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#16)
 userNoSpeakers: No hemos detectado ninguna salida de audio (altavoces, auriculares ...). Usted no puede escuchar el agente le llamó. Le sugerimos que conecte altavoces o auriculares a su ordenador. Sin embargo, ya se puede hablar con su agente a través de texto.
-
 remote_audio_desactivated: El sonido es desactiva
 remote_audio_activated: El sonido es activa
 click_allow_to_start: Pulsa en “Autorizar” para activar tu webcam o tu micrófono.
@@ -139,7 +136,6 @@ transcript: Transcripción
 yours transcripts with: Su transcripción con
 We can talk, you are seeing.: Podemos hablar, usted ve.
 We can talk, you are not seeing.: Podemos hablar, usted no ve.
-
 
 #REFACTOR
 type here: Escribe tu mensaje aquí...
@@ -164,7 +160,6 @@ Get a reccord of this conversation by e-mail: Recibir tu conversacion por email.
 Please enter your e-mail address: Dirección Email
 Please give a valid address: Por favor, comunica una dirección Email valida.
 The record has been successfully sent: Le hemos enviado el contenido de la conversación.
-Ongoing discussion: Conversacion en curso
 your message has been successfully sent. We Will contact you soon: Hemos recibido su mensaje le volveremos a contactar lo antes posible.
 Please fill email field: Por favor, rellene la linea Email
 Please fill phone field: Por favor, rellene la linea Telefono
@@ -189,7 +184,7 @@ Please leave me a message: Por favor, dejeme un mensaje.
 Please leave a message: Por favor, deje un mensaje.
 Do you Want to start an audio call with me: ¿Le gustaria empezar una conversación audio?
 Do you Want to start a video call with me: ¿Le gustaria empezar una conversación video?
-e-mail invalid: Email invalido
+e-mail invalid: Email inválido
 close webpage cause end of the discussion: La cierre de la pagina web lleva al acabo de la conversacion
 survey sent: Mensaje enviado
 Survey sent: Mensaje enviado
@@ -211,6 +206,7 @@ terms_of_use: 'Condiciones de uso '
 here: Haga clic
 webcam_blocked: Su camera no esta autorizada
 microphone_blocked: Su micrófono no esta autorizado click_to_unlock: Cliquez sur l'icône caméra pour l'autoriser Haga clic en la icono camera
+click_to_unlock: Haga clic en el icono de la cámara para activarla ahora
 reload_to_unlock: Reactualice su pagina para poner su camera disponible
 hangup: Colgar
 alternative_message_1: Nuestros asesores no estan disponibles
@@ -221,9 +217,9 @@ initiate_video_btn: Aceptar la llamada video
 initiate_audio_btn: Aceptar la llamada audio
 webuser_accept_audio_call: Usted ha aceptado la conversacion audio
 webuser_accept_video_call: Usted ha aceptado la conversacion video
-
-
-back to list: Volver a la lista
+conversation_send: Email enviado
+email_empty: Email vacío
+email_invalid: Email inválido
 
 # default values for new module COntenu des phrases modifiables
 grabber_advisor_1: ¡Estamos aquí!
@@ -237,7 +233,6 @@ leave_message_2: ¡Gracias, déjenos un mensaje!
 crm_txt_1: Un asesor le va a atender,
 crm_txt_2: por favor, informe estos campos:
 
-
 #new
 back to list: Volver a la lista
 fall_back_window_default: Nuestro asesor no está disponible en este momento, por favor intente más tarde.
@@ -247,4 +242,3 @@ all_agent_msg_1: Lo sentimos, los asesores están indisponibles.
 all_agent_msg_2: ¡Gracias, déjenos un mensaje!
 agent-deny-call-media: 'Lo sentimos, el asesor ya no puede abrir una llamada audio ó video,  por favor prosiga por chat'
 fallback_default_msg: De momento el asesor no esta disponible, por favor vuelva a contactarle más tarde.
-
