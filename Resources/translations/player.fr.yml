@@ -118,7 +118,7 @@ userDenyFlash: Vous avez refusé l'accès à votre webcam et à votre microphone
 noPeerConnection: Problème de réseau,nous vous basculons en tchat.(#11)
 userConnectionFailed: Problème de réseau,nous vous basculons en tchat.(#11)
 agentConnectionFailed: Problème de réseau,nous vous basculons en tchat.(#110)
-userNoMic: Nous n'avons détecté aucun microphone.<br />Vous devez être équipé d'un microphone pour pouvoir lancer une discussion audio. Nous vous basculons en tchat.(#12)
+userNoMic: Nous n'avons détecté aucun microphone. Vous devez être équipé d'un microphone pour pouvoir lancer une discussion audio. Nous vous basculons en tchat.(#12)
 agentNoMic: L'agent n'a pas de microphone,Nous vous basculons en tchat.(#13)
 userRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#15)
 agentRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#16)
