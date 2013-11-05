@@ -6,7 +6,7 @@
 'faq help': more information
 'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
 'Please, rate this discussion': Your opinion matters to us.
-'Discussion helpful ?': Has this discussion been helpful?
+'Discussion helpful ?': Has this conversation been helpful?
 'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
 'Any comments ?': Comments? Suggestions?
 'chat transcript': Get a record of your conversation by e-mail.
@@ -41,7 +41,7 @@
 'cgv': By using this service means you agree to the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
 'You will can enter your text here': You will be able to enter your text here
 
-'Discussion with %site%': Discussion with %site%
+'Discussion with %site%': Conversation with %site%
 
 'hello': Hello
 'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
@@ -142,7 +142,7 @@ We can talk, you are not seeing.: You can talk, the agent does not see you.
 
 #REFACTOR
 type here: Type your message here...
-Do you want to close the discussion?: Do you want to close the discussion?
+Do you want to close the discussion?: Do you want to close the conversation?
 Yes: Yes
 No: No
 send: Send
@@ -153,10 +153,10 @@ your company: Company
 your email: Email
 your phone: Phone
 your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your discussion is closed.</strong><br />Thank you for contacting us!
+Your conversation has ended.Thank you for contacting us!: <strong>Your conversation is closed.</strong><br />Thank you for contacting us!
 Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <b>feedback</b><br/>about this discussion.
-has this dialog been helpful: Has this discussion been helpful?
+give us your feedback about the conversation: Give us your <b>feedback</b><br/>about this conversation.
+has this dialog been helpful: Has this conversation been helpful?
 Would you recommend this experience to your facebook friends: Would you recommend this experience to your friends?
 Any comments or suggestions: Comments? Suggestions?
 Get a reccord of this conversation by e-mail: Get a record of your conversation by e-mail.
@@ -188,14 +188,14 @@ Please leave a message: Please leave a message
 Do you Want to start an audio call with me: Do you want to start an audio call with me?
 Do you Want to start a video call with me: Do you want to start a video call with me?
 e-mail invalid: Invalid Email
-close webpage cause end of the discussion: Close webpage cause end of the discussion
+close webpage cause end of the discussion: Close webpage cause end of the conversation
 survey sent: Survey sent
 Survey sent: Survey sent
-agent hangup: Your operator ended the discussion.
+agent hangup: Your operator ended the conversation.
 agent unavailable: Your operator is unavailable.
 Agent deny call: Your operator unfortunately had to refuse the call.
 Agent dont answer call: Your operator unfortunately could not respond.
-Ongoing discussion: Ongoing discussion
+Ongoing discussion: Ongoing conversation
 Click here to enlarge: Click here to enlarge
 Give us your feedback: Give us your feedback
 Thank you: Thank you
