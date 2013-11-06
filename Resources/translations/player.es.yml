@@ -98,12 +98,12 @@ resume_vid: Activar el vídeo del contacto
 activate_volume: Activar el sonido
 desactivate_volume: Desactivar el sonido
 #WAITING MSG
-peerFailed: Lo sentimos, el servidor no ha podido<br />establecer una conexión vídeo.<br />Estás en modo chat
+peerFailed: Lo sentimos, el servidor no ha podido establecer una conexión vídeo. Estás en modo chat
 agentBusy: Lo sentimos, ¡el asesor está ocupado!
 waitRemote: Conexión en curso, por favor espere
 waitLocal: Activación de tu webcam en curso
 switchToAudio: Webcam desactivada. Conexión audio en curso
-ncFailed: Lo sentimos, no podemos establecer la conexión.<br />Estás en modo chat
+ncFailed: Lo sentimos, no podemos establecer la conexión. Estás en modo chat
 #ATTENTION MSG
 userNoFMSConnection: Debido a un problema en la red, te pasamos al modo chat.(#1)
 agentNoFMSConnection: Debido a un problema en la red, te pasamos al modo chat.(#2)
