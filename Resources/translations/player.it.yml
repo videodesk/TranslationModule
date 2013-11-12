@@ -211,6 +211,9 @@ initiate_video_btn: Accetta la videochiamata
 initiate_audio_btn: Accetta la chiamata
 webuser_accept_audio_call: Hai accettato la chiamata vocale
 webuser_accept_video_call: Hai accettato la videochiamata
+conversation_send: e-mail inviata
+email_empty: e-mail vuota
+email_invalid: e-mail non valida
 
 #transcript mail
 Hi: Salve,
@@ -223,3 +226,27 @@ transcript: Trascrizione,
 yours transcripts with: La tua trascrizione con
 We can talk, you are seeing.: Puoi parlare, il consulente ti vede.
 We can talk, you are not seeing.: Puoi parlare, il consulente non ti vede.
+
+
+
+# default values for new module
+grabber_advisor_1: Siamo qui per aiutarti!
+grabber_advisor_2: Consulenti di vendita
+grabber_message_1: Assistenza online
+grabber_message_2: Lascia un messaggio
+invitation_baloon: " Salve! Cosa posso fare per te?"
+invitation_baloon_several_agents: " Salve! Un consulente è ora disponibile per rispondere alle tue domande"
+leave_message_1: Grazie per la chiamata, 
+leave_message_2: lasciami un messaggio!
+crm_txt_1: contattiamo il consulente, 
+crm_txt_2: compila il form sottostante:
+
+#new
+message_baloon: Ciao, mi lasciate un messaggio e vi contatterà!
+fall_back_window_default: Il nostro agente non è disponibile in questo momento, riprova piu tardi
+back to list: Torna alla lista
+denied_missed_call_msg: Mi dispiace, non posso prendere la chiamata. Mi lasciate un messaggio!
+all_agent_msg_1: Spiacente i nostri agenti non sono disponibili.
+all_agent_msg_2: Lasciare un messaggio per favore!
+agent-deny-call-media: 'Spiacente, non posso aprire un audio o video chiamare più, vi prego di continuare via chat di testo'
+fallback_default_msg: 'Il nostro agente non sono disponibili in questo momento, riprova più tardi'
