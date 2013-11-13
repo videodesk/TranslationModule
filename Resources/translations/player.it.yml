@@ -33,13 +33,13 @@
 'Discutez en audio' : 'Chat video'
 'Discutez en chat' : 'Chat testuale'
 'Laissez un message' : 'Lascia un messaggio'
-'agent-accept-communication' :Comunicazione accettata
+'agent-accept-communication': Comunicazione accettata
 'agent indisponible. redirection vers message': Il consulente non è disponibile, puoi lasciare un messaggio
 'webuser': Io
 'user flash crash': Il tuo software video ha un problema, usa i messaggi di testo
 'Survey sent': Messaggio inviato
-'message sent': ' Messaggio inviato'
-'cgv':  Usando questo servizio accetti <a href="http//www.videodesk.com/terms" target="_blank">i Termini e le condizioni di utilizzo</a> di Videodesk inc. L'uso continuativo del servizio implica l'accettazione di qualsiasi aggiornamento o modifica dei suddetti termini. Se non accetti i Termini e le condizioni, non usare questo servizio.
+'message sent': 'Messaggio inviato'
+'cgv': Usando questo servizio accetti <a href="http//www.videodesk.com/terms" target="_blank">i Termini e le condizioni di utilizzo</a> di Videodesk inc. L'uso continuativo del servizio implica l'accettazione di qualsiasi aggiornamento o modifica dei suddetti termini. Se non accetti i Termini e le condizioni, non usare questo servizio.
 'You will can enter your text here': Potrai digitare il tuo testo qui
 
 'Discussion with %site%': Discussione con %site%
@@ -57,7 +57,7 @@ Please provide the details below and we will answer in a few seconds: Prima di c
 firstname: Nome
 lastname: Cognome
 email: E-mail
-phone:Numero di telefono
+phone: Numero di telefono
 company: Società
 send: Invia
 firstname required: Nome obbligatorio
