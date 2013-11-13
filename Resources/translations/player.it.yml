@@ -1,54 +1,54 @@
-'let a message': Let a message
-'chat call': Chat call
-'audio call': Audio call
-'video call': Video call
-'information help': more informations
-'faq help': more informations
-'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
-'Please, rate this discussion': Your opinion matters to us
-'Discussion helpful ?': Has this dialogue been useful?
-'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
-'Any comments ?': Suggestions
-'chat transcript': If you would like to receive the contents of your chat messages, please leave your e-mail address.
-'Webuser is typing': is writing...
-'Type your text here': 'Type your text here'
-'agent dont answer': The agent is unavailable
-'chat redirection': Chat call
-'agent close communication': The agent hung up
-'Deprecated version of Flash Chat only': Deprecated version of Flash. 
-'i am currently unavailable': Sorry, I'm currently unavailable. Please leave me a message.
-'Your mail': Your mail
-'Or': Or
-'Please type your message here': Please type your message here
-'message field required': message required
-'email or phone field required': email or phone required
-'send': send
-'not ready to switch': 'not ready to switch'
-'will answer in a few seconds': 'will be available in a few seconds.'
-'Email adress': 'Email address'
-'Phone number': 'Phone number'
-'Phone': 'Phone number'
-'email invalide': 'Invalid email'
-'Discutez en video' : 'Video chat'
-'Discutez en audio' : 'Audio chat'
-'Discutez en chat' : 'Text chat'
-'Laissez un message' : 'Leave a message'
-'agent-accept-communication' : Communication accepted 
-'agent indisponible. redirection vers message': Agent unavailable, redirection to message
-'webuser': Me
-'user flash crash': shockwave flash has crashed. You're conneced in text chat mode
-'Survey sent': Survey sent
-'message sent': 'Message sent'
-'cgv': Your use of this service means you have accepted the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you do not wish to agree
-'You will can enter your text here': You will be able to enter your text here
+'let a message': Lascia un messaggio
+'chat call': Chiamata chat
+'audio call': Chiamata vocale
+'video call': Videochiamata
+'information help': maggiori informazioni
+'faq help': maggiori informazioni
+'Your discussion has ended': La conversazione è terminata.<br />Grazie di averci contattato.
+'Please, rate this discussion': La tua opinione ci interessa.
+'Discussion helpful ?': Questa discussione ti è servita?
+'Would you recommend this experience to your friends?': Raccomanderesti questa esperienza a un amico?
+'Any comments ?': Suggerimenti?
+'chat transcript': Ricevi una trascrizione della conversazione per e-mail.
+'Webuser is typing': sta scrivendo...
+'Type your text here': Digita il tuo testo qui
+'agent dont answer': Il consulente non è al momento disponibile
+'chat redirection': Chiamata chat
+'agent close communication': Versione obsoleta di Flash.
+'Deprecated version of Flash Chat only': Versione obsoleta di Flash.
+'i am currently unavailable': Sono spiacente ma non sono al momento disponibile. Puoi lasciarmi un messaggio.
+'Your mail': La tua e-mail
+'Or': O 
+'Please type your message here': Digita qui il tuo messaggio
+'message field required': Messaggio obbligatorio
+'email or phone field required': E-mail o numero di telefono obbligatorio
+'send': Invia
+'not ready to switch': 'non pronto a cambiare'
+'will answer in a few seconds': 'disponibile tra qualche secondo'
+'Email adress': 'Indirizzo e-mail'
+'Phone number': 'Numero di telefono'
+'Phone': 'Numero di telefono'
+'email invalide': E-mail non valida
+'Discutez en video' : 'Chat video'
+'Discutez en audio' : 'Chat audio'
+'Discutez en chat' : 'Chat testuale'
+'Laissez un message' : 'Lascia un messaggio'
+'agent-accept-communication' : Comunicazione accettata
+'agent indisponible. redirection vers message':  Il consulente non è disponibile, puoi lasciare un messaggio
+'webuser': Io
+'user flash crash': Il tuo software video ha un problema, usa i messaggi di testo
+'Survey sent': Messaggio inviato
+'message sent': 'Messaggio inviato'
+'cgv': Usando questo servizio accetti <a href="http://www.videodesk.com/terms" target="_blank">i Termini e le condizioni di utilizzo</a> di Videodesk. L'uso continuativo del servizio implica l'accettazione di qualsiasi aggiornamento o modifica dei suddetti termini. Se non accetti i Termini e le condizioni, non usare questo servizio.
+'You will can enter your text here': Potrai digitare il tuo testo qui
 
-'Discussion with %site%': Discussion with %site%
+'Discussion with %site%': Discussione con %site%
 
-'hello': Hello
-'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': New message on website
-'message from videodesk module': New message from videodesk module
-'message originally intended to': message sent to :
+'hello': Salve
+'videodesk team': team di videodesk <br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from': Nuovo messaggio sul sito
+'message from videodesk module': Nuovo messaggio dal modulo di videodesk
+'message originally intended to': Messaggio inviato a:
 
 'Enter your question here': Enter your question here
 
