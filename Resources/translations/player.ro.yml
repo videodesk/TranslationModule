@@ -98,26 +98,26 @@ resume_vid: Re initiaza video al agentului.
 activate_volume: Activeaza sunetul in difuzoare.
 desactivate_volume: Dezactiveaza sunetul in difuzoare.
 #WAITING MSG
-peerFailed: Ne pare rau, nu putem activa convorbirea.<br />Puteti trimite un text carte agentul dumneavoastra.
+peerFailed: Ne pare rau, nu putem activa convorbirea. Puteti trimite un text carte agentul dumneavoastra.
 agentBusy: Ne pare rau, agentul dumneavoastra este deja inytr-o convorbire.
-waitRemote: Va rugam sa asteptati, suntem pe cale de a va conecta.<br />. Ar putea sa dureze cateva clipe.
+waitRemote: Va rugam sa asteptati, suntem pe cale de a va conecta. Ar putea sa dureze cateva clipe.
 waitLocal: Asteptam conectia video a camerei dumeavoastra.
 switchToAudio: Camera video dezactivata, incercam sa va facem o conectie audio.
-ncFailed: Ne pare rau, nu putem activa convorbirea.<br />Puteti trimite un text carte agentul dumneavoastra
+ncFailed: Ne pare rau, nu putem activa convorbirea. Puteti trimite un text carte agentul dumneavoastra
 #ATTENTION MSG
-userNoFMSConnection: Din cauza unei probleme de retea,<br /> va schimbam catre o discutie prin text.(#1)
-agentNoFMSConnection: Din cauza unei probleme de retea,<br /> va schimbam catre o discutie prin text.(#2)
-agentFlashCrashed: Din cauza unei probleme de retea,<br /> va schimbam catre o discutie prin text.(#4)
-userNoCamButMic: Nu va putem detecta camera video.<br /><br />Trebuie sa aveti o camera video pentru a efectua o convorbire video.<br /><br />Va redirectionam spre modul audio.(#5)
-userNiCamNiMic: Nu va putem detecta o camera video,<br /> nici microfonul.<br />Trebuie sa aveti o camera video<br />sau un microfon,<br />pentru a efectua o convorbire video.<br /><br />Va redirectionam spre modul text.(#6)
-agentNoCamButMic: Agentul nu are camera video.<br />Va redirectionam spre convorbire audio.(#7)
-agentNiCamNiMic: Agentul nu are camera video si nici microfon.<br /><br />Va directionam spre o convorbire prin text.(#8)
-userDenyFlash: Nu ati dat acordul pentru semnal video<br /> si nici audio.<br /><br />Va directionam spre o convorbire prin text.(#9)
-noPeerConnection: Din cauza unei probleme de retea,<br />Va directionam spre o convorbire prin text.(#11)
-userConnectionFailed: Din cauza unei probleme de retea,<br />Va directionam spre o convorbire prin text.(#11)
-agentConnectionFailed: Din cauza unei probleme de retea,<br />Va directionam spre o convorbire prin text.(#110)
-userNoMic: Nu detectam nici un microfon.<br />Trebuie sa aveti un Microfon pentru a efectua o convorbire audio.<br /><br />Va directionam spre o convorbire prin text.(#12)
-agentNoMic: Agentul nu are microfon<br />Va directionam spre o convorbire prin text.(#13)
+userNoFMSConnection: Din cauza unei probleme de retea, va schimbam catre o discutie prin text.(#1)
+agentNoFMSConnection: Din cauza unei probleme de retea, va schimbam catre o discutie prin text.(#2)
+agentFlashCrashed: Din cauza unei probleme de retea, va schimbam catre o discutie prin text.(#4)
+userNoCamButMic: Nu va putem detecta camera video. Trebuie sa aveti o camera video pentru a efectua o convorbire video. Va redirectionam spre modul audio.(#5)
+userNiCamNiMic: Nu va putem detecta o camera video, nici microfonul. Trebuie sa aveti o camera video sau un microfon, pentru a efectua o convorbire video. Va redirectionam spre modul text.(#6)
+agentNoCamButMic: Agentul nu are camera video. Va redirectionam spre convorbire audio.(#7)
+agentNiCamNiMic: Agentul nu are camera video si nici microfon. Va directionam spre o convorbire prin text.(#8)
+userDenyFlash: Nu ati dat acordul pentru semnal video si nici audio. Va directionam spre o convorbire prin text.(#9)
+noPeerConnection: Din cauza unei probleme de retea, Va directionam spre o convorbire prin text.(#11)
+userConnectionFailed: Din cauza unei probleme de retea, Va directionam spre o convorbire prin text.(#11)
+agentConnectionFailed: Din cauza unei probleme de retea, Va directionam spre o convorbire prin text.(#110)
+userNoMic: Nu detectam nici un microfon. Trebuie sa aveti un Microfon pentru a efectua o convorbire audio. Va directionam spre o convorbire prin text.(#12)
+agentNoMic: Agentul nu are microfon Va directionam spre o convorbire prin text.(#13)
 userRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#15)
 agentRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#16)
 userNoSpeakers: Noi nu am detectat nici o ieșire audio (boxe, căști ...). Nu puteți auzi agentul ai sunat. Vă sugerăm să vă conectați difuzoare sau căști la computer. Cu toate acestea, puteți discuta deja cu agentul dvs. prin text.

@@ -98,12 +98,12 @@ resume_vid: Resume the video of the agent
 activate_volume: Unmute the speakers
 desactivate_volume: Mute the speakers
 #WAITING MSG
-peerFailed: Sorry, we couldn't set up the call.<br />You can text chat with your agent
+peerFailed: Sorry, we couldn't set up the call. You can text chat with your agent
 agentBusy: Sorry, the agent is already busy!
-waitRemote: Please wait, we are currently connecting<br />you. This may take some time
+waitRemote: Please wait, we are currently connecting you. This may take some time
 waitLocal: Waiting for your webcam to connect
 switchToAudio: Webcam disabled, we set up an audio connection
-ncFailed: Sorry, we couldn't set up the call.<br />You can text chat with your agent
+ncFailed: Sorry, we couldn't set up the call. You can text chat with your agent
 #ATTENTION MSG
 userNoFMSConnection: Because of a network problem, we switch you to text chat.(#1)
 agentNoFMSConnection: Because of a network problem, we switch you to text chat.(#2)

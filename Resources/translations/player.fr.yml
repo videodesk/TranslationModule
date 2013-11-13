@@ -100,10 +100,10 @@ desactivate_volume: Désactiver le son
 #WAITING MSG
 peerFailed: Désolé, le serveur n'est pas parvenu à établir une connexion vidéo. Vous êtes maintenant en tchat
 agentBusy: Désolé, l'agent est déjà en communication !
-waitRemote: Connexion en cours,<br />veuillez patienter quelques instants
+waitRemote: Connexion en cours, veuillez patienter quelques instants
 waitLocal: Activation de votre webcam en cours 
 switchToAudio: Webcam désactivée. Connexion audio en cours
-ncFailed: Désolé, nous ne parvenons pas à établir la communication.<br />Vous êtes en mode tchat
+ncFailed: Désolé, nous ne parvenons pas à établir la communication. Vous êtes en mode tchat
 #ATTENTION MSG
 userNoFMSConnection: Problème de réseau,nous vous basculons en tchat.(#1)
 agentNoFMSConnection: Problème de réseau,nous vous basculons en tchat.(#2)
