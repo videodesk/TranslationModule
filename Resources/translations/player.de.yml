@@ -240,5 +240,5 @@ denied_missed_call_msg: Es tut uns leid, kann ich nicht nehmen Ihren Anruf. Bitt
 message_baloon: Hallo, lassen Sie mir eine Nachricht und ich werde Ihnen wieder melden!
 all_agent_msg_1: Es tut uns leid! Unsere Agenten sind nicht verfügbar.
 all_agent_msg_2: Bitte lassen Sie uns eine Nachricht!
-agent-deny-call-media: Leider kann ich kein Audio- oder Video-Anruf mehr öffnen. Wir werden mit einem Text-Chat fortzusetzen.
+agent-deny-call-media: 'Leider kann ich kein Audio- oder Video-Anruf mehr öffnen. Wir werden mit einem Text-Chat fortzusetzen.'
 fallback_default_msg: Unsere Agenten sind nicht sofort verfügbar. Bitte versuchen Sie weiter!
