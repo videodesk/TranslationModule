@@ -37,18 +37,15 @@
 'agent indisponible. redirection vers message': Консультант недоступен, перенаправление сообщения
 'webuser': Я
 'user flash crash': Shockwave Flash остановлен. Вы вошли в режим текстового чата
-'Survey sent': Форма отправлена
 'message sent': Сообщение отправлено
 'cgv': Используя эту услугу, вы принимаете <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> Videodesk Inc. и любые изменения, сделанные к нему. Если вы не согласны с этими условиями, пожалуйста, не используйте эту услугу.
 'You will can enter your text here': Вы можете ввести ваш текст здесь
 'Discussion with %site%': Обсуждение с %site%
-
 'hello': Здравствуйте
 'videodesk team': Команда videodesk<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
 'new message from': Новое сообщение от
 'message from videodesk module': Новое сообщение от модуля videodesk
 'message originally intended to': сообщение изначально предназначено для :
-
 'Enter your question here': Введите ваш вопрос здесь :
 
 #CRM
@@ -101,34 +98,44 @@ resume_vid: возобновить видео моего контакта
 activate_volume: включить звук
 desactivate_volume: выключить звук
 #WAITING MSG
-peerFailed: Извините, невозможно установить видео-чат <br />переключаем в текстовый режим
+peerFailed: Извините, невозможно установить видео-чат переключаем в текстовый режим
 agentBusy: Извините, консультант уже занят!
-waitRemote: Пожалуйста, подождите. Мы уже подключаемся <br />к вам. Это может занять некоторое время.
+waitRemote: Пожалуйста, подождите. Мы уже подключаемся к вам. Это может занять некоторое время.
 waitLocal: Ожидаем подключения вашей камеры
 switchToAudio: Вебкамеры выключена, активируется аудиоподключение.
-ncFailed: Извините, мы не можем установить соединение. <br />В режиме чата.
+ncFailed: Извините, мы не можем установить соединение. В режиме чата.
 #ATTENTION MSG
-userNoFMSConnection: Из сетевых проблем, <br /> мы переключим Вас в режим чата
-agentNoFMSConnection: Из сетевых проблем, <br /> мы переключим Вас в режим чата
-agentFlashCrashed: Из сетевых проблем, <br /> мы переключим Вас в режим чата
-userNoCamButMic: Вебкамера не обнаружена. <br /> <br /> У Вас должна быть вебкамера для <br /> <br />  Мы переключим Вас в аудио режим
-userNiCamNiMic: Вебкамера, <br />  или микрофон не обнаружены <br /> У Вас должна быть вебкамера <br /> или микрофон для запуска видео чата.<br /><br /> Мы переключим Вас в режим чата
-agentNoCamButMic: У консультанта нет вебкамеры. <br /> Мы переключим Вас в аудио режим
-agentNiCamNiMic: У консультанта нет вебкамеры или микрофона. <br /> Мы переключим Вас в режим чата
-userDenyFlash: Вы запретили доступ к вашей вебкамере<br /> или к микрофону. <br /><br /> Мы переключаем Вас в режим чата
-noPeerConnection: Из за сетевых проблем, <br />мы переключим Вас в режим чата
-userConnectionFailed: Из за сетевых проблем, <br />мы переключим Вас в режим чата
-agentConnectionFailed: Из за сетевых проблем, <br />мы переключим Вас в режим чата
-userNoMic: Мы не обнаружили микрофон. <br /> У Вас должен быть микрофон для запуска аудио чата<br /><br /> мы переключим Вас в режим чата
-agentNoMic: У консультанта нет микрофона<br /> Мы переключили его в режим чата. <br /><br /> Мы переключим Вас в режим чата.
+userNoFMSConnection: Из сетевых проблем, мы переключим Вас в режим чата
+agentNoFMSConnection: Из сетевых проблем, мы переключим Вас в режим чата
+agentFlashCrashed: Из сетевых проблем, мы переключим Вас в режим чата
+userNoCamButMic: Вебкамера не обнаружена. У Вас должна быть вебкамера для Мы переключим Вас в аудио режим
+userNiCamNiMic: Вебкамера, или микрофон не обнаружены У Вас должна быть вебкамера или микрофон для запуска видео чата. Мы переключим Вас в режим чата
+agentNoCamButMic: У консультанта нет вебкамеры. Мы переключим Вас в аудио режим
+agentNiCamNiMic: У консультанта нет вебкамеры или микрофона. Мы переключим Вас в режим чата
+userDenyFlash: Вы запретили доступ к вашей вебкамере или к микрофону. Мы переключаем Вас в режим чата
+noPeerConnection: Из за сетевых проблем, мы переключим Вас в режим чата
+userConnectionFailed: Из за сетевых проблем, мы переключим Вас в режим чата
+agentConnectionFailed: Из за сетевых проблем, мы переключим Вас в режим чата
+userNoMic: Мы не обнаружили микрофон. У Вас должен быть микрофон для запуска аудио чата мы переключим Вас в режим чата
+agentNoMic: У консультанта нет микрофона Мы переключили его в режим чата. Мы переключим Вас в режим чата.
 userRtmptConnection: Качество подключения не обеспечит высокое качество видео/аудио, поэтому советуем Вам использовать текстовый чат
 agentRtmptConnection: Качество подключения не обеспечит высокое качество видео/аудио, поэтому советуем Вам использовать текстовый чат
 userNoSpeakers: Мы не выявили аудиовыход (динамики, гарнитура ...). Вы не можете услышать агента ты позвонила. Мы предлагаем вам подключить колонки или гарнитуры к компьютеру. Тем не менее, вы уже можете общаться с агентом через текст.
-
 remote_audio_desactivated: Звук выключен
 remote_audio_activated: Звук включен
 click_allow_to_start: Нажмите "разрешить" для того, чтоб начать
 
+#transcript mail
+Hi: привет,
+You reached: Вы связались
+We have to pleasure to send you the transcript of your discussion.: С удовольствие направим Вам стенограмму нашего разговора
+We look forward to seeing you again on: Мы с нетерпением ждем встречи с вами снова 
+Thank you for your visit: Спасибо за ваш визит.
+videodesk team: Команда Videodesk
+transcript: Стенограмма,
+yours transcripts with: Ваши стенограммы с
+We can talk, you are seeing.: Мы можем говорить, вы видите
+We can talk, you are not seeing.: Мы можем говорить, вы не видите
 
 #REFACTOR
 type here: Пожалуйста, введите ваше сообщение здесь
@@ -153,7 +160,6 @@ Get a reccord of this conversation by e-mail: Получить запись эт
 Please enter your e-mail address: пожалуйста, введите свой e-mail адрес
 Please give a valid address: пожалуйста введите действующий адрес
 The record has been successfully sent: Запись была успешно отправлена
-Ongoing discussion: текущий диалог
 your message has been successfully sent. We Will contact you soon: Ваше сообщение было успешно отправлено. Мы свяжемся с Вами в ближайшее время
 Please fill email field: Пожалуйста, заполните поле "e-mail"
 Please fill phone field: Пожалуйста, заполните поле "телефон"
@@ -186,7 +192,7 @@ agent hangup: Консультат отключился
 agent unavailable: Консультант недоступен
 Agent deny call: Консультант отклонил звонок
 Agent dont answer call: Консультант не отвечает
-Ongoing discussion: Текущий диалог
+Ongoing discussion: текущий диалог
 Click here to enlarge: Нажмите здесь чтобы увеличить
 Give us your feedback: Оставьте свой отзыв
 Thank you: Спасибо
@@ -211,21 +217,28 @@ initiate_video_btn: Принять видео звонок
 initiate_audio_btn: Принять аудио звонок
 webuser_accept_audio_call: Вы подтвердили аудио диалог
 webuser_accept_video_call: Вы подтвердили видео диалог
+conversation_send: e-mail отправлена
+email_empty: e-mail пустой
+email_invalid: Неправильный e-mail
 
-
-#transcript mail
-Hi: привет,
-You reached: Вы связались
-We have to pleasure to send you the transcript of your discussion.: С удовольствие направим Вам стенограмму нашего разговора
-We look forward to seeing you again on: Мы с нетерпением ждем встречи с вами снова 
-Thank you for your visit: Спасибо за ваш визит.
-videodesk team: Команда Videodesk
-transcript: Стенограмма,
-yours transcripts with: Ваши стенограммы с
-We can talk, you are seeing.: Мы можем говорить, вы видите
-We can talk, you are not seeing.: Мы можем говорить, вы не видите
-
+# default values for new module
+grabber_advisor_1: Мы уже здесь!
+grabber_advisor_2: Живите продаж советников
+grabber_message_1: помощь онлайн
+grabber_message_2: Оставьте нам сообщение
+invitation_baloon: Здравствуйте, спасибо за звонок. Как я могу вам помочь?
+invitation_baloon_several_agents: Здравствуйте! Оператор доступен уже сейчас ответить на ваши вопросы!
+leave_message_1: Наши агенты будут недоступны.
+leave_message_2: Пожалуйста, оставьте нам сообщение!
+crm_txt_1: Мы свяжемся с вашим агентом, 
+crm_txt_2: Заполните поле ниже:
 
 #new
 fall_back_window_default: Наш агент в данный момент недоступен, попробуйте позже
 back to list: Вернуться к списку
+message_baloon: Привет, оставь меня в пост, и я буду прикасаться к тебе обратно!
+denied_missed_call_msg: К сожалению, я не могу ответить на Ваш звонок. Пожалуйста, оставьте мне сообщение!
+all_agent_msg_1: К сожалению наши агенты будут недоступны.
+all_agent_msg_2: Пожалуйста, оставьте нам сообщение!
+agent-deny-call-media: 'К сожалению, я не могу открыть любой год или более аудио видео-звонок, пожалуйста, продолжайте через текстовый чат'
+fallback_default_msg: 'Наши агенты не доступны прямо сейчас, повторите попытку позже'

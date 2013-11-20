@@ -41,13 +41,11 @@
 'cgv': En utilisant ce service, vous acceptez les <a href="http://www.videodesk.fr/terms" target="_blank">Conditions Générales de Vente</a> de Videodesk S.A.S. et toute mise à jour qui lui est apportée. En cas de désaccord avec ces Conditions, veuillez ne pas utiliser ce service.
 'You will can enter your text here': Vous pourrez saisir votre texte ici
 'Discussion with %site%': Discussion avec %site%
-
 'hello': Bonjour
 'videodesk team': L'équipe videodesk<br /><a href="http://www.videodesk.fr">www.videodesk.fr</a>
 'new message from': Nouveau message depuis le site
 'message from videodesk module': Nouveau message depuis le module videodesk
 'message originally intended to': message envoyé à :
-
 'Enter your question here': Tapez votre message ici...
 
 #CRM
@@ -102,10 +100,10 @@ desactivate_volume: Désactiver le son
 #WAITING MSG
 peerFailed: Désolé, le serveur n'est pas parvenu à établir une connexion vidéo. Vous êtes maintenant en tchat
 agentBusy: Désolé, l'agent est déjà en communication !
-waitRemote: Connexion en cours,<br />veuillez patienter quelques instants
+waitRemote: Connexion en cours, veuillez patienter quelques instants
 waitLocal: Activation de votre webcam en cours 
 switchToAudio: Webcam désactivée. Connexion audio en cours
-ncFailed: Désolé, nous ne parvenons pas à établir la communication.<br />Vous êtes en mode tchat
+ncFailed: Désolé, nous ne parvenons pas à établir la communication. Vous êtes en mode tchat
 #ATTENTION MSG
 userNoFMSConnection: Problème de réseau,nous vous basculons en tchat.(#1)
 agentNoFMSConnection: Problème de réseau,nous vous basculons en tchat.(#2)
@@ -118,7 +116,7 @@ userDenyFlash: Vous avez refusé l'accès à votre webcam et à votre microphone
 noPeerConnection: Problème de réseau,nous vous basculons en tchat.(#11)
 userConnectionFailed: Problème de réseau,nous vous basculons en tchat.(#11)
 agentConnectionFailed: Problème de réseau,nous vous basculons en tchat.(#110)
-userNoMic: Nous n'avons détecté aucun microphone.<br />Vous devez être équipé d'un microphone pour pouvoir lancer une discussion audio. Nous vous basculons en tchat.(#12)
+userNoMic: Nous n'avons détecté aucun microphone. Vous devez être équipé d'un microphone pour pouvoir lancer une discussion audio. Nous vous basculons en tchat.(#12)
 agentNoMic: L'agent n'a pas de microphone,Nous vous basculons en tchat.(#13)
 userRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#15)
 agentRtmptConnection: Le réseau ne permet pas une qualité audio et vidéo optimale, nous vous recommandons le tchat(#16)
@@ -138,7 +136,6 @@ transcript: Appel,
 yours transcripts with: Vos échanges avec
 We can talk, you are seeing.: Vous pouvez parler, le conseiller vous voit.
 We can talk, you are not seeing.: Vous pouvez parler, vous n'êtes pas vu.
-
 
 #REFACTOR
 type here: Tapez votre message ici...
@@ -239,10 +236,9 @@ crm_txt_2: merci de renseigner ces champs :
 #news
 back to list: Retour à la liste
 fall_back_window_default: Notre conseiller est indisponible pour le moment, veuillez réessayer plus tard.
-message_baloon: Laissez-moi un message et je vous recontacterai !
+message_baloon: Bonjour, laissez moi un message et je vous recontacte !
 denied_missed_call_msg: Désolé, je ne peux pas répondre à votre appel. Merci de me laisser un message.
 all_agent_msg_1: Désolé, nos conseillers sont indisponibles.
 all_agent_msg_2: Merci de laisser un message !
+agent-deny-call-media: 'Désolé, le conseiller ne peut plus communiquer en audio ou en vidéo, merci de continuer en tchat'
 fallback_default_msg: Notre conseiller est indisponible pour le moment, veuillez réessayer plus tard.
-
-

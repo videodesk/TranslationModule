@@ -41,15 +41,12 @@
 'message sent': Mensagem enviada
 'cgv': Ao utilizar este serviço, você confirma que aceita as <a href="http://www.videodesk.es/terms" target="_blank">Condições gerais de venda</a> de Videodesk e, com o uso contínuo, você concorda com todas as atualizações. Se você não aceitar os termos e condições, por favor não use este serviço.
 'You will can enter your text here': Você pode digitar o seu texto aqui
-
 'hello': Olá
 'videodesk team': A equipe videodesk<br /><a href="http://www.videodesk.pt">www.videodesk.pt</a>
 'new message from': Novas mensagens desde o site
 'message from videodesk module': Nova mensagem do módulo videodesk
 'message originally intended to': mensagem enviada para:
-
 'Enter your question here': Faça sua pergunta aqui:
-
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Por favor, forneça os detalhes abaixo e vamos responder em poucos segundos
@@ -82,7 +79,6 @@ gorgeous: deslumbrante
 'pending call text': Olá, Quer entrar em contato com Videodesk. O contato pedido está disponível para responder às suas perguntas.
 'flash security panel': Clique em "Permitir" para conversar
 'Leave a text message': Desculpe, estou disponível no momento. Por favor, deixe-me uma mensagem.
-
  
 #---------------FLASH PANEL-----------------
 #TMP MSG
@@ -125,106 +121,124 @@ agentNoMic: O agente não tem qualquer microfone <br />ós mudamos o para o chat
 userRtmptConnection: Os desempenhos da rede não permitem uma qualidade de vídeo<br />áudio de qualidade, portanto, recomendamos usar o modo chat(#15)
 agentRtmptConnection: Os desempenhos da rede não permitem uma qualidade de vídeo<br />áudio de qualidade, portanto, recomendamos usar o modo chat(#16)
 userNoSpeakers: Nós não detectaram qualquer saída de áudio (alto-falantes, fone de ouvido ...). Você não pode ouvir o agente que você ligou. Sugerimos que você conectar alto-falantes ou fones de ouvido para o seu computador. No entanto, você já pode conversar com seu agente via texto.
-
 remote_audio_desactivated: O som é silenciado
 remote_audio_activated: O som está ativo
 click_allow_to_start: Clique em "Permitir" para conversar
 
+#transcript mail
+Hi: Bom dia,
+You reached: Entrou em contacto
+We have to pleasure to send you the transcript of your discussion.:  Temos todo o prazer em lhe enviar uma transcrição da nossa discussão.
+We look forward to seeing you again on: Esperamos voltar a vê-lo em breve.
+Thank you for your visit: Agradecemos a sua visita.
+videodesk team: A equipa videodesk 
+transcript: Transcrição
+yours transcripts with: A sua transcrição com
+We can talk, you are seeing.: Pode falar, o operador está a vê-lo. 
+We can talk, you are not seeing.: Pode falar, o operador não está a vê-lo. 
+
 #REFACTOR
-type here: Type your message here...
-Do you want to close the discussion?: Do you want to close the discussion?
-Yes: Yes
-No: No
-send: Send
-your firstname: First name
-Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
-your lastname: Last name
-your company: Company
+type here:  Escreva aqui a sua mensagem...
+Do you want to close the discussion?: Deseja encerrar a discussão?
+Yes: Sim
+No: Não
+send: Enviar
+your firstname: Nome próprio
+Please fill at least one of highlighted fields: Preencha, por favor, pelo menos um dos campos em destaque
+your lastname: Apelido
+your company: Empresa
 your email: Email
-your phone: Phone
-your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
-Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
-has this dialog been helpful: Has this dialog been helpful?
-Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
-Any comments or suggestions: Comments? Suggestions?
-Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
-Please enter your e-mail address: Please enter your e-mail address
-Please give a valid address: Please give a valid address
-The record has been successfully sent: The record has been successfully sent
-Ongoing discussion: Ongoing discussion
-your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
-Please fill email field: Please fill email field
-Please fill phone field: Please fill phone field
-Please fill message textarea: Please fill message textarea
-Please fill firstname field: Please fill firstname field
-Please fill lastname field: Please fill lastname field
-Please fill company field: Please fill company field
-call audio: Audio Call
-call video: Video Call
-video suggestion: Video suggestion
-audio suggestion: Audio suggestion
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
-GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+your phone: Telefone
+your message: Mensagem
+Your conversation has ended.Thank you for contacting us!: <strong>A sua discussão encontra-se encerrada.</strong> Agradecemos o seu contacto!
+Recall this operator now: Voltar a ligar a este operador agora!
+give us your feedback about the conversation: Dê-nos a sua <strong>opinião</strong>sobre esta discussão.
+has this dialog been helpful: A discussão foi-lhe útil?
+Would you recommend this experience to your facebook friends: Recomendaria a experiência aos seus amigos?
+Any comments or suggestions: Comentários? Sugestões?
+Get a reccord of this conversation by e-mail: Obtenha a gravação da sua conversação por mail.
+Please enter your e-mail address: Indique, por favor, o seu endereço e-mail 
+Please give a valid address: Por favor, indique um endereço válido
+The record has been successfully sent: A gravação foi enviada com sucesso
+your message has been successfully sent. We Will contact you soon: A sua mensagem foi enviada com sucesso. Brevemente entraremos em contacto consigo. 
+Please fill email field: Preencha, por favor, o campo "endereço de email"
+Please fill phone field: Preencha, por favor, o campo "telefone"
+Please fill message textarea: Preencha, por favor, a área de texto da mensagem 
+Please fill firstname field: Preencha, por favor, o campo "nome próprio" 
+Please fill lastname field: Preencha, por favor, o campo "apelido"
+Please fill company field: Preencha, por favor, o campo "empresa"
+call audio: Chamada de áudio
+call video: Chamada de vídeo
+video suggestion: Aceitar chamada de áudio
+audio suggestion: Aceitar chamada de vídeo
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: ESTAMOS AQUI PARA O AJUDAR! CONSULTOR DE VENDAS AO VIVO.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE:  ESTAMOS AQUI PARA O AJUDAR! POR FAVOR, DEIXE A SUA MENSAGEM.
+GIVE US YOUR FEEDBACK! THANK YOU: DÊ-NOS A SUA OPINIÃO! OBRIGADO
 
 #V1.2
-required field: Required field
-message sent: Message sent
-Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
-No operator is available for the moment: No operator is available for the moment.
-Please leave me a message: Please leave me a message
-Please leave a message: Please leave a message
-Do you Want to start an audio call with me: Do you want to start an audio call with me?
-Do you Want to start a video call with me: Do you want to start a video call with me?
-e-mail invalid: Invalid Email
-close webpage cause end of the discussion: Close webpage cause end of the discussion
-survey sent: Survey sent
-Survey sent: Survey sent
+required field: Campo obrigatório
+message sent: Email enviado
+Before contacting you operator: Antes de entrar em contacto com o seu operador, envie-nos, por favor, algumas informações:
+No operator is available for the moment: De momento não se encontra nenhum operador disponível. 
+Please leave me a message: Por favor, deixe-me a sua mensagem
+Please leave a message:  Por favor, deixe a sua mensagem
+Do you Want to start an audio call with me: Deseja iniciar uma chamada de áudio comigo?
+Do you Want to start a video call with me: Deseja iniciar uma chamada de vídeo comigo?
+e-mail invalid: Endereço de email inválido
+close webpage cause end of the discussion: O encerramento da página termina a discussão
+survey sent: Sondagem enviada
+Survey sent: Sondagem enviada
 agent hangup: Agent hangup
-agent unavailable: Agent unavailable
-Agent deny call: Agent deny call
-Agent dont answer call: Agent dont answer call
-Ongoing discussion: Ongoing discussion
-Click here to enlarge: Click here to enlarge
-Give us your feedback: Give us your feedback
-Thank you: Thank you
-click here to enlarge: Click to enlarge 
-Your question: Your question
-click_on: Click on
-allow: allow
-to_start_your_microphone: To start your microphone
-to_start_your_webcam: To start your webcam
-terms_of_use: 'You can read the terms of use '
-here: 'here'
-webcam_blocked: Your webcam is currently blocked
-microphone_blocked: Your microphone is currently blocked
-click_to_unlock: Click on the cam icon to unlock it now
-reload_to_unlock: Refresh your page to make your webcam available
-hangup: Hang up
-alternative_message_1: Sorry, our agents are unavailable.
-alternative_message_2: Thank you for your understanding.
-initiate_video_call: Do you want to start a video call with me?
-initiate_audio_call: Do you want to start an audio call with me?
-initiate_video_btn: Accept the video call
-initiate_audio_btn: Accept the audio call
-webuser_accept_audio_call: You accepted the audio conversation
-webuser_accept_video_call: You accepted the video conversation
+agent unavailable: O seu operador terminou a discussão. 
+Agent deny call: O seu operador encontra-se indisponível.
+Agent dont answer call: Infelizmente, o seu operador não pôde responder. 
+Ongoing discussion: Discussão em curso 
+Click here to enlarge: Clique para ampliar
+Give us your feedback: Dê-nos a sua opinião
+Thank you: Obrigado
+click here to enlarge: Clique para ampliar
+Your question: A sua pergunta
+click_on: Clique em
+allow: permitir
+to_start_your_microphone: Para iniciar o seu microfone
+to_start_your_webcam: Para iniciar a sua webcam
+terms_of_use: 'Pode ler as condições de utilização '
+here: 'aqui'
+webcam_blocked: De momento, a sua webcam está  bloqueada 
+microphone_blocked: De momento, o seu microfone está bloqueado 
+click_to_unlock: Clique no ícone da câmara para a desbloquear 
+reload_to_unlock: Atualize a sua página de modo a libertar a webcam
+hangup: Desligue
+alternative_message_1: Lamentamos, operadores não se encontram disponíveis. 
+alternative_message_2: Agradecemos a sua compreensão.
+initiate_video_call: Deseja iniciar uma chamada de vídeo comigo?
+initiate_audio_call: Deseja iniciar uma chamada de áudio comigo?
+initiate_video_btn: Aceitar a chamada de vídeo
+initiate_audio_btn: Aceitar a chamada de áudio
+webuser_accept_audio_call: Aceitou a chamada de áudio
+webuser_accept_video_call: Aceitou a chamada de vídeo
+conversation_send: Email enviado
+email_empty: email vazio
+email_invalid: email inválido
 
-#transcript mail
-Hi: Oi,
-You reached: você contactado 
-We have to pleasure to send you the transcript of your discussion.: Temos o prazer de lhe enviar a transcrição de sua discussão.
-We look forward to seeing you again on: Estamos ansiosos para vê-lo novamente
-Thank you for your visit: Obrigado por sua visita.
-videodesk team: A equipe Videodesk
-transcript: Transcrição
-yours transcripts with: Your transcript with
-We can talk, you are seeing.: Podemos falar, você está vendo.
-We can talk, you are not seeing.: Podemos falar, você não está vendo.
-
+# default values for new module
+grabber_advisor_1: Estamos aqui!
+grabber_advisor_2: Consultores de vendas
+grabber_message_1: Ajuda Online
+grabber_message_2: Deixe a sua mensagem
+invitation_baloon: Bom dia! Em que lhe posso ser útil?
+invitation_baloon_several_agents: Bom dia! Um operador encontra-se agora disponível para responder às suas questões 
+leave_message_1: Operadores não se encontram disponíveis,
+leave_message_2: deixe-nos a sua mensagem!
+crm_txt_1: Contacto com o seu operador,  
+crm_txt_2: preencha, os seguintes campos:
 
 #new
-fall_back_window_default: ตัวแทนของเราในขณะนี้โปรดลองใหม่ภายหลัง
-back to list: กลับไปที่รายการ
+message_baloon: Bom dia, deixe-me a sua mensagem e entraremos em contato com você de volta!
+fall_back_window_default: Lamentamos, os nossos operadores não se encontram disponíveis.
+back to list: Voltar à lista
+denied_missed_call_msg: Sorry, I cannot take your call. Please leave me a message!
+all_agent_msg_1: Operadores não se encontram disponíveis,
+all_agent_msg_2: deixe a sua mensagem.
+agent-deny-call-media: 'Desculpe, eu não posso abrir um áudio ou vídeo chamar mais, por favor, continue via chat de texto'
+fallback_default_msg: 'Lamentamos, os nossos operadores não se encontram disponíveis.'

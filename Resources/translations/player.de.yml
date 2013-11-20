@@ -37,18 +37,15 @@
 'agent indisponible. redirection vers message': Mitarbeiter nicht verfügbar, Weiterleitung an Nachricht
 'webuser': ich
 'user flash crash': Shockwave Flash abgestürzt. Sie werden im Text-Chat-Modus angemeldet
-'Survey sent': Umfrage gesendet
 'message sent': Nachricht wurde gesendet
 'cgv': Da Sie diesen Service benutzen, haben Sie die <a href="http://www.videodesk.com/terms" target="_blank">allgemeinen Geschäftsbedingungen</a> von Videodesk inc akzeptiert. Wenn Sie diesen Service weiterhin benutzen, stimmen Sie damit Änderungen in diesen ebenfalls zu.  
 'Discussion with %site%': Diskussion mit %site%
 'You will can enter your text here': Sie können Sie hier Ihren Text ein
-
 'hello': Hallo
 'videodesk team': videodesk Team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
 'new message from': Neue Nachricht auf der Website
 'message from videodesk module': Neue Nachricht von videodesk Modul
 'message originally intended to': Nachricht an:
-
 'Enter your question here': Fragen Sie uns hier:
 
 #CRM
@@ -101,34 +98,44 @@ resume_vid: Video meines Gesprächspartners neu aktivieren
 activate_volume: Aktivieren Sie den Ton
 desactivate_volume: Deaktivieren Sie den Ton
 #WAITING MSG
-peerFailed: Leider konnte keine Video-Chatverbindung hergestellt werden.<br />Wir verbinden Sie in den Text-Modus.
+peerFailed: Leider konnte keine Video-Chatverbindung hergestellt werden. Wir verbinden Sie in den Text-Modus.
 agentBusy: Leider ist der Kontakt zur Zeit besetzt!
-waitRemote: Im Laufe der Verbindung,<br />Gedulden Sie sich
+waitRemote: Im Laufe der Verbindung, Gedulden Sie sich
 waitLocal: Warten auf Aktivierung Ihrer Webcam 
 switchToAudio: Webcam desaktiviert, Audio-Verbindung wird aktiviert
-ncFailed: Es konnte leider keine Verbindung hergestellt werden.<br />Sie befinden sich im Chat-Modus
+ncFailed: Es konnte leider keine Verbindung hergestellt werden. Sie befinden sich im Chat-Modus
 #ATTENTION MSG
-userNoFMSConnection: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#1)
-agentNoFMSConnection: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#2)
-agentFlashCrashed: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#4)
-userNoCamButMic: Es konnte keine Webcam ermittelt werden.<br /><br />Sie müssen über eine Webcam verfügen, um einen Video-Chat eröffnen zu können.<br /><br />Wir verbinden Sie nun in den Audio-Modus.(#5)
-userNiCamNiMic: Es konnten keine Webcam,und kein Mikrofon ermittelt werden.<br />Sie müssen über eine Webcam<br />bzw. ein Mikrofon verfügen,<br />um einen Video-Chat eröffnen zu können.<br /><br />Wir verbinden Sie in den Chat-Modus.(#6)
-agentNoCamButMic: Der Mitarbeiter hat keine Webcam.<br />Wir verbinden Sie in den Audio-Modus.(#7)
-agentNiCamNiMic: Der Mitarbeiter hat keine Webcam/kein Mikrofon.<br /><br />Wir verbinden Sie in den Chat-Modus.(#8)
-userDenyFlash: Sie haben den Zugriff zu Ihrer Webcam<br />und Ihrem Mikrofon verweigert.<br /><br />Wir verbinden Sie in den Chat-Modus.(#9)
-noPeerConnection: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#11)
-userConnectionFailed: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#11)
-agentConnectionFailed: Auf Grund eines Netzwerkproblems<br />verbinden wir Sie nun in den Chat-Modus.(#110)
-userNoMic: Wir konnten keine Mikrofone ermitteln.<br />Sie müssen über ein Mikrofon verfügen, um einen Audio-Chat eröffnen zu können.<br /><br />Wir verbinden Sie nun in den Chat Modus.(#12)
-agentNoMic: Der Mitarbeiter hat kein Mikrofon<br />Wir haben ihn in den Chat-Modus verbunden.<br /><br />Wir verbinden Sie in den Chat-Modus.(#13)
+userNoFMSConnection: Auf Grund eines Netzwerkproblems. verbinden wir Sie nun in den Chat-Modus.(#1)
+agentNoFMSConnection: Auf Grund eines Netzwerkproblems. verbinden wir Sie nun in den Chat-Modus.(#2)
+agentFlashCrashed: Auf Grund eines Netzwerkproblems. verbinden wir Sie nun in den Chat-Modus.(#4)
+userNoCamButMic: Es konnte keine Webcam ermittelt werden. Sie müssen über eine Webcam verfügen, um einen Video-Chat eröffnen zu können. Wir verbinden Sie nun in den Audio-Modus.(#5)
+userNiCamNiMic: Es konnten keine Webcam,und kein Mikrofon ermittelt werden. Sie müssen über eine Webcam bzw. ein Mikrofon verfügen, um einen Video-Chat eröffnen zu können. Wir verbinden Sie in den Chat-Modus.(#6)
+agentNoCamButMic: Der Mitarbeiter hat keine Webcam. Wir verbinden Sie in den Audio-Modus.(#7)
+agentNiCamNiMic: Der Mitarbeiter hat keine Webcam/kein Mikrofon. Wir verbinden Sie in den Chat-Modus.(#8)
+userDenyFlash: Sie haben den Zugriff zu Ihrer Webcam und Ihrem Mikrofon verweigert. Wir verbinden Sie in den Chat-Modus.(#9)
+noPeerConnection: Auf Grund eines Netzwerkproblems verbinden wir Sie nun in den Chat-Modus.(#11)
+userConnectionFailed: Auf Grund eines Netzwerkproblems verbinden wir Sie nun in den Chat-Modus.(#11)
+agentConnectionFailed: Auf Grund eines Netzwerkproblems verbinden wir Sie nun in den Chat-Modus.(#110)
+userNoMic: Wir konnten keine Mikrofone ermitteln. Sie müssen über ein Mikrofon verfügen, um einen Audio-Chat eröffnen zu können. Wir verbinden Sie nun in den Chat Modus.(#12)
+agentNoMic: Der Mitarbeiter hat kein Mikrofon Wir haben ihn in den Chat-Modus verbunden. Wir verbinden Sie in den Chat-Modus.(#13)
 userRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/Audio-Qualität, daher empfehlen wir Ihnen, den Chat zu benutzen.(#15)
 agentRtmptConnection: Ihre Netzwerkleistung ermöglicht keine ausreichende Video/Audio-Qualität, daher empfehlen wir Ihnen, den Chat zu benutzen.(#16)
 userNoSpeakers: Wir haben keine Audio-Ausgang (Lautsprecher, Headset ...) nachgewiesen. Sie können nicht hören, die Agenten, den Sie genannt. Wir schlagen vor, dass Sie Lautsprecher oder Kopfhörer an Ihren Computer anschließen. Allerdings können Sie bereits mit Ihrem Agenten Chat via Text.
-
-
 remote_audio_desactivated: Der Ton ist stummgeschaltet
 remote_audio_activated: Der Ton bleibt eingeschaltet
 click_allow_to_start: Klicken Sie auf « annehmen », um das Gespräch zu beginnen.
+
+#transcript mail
+Hi: Hallo,
+You reached: Sie kontaktiert
+We have to pleasure to send you the transcript of your discussion.: Wir freuen uns, Ihnen eine Transkription Ihres Gespräch zu schicken.
+We look forward to seeing you again on: Wir freuen uns, Sie bald wieder zu sehen.
+Thank you for your visit: Vielen Dank für Ihren Besuch.
+videodesk team: Das Videodesk-Team
+transcript: Transkription
+yours transcripts with: Ihre Transkription mit
+We can talk, you are seeing.: Sie können sprechen, der Händler sieht Sie.
+We can talk, you are not seeing.: Sie können sprechen, der Händler sieht Sie nicht.
 
 #REFACTOR
 type here: Tippen Sie Ihre Nachricht hier eın...
@@ -153,7 +160,6 @@ Get a reccord of this conversation by e-mail: Erhalten Sie eine Aufnahme Ihres G
 Please enter your e-mail address: Bitte geben Sie Ihre Emailadresse an
 Please give a valid address: Bitte geben Sie eine gültige Adresse an
 The record has been successfully sent: Die Aufnahme wurde erfolgreich abgeschickt
-Ongoing discussion: Andauerndes Gespräch
 your message has been successfully sent. We Will contact you soon: Die Aufnahme wurde erfolgreich abgeschickt
 Please fill email field: Bitte geben Sie Ihre Emailadresse an
 Please fill phone field: Bittegeben Sie Ihre Telefonnummer an
@@ -211,20 +217,9 @@ initiate_video_btn: Videoanruf annehmen
 initiate_audio_btn: Audioanruf annehmen
 webuser_accept_audio_call: Sie haben den Audioanruf angenommen
 webuser_accept_video_call: Sie haben den Videoanruf angenommen
-
-
-#transcript mail
-Hi: Hallo,
-You reached: Sie kontaktiert
-We have to pleasure to send you the transcript of your discussion.: Wir freuen uns, Ihnen eine Transkription Ihres Gespräch zu schicken.
-We look forward to seeing you again on: Wir freuen uns, Sie bald wieder zu sehen.
-Thank you for your visit: Vielen Dank für Ihren Besuch.
-videodesk team: Das Videodesk-Team
-transcript: Transkription
-yours transcripts with: Ihre Transkription mit
-We can talk, you are seeing.: Sie können sprechen, der Händler sieht Sie.
-We can talk, you are not seeing.: Sie können sprechen, der Händler sieht Sie nicht.
-
+conversation_send: Gespräch senden
+email_empty: Emailadresse leer
+email_invalid: Ungültige Emailadresse
 
 # default values for new module
 grabber_advisor_1: Wir sind hier!
@@ -241,4 +236,9 @@ crm_txt_2: Bitte geben Sie die Details ein:
 #new
 fall_back_window_default: Unser Agent ist derzeit nicht verfügbar, bitte versuchen Sie es später
 back to list: Zurück zur Liste
-
+denied_missed_call_msg: Es tut uns leid, kann ich nicht nehmen Ihren Anruf. Bitte hinterlassen Sie mir eine Nachricht!
+message_baloon: Hallo, lassen Sie mir eine Nachricht und ich werde Ihnen wieder melden!
+all_agent_msg_1: Es tut uns leid! Unsere Agenten sind nicht verfügbar.
+all_agent_msg_2: Bitte lassen Sie uns eine Nachricht!
+agent-deny-call-media: 'Leider kann ich kein Audio- oder Video-Anruf mehr öffnen. Wir werden mit einem Text-Chat fortzusetzen.'
+fallback_default_msg: Unsere Agenten sind nicht sofort verfügbar. Bitte versuchen Sie weiter!
