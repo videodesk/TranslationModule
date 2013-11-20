@@ -250,3 +250,4 @@ hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
 hangup_mess_2: The conversation is over.
 your_agent_hung_up: Your agent hung up
 you_hung_up: You hung up
+give_us_your_feedback: Would you like to give us your feedback ?
