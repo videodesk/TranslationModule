@@ -167,8 +167,8 @@ Please fill message textarea: Preencha, por favor, a área de texto da mensagem
 Please fill firstname field: Preencha, por favor, o campo "nome próprio" 
 Please fill lastname field: Preencha, por favor, o campo "apelido"
 Please fill company field: Preencha, por favor, o campo "empresa"
-call audio: Chamada de áudio
-call video: Chamada de vídeo
+call audio: Áudio
+call video: Vídeo
 video suggestion: Aceitar chamada de áudio
 audio suggestion: Aceitar chamada de vídeo
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: ESTAMOS AQUI PARA O AJUDAR! CONSULTOR DE VENDAS AO VIVO.
@@ -227,7 +227,7 @@ grabber_advisor_2: Consultores de vendas
 grabber_message_1: Ajuda Online
 grabber_message_2: Deixe a sua mensagem
 invitation_baloon: Bom dia! Em que lhe posso ser útil?
-invitation_baloon_several_agents: Bom dia! Um operador encontra-se agora disponível para responder às suas questões 
+invitation_baloon_several_agents: Um operador encontra-se agora disponível para responder às suas questões 
 leave_message_1: Operadores não se encontram disponíveis,
 leave_message_2: deixe-nos a sua mensagem!
 crm_txt_1: Contacto com o seu operador,  
