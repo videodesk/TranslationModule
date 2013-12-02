@@ -189,7 +189,7 @@ close webpage cause end of the discussion: La cierre de la pagina web lleva al a
 survey sent: Mensaje enviado
 Survey sent: Mensaje enviado
 agent hangup: El asesor ha colgado
-agent unavailable: Asesor indisponible
+agent unavailable: Asesor no disponible
 Agent deny call: El asesor no esta disponible
 Agent dont answer call:  El asesor no coje
 Ongoing discussion: Conversación en curso
@@ -228,7 +228,7 @@ grabber_message_1: Ayuda en vivo
 grabber_message_2: Déjenos un mensaje
 invitation_baloon: "¡Hola!\n Estoy disponible para atenderle."
 invitation_baloon_several_agents: "¡Hola!\n Un consejero está disponible para responderle"
-leave_message_1: Los asesores están indisponibles
+leave_message_1: Los asesores no están disponibles
 leave_message_2: ¡Gracias, déjenos un mensaje!
 crm_txt_1: Un asesor le va a atender,
 crm_txt_2: por favor, informe estos campos:
@@ -238,7 +238,7 @@ back to list: Volver a la lista
 fall_back_window_default: Nuestro asesor no está disponible en este momento, por favor intente más tarde.
 message_baloon: ¡Hola! Déjeme un mensaje y le volveré a contactar!
 denied_missed_call_msg: Lo siento, no puedo responder a su llamada. Dejarme un mensaje.
-all_agent_msg_1: Lo sentimos, los asesores están indisponibles.
+all_agent_msg_1: Lo sentimos, los asesores no están disponibles.
 all_agent_msg_2: ¡Gracias, déjenos un mensaje!
 agent-deny-call-media: 'Lo sentimos, el asesor ya no puede abrir una llamada audio ó video,  por favor prosiga por chat'
 fallback_default_msg: De momento el asesor no esta disponible, por favor vuelva a contactarle más tarde.
