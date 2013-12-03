@@ -211,8 +211,8 @@ reload_to_unlock: Reactualice su pagina para poner su camera disponible
 hangup: Colgar
 alternative_message_1: Nuestros asesores no estan disponibles
 alternative_message_2: Gracias por su comprension
-initiate_video_call: Le gustaria empezar una conversacion video ?
-initiate_audio_call: Le gustaria empezar una conversacion audio ?
+initiate_video_call: ¿Le gustaria empezar una conversacion video?
+initiate_audio_call: ¿Le gustaria empezar una conversacion audio?
 initiate_video_btn: Aceptar la llamada video
 initiate_audio_btn: Aceptar la llamada audio
 webuser_accept_audio_call: Usted ha aceptado la conversacion audio
@@ -242,3 +242,18 @@ all_agent_msg_1: Lo sentimos, los asesores no están disponibles.
 all_agent_msg_2: ¡Gracias, déjenos un mensaje!
 agent-deny-call-media: 'Lo sentimos, el asesor ya no puede abrir una llamada audio ó video,  por favor prosiga por chat'
 fallback_default_msg: De momento el asesor no esta disponible, por favor vuelva a contactarle más tarde.
+
+#new FO v14
+hangup_mess_1: Lo sentimos, el asesor ha colgado. Su mensaje no se ha enviado.
+hangup_mess_2: La conversación está terminada.
+your_agent_hung_up: El asesor ha colgado.
+you_hung_up: Usted ha colgado.
+give_us_your_feedback: Denos su opinión.
+back_to_chat: Volver a la conversación
+send_and_quit: Mandar y salir
+back_to_feedback: Volver
+any_suggestions: ¿Tiene sugestiones?
+transcript_will_be_sent: Mandaremos sus intercambios por email cuando acabare su conversación. 
+transcript_sent: Le hemos mandado su conversación.
+phone_invalid: Número de telefóno invalido 
+shall_we_use_this_address: ¿Podemos utilizar está dirección?

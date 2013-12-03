@@ -242,3 +242,18 @@ all_agent_msg_1: Désolé, nos conseillers sont indisponibles.
 all_agent_msg_2: Merci de laisser un message !
 agent-deny-call-media: 'Désolé, le conseiller ne peut plus communiquer en audio ou en vidéo, merci de continuer en tchat'
 fallback_default_msg: Notre conseiller est indisponible pour le moment, veuillez réessayer plus tard.
+
+#new FO v14
+hangup_mess_1: Désolé mais le conseiller a raccroché. Votre message n'a pas été envoyé.
+hangup_mess_2: La conversation est terminée.
+your_agent_hung_up: Le conseiller a raccorché.
+you_hung_up: Vosu avez raccroché.
+give_us_your_feedback: Donnez-nous votre avis.
+back_to_chat: Revenir à la discussion
+send_and_quit: Envoyer et quitter
+back_to_feedback: Retour
+any_suggestions: Des suggestions ?
+transcript_will_be_sent: Vos échanges seront envoyés par mail une fois votre discussion terminée.
+transcript_sent: Votre discussion a été envoyée.
+phone_invalid: Numéro de téléphone invalide
+shall_we_use_this_address: Pouvons-nous utiliser cette adresse ?
