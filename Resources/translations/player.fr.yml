@@ -195,7 +195,7 @@ Agent dont answer call: Le conseiller n'a pas répondu
 Ongoing discussion: Discussion en cours
 Click here to enlarge: Cliquez pour la voir
 Give us your feedback: Donnez votre avis
-Thank you: Merci à vous
+Thank_you: Merci à vous
 click here to enlarge: Cliquer pour agrandir
 Your question: Votre question
 click_on: Cliquez sur
@@ -248,7 +248,7 @@ hangup_mess_1: Désolé mais le conseiller a raccroché. Votre message n'a pas �
 hangup_mess_2: La conversation est terminée.
 your_agent_hung_up: Le conseiller a raccorché.
 you_hung_up: Vosu avez raccroché.
-give_us_your_feedback: Donnez-nous votre avis.
+give_us_your_feedba: Donnez-nous votre avis.
 back_to_chat: Revenir à la discussion
 send_and_quit: Envoyer et quitter
 back_to_feedback: Retour
