@@ -9,7 +9,7 @@
 'Discussion helpful ?': Questa discussione ti è servita?
 'Would you recommend this experience to your friends?': Raccomanderesti questa esperienza a un amico?
 'Any comments ?': Commenti? Suggerimenti?
-'chat transcript': Ricevi una trascrizione della conversazione per e-mail.
+'chat_transcript': Ricevi una trascrizione della conversazione per e-mail.
 'Webuser is typing': sta scrivendo...
 'Type your text here': 'Digita il tuo testo qui'
 'agent dont answer': Il consulente non è al momento disponibile
@@ -189,7 +189,7 @@ Agent dont answer call: Purtroppo il consulente non ha potuto rispondere.
 Ongoing discussion: Conversazione in corso
 Click here to enlarge: Clicca qui per allargare
 Give us your feedback: Dacci la tua opinione
-Thank you: Grazie
+Thank_you: Grazie
 click here to enlarge: Clicca qui per allargare 
 Your question: La tua domanda
 click_on: Clicca su

@@ -9,7 +9,7 @@
 'Discussion helpful ?': Discutia v-a fost de ajtor?
 'Would you recommend this experience to your friends?': Ati recomanda aceasta experienta prietenilor dumneavoastra?
 'Any comments ?': Comentarii? Sugestii ?
-'chat transcript': Obtineti o inregistrare a discutiei via e-mail.
+'chat_transcript': Obtineti o inregistrare a discutiei via e-mail.
 'Webuser is typing': utilizatorul scrie
 'Type your text here': tasteaza textul aici     
 'agent dont answer': agentul nu este disponibil
@@ -195,7 +195,7 @@ Agent dont answer call: Din pacate, operatorul dumneavoastra nu poate raspunde.
 Ongoing discussion: Discutie in mers.
 Click here to enlarge: Apasati aici pentru a màri
 Give us your feedback: Lasati-ne o opinie
-Thank you: Va multumim
+Thank_you: Va multumim
 click here to enlarge: Apasati aici pentru a màri 
 Your question: Intrebarea dumneavoastra
 click_on: Apasati aici

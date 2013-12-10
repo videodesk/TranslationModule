@@ -9,7 +9,7 @@
 'Discussion helpful ?': Was dit gesprek nuttig voor u ?
 'Would you recommend this experience to your friends?': Zou u deze service aan uw vrienden aanbevelen ?
 'Any comments ?': Uw suggesties :
-'chat transcript': Geef uw emailadres door om de inhoud van dit gesprek te ontvangen.
+'chat_transcript': Geef uw emailadres door om de inhoud van dit gesprek te ontvangen.
 'Webuser is typing': is aan het typen...
 'Type your text here': Typ uw text hier in
 'agent dont answer': onze medewerker kan nu niet antwoorden
@@ -189,7 +189,7 @@ Agent dont answer call: Medewerker beantwoord het gesprek niet
 Ongoing discussion: Lopende gesprek
 Click here to enlarge: Klik hier om te vergroten
 Give us your feedback: Geef ons uw mening
-Thank you: Hartelijk dank
+Thank_you: Hartelijk dank
 click here to enlarge: klik om te vergroten
 Your question: uw vraag
 click_on: Klik door

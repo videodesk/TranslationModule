@@ -9,7 +9,7 @@
 'Discussion helpful ?': Da li je ovaj dijalog bio koristan?
 'Would you recommend this experience to your friends?': Da li bi ste nas preporucili prijatelju?
 'Any comments ?': Predlozi?
-'chat transcript': Ukoliko želite da primite sadržaj ove konverzacije, molimo ostavite Vašu e-mail adresu.
+'chat_transcript': Ukoliko želite da primite sadržaj ove konverzacije, molimo ostavite Vašu e-mail adresu.
 'Webuser is typing': piše...
 'Type your text here': 'Unesite tekst ovde'
 'agent dont answer': Agent je nedostupan trenutno
@@ -189,7 +189,7 @@ Agent dont answer call: Agent dont answer call
 Ongoing discussion: Ongoing discussion
 Click here to enlarge: Click here to enlarge
 Give us your feedback: Give us your feedback
-Thank you: Thank you
+Thank_you: Thank you
 click here to enlarge: Click to enlarge 
 Your question: Your question
 click_on: Click on

@@ -9,7 +9,7 @@
 'Discussion helpful ?': Cette conversation vous a-t-elle été utile ?
 'Would you recommend this experience to your friends?': Recommanderiez-vous un tel dialogue à vos amis ?
 'Any comments ?': Des commentaires ? Des suggestions ?
-'chat transcript': Recevez cette conversation par email.
+'chat_transcript': Recevoir cette conversation par email.
 'Webuser is typing': est en train d'écrire...
 'Type your text here': Tapez votre message ici
 'agent dont answer': Le conseiller est indisponible
@@ -156,7 +156,7 @@ give us your feedback about the conversation: Votre <b>avis</b> nous intéresse.
 has this dialog been helpful: Cette conversation vous a-t-elle été utile ?
 Would you recommend this experience to your facebook friends: Recommanderiez-vous un tel dialogue à vos amis ?
 Any comments or suggestions: Des commentaires ? Des suggestions ?
-Get a reccord of this conversation by e-mail: Recevez cette conversation par email.
+Get a reccord of this conversation by e-mail: Recevoir cette conversation par email.
 Please enter your e-mail address: Votre adresse email.
 Please give a valid address: Merci de fournir une adresse mail valide.
 The record has been successfully sent: Le contenu de la conversation a bien été envoyé.
@@ -195,7 +195,7 @@ Agent dont answer call: Le conseiller n'a pas répondu
 Ongoing discussion: Discussion en cours
 Click here to enlarge: Cliquez pour la voir
 Give us your feedback: Donnez votre avis
-Thank you: Merci à vous
+Thank_you: Merci à vous
 click here to enlarge: Cliquer pour agrandir
 Your question: Votre question
 click_on: Cliquez sur
@@ -247,8 +247,8 @@ fallback_default_msg: Notre conseiller est indisponible pour le moment, veuillez
 hangup_mess_1: Désolé mais le conseiller a raccroché. Votre message n'a pas été envoyé.
 hangup_mess_2: La conversation est terminée.
 your_agent_hung_up: Le conseiller a raccorché.
-you_hung_up: Vosu avez raccroché.
-give_us_your_feedback: Donnez-nous votre avis.
+you_hung_up: Vous avez raccroché.
+give_us_your_feedba: Donnez-nous votre avis.
 back_to_chat: Revenir à la discussion
 send_and_quit: Envoyer et quitter
 back_to_feedback: Retour

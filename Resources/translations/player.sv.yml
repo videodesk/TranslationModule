@@ -9,7 +9,7 @@
 'Discussion helpful ?': Har denna dialog varit hjälpsam?
 'Would you recommend this experience to your friends?': Skulle du rekommendera denna erfarenhet till vänner?
 'Any comments ?': Kommentarer
-'chat transcript': Skulle du vilja ha en mail på konversationen, lämna din e-mail adress.
+'chat_transcript': Skulle du vilja ha en mail på konversationen, lämna din e-mail adress.
 'Webuser is typing': Skriver...
 'Type your text here': Skriv din text här...
 'agent dont answer': Din agent är inte online
@@ -190,7 +190,7 @@ Agent dont answer call: Agent dont answer call
 Ongoing discussion: Ongoing discussion
 Click here to enlarge: Click here to enlarge
 Give us your feedback: Give us your feedback
-Thank you: Thank you
+Thank_you: Thank you
 click here to enlarge: Click to enlarge 
 Your question: Your question
 click_on: Click on

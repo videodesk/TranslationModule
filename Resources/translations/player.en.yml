@@ -9,7 +9,7 @@
 'Discussion helpful ?': Has this conversation been helpful?
 'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
 'Any comments ?': Comments? Suggestions?
-'chat transcript': Get a record of your conversation by e-mail.
+'chat_transcript': Get a record of your conversation by e-mail.
 'Webuser is typing': is writing...
 'Type your text here': Type your text here
 'agent dont answer': The agent is unavailable
@@ -195,7 +195,7 @@ Agent dont answer call: Your operator unfortunately could not respond.
 Ongoing discussion: Ongoing conversation
 Click here to enlarge: Click here to enlarge
 Give us your feedback: Give us your feedback
-Thank you: Thank you
+Thank_you: Thank you
 click here to enlarge: Click to enlarge 
 Your question: Your question
 click_on: Click on
