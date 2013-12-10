@@ -9,7 +9,7 @@
 'Discussion helpful ?': 有这个对话一直有帮助吗？
 'Would you recommend this experience to your friends?': 你会推荐这样的经历给你的朋友？
 'Any comments ?': 评论？建议？
-'chat transcript': 通过电子邮件获取您的通话记录
+'chat_transcript': 通过电子邮件获取您的通话记录
 'Webuser is typing': 正在写...
 'Type your text here': 在这里输入您的文字
 'agent dont answer': 该代理不可用
@@ -222,16 +222,16 @@ email_empty: 电邮空白
 email_invalid: 无效的电邮
 
 # default values for new module
-grabber_advisor_1: 我们在这里竭诚为您服务
+grabber_advisor_1: 很高兴为您服务
 grabber_advisor_2: 实时销售顾问
 grabber_message_1: 在线帮助
 grabber_message_2: 留言
 invitation_baloon: 您好，请问有什么可以帮您？
 invitation_baloon_several_agents: 您好，有一位客服人员可以为您解答问题
-leave_message_1: 抱歉，我们的客服目前繁忙
+leave_message_1: 抱歉，客服繁忙
 leave_message_2: 请留言
 crm_txt_1: 当我们联系您的客服人员 
-crm_txt_2: 请填写下面区域
+crm_txt_2: 请填写下列内容
 
 #new
 message_baloon: 嗨，给我留言，我会和你联系了！

@@ -9,7 +9,7 @@
 'Discussion helpful ?': การสนทนานี้มีประโชยน์หรือไม่?
 'Would you recommend this experience to your friends?': คุณจะแนะนำประสบการณ์นี้ให้เพื่อนของคุณหรือไม่?
 'Any comments ?': คำแนะนำ
-'chat transcript': หากคุณต้องการสำเนาการสนทนาของคุณ โปรดทิ้งที่อยู่อีเมลของคุณเอาไว้
+'chat_transcript': หากคุณต้องการสำเนาการสนทนาของคุณ โปรดทิ้งที่อยู่อีเมลของคุณเอาไว้
 'Webuser is typing': กำลังพิมพ์...
 'Type your text here': พิมพ์ข้อความของคุณที่นี่
 'agent dont answer': เจ้าหน้าที่ไม่อยู่
