@@ -37,19 +37,15 @@
 'agent indisponible. redirection vers message': Il consulente non è disponibile, puoi lasciare un messaggio
 'webuser': Io
 'user flash crash': Il tuo software video ha un problema, usa i messaggi di testo
-'Survey sent': Messaggio inviato
 'message sent': 'Messaggio inviato'
 'cgv': Usando questo servizio accetti <a href="http//www.videodesk.com/terms" target="_blank">i Termini e le condizioni di utilizzo</a> di Videodesk inc. L'uso continuativo del servizio implica l'accettazione di qualsiasi aggiornamento o modifica dei suddetti termini. Se non accetti i Termini e le condizioni, non usare questo servizio.
 'You will can enter your text here': Potrai digitare il tuo testo qui
-
 'Discussion with %site%': Discussione con %site%
-
 'hello': Salve
 'videodesk team': team di videodesk <br /><a href="http//www.videodesk.com">www.videodesk.com</a>
 'new message from': Nuovo messaggio sul sito
 'message from videodesk module': Nuovo messaggio dal modulo di videodesk
 'message originally intended to': Messaggio inviato a :
-
 'Enter your question here': Digita qui il testo del tuo messaggio...
 
 #CRM
@@ -124,11 +120,22 @@ userNoMic: Non riusciamo a individuare il tuo microfono. Devi possedere un micro
 agentNoMic: Il consulente non ha il microfono, ti invitiamo a lasciare un messaggio di testo.(#13)
 userRtmptConnection: Il network non consente una qualità video/audio sufficiente, ti invitiamo pertanto a lasciare dei messaggi di testo (#15)
 agentRtmptConnection: Il network non consente una qualità video/audio sufficiente, ti invitiamo pertanto a lasciare dei messaggi di testo (#16)
-
+userNoSpeakers: Non abbiamo rilevato alcuna uscita audio (altoparlanti, cuffie ...). Non si può sentire l'agente chiamato. Ti consigliamo di collegare altoparlanti o cuffie al computer. Tuttavia, è già possibile chattare con il vostro agente via testo.
 remote_audio_desactivated: Il suono non è attivo
 remote_audio_activated: Il suono è attivo
 click_allow_to_start: Clicca su "Acconsenti" per iniziare.
 
+#transcript mail
+Hi: Salve,
+You reached: hai contattato
+We have to pleasure to send you the transcript of your discussion.: Siamo lieti di inviarti la trascrizione della conversazione.
+We look forward to seeing you again on: Speriamo di rivederti presto.
+Thank you for your visit: Grazie per la visita.
+videodesk team: Il team di Videodesk
+transcript: Trascrizione,
+yours transcripts with: La tua trascrizione con
+We can talk, you are seeing.: Puoi parlare, il consulente ti vede.
+We can talk, you are not seeing.: Puoi parlare, il consulente non ti vede.
 
 #REFACTOR
 type here: Digita qui il tuo messaggio...
@@ -153,7 +160,6 @@ Get a reccord of this conversation by e-mail: Ricevi una trascrizione della conv
 Please enter your e-mail address: Inserisci qui il tuo indirizzo e-mail
 Please give a valid address: Indica un indirizzo valido
 The record has been successfully sent: La registrazione è stata inviata correttamente
-Ongoing discussion: Conversazione in corso
 your message has been successfully sent. We Will contact you soon: Il tuo messaggio è stato inviato correttamente.<br />Ti ricontatteremo presto.
 Please fill email field: Compila il campo con l'e-mail
 Please fill phone field: Compila il campo con il numero di telefono
@@ -180,8 +186,8 @@ Do you Want to start an audio call with me: Vuoi chiamarmi?
 Do you Want to start a video call with me: Vuoi videochiamarmi?
 e-mail invalid: E-mail non valida
 close webpage cause end of the discussion: Chiudi la pagina web per mettere fine alla conversazione
-survey sent: Sondaggio inviato
-Survey sent: Sondaggio inviato
+survey sent: Messaggio inviato
+Survey sent: Messaggio inviato
 agent hangup: Il consulente ha messo fine alla conversazione.
 agent unavailable: Il consulente non è disponibile.
 Agent deny call: Purtroppo il consulente ha dovuto rifiutare la chiamata.
@@ -215,20 +221,6 @@ conversation_send: e-mail inviata
 email_empty: e-mail vuota
 email_invalid: e-mail non valida
 
-#transcript mail
-Hi: Salve,
-You reached: hai contattato
-We have to pleasure to send you the transcript of your discussion.: Siamo lieti di inviarti la trascrizione della conversazione.
-We look forward to seeing you again on: Speriamo di rivederti presto.
-Thank you for your visit: Grazie per la visita.
-videodesk team: Il team di Videodesk
-transcript: Trascrizione,
-yours transcripts with: La tua trascrizione con
-We can talk, you are seeing.: Puoi parlare, il consulente ti vede.
-We can talk, you are not seeing.: Puoi parlare, il consulente non ti vede.
-
-
-
 # default values for new module
 grabber_advisor_1: Siamo qui per aiutarti!
 grabber_advisor_2: Consulenti di vendita
@@ -250,3 +242,18 @@ all_agent_msg_1: Spiacente i nostri agenti non sono disponibili.
 all_agent_msg_2: Lasciare un messaggio per favore!
 agent-deny-call-media: 'Spiacente, non posso aprire un audio o video chiamare più, vi prego di continuare via chat di testo'
 fallback_default_msg: 'Il nostro agente non sono disponibili in questo momento, riprova più tardi'
+
+#new FO v14
+hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
+hangup_mess_2: The conversation is over.
+your_agent_hung_up: Your agent hung up
+you_hung_up: You hung up
+give_us_your_feedback: Would you like to give us your feedback ?
+back_to_chat: Back to chat
+send_and_quit: Send and quit
+back_to_feedback: Back to feedback
+any_suggestions: Any suggestions?
+transcript_will_be_sent: A transcript will be sent once the chat is over.
+transcript_sent: Conversation has been sent.
+phone_invalid: Phone invalid
+shall_we_use_this_address: Shall we use this address

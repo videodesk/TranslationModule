@@ -242,3 +242,18 @@ all_agent_msg_1: Es tut uns leid! Unsere Agenten sind nicht verfügbar.
 all_agent_msg_2: Bitte lassen Sie uns eine Nachricht!
 agent-deny-call-media: 'Leider kann ich kein Audio- oder Video-Anruf mehr öffnen. Wir werden mit einem Text-Chat fortzusetzen.'
 fallback_default_msg: Unsere Agenten sind nicht sofort verfügbar. Bitte versuchen Sie weiter!
+
+#new FO v14
+hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
+hangup_mess_2: The conversation is over.
+your_agent_hung_up: Your agent hung up
+you_hung_up: You hung up
+give_us_your_feedback: Would you like to give us your feedback ?
+back_to_chat: Back to chat
+send_and_quit: Send and quit
+back_to_feedback: Back to feedback
+any_suggestions: Any suggestions?
+transcript_will_be_sent: A transcript will be sent once the chat is over.
+transcript_sent: Conversation has been sent.
+phone_invalid: Phone invalid
+shall_we_use_this_address: Shall we use this address

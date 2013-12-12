@@ -37,7 +37,6 @@
 'agent indisponible. redirection vers message': Medewerker is niet aanwezig, doorverwijzing naar boodschap
 'webuser': ik
 'user flash crash': Probleem met de Flash plugin. U bent nu in de chat (tekst) modus gezet.
-'Survey sent': Boodschap verstuurd
 'message sent': Bericht verzonden
 'cgv': Door deze service te gebruiken aanvaardt u de <a href="http://www.videodesk.fr/terms" target="_blank">Algemene Verkoopsvoorwaarden</a> van Videodesk S.A.S. en alle aanpassingen ervan. Indien u niet akkoord kan gaan, gelieve dan deze service niet te gebruiken.
 'You will can enter your text here': U kan uw tekst hier invoeren
@@ -48,7 +47,6 @@
 'message from videodesk module': nieuw bericht van de videodesk module
 'message originally intended to': bericht verzonden naar :
 'Enter your question here': Stel uw vraag hier :
-
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
@@ -81,8 +79,6 @@ gorgeous: gorgeous
 'pending call text': Goedendag, u wilt contact met Videodesk. De gevraagde persoon is direct voor u beschikbaar.
 'flash security panel': Klik op "Toestaan" voor een gesprek
 'Leave a text message': Sorry, ik ben momenteel niet beschikbaar. Laat een bericht achter aub.
-'Alternative contact': 
-
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
@@ -124,11 +120,22 @@ userNoMic: We hebben geen microfoon kunnen ontdekken. U dient een microfoon aan 
 agentNoMic: Deze medewerker gebruikt geen microfoon. We schakelen over naar de Chat Modus. (#13)
 userRtmptConnection:  Het netwerk laat geen goede video/audio kwaliteit toe, u kunt beter overschakelen naar de tekst chat (#15)
 agentRtmptConnection: Het netwerk laat geen goede video/audio kwaliteit toe, u kunt beter overschakelen naar de tekst chat (#16)
-
+userNoSpeakers: Er is geen audio-uitgang (luidsprekers, koptelefoon ...) gedetecteerd. Je mag niet hoort de agent je belde. Wij stellen voor dat u luidsprekers of headsets aansluiten op uw computer. U kunt echter al chatten met uw agent via tekst.
 remote_audio_desactivated: geluid is uitgeschakeld
 remote_audio_activated: geluid is ingeschakeld
 click_allow_to_start: Klik op "Toestaan" om te starten.
 
+#transcript mail
+Hi: Hi,
+You reached: contact opgenomen met u 
+We have to pleasure to send you the transcript of your discussion.: We moeten genoegen om u de cijferlijst van je gesprek sturen.
+We look forward to seeing you again on: We kijken ernaar uit om u weer te zien
+Thank you for your visit: Dank u voor uw bezoek.
+videodesk team: De Videodesk team
+transcript: Transcript,
+yours transcripts with: Je cijferlijst met
+We can talk, you are seeing.: We kunnen praten, je ziet.
+We can talk, you are not seeing.: We kunnen praten, je bent niet te zien.
 
 #REFACTOR
 type here: Type hier uw bericht...
@@ -153,7 +160,6 @@ Get a reccord of this conversation by e-mail: Ontvang dit gesprek via email
 Please enter your e-mail address: Please enter your e-mail address (SVP uw email adres opgeven
 Please give a valid address: SVP een correct adres opgeven
 The record has been successfully sent: Dit gesprek is verzonden
-Ongoing discussion: Lopend gesprek
 your message has been successfully sent. We Will contact you soon: Uw bericht is verzonden. We zullen z.s.m. contact met u opnemen
 Please fill email field: SVP email veld invullen
 Please fill phone field: SVP telefoonnummer veld invullen
@@ -180,13 +186,13 @@ Do you Want to start an audio call with me: Wilt u een audio gesprek met mij sta
 Do you Want to start a video call with me: Wilt u een video gesprek met mij starten?
 e-mail invalid: Ongeldig email adres
 close webpage cause end of the discussion: Door verwijdering van webpagina is het gesprek beeïndigd
-survey sent: Enquete verzonden
-Survey sent: Enquete verzonden
+survey sent: Boodschap verstuurd
+Survey sent: Boodschap verstuurd
 agent hangup: Medewerker heeft gesprek beeïndigd
 agent unavailable: Medewerker niet beschikbaar
 Agent deny call: Medewerker heeft gesprek geweigerd
 Agent dont answer call: Medewerker beantwoord het gesprek niet
-Ongoing discussion: Lopende gesprek
+Ongoing discussion: Lopend gesprek
 Click here to enlarge: Klik hier om te vergroten
 Give us your feedback: Geef ons uw mening
 Thank_you: Hartelijk dank
@@ -211,15 +217,43 @@ initiate_video_btn: Accepteer dit video gesprek
 initiate_audio_btn: Aceepteer dit audio gesprek
 webuser_accept_audio_call: U heeft dit audio gesprek geaccepteerd
 webuser_accept_video_call: U heeft dit video gesprek geaccepteerd
+conversation_send: e-mail sent
+email_empty: email empty
+email_invalid: email invalid
 
-#transcript mail
-Hi: Hi,
-You reached: contact opgenomen met u 
-We have to pleasure to send you the transcript of your discussion.: We moeten genoegen om u de cijferlijst van je gesprek sturen.
-We look forward to seeing you again on: We kijken ernaar uit om u weer te zien
-Thank you for your visit: Dank u voor uw bezoek.
-videodesk team: De Videodesk team
-transcript: Transcript,
-yours transcripts with: Je cijferlijst met
-We can talk, you are seeing.: We kunnen praten, je ziet.
-We can talk, you are not seeing.: We kunnen praten, je bent niet te zien.
+# default values for new module
+grabber_advisor_1: We are here to help!
+grabber_advisor_2: Live sales advisors
+grabber_message_1: Online Help
+grabber_message_2: Leave a message
+invitation_baloon: "Hi!\nHow can I help you?"
+invitation_baloon_several_agents: "Hi!\nAn operator is available now to answer your questions"
+leave_message_1: Sorry, our agents are unavailable.
+leave_message_2: Please leave us a message!
+crm_txt_1: While we contact your agent, 
+crm_txt_2: please enter the following:
+
+#new
+message_baloon: Hi, leave me a message and I will contact you back!
+fall_back_window_default: Our agent is unavailable right now, please try later
+back to list: Back to the list
+denied_missed_call_msg: Sorry, I cannot take your call. Please leave me a message!
+all_agent_msg_1: Sorry our agents are unavailable.
+all_agent_msg_2: Please leave us a message!
+agent-deny-call-media: 'Sorry, i cannot open an audio or video call any more, please continue via text chat'
+fallback_default_msg: 'Our agent are not available right now, please try again later'
+
+#new FO v14
+hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
+hangup_mess_2: The conversation is over.
+your_agent_hung_up: Your agent hung up
+you_hung_up: You hung up
+give_us_your_feedback: Would you like to give us your feedback ?
+back_to_chat: Back to chat
+send_and_quit: Send and quit
+back_to_feedback: Back to feedback
+any_suggestions: Any suggestions?
+transcript_will_be_sent: A transcript will be sent once the chat is over.
+transcript_sent: Conversation has been sent.
+phone_invalid: Phone invalid
+shall_we_use_this_address: Shall we use this address

@@ -243,9 +243,7 @@ all_agent_msg_2: 请给我们留言！
 agent-deny-call-media: 对不起，我不能再打开一个音频或视频呼叫，请通过文字聊天继续
 fallback_default_msg: 我们的代理不可用，现在，请稍后再试
 
-
 #new FO v14
-
 hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
 hangup_mess_2: The conversation is over.
 your_agent_hung_up: Your agent hung up
@@ -255,3 +253,7 @@ back_to_chat: Back to chat
 send_and_quit: Send and quit
 back_to_feedback: Back to feedback
 any_suggestions: Any suggestions?
+transcript_will_be_sent: A transcript will be sent once the chat is over.
+transcript_sent: Conversation has been sent.
+phone_invalid: Phone invalid
+shall_we_use_this_address: Shall we use this address
