@@ -244,7 +244,7 @@ agent-deny-call-media: 'Désolé, le conseiller ne peut plus communiquer en audi
 fallback_default_msg: Notre conseiller est indisponible pour le moment, veuillez réessayer plus tard.
 
 #new FO v14
-hangup_mess_1: Désolé mais le conseiller a raccroché. Votre message n'a pas été envoyé.
+hangup_mess_1: Désolé, votre message n'a pas été envoyé.
 hangup_mess_2: La conversation est terminée.
 your_agent_hung_up: Le conseiller a raccorché.
 you_hung_up: Vous avez raccroché.
