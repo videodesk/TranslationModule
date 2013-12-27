@@ -257,3 +257,8 @@ transcript_will_be_sent: A transcript will be sent once the chat is over.
 transcript_sent: Conversation has been sent.
 phone_invalid: Phone invalid
 shall_we_use_this_address: Shall we use this address
+maximize: Maximize
+reduce: Reduce
+
+initiate_a_cobrowsing_session: Do you want to initiate a cobrowsing session?
+accept_cobrowsing: Accept cobrowsing
