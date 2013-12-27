@@ -1,7 +1,7 @@
 'let a message': Lascia un messaggio
 'chat call': Chiamata chat
-'audio call': Chiamata vocale
-'video call': Videochiamata
+'audio call': Vocale
+'video call': Video
 'information help': maggiori informazioni
 'faq help': maggiori informazioni
 'Your discussion has ended': La conversazione è terminata.<br />Grazie di averci contattato.
@@ -167,8 +167,8 @@ Please fill message textarea: Compila il campo con il messaggio di testo
 Please fill firstname field: Compila il campo con il nome
 Please fill lastname field: Compila il campo con il cognome
 Please fill company field: Compila il campo con la società
-call audio: Chiamata vocale
-call video: Videochiamata
+call audio: Vocale
+call video: Video
 video suggestion: Accetta la chiamata vocale
 audio suggestion: Accetta la videochiamata
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: SIAMO QUI PER AIUTARTI!<br />CONSULENTE DELLE VENDITE LIVE.
