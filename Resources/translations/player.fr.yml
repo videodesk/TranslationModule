@@ -257,3 +257,8 @@ transcript_will_be_sent: Vos échanges seront envoyés par mail une fois votre d
 transcript_sent: Votre discussion a été envoyée.
 phone_invalid: Numéro de téléphone invalide
 shall_we_use_this_address: Pouvons-nous utiliser cette adresse ?
+maximize: Agrandir
+reduce: Reduire
+
+initiate_a_cobrowsing_session: Voulez-vous démarrer la co-navigation ?
+accept_cobrowsing: Accepter la co-navigation
