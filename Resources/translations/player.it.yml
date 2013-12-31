@@ -19,7 +19,7 @@
 'i am currently unavailable': Sono spiacente ma non sono al momento disponibile. Puoi lasciarmi un messaggio.
 'Your mail': La tua e-mail
 'Or': O
-'Please type your message here': Digita qui il tuo messaggio
+'Please type your message here': Digita qui il tuo messaggio.
 'message field required': Messaggio obbligatorio
 'email or phone field required': E-mail o numero di telefono obbligatorio
 'send': Invia
@@ -46,7 +46,7 @@
 'new message from': Nuovo messaggio sul sito
 'message from videodesk module': Nuovo messaggio dal modulo di videodesk
 'message originally intended to': Messaggio inviato a :
-'Enter your question here': Digita qui il testo del tuo messaggio...
+'Enter your question here': Digita qui il tuo messaggio...
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Prima di contattare il tuo consulente, dacci qualche informazione.
