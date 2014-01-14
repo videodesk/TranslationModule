@@ -82,178 +82,178 @@ gorgeous: gorgeous
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: My webcam is on
-webcam_desactivated: My webcam is off
-mic_activated: My microphone is on
-mic_desactivated: My microphone is muted
-vid_resumed: The video of your agent is resuming
-vid_stoped: The video of your agent is off
+webcam_activated: Kamera açık
+webcam_desactivated: Kamera kapalı
+mic_activated: Mikrofon açık
+mic_desactivated: Mikrofon kapalı
+vid_resumed: Video açılıyor
+vid_stoped: Video kapalı
 #ROLL MSG
-activate_cam: Activate my webcam
-desactivate_cam: Disable my webcam
-activate_mic: Activate my microphone
-desactivate_mic: Mute my microphone
-stop_vid: Stop the video of the agent
-resume_vid: Resume the video of the agent
-activate_volume: Unmute the speakers
-desactivate_volume: Mute the speakers
+activate_cam: Kamera aktif et
+desactivate_cam: Kamera kapat
+activate_mic: Mikrofon akif et
+desactivate_mic: Mikrofon kapt
+stop_vid: Video durdur
+resume_vid: Video başlat
+activate_volume: Ses aç
+desactivate_volume: Ses kapat
 #WAITING MSG
-peerFailed: Sorry, we couldn't set up the call. You can text chat with your agent
-agentBusy: Sorry, the agent is already busy!
-waitRemote: Please wait, we are currently connecting you. This may take some time
-waitLocal: Waiting for your webcam to connect
-switchToAudio: Webcam disabled, we set up an audio connection
-ncFailed: Sorry, we couldn't set up the call. You can text chat with your agent
+peerFailed: Arama başarısız. Temsilcimiz ile yazarak görüşebilirsiniz.
+agentBusy: Üzgünüm tüm müşteri temsilcilerimiz şuanda meşgul.
+waitRemote: Lütfen bekleyiniz, bağlanıyor. Bu işlem biraz uzun sürebilir.
+waitLocal: Kamera bağlantısı bekleniyor.
+switchToAudio: Görüntülü bağlantı kesildi, sesli bağlantı sağlanıyor. 
+ncFailed: Üzgünüz, arama başarısız. Temsilcimiz ile yazarak görüşebilirsiniz.
 #ATTENTION MSG
-userNoFMSConnection: Because of a network problem, we switch you to text chat.(#1)
-agentNoFMSConnection: Because of a network problem, we switch you to text chat.(#2)
-agentFlashCrashed: Because of a network problem, we switch you to text chat.(#4)
-userNoCamButMic: We did not detect your webcam. You must be equipped with a webcam in order to launch a video chat. We switch you to audio mode.(#5)
-userNiCamNiMic: We did not detect a webcam, or a microphone. You must be equipped with a webcam or a microphone, to be able to launch a video chat. We switch you to chat mode.(#6)
-agentNoCamButMic: The agent has no webcam. We switch you to audio chat.(#7)
-agentNiCamNiMic: The agent has no webcam and no microphone. We switch you in text chat.(#8)
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
-noPeerConnection: Because of a network problem, we switch you to text chat.(#11)
-userConnectionFailed: Because of a network problem, we switch you to text chat.(#11)
-agentConnectionFailed: Because of a network problem, we switch you to text chat.(#110)
-userNoMic: We did not detect any microphone. You must be equipped with a microphone to be able to launch an audio chat. We witch you to text chat.(#12)
-agentNoMic: The agent has no microphone, we switch you to text chat.(#13)
-userRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#15)
-agentRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#16)
-userNoSpeakers: We have not detected any audio output (speakers, headset...). You may not hear the agent you called. We suggest that you connect speakers or headsets to your computer. However, you can already chat with your agent via text.
-remote_audio_desactivated: The sound is muted
-remote_audio_activated: The sound is on
-click_allow_to_start: Click on "Allow" to start.
+userNoFMSConnection: Bağlantı sorunu sebebiyle, yazışma moduna geçiliyor.(#1)
+agentNoFMSConnection: Bağlantı sorunu sebebiyle, yazışma moduna geçiliyor.(#2)
+agentFlashCrashed: Bağlantı sorunu sebebiyle, yazışma moduna geçiliyor.(#4)
+userNoCamButMic: Kamera bulunamadı. Video sohbet başlatmak için kameranız olması gerekmekte. Sesli görüşme moduna alınıyorsunuz. (#5)
+userNiCamNiMic: Kamera ve mikrofon bulunamadı. Video sohbet başlatmak için kamera ve mikrofon olması gerekmekte. Yazışma moduna alınıyorsunuz. (#6)
+agentNoCamButMic: Temsilcide kamera bulunamadı. Sesli görüşme moduna alınıyorsunuz.(#7)
+agentNiCamNiMic: Temsilcide kamera ve mikrofon bulunamadı. Yazışma moduna alınıyorsunuz.(#8)
+userDenyFlash: Görüntülü ve sesli görüşme isteğini red ettiniz. Yazışma moduna alınıyorsunuz.(#9)
+noPeerConnection: Bağlantı sorunu sebebiyle, yazışma moduna geçiliyor.(#11)
+userConnectionFailed: Bağlantı sorunu sebebiyle, yazışma moduna geçiliyor.(#11)
+agentConnectionFailed: Bağlantı sorunu sebebiyle, yazışma moduna geçiliyor.(#110)
+userNoMic: Mikrofon bulunamadı. Sesli sohbet başlatmak için mikrofon olması gerekmekte. Yazışma moduna alınıyorsunuz.(#12)
+agentNoMic: Temsilcide mikrofon bulunamadı. Sesli görüşme moduna alınıyorsunuz.(#13)
+userRtmptConnection: Bağlantınız görüntülü/sesli görüşme için yeterli değil, yazışma modu önerilir.(#15)
+agentRtmptConnection: Bağlantınız görüntülü/sesli görüşme için yeterli değil, yazışma modu önerilir.(#16)
+userNoSpeakers: Ses bileşenleri tespit edilemedi. ( hoparlör, kulaklık…). Aradığınız temsilciyi duyamayabilirsiniz. Bilgisayarınıza kulaklık yada hoparlör bağlamınızı öneririz. Ayrıca yazışma yolu ile temsilcimizler görüşebilirsiniz.
+remote_audio_desactivated: Ses kapatıldı
+remote_audio_activated: Ses açıldı
+click_allow_to_start: Başlamak için ''İzin Ver''e tıklayın
 
 #transcript mail
 Hi: Selam,
-You reached: Bu temas
-We have to pleasure to send you the transcript of your discussion.: Size tartışma transkript göndermek için zevk zorunda.
-We look forward to seeing you again on: Biz tekrar görmek için sabırsızlanıyoruz 
+You reached: Ulaştınız
+We have to pleasure to send you the transcript of your discussion.: Size görüşme kaydını göndermekten zevk duyarız.
+We look forward to seeing you again on: Sizi tekrar aramızda görmekten onur duyarız.
 Thank you for your visit: Ziyaretiniz için teşekkür ederiz.
 videodesk team: Videodesk ekibi
-transcript: Transkript,
+transcript: Transkript.
 yours transcripts with: Sizin transkript ile
-We can talk, you are seeing.: Biz görüyoruz, konuşabilirsiniz.
-We can talk, you are not seeing.: Biz göremiyoruz, konuşabilirsiniz.
+We can talk, you are seeing.: Biz anlatırız, siz dinlersiniz.
+We can talk, you are not seeing.: Biz anlatırız, siz göremezsiniz.
 
 #REFACTOR
-type here: Type your message here...
-Do you want to close the discussion?: Do you want to close the discussion?
-Yes: Yes
-No: No
-send: Send
-your firstname: First name
-Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
-your lastname: Last name
-your company: Company
-your email: Email
-your phone: Phone
-your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
-Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
-has this dialog been helpful: Has this dialog been helpful?
-Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
-Any comments or suggestions: Comments? Suggestions?
-Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
-Please enter your e-mail address: Please enter your e-mail address
-Please give a valid address: Please give a valid address
-The record has been successfully sent: The record has been successfully sent
-your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
-Please fill email field: Please fill email field
-Please fill phone field: Please fill phone field
-Please fill message textarea: Please fill message textarea
-Please fill firstname field: Please fill firstname field
-Please fill lastname field: Please fill lastname field
-Please fill company field: Please fill company field
-call audio: Audio Call
-call video: Video Call
-video suggestion: Video suggestion
-audio suggestion: Audio suggestion
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
-GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+type here: Buraya yazın...
+Do you want to close the discussion?: Görüşmeyi sonlandırmak istediğinize emin misiniz?
+Yes: Evet
+No: Hayır
+send: Gönder
+your firstname: İsim
+Please fill at least one of highlighted fields: Lütfen işaretli alanlardan en az birini doldurunuz.
+your lastname: Soyisim
+your company: Şirket
+your email: E-mail
+your phone: Telefon
+your message: Mesaj
+Your conversation has ended.Thank you for contacting us!: <strong>Görüşme sona erdi.</strong><br />Bizimle iletişime geçtiğiniz için teşekkür ederiz.!
+Recall this operator now: Operatörü tekrar arayınız!
+give us your feedback about the conversation: Görüşme hakkındaki <strong>görüşlerinizi</strong><br/>bize iletiniz.
+has this dialog been helpful: Bu görüşme sizin için faydalı mıydı?
+Would you recommend this experience to your facebook friends: Bu tecrübeyi Facebook arkadaşlarınıza tavsiye etmek ister misiniz?
+Any comments or suggestions: Yorumlar? Öneriler?
+Get a reccord of this conversation by e-mail: Görüşmenizin bir kopyasını e-mail adresinize gönderilsin.
+Please enter your e-mail address: Lütfen e-mail adresinizi giriniz
+Please give a valid address: Lütfen geçerli bir adres giriniz
+The record has been successfully sent: Kayıt başarıyla gönderildi
+your message has been successfully sent. We Will contact you soon: Mesajınız gönderildi.<br />En kısa süre içinde sizinle iletişime geçeceğiz.
+Please fill email field: Lütfen e-mail alanını doldurunuz
+Please fill phone field: Lütfen telefon alanını doldurunuz
+Please fill message textarea: Lütfen mesaj alanını doldurunuz
+Please fill firstname field: Lütfen isim alanını doldurunuz
+Please fill lastname field: Lütfen soyisim alanını doldurunuz
+Please fill company field: Lütfen şirket alanını doldurunuz
+call audio: Sesli Görüşme
+call video: Görüntülü Görüşme
+video suggestion: Görüntü Önerisi
+audio suggestion: Sesli Önerisi
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: YARDIM ETMEK İÇİN BURDAYIZ!<br />CANLI MÜŞTERİ TEMSİLCİSİ.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: YARDIM ETMEK İÇİN BURDAYIZ!<br />LÜTFEN MESAJINIZI BIRAKINIZ.
+GIVE US YOUR FEEDBACK! THANK YOU: GÖRÜŞLERİNİZ BİZİM İÇİN DEĞERLİDİR!<br />TEŞEKKÜRLER
 
 #V1.2
-required field: Required field
-message sent: Message sent
-Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
-No operator is available for the moment: No operator is available for the moment.
-Please leave me a message: Please leave me a message
-Please leave a message: Please leave a message
-Do you Want to start an audio call with me: Do you want to start an audio call with me?
-Do you Want to start a video call with me: Do you want to start a video call with me?
-e-mail invalid: Invalid Email
-close webpage cause end of the discussion: Close webpage cause end of the discussion
+required field: Zorunlu alanlar
+message sent: Mesaj gönderildi
+Before contacting you operator: Temsilicimiz ile iletişime geçmeden önce,<br/>Lütfen bilgileri doldurunuz:
+No operator is available for the moment: Tüm temsilcilerimiz şuan da diğer müşterilerimizle görüşmektedir.
+Please leave me a message: Lütfen mesaj bırakınız
+Please leave a message: Lütfen mesaj bırakınız
+Do you Want to start an audio call with me: Benimle sesli görüşme başlatmak ister misiniz?
+Do you Want to start a video call with me: Benimle görüntülü görüşme başlatmak ister misiniz?
+e-mail invalid: Geçersiz E-mail
+close webpage cause end of the discussion: Tartışmanın yakın web sayfası neden son
 survey sent: Anket gönderildi
 Survey sent: Anket gönderildi
-agent hangup: Agent hangup
-agent unavailable: Agent unavailable
-Agent deny call: Agent deny call
-Agent dont answer call: Agent dont answer call
-Ongoing discussion: Ongoing discussion
-Click here to enlarge: Click here to enlarge
-Give us your feedback: Give us your feedback
-Thank_you: Thank you
-click here to enlarge: Click to enlarge 
-Your question: Your question
-click_on: Click on
-allow: allow
-to_start_your_microphone: To start your microphone
-to_start_your_webcam: To start your webcam
-terms_of_use: 'You can read the terms of use '
-here: 'here'
-webcam_blocked: Your webcam is currently blocked
-microphone_blocked: Your microphone is currently blocked
-click_to_unlock: Click on the cam icon to unlock it now
-reload_to_unlock: Refresh your page to make your webcam available
-hangup: Hang up
-alternative_message_1: Sorry, our agents are unavailable.
-alternative_message_2: Thank you for your understanding.
-initiate_video_call: Do you want to start a video call with me?
-initiate_audio_call: Do you want to start an audio call with me?
-initiate_video_btn: Accept the video call
-initiate_audio_btn: Accept the audio call
-webuser_accept_audio_call: You accepted the audio conversation
-webuser_accept_video_call: You accepted the video conversation
-conversation_send: e-mail sent
-email_empty: email empty
-email_invalid: email invalid
+agent hangup: Temsilci kapattı
+agent unavailable: Temsilci uygun değil
+Agent deny call: Temsilci görüşmeyi red etti
+Agent dont answer call: Temsilci cevap vermiyor
+Ongoing discussion: Devam eden görüşme
+Click here to enlarge: Büyütmek için tıklayın
+Give us your feedback: Bize görüşlerinizi bildirin
+Thank_you: Teşekkürler
+click here to enlarge: Büyütmek için tıklayın 
+Your question: Sorularınız
+click_on: Tıklayın
+allow: izin ver
+to_start_your_microphone: Mikrofonu çalıştırmak için
+to_start_your_webcam: Kamerayı çaıştırmak için
+terms_of_use: 'Kullanıcı Sözleşmesini okuyabilirsiniz '
+here: 'buraya'
+webcam_blocked: Kameranız engellenmiş durumda
+microphone_blocked: Mikrofonunuz engellenmiş durumda
+click_to_unlock: Kamera simgesine tıklayarak aktif hale getiriniz
+reload_to_unlock: Sayfayı yenieleyerek kamerayı aktif hale getiriniz
+hangup: Beklemede
+alternative_message_1: Üzgünüz, temsilcilerimiz şuan da diğer müşterilerimiz ile ilgilenmekteler.
+alternative_message_2: Anlayışınız için teşekkür ederiz.
+initiate_video_call: Benimle sesli görüşme başlatmak ister misiniz?
+initiate_audio_call: Benimle görüntülü görüşme başlatmak ister misiniz?
+initiate_video_btn: Görüntülü görüşme isteiğini kabul et
+initiate_audio_btn: Sesli görüşme isteiğini kontro let
+webuser_accept_audio_call: Sesli görüşmeyi kabul etmelisiniz
+webuser_accept_video_call: Görüntülü görüşmeyi kabul etmelisiniz
+conversation_send: e-mail gönderildi
+email_empty: e-mail boş
+email_invalid: e-mail geçersiz
 
 # default values for new module
-grabber_advisor_1: We are here to help!
-grabber_advisor_2: Live sales advisors
-grabber_message_1: Online Help
-grabber_message_2: Leave a message
-invitation_baloon: "Hi!\nHow can I help you?"
-invitation_baloon_several_agents: "Hi!\nAn operator is available now to answer your questions"
-leave_message_1: Sorry, our agents are unavailable.
-leave_message_2: Please leave us a message!
-crm_txt_1: While we contact your agent, 
-crm_txt_2: please enter the following:
+grabber_advisor_1: Sizlere yardım etmek için buradayız!
+grabber_advisor_2: Canlı Müşteri Temsilcisi
+grabber_message_1: Çevirim içi yardım
+grabber_message_2: Mesajınızı bırakın
+invitation_baloon: "Merhaba!\nSize nasıl yardımcı olabilirim?"
+invitation_baloon_several_agents: "Merhaba!\nŞuan da bir temsilcimiz sorularınıza yanıt vermek için uygundur"
+leave_message_1: Üzgünüz, temsilcilerimiz şuanda meşguller.
+leave_message_2: Lütfen mesajınızı bırakınız!
+crm_txt_1: Biz temsilci ile iletişime geçerken, 
+crm_txt_2: Lütfen aşağıdaki bilgileri giriniz:
 
 #new
-message_baloon: Hi, leave me a message and I will contact you back!
-fall_back_window_default: Our agent is unavailable right now, please try later
-back to list: Back to the list
-denied_missed_call_msg: Sorry, I cannot take your call. Please leave me a message!
-all_agent_msg_1: Sorry our agents are unavailable.
-all_agent_msg_2: Please leave us a message!
-agent-deny-call-media: 'Sorry, i cannot open an audio or video call any more, please continue via text chat'
-fallback_default_msg: 'Our agent are not available right now, please try again later'
+message_baloon: Merhaba, mesajınızı bırakın, en kısa süre içinde sizinle iletişime geçeceğim!
+fall_back_window_default: Temsilcimiz şuan da uygun değil, lütfen daha sonra tekrar deneyiniz
+back to list: Listeye geri dön
+denied_missed_call_msg: Üzgünüm, çağrınızı kabul edemeiyorum. Lütfen mesaj bırakınız. 
+all_agent_msg_1: Üzügünüz temsilcilerimiz şuan da uygun değiller.
+all_agent_msg_2: Lütfen bize mesajınız bırakınız!
+agent-deny-call-media: 'Üzgünüz, Sesli yada görüntülü görüşme yapamıyorum, lütfen yazarak mesaj bırakınız'
+fallback_default_msg: 'Temsilcilerimiz şuan için uygun değiller, lütfen daha sonra tekrar deneyiniz'
 
 #new FO v14
-hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
-hangup_mess_2: The conversation is over.
-your_agent_hung_up: Your agent hung up
-you_hung_up: You hung up
-give_us_your_feedback: Would you like to give us your feedback ?
-back_to_chat: Back to chat
-send_and_quit: Send and quit
-back_to_feedback: Back to feedback
-any_suggestions: Any suggestions?
-transcript_will_be_sent: A transcript will be sent once the chat is over.
-transcript_sent: Conversation has been sent.
-phone_invalid: Phone invalid
-shall_we_use_this_address: Shall we use this address
+hangup_mess_1: Üzgünüz fakat temsilci kapattı. Mesajınız gönderilemedi.
+hangup_mess_2: Görüşme sona erdi.
+your_agent_hung_up: Temsilciniz kapattı
+you_hung_up: Görüşmeyi sonlandırdınız
+give_us_your_feedback: Bize görüşlerinizi bildirmek ister misinşiz?
+back_to_chat: Sohbete geri dön
+send_and_quit: Gönder ve çık
+back_to_feedback: Görüşlere geri dön
+any_suggestions: Herhangi bir öneriniz var mıydı?
+transcript_will_be_sent: Görüşme sona erdiğinde görüşme kaydı gönderilecektir.
+transcript_sent: Görüşme kaydı gönderildi
+phone_invalid: Geçersiz telefon
+shall_we_use_this_address: Bu adresi kullanmak ister misin?
