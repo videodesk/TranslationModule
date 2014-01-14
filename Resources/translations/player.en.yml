@@ -268,3 +268,4 @@ cobrowsing_session: I just opened a co-browsing session.
 deny_btn: Deny
 allow_btn: Allow
 label_grant: Can I control you webpage alongside you ?
+control: Control
