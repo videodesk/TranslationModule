@@ -264,4 +264,7 @@ reduce: Reduce
 cobrowsing_toolbar: Ongoing co-browsing session
 initiate_a_cobrowsing_session: Do you want to accept a cobrowsing session?
 accept_cobrowsing: Accept co-browsing
-
+cobrowsing_session: I just opened a co-browsing session.
+deny_btn: Deny
+allow_btn: Allow
+label_grant: Can I control you webpage alongside you ?
