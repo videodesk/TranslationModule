@@ -260,5 +260,8 @@ shall_we_use_this_address: Shall we use this address
 maximize: Maximize
 reduce: Reduce
 
+
+cobrowsing_toolbar: Ongoing co-browsing session
 initiate_a_cobrowsing_session: Do you want to accept a cobrowsing session?
-accept_cobrowsing: Accept cobrowsing
+accept_cobrowsing: Accept co-browsing
+
