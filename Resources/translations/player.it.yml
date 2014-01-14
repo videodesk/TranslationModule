@@ -1,7 +1,7 @@
 'let a message': Lascia un messaggio
 'chat call': Chiamata chat
-'audio call': Chiamata vocale
-'video call': Videochiamata
+'audio call': Vocale
+'video call': Video
 'information help': maggiori informazioni
 'faq help': maggiori informazioni
 'Your discussion has ended': La conversazione è terminata.<br />Grazie di averci contattato.
@@ -19,7 +19,7 @@
 'i am currently unavailable': Sono spiacente ma non sono al momento disponibile. Puoi lasciarmi un messaggio.
 'Your mail': La tua e-mail
 'Or': O
-'Please type your message here': Digita qui il tuo messaggio
+'Please type your message here': Digita qui il tuo messaggio.
 'message field required': Messaggio obbligatorio
 'email or phone field required': E-mail o numero di telefono obbligatorio
 'send': Invia
@@ -46,7 +46,7 @@
 'new message from': Nuovo messaggio sul sito
 'message from videodesk module': Nuovo messaggio dal modulo di videodesk
 'message originally intended to': Messaggio inviato a :
-'Enter your question here': Digita qui il testo del tuo messaggio...
+'Enter your question here': Digita qui il tuo messaggio...
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Prima di contattare il tuo consulente, dacci qualche informazione.
@@ -167,8 +167,8 @@ Please fill message textarea: Compila il campo con il messaggio di testo
 Please fill firstname field: Compila il campo con il nome
 Please fill lastname field: Compila il campo con il cognome
 Please fill company field: Compila il campo con la società
-call audio: Chiamata vocale
-call video: Videochiamata
+call audio: Vocale
+call video: Video
 video suggestion: Accetta la chiamata vocale
 audio suggestion: Accetta la videochiamata
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: SIAMO QUI PER AIUTARTI!<br />CONSULENTE DELLE VENDITE LIVE.
