@@ -248,7 +248,7 @@ hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
 hangup_mess_2: The conversation is over.
 your_agent_hung_up: Your agent hung up
 you_hung_up: You hung up
-give_us_your_feedback: Would you like to give us your feedback ?
+give_us_your_feedback: Would you like to give us your feedback?
 back_to_chat: Back to chat
 send_and_quit: Send and quit
 back_to_feedback: Back to feedback
@@ -267,5 +267,5 @@ accept_cobrowsing: Accept co-browsing
 cobrowsing_session: I just opened a co-browsing session.
 deny_btn: Deny
 allow_btn: Allow
-label_grant: Can I control you webpage alongside you ?
+label_grant: Can I control your webpage alongside you?
 control: Control
