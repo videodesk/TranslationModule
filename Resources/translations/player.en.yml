@@ -261,10 +261,10 @@ maximize: Maximize
 reduce: Reduce
 
 
-cobrowsing_toolbar: Ongoing co-browsing session
-initiate_a_cobrowsing_session: Do you want to accept a cobrowsing session?
-accept_cobrowsing: Accept co-browsing
-cobrowsing_session: I just opened a co-browsing session.
+cobrowsing_toolbar: Ongoing co-browse session
+initiate_a_cobrowsing_session: Do you want to accept a cobrowse session?
+accept_cobrowsing: Accept co-browse
+cobrowsing_session: I just opened a co-browse session.
 deny_btn: Deny
 allow_btn: Allow
 label_grant: Can I control your webpage alongside you?
