@@ -262,3 +262,11 @@ reduce: Reduire
 
 initiate_a_cobrowsing_session: Voulez-vous démarrer la co-navigation ?
 accept_cobrowsing: Accepter la co-navigation
+cobrowsing_toolbar: Co-navigation en cours
+cobrowsing_session: Je viens d'ouvrir une co-navigation
+deny_btn: Refuser
+allow_btn: Accepter
+label_grant: M'autorisez-vous à prendre le contrôle de votre page web ?
+control: Contrôle
+
+tooltip_help_cobrowsing: Pendant la co-navigation, les conseillers ne peuvent voir que la page web sur laquelle vous êtes. Ils n'ont pas accès aux autres pages de votre navigateur et ne peuvent rien voir sur votre ordinateur.
