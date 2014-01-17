@@ -269,3 +269,5 @@ deny_btn: Deny
 allow_btn: Allow
 label_grant: Can I control your webpage alongside you?
 control: Control
+
+tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
