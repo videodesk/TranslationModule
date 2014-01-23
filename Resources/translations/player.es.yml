@@ -9,7 +9,7 @@
 'Discussion helpful ?': ¿Te ha parecido útil esta conversación?
 'Would you recommend this experience to your friends?': ¿Aconsejarías este servicio a tus amigos?
 'Any comments ?': Tus sugerencias:
-'chat_transcript': Recibir tu conversacion por Email. 
+'chat_transcript': Recibir tu conversación por Email. 
 'Webuser is typing': está escribiendo...
 'Type your text here': Escribe tu mensaje aquí
 'agent dont answer': El asesor no está disponible
@@ -199,13 +199,13 @@ Thank_you: Muchas Gracias
 click here to enlarge: Haz click para ampliar
 Your question: Su pregunta
 click_on: Hacer clic
-allow: Autorisar
+allow: Autorizar
 to_start_your_microphone: Para activar el micrófono
 to_start_your_webcam: Para activar la camera
 terms_of_use: 'Condiciones de uso '
 here: Haga clic
 webcam_blocked: Su camera no esta autorizada
-microphone_blocked: Su micrófono no esta autorizado click_to_unlock: Cliquez sur l'icône caméra pour l'autoriser Haga clic en la icono camera
+microphone_blocked: Su micrófono no esta autorizado 
 click_to_unlock: Haga clic en el icono de la cámara para activarla ahora
 reload_to_unlock: Reactualice su pagina para poner su camera disponible
 hangup: Colgar
