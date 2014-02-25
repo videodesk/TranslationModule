@@ -1,0 +1,272 @@
+'let a message': Atstāt ziņu
+'chat call': Chat call
+'audio call': Audio call
+'video call': Video call
+'information help': vairāk info
+'faq help': vairāk informācijas
+'Your discussion has ended': Saruna tika pabeigta.<br />Paldies!.
+'Please, rate this discussion': Mums ir svarīgs jūsu viedoklis.
+'Discussion helpful ?': Vai palīdzējām Jums?
+'Would you recommend this experience to your friends?': Vai jūs šo ieteiktu saviem draugiem?
+'Any comments ?': Komentāri? Ieteikumi?
+'chat_transcript': Saņemt čata tekstu uz epastu.
+'Webuser is typing': raksta...
+'Type your text here': Raksti te
+'agent dont answer': Neviena nav uz vietas
+'chat redirection': Čats
+'agent close communication': Pārstāvis beidza aizvēra sarunu
+'Deprecated version of Flash Chat only': Deprecated version of Flash.
+'i am currently unavailable': Atvainojiet, šobrīd esmu aizņemts, lūdzu, atstājiet man ziņu.
+'Your mail': Jūsu epasts
+'Or': Vai jūsu telefona numurs
+'Please type your message here': Raksti savu ziņu te
+'message field required': Aizpildiet teksta lauku
+'email or phone field required': Lūdzu, norādiet epastu vai telefona numuru
+'send': Sūta
+'not ready to switch': nav gatavs pārslēgties
+'will answer in a few seconds': pēc mirkļa atbildēs.
+'Email adress': Epasta adrese
+'Phone number': Telefona numurs
+'Phone': Telefona numurs
+'email invalide': Kļūdains epasts
+'Discutez en video' : Video zvans
+'Discutez en audio' : Balss zvans
+'Discutez en chat' : Čats
+'Laissez un message' : Atstāt ziņu
+'agent-accept-communication' : Saruna sākta
+'agent indisponible. redirection vers message': Šis operators ir aizņemts, jūs varat atstāt ziņu
+'webuser': Es
+'user flash crash': Problēmas ar video, lūdzu, izmantojiet čatu
+'message sent': Ziņa nosūtīta
+'cgv': Lietojot šo pakalpojumu jūs piekrītat <a href="http://www.videodesk.com/terms" target="_blank">Lietošanas noteikumiem</a> turpmāka pakalpojuma lietošana nozīmē piekrišanu arī noteikumu atjauninājumiem. Ja nepiekrītat šiem noteikumiem, tad, lūdzu, nelietojiet šo pakalpojumu.
+'You will can enter your text here': Savu tekstu jūs varēsiet ierakstīt šeit
+'Discussion with %site%': Saruna ar %site%
+'hello': Sveiki
+'videodesk team': videodesk komanda<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
+'new message from': Jauna ziņa 
+'message from videodesk module': Jauna ziņa no videodesk moduļa
+'message originally intended to': Ziņa nosūtīta uz:
+'Enter your question here': Raksti savu ziņu te...
+
+#CRM
+Please provide the details below and we will answer in a few seconds: Pirms uzsākam sarunu, lūdzu, uzrakstiet, par ko vēlaties runāt.
+firstname: Vārds
+lastname: Uzvārds
+email: Epasts
+phone: Telefona numurs
+company: Uzņēmums
+send: Sūtīt
+firstname required: Jānorāda vārds
+lastname required: Jānorāda uzvārds
+email required: jānorāda epasts
+email invalid: nederīgs epasts
+phone required: lūdzu, norādiet telefona numuru
+company required: lūdzu, norādiet uzņēmumu
+required: Obligātie lauki
+
+#survey
+bad: slikti
+poor: viduvēji
+regular: vidēji
+good: labi
+gorgeous: lieliski
+
+#module texts
+'Live Help': Palīdzība tiešsaitē
+'agent(s) available': pieejams (i)
+'Chat (video or text) for free with ecommerce experts': Sarunājies ar mūsu ekspertu (čats, balss zvans vai video zvans) par brīvu.
+'information help':   Tagad varat sazināties ar pieejamajiem pārstāvjeim. Jūs varat izvēlēties starp čatu, balss un video zvaniem - anonīmi un bez maksas. 
+'pending call text': Sveiki, Jūs vēlējāties sazināties ar mums. Operators ir pieejams uzreiz.
+'flash security panel': Uzspied uz "Atļaut" lai sarunātos.
+'Leave a text message': Atvainojiet, šobrīd nevaru atbildēt, lūdzu, atstājiet ziņu.
+
+#--------------FLASH PANEL-----------------
+#TMP MSG
+webcam_activated: My webcam is on
+webcam_desactivated: My webcam is off
+mic_activated: My microphone is on
+mic_desactivated: My microphone is muted
+vid_resumed: The video of your agent is resuming
+vid_stoped: The video of your agent is off
+#ROLL MSG
+activate_cam: Activate my webcam
+desactivate_cam: Disable my webcam
+activate_mic: Activate my microphone
+desactivate_mic: Mute my microphone
+stop_vid: Stop the video of the agent
+resume_vid: Resume the video of the agent
+activate_volume: Unmute the speakers
+desactivate_volume: Mute the speakers
+#WAITING MSG
+peerFailed: Sorry, we couldn't set up the call. You can text chat with your agent
+agentBusy: Sorry, the agent is already busy!
+waitRemote: Please wait, we are currently connecting you. This may take some time
+waitLocal: Waiting for your webcam to connect
+switchToAudio: Webcam disabled, we set up an audio connection
+ncFailed: Sorry, we couldn't set up the call. You can text chat with your agent
+#ATTENTION MSG
+userNoFMSConnection: Because of a network problem, we switch you to text chat.(#1)
+agentNoFMSConnection: Because of a network problem, we switch you to text chat.(#2)
+agentFlashCrashed: Because of a network problem, we switch you to text chat.(#4)
+userNoCamButMic: We did not detect your webcam. You must be equipped with a webcam in order to launch a video chat. We switch you to audio mode.(#5)
+userNiCamNiMic: We did not detect a webcam, or a microphone. You must be equipped with a webcam or a microphone, to be able to launch a video chat. We switch you to chat mode.(#6)
+agentNoCamButMic: The agent has no webcam. We switch you to audio chat.(#7)
+agentNiCamNiMic: The agent has no webcam and no microphone. We switch you in text chat.(#8)
+userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
+noPeerConnection: Because of a network problem, we switch you to text chat.(#11)
+userConnectionFailed: Because of a network problem, we switch you to text chat.(#11)
+agentConnectionFailed: Because of a network problem, we switch you to text chat.(#110)
+userNoMic: We did not detect any microphone. You must be equipped with a microphone to be able to launch an audio chat. We witch you to text chat.(#12)
+agentNoMic: The agent has no microphone, we switch you to text chat.(#13)
+userRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#15)
+agentRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#16)
+userNoSpeakers: We have not detected any audio output (speakers, headset...). You may not hear the agent you called. We suggest that you connect speakers or headsets to your computer. However, you can already chat with your agent via text.
+remote_audio_desactivated: The sound is muted
+remote_audio_activated: The sound is on
+click_allow_to_start: Click on "Allow" to start.
+
+#transcript mail
+Hi: Labdien,
+You reached: Jūs esat sazinājies ar
+We have to pleasure to send you the transcript of your discussion.: Jūsu pieprasītās sarunas teksta kopija ir redzams zemāk.
+We look forward to seeing you again on: Ar prieku Jums palīdzēsim arī turpmāk.
+Thank you for your visit: Paldies!
+videodesk team: Videodesk komanda
+transcript: Kopija.
+yours transcripts with: Your transcript with
+We can talk, you are seeing.: Varat runāt, Jūs esat redzams.
+We can talk, you are not seeing.: Varat runātm, Jūs neesat redzams.
+
+#REFACTOR
+type here: Rakstiet savu ziņu te...
+Do you want to close the discussion?: Vai jūs vēlaties beigt sarunu?
+Yes: Jā
+No: Nē
+send: Sūtīt
+your firstname: Vārds
+Please fill at least one of highlighted fields: Lūdzu, aizpildiet vismaz vienu no izceltajiem vārdiem
+your lastname: Uzvārds
+your company: Uzņēmums
+your email: Epasts
+your phone: Telefons
+your message: Ziņa
+Your conversation has ended.Thank you for contacting us!: <strong>Jūsu saruna ir pabeigta.</strong><br />Paldies, par sarunu!
+Recall this operator now: Atzvanīt šim operatoram!
+give us your feedback about the conversation: Padalieties ar savu viedokli <b>feedback</b><br/>par šo sarunu.
+has this dialog been helpful: Vai šī saruna bija noderīga?
+Would you recommend this experience to your facebook friends: Vai jūs šo ieteiktu citiem?
+Any comments or suggestions: Komentāri? Ieteikumi?
+Get a reccord of this conversation by e-mail: Saņemiet sarunas kopiju savā epastā.
+Please enter your e-mail address: Lūdzu ievadiet savu epasta adresi
+Please give a valid address: Lūdzu norādiet derīgu adresi
+The record has been successfully sent: Sarunas kopija veiksmīgi nosūtīta
+your message has been successfully sent. We Will contact you soon: Jūsu ziņa ir veiksmīgi nosūtīta.<br />Mēs ar Jums sazināsimies drīz.
+Please fill email field: Lūdzu ierakstiet epastu
+Please fill phone field: Lūdzu ierakstiet telefona numuru
+Please fill message textarea: Lūdzu ierakstiet ziņu
+Please fill firstname field: Lūdzu ierakstiet Vārdu
+Please fill lastname field: Lūdzu ierakstiet Uzvārdu
+Please fill company field: Lūdzu ierakstiet uzņēmumu
+call audio: Balss zvans
+call video: Video zvans
+video suggestion: Apstiprināt balss zvanu
+audio suggestion: Apstiprināt video zvanu
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: Mēs esam šeit, lai palīdzētu!<br />Tiešsaites palīgs.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: Mēs esam šeit, lai palīdzētu!!<br />Lūdzu atstājiet ziņu.
+GIVE US YOUR FEEDBACK! THANK YOU: Atstājiet savu atsauksmi!<br />PALDIES!
+
+#V1.2
+required field: Obligātie lauki
+message sent: Epasts nosūtīts
+Before contacting you operator: Pirms sarunas,<br/>lūdzu, pastāstiet par ko vēlaties runāt:
+No operator is available for the moment: Neviens no operatoriem šobrīd nav pieejams.
+Please leave me a message: Lūdzu atstājiet ziņu
+Please leave a message: Lūdzu atstājiet ziņu
+Do you Want to start an audio call with me: Vai Jūs vēlaties sākt balss zvanu?
+Do you Want to start a video call with me: Vai Jūs vēlaties sākt video zvanu?
+e-mail invalid: Nederīgs epasts
+close webpage cause end of the discussion: Lapas aizvēršana izbeidza sarunu
+survey sent: Aptauja nosūtīta
+Survey sent: Aptauja nosūtīta
+agent hangup: Pārstāvis beidza sarunu.
+agent unavailable: Šis operators nav pieejams.
+Agent deny call: Diemžēl operators nevar pieņemt Jūsu zvanu.
+Agent dont answer call: Diemžēl operators nevar atbildēt.
+Ongoing discussion: Notiekošā saruna
+Click here to enlarge: Lai palielinātu, spied te
+Give us your feedback: Uzraksti atsauksmi
+Thank_you: Paldies!
+click here to enlarge: Lai palielinātu, spied te
+Your question: Jūsu jautājums
+click_on: Spied
+allow: atļaut
+to_start_your_microphone: Lai ieslēgtu mikrafonu
+to_start_your_webcam: Lai ieslēgtu webkameru
+terms_of_use: 'Jūs varat izlasīt lietošanas noteikumus '
+here: 'šeit'
+webcam_blocked: Jūsu webcamera šobrīd ir bloķēta
+microphone_blocked: Jūsu mikrafons šobrīd ir bloķēts
+click_to_unlock: Spiediet uz kameras ikonas, lai to atbloķētu
+reload_to_unlock: Atjauniniet lapu (refresh), lai aktivizētu video zvanu
+hangup: Nolikt
+alternative_message_1: Atvainojiet, šis aģents nav pieejams.
+alternative_message_2: Paldies par sapratni.
+initiate_video_call: Vai Jūs vēlaties sākt video zvanu?
+initiate_audio_call: Vai Jūs vēlaties sākt balss zvanu?
+initiate_video_btn: Pieņemt video zvanu
+initiate_audio_btn: Pieņemt balss zvanu
+webuser_accept_audio_call: Jūs apstiprinājāt balss zvanu
+webuser_accept_video_call: Jūs apstiprinājāt video zvanu
+conversation_send: epasts nosūtīts
+email_empty: epasts ir tukšs
+email_invalid: nederīgs epasts
+
+# default values for new module
+grabber_advisor_1: Mēs esam šeit, lai palīdzētu!
+grabber_advisor_2: Tiešsaites palīgs
+grabber_message_1: Tiešsaites palīzība
+grabber_message_2: Atstāt ziņu
+invitation_baloon: "Sveiki! Kā es Jums varu palīzēt?"
+invitation_baloon_several_agents: "Sveiki! Pārstāvis ir pieejams un gatavs atbildēt uz Jūsu jautājumiem"
+leave_message_1: Atvainojiet, neviens operators nav pieejams.
+leave_message_2: Lūdzu atstājie ziņu!
+crm_txt_1: Kamēr mēs sazināmies ar operatoru, 
+crm_txt_2: lūdzu, ievadiet sekojošo:
+
+#new
+message_baloon: Sveiki, lūdzu, atstājiet ziņu un es ar Jums sazināšos!
+fall_back_window_default: Neviens pārstāvis nav pieejams, lūdzu, mēģiniet vēlāk
+back to list: Atpakaļ uz sarakstu
+denied_missed_call_msg: Atvainojiet, šobrīd nevaru pieņemt Jūsu zvanu, lūdzu, atstājiet ziņu.
+all_agent_msg_1: Atvainojiet, mūsu pārstāvji šobrīd nav pieejami!
+all_agent_msg_2: Lūdzu, atstājiet mums ziņu!
+agent-deny-call-media: 'Atvainojiet es vairs nevaru atvērt zvanu, lūdzu, turpinam čatā'
+fallback_default_msg: 'Mūsu pārstāvji šobrīd nav pieejami, lūdzu, mēģiniet vēlāk'
+
+#new FO v14
+hangup_mess_1: Atvainojiet, bet operators ir beidzis sarunu - šī ziņa netika nosūtīta.
+hangup_mess_2: Saruna ir pabeigta.
+your_agent_hung_up: Operators nolika
+you_hung_up: Jūs nolikāt
+give_us_your_feedback: Vai Jūs pievienosiet savu atsauksmi?
+back_to_chat: Atpakaļ uz čatu
+send_and_quit: Nosūtīt un beigt
+back_to_feedback: Atpakaļ uz atsauksmēm
+any_suggestions: Ir kādi ieteikumi?
+transcript_will_be_sent: Sarunas kopija tiks nosūtīta tiklīdz čats tiks aizvērts.
+transcript_sent: Kopija nosūtīta.
+phone_invalid: Nederīgs numurs
+shall_we_use_this_address: Vai izmantot šo adresi
+maximize: Palielināt
+reduce: Samazināt
+
+cobrowsing_toolbar: Notiek dalīšanās ar ekrānu
+initiate_a_cobrowsing_session: Vai Jūs vēlaties dalīties ar to, kas ir redzams Jūsu ekrānā?
+accept_cobrowsing: Dalīties
+cobrowsing_session: Dalīšanās sākta.
+deny_btn: Atcelt
+allow_btn: Atļaut
+label_grant: Vai atļausiet kontrolēt Jūsu atvērto lapu reizē ar Jums?
+control: Kontrolēt
+
+tooltip_help_cobrowsing: Ekrāna dalīšanas laikā pārstāvis var redzēt tikai to, kas ir lapā, ne Jūsu pārlūku, ne kādu citu atvērto cilni vai tajās esošo webadresi. Pārstāvis neko citu neredz uz Jūsu datora, kā tikai atvērto lapu.
