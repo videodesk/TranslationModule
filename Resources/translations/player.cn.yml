@@ -1,30 +1,30 @@
-'let a message': 留言
+'let a message': 请留言
 'chat call': 聊天通话
 'audio call': 音频呼叫
 'video call': 视频通话
-'information help': 更多信息
-'faq help': 更多信息
-'Your discussion has ended': 你的谈话已经结束。感谢您与我们联系。
-'Please, rate this discussion': 您的意见对我们非常重要
-'Discussion helpful ?': 有这个对话一直有帮助吗？
-'Would you recommend this experience to your friends?': 你会推荐这样的经历给你的朋友？
-'Any comments ?': 评论？建议？
-'chat_transcript': 通过电子邮件获取您的通话记录
-'Webuser is typing': 正在写...
-'Type your text here': 在这里输入您的文字
-'agent dont answer': 该代理不可用
-'chat redirection': 聊天通话
-'agent close communication': 代理结束通话
-'Deprecated version of Flash Chat only': 弃用版本的Flash
-'i am currently unavailable': 对不起，我目前无法使用。. 请留言
-'Your mail': 您的电子邮件
-'Or': 或您的电话号码
-'Please type your message here': 在这里输入您的文字
-'message field required': 请输入留言
-'email or phone field required': 必须电子邮件或电话
+'information help': 更多信息帮助
+'faq help': 常见问题解答
+'Your discussion has ended': 您的谈话已结束。感谢您与我们联系。
+'Please, rate this discussion': 请您对本次谈话提出宝贵的建议，谢谢您的参与！
+'Discussion helpful ?': 请问本次谈话对您有帮助吗？
+'Would you recommend this experience to your friends?': 您会将此次会话体验推荐给您的朋友们吗？
+'Any comments ?': 请问您对本次谈话有何意见？
+'chat_transcript': 您可以通过电子邮件获取您的通话记录
+'Webuser is typing': 对方正在输入中...
+'Type your text here': 请在这里输入您的文字
+'agent dont answer': 该代理暂时无应答，请留言，会尽快回复您
+'chat redirection': 文本会话
+'agent close communication': 该代理已结束通话
+'Deprecated version of Flash Chat only': 您的flash 版本已不能使用，建议更新
+'i am currently unavailable': 对不起，我当前不在线，请留言！
+'Your mail': 您填写您的电子邮件
+'Or your phone number ': 或您的电话号码
+'Please type your message here': 请在这里输入您的文字
+'message field required': 请留言
+'email or phone field required': 请填写您的电子邮件或电话号码 （必填）
 'send': 发送
 'not ready to switch': 尚未准备就绪
-'will answer in a few seconds': 将可在几秒钟
+'will answer in a few seconds': 会很快答复您
 'Email adress': 电子邮件地址
 'Phone number': 电话号码
 'Phone': 电话号码
@@ -32,95 +32,95 @@
 'Discutez en video' : 视频聊天
 'Discutez en audio' : 音频聊天
 'Discutez en chat' : 文字聊天
-'Laissez un message' : 留言
-'agent-accept-communication' : 接受通信
-'agent indisponible. redirection vers message': 您的代理不可用，你可以留言
+'Laissez un message' : 请留言
+'agent-accept-communication' : 您的代理已接受您的谈话邀请
+'agent indisponible. redirection vers message': 您的代理当前不在线上，请留言
 'webuser': 我
-'user flash crash': 您的视频软件有问题，请用文字聊天
-'message sent': 发送消息
-'cgv': 通过使用这项服务意味着您同意 <a href="http://www.videodesk.com/terms" target="_blank">条款和条件</a> videodesk公司和您继续使用本服务，表示您同意任何更新。如果您不同意这些条款和条件，请不要使用此服务
-'You will can enter your text here': 你可以在这里输入文字
+'user flash crash': 您的视频软件无法使用，请用文字聊天
+'message sent': 发送消息  或消息已成功发送
+'cgv': 如果您使用这项服务意味着您同意 <a href="http://www.videodesk.com/terms" target="_blank">条款和条件</a> videodesk如果公司和您继续使用本服务，表示您同意任何更新。如果您不同意这些条款和条件，请勿使用此服务
+'You will can enter your text here': 您可以在这里输入文字
 'Discussion with %site%': 谈话 %site%
-'hello': 你好
+'hello': 您好
 'videodesk team': Videodesk团队<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': 在网站上新信息
-'message from videodesk module': 从视频中台模块新信息
+'new message from': 网站新消息
+'message from videodesk module': 来自视频模块的新信息
 'message originally intended to': 消息发送到：
-'Enter your question here': 在这里输入您的信息...
+'Enter your question here': 请在这里输入您的信息或疑问...
 
 #CRM
-Please provide the details below and we will answer in a few seconds: 之前，联系您的代理，请给我们一些信息
+Please provide the details below and we will answer in a few seconds: 请填写以下信息，我们会尽快给您回复
 firstname: 名字
 lastname: 姓氏
-email: 电邮
+email: 电子邮件
 phone: 电话
 company: 公司
 send: 发送
 firstname required: 请填写名字
 lastname required: 请填写姓氏
-email required: 请填写电邮
+email required: 请填写电子邮件
 email invalid: 无效的电子邮件
 phone required: 请填写电话
 company required: 请填写公司名称
 required: 必须填写
 
-#survey
-bad: 坏
+#survey 客户信息反馈
+bad: 很差
 poor: 差
-regular: 定期
+regular: 一般
 good: 好
-gorgeous: 华丽
+gorgeous: 非常好
 
-#module texts
-'Live Help': 联系
-'agent(s) available': 空闲客服
-'Chat (video or text) for free with ecommerce experts': 与电子商务专家免费视频，音频，文本模式会话。
-'information help':   帮助信息
-'pending call text': 您好, 您想使用. 将马上为您接入服务
+#module texts 信息模块
+'Live Help': 在线帮助
+'agent(s) available': 在线客服
+'Chat (video or text) for free with ecommerce experts': 参与电子商务专家免费视频，音频，文本会话模式。
+'information help':   更多信息帮助
+'pending call text': 您好, 如果您想联系我们，客服 将马上为您接入服务。
 'flash security panel': 点击“同意”开始会话
-'Leave a text message': 很抱歉，我现在无法接听，请留言。
+'Leave a text message': 很抱歉，现在无法接听，请留言。
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: 我的网络摄像头已经开启
-webcam_desactivated: 我的网络摄像头已经关闭
-mic_activated: 我的话筒已经开启
-mic_desactivated: 我的话筒已经处于静音状态
-vid_resumed: 您客服的视频已经重新接通
-vid_stoped: 您客服的视频已经关闭
+webcam_activated: 网络摄像头已经开启
+webcam_desactivated: 网络摄像头已经关闭
+mic_activated: 话筒已经开启
+mic_desactivated: 话筒已经处于静音状态
+vid_resumed: 您的代理视频已经重新接通
+vid_stoped: 您的代理视频已经关闭
 #ROLL MSG
-activate_cam: 开启我的网络摄像头
-desactivate_cam: 关闭我的网络摄像头
-activate_mic: 开启我的话筒
-desactivate_mic: 关闭我的话筒
-stop_vid: 停止客服的视频
-resume_vid: 再次接通客服的视频
+activate_cam: 开启网络摄像头
+desactivate_cam: 关闭网络摄像头
+activate_mic: 开启话筒
+desactivate_mic: 关闭话筒
+stop_vid: 终止视频
+resume_vid: 再次接通代理的视频
 activate_volume: 开启扬声器
 desactivate_volume: 关闭扬声器
 #WAITING MSG
-peerFailed: 对不起，无法建立会话，您可以使用文本会话模式与客服交流
-agentBusy: 对不起，客服繁忙
+peerFailed: 对不起，无法建立会话，您可以使用文本会话模式与代理交流
+agentBusy: 对不起，客服繁忙中
 waitRemote: 请稍等，我们正在为您连接，这个过程需要一点时间
 waitLocal: 等待您的网络摄像头连接
-switchToAudio: 网络摄像头不可用，我们为您建立了音频会话模式
-ncFailed: 对不起，无法建立会话，您可以使用文本会话模式与客服交流
+switchToAudio: 对不起，网络摄像头不可用，我们为您建立了音频会话模式
+ncFailed: 对不起，无法建立会话，您可以使用文本会话模式与代理交流
 #ATTENTION MSG
-userNoFMSConnection: 由于网络问题，我们将您转入文本会话模式(#1)
-agentNoFMSConnection: 由于网络问题，我们将您转入文本会话模式(#2)
-agentFlashCrashed: 由于网络问题，我们将您转入文本会话模式(#4)
+userNoFMSConnection: 由于网络问题，我们将为您切换到文本会话模式(#1)
+agentNoFMSConnection: 由于网络问题，我们将切换到文本会话模式(#2)
+agentFlashCrashed: 由于网络问题，我们将为您切换为文本会话模式(#4)
 userNoCamButMic: 我们无法检测到您的网络摄像头，您必须配备网络摄像头才能开启视频会话。我们将为您切换到音频会话模式(#5)
-userNiCamNiMic: 我们无法检测到网络摄像头或者话筒，您必须配备网络摄像头或话筒才能开启视频(#6)
-agentNoCamButMic: 客服无网络摄像头，我们将为您切换到音频会话模式(#7)
-agentNiCamNiMic: 客服无网络摄像头或话筒，我们将为您切换到文本会话模式(#8)
+userNiCamNiMic: 我们无法检测到您的网络摄像头和话筒，您必须配备网络摄像头和话筒才能开启视频(#6)
+agentNoCamButMic: 代理无网络摄像头，我们将为您切换到音频会话模式(#7)
+agentNiCamNiMic: 代理无网络摄像头和话筒，我们将为您切换到文本会话模式(#8)
 userDenyFlash: 您拒绝连接到您的网络摄像头或话筒，我们将为您切换到文本会话模式(#9)
-noPeerConnection: 由于网络问题，我们将您转入文本会话模式(#11)
-userConnectionFailed: 由于网络问题，我们将您转入文本会话模式(#11)
-agentConnectionFailed: 由于网络问题，我们将您转入文本会话模式(#110)
+noPeerConnection: 由于网络问题，我们将为您切换到文本会话模式(#11)
+userConnectionFailed: 由于网络问题，我们将为您切换到文本会话模式(#11)
+agentConnectionFailed: 由于网络问题，我们将为您切换到文本会话模式(#110)
 userNoMic: 我们无法检测到话筒，您必须配备话筒从而开启音频会话。我们将为您切换到文本会话模式(#12)
 agentNoMic: 客服检测不到话筒，我们将为您切换到文本会话模式(#13)
 userRtmptConnection: 网络状态无法提供流畅的视频/音频会话，我们建议您使用文本会话模式。(#15)
 agentRtmptConnection: 网络状态无法提供流畅的视频/音频会话，我们建议您使用文本会话模式。(#16)
-userNoSpeakers: 我们没有发现任何音频输出（音箱，耳机等）。你可能不会听到你叫代理。我们建议您连接扬声器或耳机到您的计算机。但是，你已经可以与您的代理人通过文字聊天。
+userNoSpeakers: 我们没有发现任何音频输出（音箱，耳机等）。您可能听不到您代理的声音。我们建议您连接扬声器或耳机到您的计算机。但是，您已经可以与您的代理进行文字聊天了。
 remote_audio_desactivated: 静音状态
 remote_audio_activated: 声音开启
 click_allow_to_start: 点击"Allow"开始会话.
@@ -128,42 +128,42 @@ click_allow_to_start: 点击"Allow"开始会话.
 #transcript mail
 Hi: 您好,
 You reached: 您已经接通我们的服务
-We have to pleasure to send you the transcript of your discussion.: 很高兴发送给您您的会话记录
+We have to pleasure to send you the transcript of your discussion.: 很高兴为您发送您的会话记录
 We look forward to seeing you again on: 期待您的下次访问
 Thank you for your visit: 感谢您的访问
 videodesk team: Videodesk团队
 transcript: 文本,
 yours transcripts with: 您的文本
-We can talk, you are seeing.: 您可以说话，客服人员现在已经看到您了
-We can talk, you are not seeing.: 您可以说话，客服人员现在无法看到您
+We can talk, you are seeing.: 您可以开始和代理人员交谈了，代理人员能看到您
+We can talk, you are not seeing.: 您可以开始和代理人员交谈了，代理人员现在无法看到您
 
 #REFACTOR
-type here: 在这里输入您的信息
+type here: 请在这里输入您的信息
 Do you want to close the discussion?: 您打算结束会话吗?
 Yes: 是
-No: 不
+No: 否
 send: 发送
 your firstname: 名字
 Please fill at least one of highlighted fields: 请填写至少一个显示高亮的区域
 your lastname: 姓氏
 your company: 公司
-your email: 电邮
+your email: 电子邮件
 your phone: 电话
-your message: 信息
-Your conversation has ended.Thank you for contacting us!: 您的会话已结束，感谢联系我们。
-Recall this operator now: 再次呼叫此客服
-give us your feedback about the conversation: 关于此次会话，请告知您的反馈意见
+your message: 您的信息
+Your conversation has ended. Thank you for contacting us!: 您的会话已结束，感谢您联系我们。
+Recall this operator now: 再次呼叫此代理
+give us your feedback about the conversation: 关于此次会话，请填写您的反馈意见
 has this dialog been helpful: 您觉得此次会话有帮助吗？
 Would you recommend this experience to your facebook friends: 您会将此次会话体验推荐给您的朋友们吗？
-Any comments or suggestions: 评论？建议？
-Get a reccord of this conversation by e-mail: 通过电邮获得您的会话记录
+Any comments or suggestions: 您有什么意见或建议吗？
+Get a reccord of this conversation by e-mail: 您可以通过电子邮件获得您的会话记录
 Please enter your e-mail address: 请填写您的电邮地址
 Please give a valid address: 请提供有效地址
-The record has been successfully sent: 记录已经成功发送
+The record has been successfully sent: 记录已经发送成功
 your message has been successfully sent. We Will contact you soon: 您的信息已经成功发送，我们将尽快联系您
-Please fill email field: 请填写电邮
-Please fill phone field: 请填写电话
-Please fill message textarea: 请填写信息文本
+Please fill email field: 请填写电子邮件
+Please fill phone field: 请填写电话号码
+Please fill message text area: 请填写信息文本
 Please fill firstname field: 请填写名字
 Please fill lastname field: 请填写姓氏
 Please fill company field: 请填写公司名称
@@ -171,15 +171,15 @@ call audio: 音频呼叫
 call video: 视频呼叫
 video suggestion: 接受音频呼叫
 audio suggestion: 接受视频呼叫
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: 我们在这里竭诚为您服务，实时销售顾问
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: 我们在这里竭诚为您服务，提供实时销售顾问
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: 我们在这里竭诚为您服务，请留言
-GIVE US YOUR FEEDBACK! THANK YOU: 请告知您的反馈，非常感谢
+GIVE US YOUR FEEDBACK! THANK YOU: 请填写您的反馈，非常感谢！
 
 #V1.2
 required field: 必填项
-message sent: 电邮已发送
-Before contacting you operator: 在联系客服之前，请您提供一些信息
-No operator is available for the moment: 目前客服繁忙
+message sent: 电子邮件已发送
+Before contacting you operator: 在联系代理之前，请您提供一些信息
+No operator is available for the moment: 目前客服繁忙中
 Please leave me a message: 请留言
 Please leave a message: 请留言
 Do you Want to start an audio call with me: 您想开始音频会话吗?
@@ -188,15 +188,15 @@ e-mail invalid: 无效的电邮
 close webpage cause end of the discussion: 关闭网页将导致会话结束
 survey sent: 调查已发送
 Survey sent: 调查已发送
-agent hangup: 您的客服结束了会话
-agent unavailable: 您的客服现在繁忙
-Agent deny call: 您的客服不得不拒绝回答呼叫
-Agent dont answer call: 您的客服现在无法答复
-Ongoing discussion: 正在进行的会话
-Click here to enlarge: 点击变大
+agent hangup: 您的代理结束了会话
+agent unavailable: 您的代理现在繁忙中
+Agent deny call: 由于技术原因，您的代理不得不拒绝应答呼叫
+Agent dont answer call: 您的代理现在无法答复
+Ongoing discussion: 会话进行中
+Click here to enlarge: 请点击此处扩大窗口
 Give us your feedback: 请告诉我们您的反馈意见
-Thank_you: 谢谢
-click here to enlarge: 点击变大
+Thank_you: 谢谢您！
+click here to enlarge: 请点击此处扩大窗口
 Your question: 您的问题
 click_on: 点击 
 allow: 同意
@@ -206,10 +206,10 @@ terms_of_use: '您可以阅读使用条款 '
 here: '这里'
 webcam_blocked: 您的网络摄像头被锁定
 microphone_blocked: 您的话筒被锁定
-click_to_unlock: 现在请点击摄像头图标来启用
-reload_to_unlock: 请刷新您的网页使您的网络摄像头可用
+click_to_unlock: 请点击摄像头图标以启用
+reload_to_unlock: 请刷新您的网页以启用您的网络摄像头
 hangup: 挂断
-alternative_message_1: 抱歉，我们的客服繁忙
+alternative_message_1: 抱歉，我们的客服繁忙中
 alternative_message_2: 感谢您的理解
 initiate_video_call: 您想开始视频会话吗?
 initiate_audio_call: 您想开始音频会话吗?
@@ -217,43 +217,43 @@ initiate_video_btn: 接受视频呼叫
 initiate_audio_btn: 接受音频呼叫
 webuser_accept_audio_call: 您已经接受音频会话
 webuser_accept_video_call: 您已经接受视频会话
-conversation_send: 电邮已发送
-email_empty: 电邮空白
-email_invalid: 无效的电邮
+conversation_send: 电子邮件已发送
+email_empty: 清空电子邮件
+email_invalid: 无效的电子邮件
 
-# default values for new module
+# default values for new module 新模式的默认值
 grabber_advisor_1: 很高兴为您服务
 grabber_advisor_2: 实时销售顾问
 grabber_message_1: 在线帮助
 grabber_message_2: 留言
-invitation_baloon: 您好，请问有什么可以帮您？
-invitation_baloon_several_agents: 您好，有一位客服人员可以为您解答问题
-leave_message_1: 抱歉，客服繁忙
+invitation_baloon: 您好，请问我能为您做些什么？
+invitation_baloon_several_agents: 您好，有一位代理人员现在可以为您解答问题
+leave_message_1: 抱歉，代理繁忙中
 leave_message_2: 请留言
-crm_txt_1: 当我们联系您的客服人员 
+crm_txt_1: 当我们在联系您的代理人员的同时 
 crm_txt_2: 请填写下列内容
 
 #new
-message_baloon: 嗨，给我留言，我会和你联系了！
-fall_back_window_default: 我们的代理，现在无法使用，请稍后再试
+message_baloon: 您好，请给我留言，我会尽快和您联系！
+fall_back_window_default: 对不起，您的代理现在不在线，请稍后再试！
 back to list: 返回列表
-denied_missed_call_msg: 对不起，我不能接听您的电话。请给我留言！
-all_agent_msg_1: 对不起我们的代理不可用。
+denied_missed_call_msg: 对不起，暂时不能接听您的电话。请留言！
+all_agent_msg_1: 对不起,您的代理当前不在线上。
 all_agent_msg_2: 请给我们留言！
 agent-deny-call-media: 对不起，我不能再打开一个音频或视频呼叫，请通过文字聊天继续
-fallback_default_msg: 我们的代理不可用，现在，请稍后再试
+fallback_default_msg: 对不起，您的代理现在不在线，请稍后再试！
 
 #new FO v14
-hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
-hangup_mess_2: The conversation is over.
-your_agent_hung_up: Your agent hung up
-you_hung_up: You hung up
-give_us_your_feedback: Would you like to give us your feedback ?
-back_to_chat: Back to chat
-send_and_quit: Send and quit
-back_to_feedback: Back to feedback
-any_suggestions: Any suggestions?
-transcript_will_be_sent: A transcript will be sent once the chat is over.
-transcript_sent: Conversation has been sent.
-phone_invalid: Phone invalid
-shall_we_use_this_address: Shall we use this address
+hangup_messkuaduan_1: 对不起，由于网络原因，您的通话已中断。您的信息无法发送成功。
+hangup_mess_2: 会话已结束。
+your_agent_hung_up: 对不起，由于网络原因，您的通话已中断。
+you_hung_up: 您已挂断通话。
+give_us_your_feedback: 您能给我们一些此次通话的反馈吗？谢谢！
+back_to_chat: 返回到通话中
+send_and_quit: 发送信息，关闭窗口
+back_to_feedback: 返回信息反馈页面
+any_suggestions: 针对本次会谈， 您有建议或意见吗？
+transcript_will_be_sent:  会话一结束，会话文本记录就会发送到您的邮箱。
+transcript_sent: 通话文本已发送
+phone_invalid: 无效的电话号码
+shall_we_use_this_address: 请问您提供的这个电子邮件地址是否有效？

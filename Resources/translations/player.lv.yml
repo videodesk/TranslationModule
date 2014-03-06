@@ -144,7 +144,7 @@ Yes: Jā
 No: Nē
 send: Sūtīt
 your firstname: Vārds
-Please fill at least one of highlighted fields: Lūdzu, aizpildiet vismaz vienu no izceltajiem vārdiem
+Please fill at least one of highlighted fields: Lūdzu, aizpildiet vismaz vienu no atzīmētajiem laukiem
 your lastname: Uzvārds
 your company: Uzņēmums
 your email: Epasts
@@ -222,7 +222,7 @@ email_empty: epasts ir tukšs
 email_invalid: nederīgs epasts
 
 # default values for new module
-grabber_advisor_1: Mēs esam šeit, lai palīdzētu!
+grabber_advisor_1: Mēs esam šeit!
 grabber_advisor_2: Tiešsaites palīgs
 grabber_message_1: Tiešsaites palīzība
 grabber_message_2: Atstāt ziņu
