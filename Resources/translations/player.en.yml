@@ -270,3 +270,6 @@ label_grant: Can I control your webpage alongside you?
 control: Control
 
 tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
+
+user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
+agent_switch_to_audio_because_of_low_bw: Your customer's bandwidth appears to be too low to support video chat. You have been switched to voice chat.
