@@ -270,3 +270,5 @@ label_grant: Vai atļausiet kontrolēt Jūsu atvērto lapu reizē ar Jums?
 control: Kontrolēt
 
 tooltip_help_cobrowsing: Ekrāna dalīšanas laikā pārstāvis var redzēt tikai to, kas ir lapā, ne Jūsu pārlūku, ne kādu citu atvērto cilni vai tajās esošo webadresi. Pārstāvis neko citu neredz uz Jūsu datora, kā tikai atvērto lapu.
+
+user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.

@@ -257,3 +257,7 @@ transcript_will_be_sent: A transcript will be sent once the chat is over.
 transcript_sent: Conversation has been sent.
 phone_invalid: Phone invalid
 shall_we_use_this_address: Shall we use this address
+
+tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
+
+user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.

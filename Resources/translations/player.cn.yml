@@ -257,3 +257,7 @@ transcript_will_be_sent:  会话一结束，会话文本记录就会发送到您
 transcript_sent: 通话文本已发送
 phone_invalid: 无效的电话号码
 shall_we_use_this_address: 请问您提供的这个电子邮件地址是否有效？
+
+tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
+
+user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
