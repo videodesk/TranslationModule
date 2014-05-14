@@ -84,8 +84,8 @@ gorgeous: gorgeous
 #TMP MSG
 webcam_activated: My webcam is on
 webcam_desactivated: My webcam is off
-mic_activated: My microphone is on
-mic_desactivated: My microphone is muted
+mic_activated: My mic is on
+mic_desactivated: My mic is muted
 vid_resumed: The video of your agent is resuming
 vid_stoped: The video of your agent is off
 #ROLL MSG
