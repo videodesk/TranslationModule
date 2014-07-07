@@ -144,7 +144,7 @@ Yes: Ja
 No: Nein
 send: Senden
 your firstname: Vorname
-Please fill at least one of highlighted fields: Bitte füllen Sie mindestens eines der markierten Felder aus
+Please fill at least one of highlighted fields: Bitte fülle mindestens eines der Felder aus
 your lastname: Nachname
 your company: Firma
 your email: E-Mail
@@ -152,10 +152,10 @@ your phone: Telefonnummer
 your message: Nachricht
 Your conversation has ended.Thank you for contacting us!: <strong>Ihr Gespräch ist beendet.</strong><br /> Vielen Dank für die Kontaktaufnahme!
 Recall this operator now: Rufen Sie den Telefonisten jetzt noch einmal an!!
-give us your feedback about the conversation: Geben Sie uns Ihr <b>feedback</b> über dieses Gespräch
+give us your feedback about the conversation: Gib uns dein <b>feedback</b> über dieses Gespräch
 has this dialog been helpful: War dieses Gespräch hilfreich?
 Would you recommend this experience to your facebook friends: Würden Sie diese Erfahrung an Ihre Freunde weiterempfehlen?
-Any comments or suggestions: Kommentare? Vorschläge?
+Any comments or suggestions: Irgendwelche Verbesserungen?
 Get a reccord of this conversation by e-mail: Erhalten Sie eine Aufnahme Ihres Gesprächs per Email.
 Please enter your e-mail address: Bitte geben Sie Ihre Emailadresse an
 Please give a valid address: Bitte geben Sie eine gültige Adresse an
@@ -237,9 +237,9 @@ crm_txt_2: Bitte geben Sie die Details ein:
 fall_back_window_default: Unser Agent ist derzeit nicht verfügbar, bitte versuchen Sie es später
 back to list: Zurück zur Liste
 denied_missed_call_msg: Entschuldigung, ich kann nicht antworten. Bitte hinterlassen Sie mir eine Nachricht!
-message_baloon: Hallo, lassen Sie mir eine Nachricht und ich werde mich bei ihnen melden. 
-all_agent_msg_1: Es tut uns leid! Unser Reservierungsmanager ist gerade nicht verfügbar
-all_agent_msg_2: Bitte schreiben Sie uns eine Nachricht. 
+message_baloon: Hallo, lassen Sie mir eine Nachricht und ich werde mich bei ihnen melden.
+all_agent_msg_1: Wir sind leider offline.
+all_agent_msg_2: Bitte schreib uns eine Nachricht.
 agent-deny-call-media: 'Leider kann ich kein Audio- oder Video-Anruf mehr öffnen. Wir werden mit einem Text-Chat fortzusetzen.'
 fallback_default_msg: Unsere Agenten sind nicht sofort verfügbar. Bitte versuchen Sie weiter!
 
@@ -248,11 +248,11 @@ hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
 hangup_mess_2: The conversation is over.
 your_agent_hung_up: Your agent hung up
 you_hung_up: You hung up
-give_us_your_feedback: Would you like to give us your feedback ?
+give_us_your_feedback: Gib uns dein Feedback über dieses Gespräch ?
 back_to_chat: Back to chat
 send_and_quit: Send and quit
 back_to_feedback: Back to feedback
-any_suggestions: Any suggestions?
+any_suggestions: Irgendwelche Verbesserungen?
 transcript_will_be_sent: A transcript will be sent once the chat is over.
 transcript_sent: Conversation has been sent.
 phone_invalid: Phone invalid

@@ -11,7 +11,7 @@
 'Any comments ?': Vaše názory a komentáře.
 'chat_transcript': Pokud chcete obdržet historii zpráv, vyplňte svůj e-mail.
 'Webuser is typing': právě Vám píšeme...
-'Type your text here': Začněte psát zde
+'Type your text here': Zde začněte psát Vaši zprávu
 'agent dont answer': Váš asistent je nedostupný
 'chat redirection': zpráva
 'agent close communication': Váš asistent právě zavěsil.
@@ -19,10 +19,10 @@
 'i am currently unavailable': Jsem právě mimo dostupnost, zanechte mi prosím vzkaz. 
 'Your mail': Váš e-mail
 'Or': Nebo
-'Please type your message here': Začněte psát Vaši zprávu zde
+'Please type your message here': Zde začněte psát Vaši zprávu
 'message field required': požadována zpráva
 'email or phone field required': požadován e-mail, nebo telefon 
-'send': odeslat
+'send': Odeslat
 'not ready to switch': není připraven k přepnutí
 'will answer in a few seconds': odpoví Vám během chvilky 
 'Email adress': e-mail
