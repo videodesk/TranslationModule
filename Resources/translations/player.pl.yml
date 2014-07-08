@@ -109,7 +109,7 @@ userNoFMSConnection: Z powodu problemów z siecią, prosimy skorzystać z rozmow
 agentNoFMSConnection: Z powodu problemów z siecią, prosimy skorzystać z rozmowy tekstowej.(#2)
 agentFlashCrashed: Z powodu problemów z siecią, prosimy skorzystać z rozmowy tekstowej.(#4)
 userNoCamButMic: Nie wykryto kamery internetowej. Musisz posiadać kamerę aby uruchomić video rozmowę. Można przejść do trybu rozmowy audio.(#5)
-userNiCamNiMic:Nie wykryto kamery internetowej lub mikrofonu. Mususz posiadać kamerę oraz mikrofon aby uruchomić video rozmowę. Można przejść do trybu rozmowy tekstowej.(#6)
+userNiCamNiMic: Nie wykryto kamery internetowej lub mikrofonu. Mususz posiadać kamerę oraz mikrofon aby uruchomić video rozmowę. Można przejść do trybu rozmowy tekstowej.(#6)
 agentNoCamButMic: Konsultant nie posiada kamery. Można przejść do trybu rozmowy audio.(#7)
 agentNiCamNiMic: Konsultant nie posiada kamery ani mikrofonu. Można przejść do trybu rozmowy tekstowej.(#8)
 userDenyFlash: Odmówiono dostępu do kamery oraz mikrofonu. Można przejść do trybu rozmowy tekstowej.(#9)
