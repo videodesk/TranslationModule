@@ -276,3 +276,10 @@ user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to 
 
 # new
 transcript_subject_ms: Microsoft Store - Video chat transcript
+
+agent_txt: agent
+agents_txt: agents
+bar_txt: Live Customer Service
+welcome_balloon_txt: An agent is available now to answer your questions. Click Start video chat now to begin
+fallback_timeout_unavailble_txt: Videochat agent are unavailble
+fallback_timeout_calls_txt: Video chat agents are unavailble
