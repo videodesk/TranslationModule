@@ -272,3 +272,11 @@ control: Contrôle
 tooltip_help_cobrowsing: Pendant la co-navigation, les conseillers ne peuvent voir que la page web sur laquelle vous êtes. Ils n'ont pas accès aux autres pages de votre navigateur et ne peuvent rien voir sur votre ordinateur.
 
 user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
+
+
+
+
+
+### CALLCENTER  ###
+callcenter_1: Démarrer une conversation
+

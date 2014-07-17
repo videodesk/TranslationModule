@@ -277,6 +277,9 @@ user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to 
 # new
 transcript_subject_ms: Microsoft Store - Video chat transcript
 
+### CALLCENTER  ###
+callcenter_1: Start video chat now
+
 agent_txt: agent
 agents_txt: agents
 bar_txt: Live Customer Service
