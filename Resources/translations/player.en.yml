@@ -280,4 +280,10 @@ transcript_subject_ms: Microsoft Store - Video chat transcript
 
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: See the agent's webcam
-
+callcenter_1: Start video chat now
+agent_txt: agent
+agents_txt: agents
+bar_txt: Live Customer Service
+welcome_balloon_txt: An agent is available now to answer your questions. Click Start video chat now to begin
+fallback_timeout_unavailble_txt: Videochat agent are unavailble
+fallback_timeout_calls_txt: Video chat agents are unavailble

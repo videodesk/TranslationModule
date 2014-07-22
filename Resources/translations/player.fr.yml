@@ -275,5 +275,13 @@ user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to 
 
 
 
+
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: See the agent's webcam
+callcenter_1: Démarrer une conversation
+agent_txt: Conseiller
+agents_txt: Conseillers
+bar_txt: Service client en direct
+welcome_balloon_txt: Un conseiller est disponible pour répondre à vos questions. Cliquez sur 'Démarrer la conversation vidéo' pour commencer. Ne vous inquiétez pas, nos conseillers ne vous voient pas.
+fallback_timeout_unavailble_txt: Les conseillers du service client sont indisponibles.
+fallback_timeout_calls_txt: Les conseillers du service client sont indisponibles.
