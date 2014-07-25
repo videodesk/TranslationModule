@@ -277,11 +277,54 @@ user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to 
 
 
 #V16---------------------------------------------------------------------------
-See_the_agent_webcam: Voir la webcam du conseiller
+See_the_agent_webcam: Appel vidéo
 callcenter_1: Démarrer une conversation
 agent_txt: Conseiller
 agents_txt: Conseillers
 bar_txt: Service client en direct
-welcome_balloon_txt: Un conseiller est disponible pour répondre à vos questions. Cliquez sur 'Démarrer la conversation vidéo' pour commencer. Ne vous inquiétez pas, nos conseillers ne vous voient pas.
+welcome_balloon_txt: Un conseiller est disponible pour répondre à vos questions. Cliquez sur ‘‘Démarrer la conversation vidéo’’ pour commencer. Ne vous inquiétez pas, nos conseillers ne vous voient pas.
 fallback_timeout_unavailble_txt: Les conseillers du service client sont indisponibles.
 fallback_timeout_calls_txt: Les conseillers du service client sont indisponibles.
+
+The associate cant see you: Le conseiller ne peut pas vous voir.
+I will be with you in just a moment. Please wait while the video chat loads: Je serai disponible dans quelques instants. Merci de patienter pendant le chargement de la conversation vidéo.
+Are you sure you want to end this conversation?: Voulez-vous mettre fin à la discussion ?  
+Are you sure? This will end the conversation: Êtes-vous sûr?  Cela va fermer à la conversation.
+There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Nous avons détecté un problème avec votre connexion internet, la conversation en vidéo ne peut être maintenue. Cependant, nous pouvons continuer de parler et d'écrire.
+Before we get started,: Avant de commencer,
+to enable your microphone,: pour activer votre microphone,
+click the Share selected device button above: cliquez sur le bouton ‘‘Partager le périphérique sélectionné’’ ci-dessus.
+click the Allow button above: cliquez sur le bouton ‘‘Autoriser’’ ci-dessus.
+click the Allow once button below: cliquez sur le bouton ‘‘Autoriser’’ ci-dessous.
+You did not enable your microphone. I cant hear you but I can receive text messages.: Vous n’avez pas autoriser votre microphone. Je ne peux pas vous entendre mais je reçois vos messages écrits.
+The associate cannot see or hear you: Le conseiller ne peut ni vous voir ni vous entendre.
+Accept: Accepter
+Decline: Refuser
+File accepted: Fichier accepté
+File declined: Fichier refusé
+Can I co-browse our store with you?: Voulez-vous démarrer la co-navigation ?
+Allow: Autoriser
+Deny: Refuser
+Send and quit: Envoyer et quitter
+Survey sent: Sondage envoyé
+Click this button to turn on your microphone: Cliquez sur ce bouton pour activer votre microphone
+I turn on my microphone: J’ai activé mon microphone
+Sorry, but the agents did not answer in time.: Désolé, mais les conseillers n’ont pas répondu à temps.
+Sorry, an error occured and the conversation is over.: Désolé, une erreur est survenue entrainant la fin de la conversation.
+Unable to connect: Connexion impossible
+not here, leave a message: pas disponible, laissez un message.
+Your video chat has ended: Votre conversation vidéo est terminée.
+Your opinion matters to us: Votre avis nous intéresse.
+Thanks for chatting with us today. Want a copy of our conversation?: Merci de nous avoir contacter. Souhaitez-vous recevoir une copie de cette conversation ?
+Please enter a valid email address: Merci de renseigner une adresse email valide.
+Enter your email address: Renseigner votre adresse email.
+No thanks: Non merci
+Submit: Valider
+Transcript sent: Copie envoyée
+We are unable to connect you with an associate: Nous ne pouvons pas vous connecter avec un conseiller.
+Your email address: Votre adresse email
+Your phone number: Votre numéro de téléphone
+Your message here: Votre message ici
+Please enter a valid email address or a telephone number: Merci de renseigner une adresse email ou un numéro de téléphone valide.
+Message sent: Message envoyé
+Close: Fermer

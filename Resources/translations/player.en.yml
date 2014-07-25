@@ -279,7 +279,7 @@ transcript_subject_ms: Microsoft Store - Video chat transcript
 
 
 #V16---------------------------------------------------------------------------
-See_the_agent_webcam: See the agent's webcam
+See_the_agent_webcam: Video call
 callcenter_1: Start video chat now
 agent_txt: agent
 agents_txt: agents
@@ -287,3 +287,50 @@ bar_txt: Live Customer Service
 welcome_balloon_txt: An agent is available now to answer your questions. Click Start video chat now to begin
 fallback_timeout_unavailble_txt: Videochat agent are unavailble
 fallback_timeout_calls_txt: Video chat agents are unavailble
+
+
+‘‘Autoriser’’
+
+
+The associate cant see you: The associate can’t see you.
+I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
+Are you sure you want to end this conversation?: Are tou sure you to end this conversation?
+Are you sure? This will end the conversation: Are you sure? This will end the conversation
+There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: There is a problem with your Internet connection, video chat can’t be supported. However we are still able to talk and text.
+Before we get started,:  Before we get started,
+to enable your microphone,: to enable your microphone,
+click the Share selected device button above: click the ‘‘Share selected device’’ button above.
+click the Allow button above: click the ‘‘Allow’’ button above.
+click the Allow once button below: click the ‘‘Allow once’’ button below.
+You did not enable your microphone. I cant hear you but I can receive text messages.: You did not enable your microphone. I can’t hear you but I can receive your text messages.
+The associate cannot see or hear you: The associate can’t see or hear you.
+Accept: Accept
+Decline: Decline 
+File accepted: File accepted
+File declined: File declined
+Can I co-browse our store with you?: Can I co-browse our store with you?
+Allow: Allow
+Deny: Deny
+Send and quit: Send and quit
+Survey sent: Survey sent
+Click this button to turn on your microphone: Click this button to turn on your microphone
+I turn on my microphone: I turn on my microphone
+Sorry, but the agents did not answer in time.: Sorry, but the agents did not answer in time.
+Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
+Unable to connect: Unable to connect
+not here, leave a message: not here, leave a message
+Your video chat has ended: Your video chat has ended
+Your opinion matters to us: Your opinion matters to us
+Thanks for chatting with us today. Want a copy of our conversation?: Thanks for chatting with us today. Want a copy of our conversation?
+Please enter a valid email address: Please enter a valid email address.
+Enter your email address: Enter your email address
+No thanks: No thanks
+Submit: Submit
+Transcript sent: Transcript sent
+We are unable to connect you with an associate: We are unable to connect you with an associate
+Your email address: Your email address
+Your phone number: Your phone number
+Your message here: Your message here
+Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number
+Message sent: Message sent
+Close: Close
