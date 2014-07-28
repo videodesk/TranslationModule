@@ -288,8 +288,8 @@ welcome_balloon_txt: An agent is now available to answer your questions. Click S
 fallback_timeout_unavailble_txt: Videochat agents are unavailable
 fallback_timeout_calls_txt: Video chat agents are unavailable
 
-
-The associate cant see you: The associate can’t see you.
+The associate cannot see or hear you: The associate cannot see or hear you.
+The associate cant see you: The associate cannot see or hear you.
 I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
 Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
 Are you sure? This will end the conversation: Are you sure? This will end the conversation.
@@ -300,7 +300,7 @@ click the Share selected device button above: click the ‘‘Share selected dev
 click the Allow button above: click the ‘‘Allow’’ button above,
 click the Allow once button below: click the ‘‘Allow once’’ button below,
 You did not enable your microphone. I cant hear you but I can receive text messages.: You did not enable your microphone. I can’t hear you but I can receive your text messages.
-The associate cannot see or hear you: The associate can’t see or hear you.
+The associate cannot see or hear you: The associate cannot see or hear you.
 Accept: Accept
 Decline: Decline 
 File accepted: File accepted
