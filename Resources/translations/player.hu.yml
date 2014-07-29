@@ -1,263 +1,263 @@
-'let a message': Hagyj üzenetet
-'chat call': Chat hívás
-'audio call': Hanghívás
-'video call': Videóhívás
-'information help': további információ
-'faq help': további információ
-'Your discussion has ended': A beszélgetés véget ért. <br /> Köszönjük, hogy kapcsolatba lépett velünk.
-'Please, rate this discussion': Az Ön véleménye számít nekünk.
-'Discussion helpful ?': Hasznos volt ez a beszélgetés?
-'Would you recommend this experience to your friends?': Ajánlaná ezt a tapasztalatot a barátainak is?
-'Any comments ?': Hozzászólások? Javaslatok?
-'chat_transcript': Kap egy összefoglalót a beszélgetésrõl e-mailben.
-'Webuser is typing': ír ...
-'Type your text here': Írja be a szöveget!
-'agent dont answer': Az ügynök nem elérhetõ
-'chat redirection': Chat hívás
-'agent close communication': Az ügynök letette a telefont
-'Deprecated version of Flash Chat only': Elavult Flash verzió
-'i am currently unavailable': Sajnálom, jelenleg nem vagyok elérhetõ. Kérem, hagyjon üzenetet.
-'Your mail': Te e-mail címedet
-'Or': vagy a telefonszámodat
-'Please type your message here': Kérjük, írja be az üzenetet itt
-'message field required': Üzenet szükséges
-'email or phone field required': E-mail vagy telefon szükséges
-'send': Küld
-'not ready to switch': nem áll készen váltani
-'will answer in a few seconds': elérhetõ lesz néhány másodperc múlva.
-'Email adress': Email cím
-'Phone number': Telefonszám
-'Phone': Telefonszám
-'email invalide': Érvénytelen email cím
-'Discutez en video' : Videohívás
-'Discutez en audio' : Hanghívás
-'Discutez en chat' : Szöveges üzenet
-'Laissez un message' : Hagyj üzenetet
-'agent-accept-communication' : Elfogadott komunikáció
-'agent indisponible. redirection vers message': Az ügynök nem elérhetõ, hagyjon üzenetet
+'let a message': Hagyj Ã¼zenetet
+'chat call': Chat hÃ­vÃ¡s
+'audio call': HanghÃ­vÃ¡s
+'video call': VideÃ³hÃ­vÃ¡s
+'information help': tovÃ¡bbi informÃ¡ciÃ³
+'faq help': tovÃ¡bbi informÃ¡ciÃ³
+'Your discussion has ended': A beszÃ©lgetÃ©s vÃ©get Ã©rt. <br /> KÃ¶szÃ¶njÃ¼k, hogy kapcsolatba lÃ©pett velÃ¼nk.
+'Please, rate this discussion': Az Ã–n vÃ©lemÃ©nye szÃ¡mÃ­t nekÃ¼nk.
+'Discussion helpful ?': Hasznos volt ez a beszÃ©lgetÃ©s?
+'Would you recommend this experience to your friends?': AjÃ¡nlanÃ¡ ezt a tapasztalatot a barÃ¡tainak is?
+'Any comments ?': HozzÃ¡szÃ³lÃ¡sok? Javaslatok?
+'chat_transcript': Kap egy Ã¶sszefoglalÃ³t a beszÃ©lgetÃ©srÃµl e-mailben.
+'Webuser is typing': Ã­r ...
+'Type your text here': Ãrja be a szÃ¶veget!
+'agent dont answer': Az Ã¼gynÃ¶k nem elÃ©rhetÃµ
+'chat redirection': Chat hÃ­vÃ¡s
+'agent close communication': Az Ã¼gynÃ¶k letette a telefont
+'Deprecated version of Flash Chat only': Elavult Flash verziÃ³
+'i am currently unavailable': SajnÃ¡lom, jelenleg nem vagyok elÃ©rhetÃµ. KÃ©rem, hagyjon Ã¼zenetet.
+'Your mail': Te e-mail cÃ­medet
+'Or': vagy a telefonszÃ¡modat
+'Please type your message here': KÃ©rjÃ¼k, Ã­rja be az Ã¼zenetet itt
+'message field required': Ãœzenet szÃ¼ksÃ©ges
+'email or phone field required': E-mail vagy telefon szÃ¼ksÃ©ges
+'send': KÃ¼ld
+'not ready to switch': nem Ã¡ll kÃ©szen vÃ¡ltani
+'will answer in a few seconds': elÃ©rhetÃµ lesz nÃ©hÃ¡ny mÃ¡sodperc mÃºlva.
+'Email adress': Email cÃ­m
+'Phone number': TelefonszÃ¡m
+'Phone': TelefonszÃ¡m
+'email invalide': Ã‰rvÃ©nytelen email cÃ­m
+'Discutez en video' : VideohÃ­vÃ¡s
+'Discutez en audio' : HanghÃ­vÃ¡s
+'Discutez en chat' : SzÃ¶veges Ã¼zenet
+'Laissez un message' : Hagyj Ã¼zenetet
+'agent-accept-communication' : Elfogadott komunikÃ¡ciÃ³
+'agent indisponible. redirection vers message': Az Ã¼gynÃ¶k nem elÃ©rhetÃµ, hagyjon Ã¼zenetet
 'webuser': Nekem
-'user flash crash': A videó szoftver problémát jelez, használja szöveges chatet
-'message sent': Üzenet elküldve
-'cgv': Ezzel a szolgáltatással azt jelzi, hogy elfogadja az <a href="http://www.videodesk.com/terms" target="_blank"> feltételeit </ a> a Videodesk inc és a folyamatos használja ezt a szolgáltatásnak az eszközeit. Ön beleegyezik a frissítésekbe. Ha nem ért egyet ezekkel a feltételekkel, kérjük, ne használja ezt a szolgáltatást.
-'You will can enter your text here': Ön képes lesz arra, hogy szöveget adjon meg!
-'Discussion with %site%': Beszélgetés% site%
+'user flash crash': A videÃ³ szoftver problÃ©mÃ¡t jelez, hasznÃ¡lja szÃ¶veges chatet
+'message sent': Ãœzenet elkÃ¼ldve
+'cgv': Ezzel a szolgÃ¡ltatÃ¡ssal azt jelzi, hogy elfogadja az <a href="http://www.videodesk.com/terms" target="_blank"> feltÃ©teleit </ a> a Videodesk inc Ã©s a folyamatos hasznÃ¡lja ezt a szolgÃ¡ltatÃ¡snak az eszkÃ¶zeit. Ã–n beleegyezik a frissÃ­tÃ©sekbe. Ha nem Ã©rt egyet ezekkel a feltÃ©telekkel, kÃ©rjÃ¼k, ne hasznÃ¡lja ezt a szolgÃ¡ltatÃ¡st.
+'You will can enter your text here': Ã–n kÃ©pes lesz arra, hogy szÃ¶veget adjon meg!
+'Discussion with %site%': BeszÃ©lgetÃ©s% site%
 'hello': Hello
 'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': Új üzenet a honlapján
-'message from videodesk module': Új üzenet videodesk modulon
-'message originally intended to': Üzenet küldött:
-'Enter your question here': Írja be az üzenetet itt ...
+'new message from': Ãšj Ã¼zenet a honlapjÃ¡n
+'message from videodesk module': Ãšj Ã¼zenet videodesk modulon
+'message originally intended to': Ãœzenet kÃ¼ldÃ¶tt:
+'Enter your question here': Ãrja be az Ã¼zenetet itt ...
 
 #CRM
-Please provide the details below and we will answer in a few seconds: Mielõtt kapcsolatba lépne az ügynökkel, kérjük adjon meg néhány információt.
-firstname: Keresztnév 
-lastname: Vezetéknév
+Please provide the details below and we will answer in a few seconds: MielÃµtt kapcsolatba lÃ©pne az Ã¼gynÃ¶kkel, kÃ©rjÃ¼k adjon meg nÃ©hÃ¡ny informÃ¡ciÃ³t.
+firstname: KeresztnÃ©v 
+lastname: VezetÃ©knÃ©v
 email: Email
-phone: Telefonszám
-company: Cég
-send: Küld
-firstname required: Keresztnév szükséges
-lastname required: Vezetéknév szükséges
-email required: Email cím szükséges
-email invalid: Érvényes email cím
-phone required: Telefonszám szüksége
-company required: Cég szükséges
-required: Kötelezõ mezõ
+phone: TelefonszÃ¡m
+company: CÃ©g
+send: KÃ¼ld
+firstname required: KeresztnÃ©v szÃ¼ksÃ©ges
+lastname required: VezetÃ©knÃ©v szÃ¼ksÃ©ges
+email required: Email cÃ­m szÃ¼ksÃ©ges
+email invalid: Ã‰rvÃ©nyes email cÃ­m
+phone required: TelefonszÃ¡m szÃ¼ksÃ©ge
+company required: CÃ©g szÃ¼ksÃ©ges
+required: KÃ¶telezÃµ mezÃµ
 
 #survey
 bad: rossz
-poor: szegény
-regular: szabályos
-good: jó
-gorgeous: nagyszerû
+poor: szegÃ©ny
+regular: szabÃ¡lyos
+good: jÃ³
+gorgeous: nagyszerÃ»
 
 #module texts
-'Live Help': Online Segítség
-'agent(s) available': elérhetõ ügynök(ök)
-'Chat (video or text) for free with ecommerce experts': Beszélgetéseit (szöveg, hang, videó) ingyen fogadják szakembereink.
-'information help':   Most már cseveghet az elérhetõ ügynökökkel. Választhat a videó, hang vagy szöveges hívást. Azonnali, egyszerû, anonim és ingyenes.
-'pending call text': Helló, szeretne kapcsolatba lépni velünk. Az ügynök azonnal rendelkezésre állnak az Ön részére.
-'flash security panel': Kattintson a "Engedélyezem", hogy megvitassák .
-'Leave a text message': Sajnálom, jelenleg nem elérhetõ. Kérem, hagyjon üzenetet.
+'Live Help': Online SegÃ­tsÃ©g
+'agent(s) available': elÃ©rhetÃµ Ã¼gynÃ¶k(Ã¶k)
+'Chat (video or text) for free with ecommerce experts': BeszÃ©lgetÃ©seit (szÃ¶veg, hang, videÃ³) ingyen fogadjÃ¡k szakembereink.
+'information help':   Most mÃ¡r cseveghet az elÃ©rhetÃµ Ã¼gynÃ¶kÃ¶kkel. VÃ¡laszthat a videÃ³, hang vagy szÃ¶veges hÃ­vÃ¡st. Azonnali, egyszerÃ», anonim Ã©s ingyenes.
+'pending call text': HellÃ³, szeretne kapcsolatba lÃ©pni velÃ¼nk. Az Ã¼gynÃ¶k azonnal rendelkezÃ©sre Ã¡llnak az Ã–n rÃ©szÃ©re.
+'flash security panel': Kattintson a "EngedÃ©lyezem", hogy megvitassÃ¡k .
+'Leave a text message': SajnÃ¡lom, jelenleg nem elÃ©rhetÃµ. KÃ©rem, hagyjon Ã¼zenetet.
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
 webcam_activated: A webkamera bekapcsolva
 webcam_desactivated: A webkamera kikapcsolva
 mic_activated: A mikrofon bekapcsolva
-mic_desactivated: A mikrofon el van némítva
-vid_resumed: Folytassa a videót az ügynökkel
-vid_stoped: Az ügynök videója ki van kapcsolva
+mic_desactivated: A mikrofon el van nÃ©mÃ­tva
+vid_resumed: Folytassa a videÃ³t az Ã¼gynÃ¶kkel
+vid_stoped: Az Ã¼gynÃ¶k videÃ³ja ki van kapcsolva
 #ROLL MSG
-activate_cam: Webkamera aktiválása
-desactivate_cam: Webkamera letiltása
+activate_cam: Webkamera aktivÃ¡lÃ¡sa
+desactivate_cam: Webkamera letiltÃ¡sa
 activate_mic: Mikrofon be
-desactivate_mic: Mikrofon némítása
-stop_vid: Állítsa meg a videót az ügynökkel
-resume_vid: Folytassa a videót az ügynökkel
-activate_volume: Hangszórók némítása
-desactivate_volume: Hangszórók némítása
+desactivate_mic: Mikrofon nÃ©mÃ­tÃ¡sa
+stop_vid: ÃllÃ­tsa meg a videÃ³t az Ã¼gynÃ¶kkel
+resume_vid: Folytassa a videÃ³t az Ã¼gynÃ¶kkel
+activate_volume: HangszÃ³rÃ³k nÃ©mÃ­tÃ¡sa
+desactivate_volume: HangszÃ³rÃ³k nÃ©mÃ­tÃ¡sa
 #WAITING MSG
-peerFailed: Sajnos, nem tudtuk létrehozni a hívást. Folytassa szöveges hívással az ügynökkel.
-agentBusy: Sajnos, az ügynök már foglalt!
-waitRemote: Kérem várjon, amig befejezi. Ez eltarthat egy ideig
-waitLocal: Várakozás a webkamera csatlakozására
-switchToAudio: Webkamera tiltva, hozzanak létre egy hang kapcsolatot
-ncFailed: Sajnos, nem tudtuk létrehozni a hívást. Folytassa szöveges chat hívással az ügynökkel
+peerFailed: Sajnos, nem tudtuk lÃ©trehozni a hÃ­vÃ¡st. Folytassa szÃ¶veges hÃ­vÃ¡ssal az Ã¼gynÃ¶kkel.
+agentBusy: Sajnos, az Ã¼gynÃ¶k mÃ¡r foglalt!
+waitRemote: KÃ©rem vÃ¡rjon, amig befejezi. Ez eltarthat egy ideig
+waitLocal: VÃ¡rakozÃ¡s a webkamera csatlakozÃ¡sÃ¡ra
+switchToAudio: Webkamera tiltva, hozzanak lÃ©tre egy hang kapcsolatot
+ncFailed: Sajnos, nem tudtuk lÃ©trehozni a hÃ­vÃ¡st. Folytassa szÃ¶veges chat hÃ­vÃ¡ssal az Ã¼gynÃ¶kkel
 #ATTENTION MSG
-userNoFMSConnection: Mivel a hálózati probléma lépet fel, ezért a kapcsolót a szöveges chatre állítsd.(#1)
-agentNoFMSConnection: Mivel a hálózati probléma lépet fel, ezért a kapcsolót a szöveges chatre állítsd.(#2)
-agentFlashCrashed: Mivel a hálózati probléma lépet fel, ezért a kapcsolót a szöveges chatre állítsd.(#4)
-userNoCamButMic: Nem érzékeli a webkamerát. Be kell állítani a webkamerát, hogy elindítson egy video hívást. Ezért a kapcsolót, hanghívás üzemmódba állítsd.(#5)
-userNiCamNiMic: Nem érzékeli a webkamerát, vagy egy mikrofont. Be kell állítani a webkamerát, vagy a mikrofont, hogy képes legyen elindítani a video hívást. Azt kapcsolót, hogy beszélgetni tudjon.(#6)
-agentNoCamButMic: Az ügynök webkamerája nem elérhetõ. Ezért a kapcsolót, állítsd hang hívásra.(#7)
-agentNiCamNiMic: Az ügynök webkamerája és mikrofonja nem elérhetõ. Ezért állítsd a kapcsolót szöveges chatre.(#8)
-userDenyFlash: Még nem férhetnek hozzá a webkamerához és a mikrofonhoz. Ezért állítsd a kapcsolót szöveges chatre.(#9)
-noPeerConnection: Mivel a hálózati probléma lépet fel, ezért a kapcsolót a szöveges chatre állítsd.(#11)
-userConnectionFailed: Mivel a hálózati probléma lépet fel, ezért a kapcsolót a szöveges chatre állítsd.(#11)
-agentConnectionFailed: Mivel a hálózati probléma lépet fel, ezért a kapcsolót a szöveges chatre állítsd.(#110)
-userNoMic: Mi nem érzékelünk semmiféle mikrofont. Be kell szerelni egy mikrofont, hogy képes legyen elindítani egy audio chatet. Használja a szöveges chatet.(#12)
-agentNoMic: Az ügynök mikrofonja nem elérhetõ. Ezért állítsd a kapcsolót szöveges chatre .(#13)
-userRtmptConnection: A hálózat nem biztosít elegendõ video / audio minõséget, ezért ajánljuk szöveges chatet.(#15)
-agentRtmptConnection: A hálózat nem biztosít elegendõ video / audio minõséget, ezért ajánljuk szöveges chatet.(#16)
-userNoSpeakers: Még nem észlelt bármilyen audio kimenet (hangszóró, headset ...). Lehet, hogy nem hallja az ügynök a hívást. Javasoljuk, hogy csatlakoztasson hangszórót vagy fejhallgatót a számítógéphez. Azonban beszélgethet az ügynökkel szöveges chattel is.
-remote_audio_desactivated: A hang elnémítva
+userNoFMSConnection: Mivel a hÃ¡lÃ³zati problÃ©ma lÃ©pet fel, ezÃ©rt a kapcsolÃ³t a szÃ¶veges chatre Ã¡llÃ­tsd.(#1)
+agentNoFMSConnection: Mivel a hÃ¡lÃ³zati problÃ©ma lÃ©pet fel, ezÃ©rt a kapcsolÃ³t a szÃ¶veges chatre Ã¡llÃ­tsd.(#2)
+agentFlashCrashed: Mivel a hÃ¡lÃ³zati problÃ©ma lÃ©pet fel, ezÃ©rt a kapcsolÃ³t a szÃ¶veges chatre Ã¡llÃ­tsd.(#4)
+userNoCamButMic: Nem Ã©rzÃ©keli a webkamerÃ¡t. Be kell Ã¡llÃ­tani a webkamerÃ¡t, hogy elindÃ­tson egy video hÃ­vÃ¡st. EzÃ©rt a kapcsolÃ³t, hanghÃ­vÃ¡s Ã¼zemmÃ³dba Ã¡llÃ­tsd.(#5)
+userNiCamNiMic: Nem Ã©rzÃ©keli a webkamerÃ¡t, vagy egy mikrofont. Be kell Ã¡llÃ­tani a webkamerÃ¡t, vagy a mikrofont, hogy kÃ©pes legyen elindÃ­tani a video hÃ­vÃ¡st. Azt kapcsolÃ³t, hogy beszÃ©lgetni tudjon.(#6)
+agentNoCamButMic: Az Ã¼gynÃ¶k webkamerÃ¡ja nem elÃ©rhetÃµ. EzÃ©rt a kapcsolÃ³t, Ã¡llÃ­tsd hang hÃ­vÃ¡sra.(#7)
+agentNiCamNiMic: Az Ã¼gynÃ¶k webkamerÃ¡ja Ã©s mikrofonja nem elÃ©rhetÃµ. EzÃ©rt Ã¡llÃ­tsd a kapcsolÃ³t szÃ¶veges chatre.(#8)
+userDenyFlash: MÃ©g nem fÃ©rhetnek hozzÃ¡ a webkamerÃ¡hoz Ã©s a mikrofonhoz. EzÃ©rt Ã¡llÃ­tsd a kapcsolÃ³t szÃ¶veges chatre.(#9)
+noPeerConnection: Mivel a hÃ¡lÃ³zati problÃ©ma lÃ©pet fel, ezÃ©rt a kapcsolÃ³t a szÃ¶veges chatre Ã¡llÃ­tsd.(#11)
+userConnectionFailed: Mivel a hÃ¡lÃ³zati problÃ©ma lÃ©pet fel, ezÃ©rt a kapcsolÃ³t a szÃ¶veges chatre Ã¡llÃ­tsd.(#11)
+agentConnectionFailed: Mivel a hÃ¡lÃ³zati problÃ©ma lÃ©pet fel, ezÃ©rt a kapcsolÃ³t a szÃ¶veges chatre Ã¡llÃ­tsd.(#110)
+userNoMic: Mi nem Ã©rzÃ©kelÃ¼nk semmifÃ©le mikrofont. Be kell szerelni egy mikrofont, hogy kÃ©pes legyen elindÃ­tani egy audio chatet. HasznÃ¡lja a szÃ¶veges chatet.(#12)
+agentNoMic: Az Ã¼gynÃ¶k mikrofonja nem elÃ©rhetÃµ. EzÃ©rt Ã¡llÃ­tsd a kapcsolÃ³t szÃ¶veges chatre .(#13)
+userRtmptConnection: A hÃ¡lÃ³zat nem biztosÃ­t elegendÃµ video / audio minÃµsÃ©get, ezÃ©rt ajÃ¡nljuk szÃ¶veges chatet.(#15)
+agentRtmptConnection: A hÃ¡lÃ³zat nem biztosÃ­t elegendÃµ video / audio minÃµsÃ©get, ezÃ©rt ajÃ¡nljuk szÃ¶veges chatet.(#16)
+userNoSpeakers: MÃ©g nem Ã©szlelt bÃ¡rmilyen audio kimenet (hangszÃ³rÃ³, headset ...). Lehet, hogy nem hallja az Ã¼gynÃ¶k a hÃ­vÃ¡st. Javasoljuk, hogy csatlakoztasson hangszÃ³rÃ³t vagy fejhallgatÃ³t a szÃ¡mÃ­tÃ³gÃ©phez. Azonban beszÃ©lgethet az Ã¼gynÃ¶kkel szÃ¶veges chattel is.
+remote_audio_desactivated: A hang elnÃ©mÃ­tva
 remote_audio_activated: A hang bekapcsolva
-click_allow_to_start: Kattintson a "Allow" kezdéshez. 
+click_allow_to_start: Kattintson a "Allow" kezdÃ©shez. 
 
 #transcript mail
 Hi: Hello,
-You reached: Ön kapcsolatban van
-We have to pleasure to send you the transcript of your discussion.: Örömmel elküldjük Önnek a beszélgetésünk átiratát .
-We look forward to seeing you again on: Várjuk vissza a videodesk beszélgetésre.
-Thank you for your visit: Köszönöm.
+You reached: Ã–n kapcsolatban van
+We have to pleasure to send you the transcript of your discussion.: Ã–rÃ¶mmel elkÃ¼ldjÃ¼k Ã–nnek a beszÃ©lgetÃ©sÃ¼nk Ã¡tiratÃ¡t .
+We look forward to seeing you again on: VÃ¡rjuk vissza a videodesk beszÃ©lgetÃ©sre.
+Thank you for your visit: KÃ¶szÃ¶nÃ¶m.
 videodesk team: Videodesk team
 transcript: Transcript,
-yours transcripts with: A forgatókönyvét
-We can talk, you are seeing.: Ön tud beszélni úgy, hogy látja az ügynök.
-We can talk, you are not seeing.: Ön tud beszélni úgy, hogy az ügynök nem látja.
+yours transcripts with: A forgatÃ³kÃ¶nyvÃ©t
+We can talk, you are seeing.: Ã–n tud beszÃ©lni Ãºgy, hogy lÃ¡tja az Ã¼gynÃ¶k.
+We can talk, you are not seeing.: Ã–n tud beszÃ©lni Ãºgy, hogy az Ã¼gynÃ¶k nem lÃ¡tja.
 
 #REFACTOR
-type here: Írja be az üzenetet itt ...
-Do you want to close the discussion?: Szeretné, hogy lezárja a beszélgetést?
+type here: Ãrja be az Ã¼zenetet itt ...
+Do you want to close the discussion?: SzeretnÃ©, hogy lezÃ¡rja a beszÃ©lgetÃ©st?
 Yes: Igen
 No: Nem
-send: Küld
-your firstname: Keresztnév
-Please fill at least one of highlighted fields: Kérjük, töltse ki legalább az egyik kiemelt mezõt
-your lastname: Vezetéknév
-your company: Cégnév
+send: KÃ¼ld
+your firstname: KeresztnÃ©v
+Please fill at least one of highlighted fields: KÃ©rjÃ¼k, tÃ¶ltse ki legalÃ¡bb az egyik kiemelt mezÃµt
+your lastname: VezetÃ©knÃ©v
+your company: CÃ©gnÃ©v
 your email: Email
 your phone: Telefon
-your message: Üzenet
-Your conversation has ended.Thank you for contacting us!: <strong> beszélgetés lezárva. </ strong> <br /> Köszönjük, hogy kapcsolatba lépett velünk!
-Recall this operator now: Operátor visszahívása emlékeztetõ most!
-give us your feedback about the conversation: Várjuk  a <b> visszajelzését </ b> <br/> ennek a beszélgetésnek.
-has this dialog been helpful: Hasznos volt ez a beszélgetés?
-Would you recommend this experience to your facebook friends: Ajánlaná ezt a tapasztalatot a barátainak is?
-Any comments or suggestions: Hozzászólások? Javaslatok?
-Get a reccord of this conversation by e-mail: Kap egy rekordot a beszélgetésrõl e-mailben.
-Please enter your e-mail address: Kérem adja meg az email címét
-Please give a valid address: Kérjük, adja meg az érvényes címet
-The record has been successfully sent: A rekordot sikeresen elküldtük
-your message has been successfully sent. We Will contact you soon: Az üzenet sikeresen elküldve. <br /> Mi hamarosan felveszük a kapcsolatot Önnel.
-Please fill email field: Kérjük, töltse ki az email mezõt
-Please fill phone field: Kérjük, töltse ki az telefon mezõt
-Please fill message textarea: Kérjük töltse ki a szöveges üzenet
-Please fill firstname field: Kérjük, töltse ki a Keresztnév mezõt
-Please fill lastname field: Kérjük, töltse ki a Vezetéknév mezõt
-Please fill company field: Kérjük, töltse ki a cégnév mezõt
-call audio: Hanghívás
-call video: Videóhívás
-video suggestion: Hanghívás elfogadása
-audio suggestion: Videóhívás elfogadása
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: AZÉRT VAGYUNK ITT, HOGY SEGÍTSÜNK!  <br /> ÉLÕ ÉRTÉKESÍTÉSI TANÁCSADÓ.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: AZÉRT VAGYUNK ITT, HOGY SEGÍTSÜNK!  <br /> KÉREM HAGYJON ÜZENETET!
-GIVE US YOUR FEEDBACK! THANK YOU: VISSZAJELZÉS KÜLDÉS!<br />KÖSZÖNÖM!
+your message: Ãœzenet
+Your conversation has ended.Thank you for contacting us!: <strong> beszÃ©lgetÃ©s lezÃ¡rva. </ strong> <br /> KÃ¶szÃ¶njÃ¼k, hogy kapcsolatba lÃ©pett velÃ¼nk!
+Recall this operator now: OperÃ¡tor visszahÃ­vÃ¡sa emlÃ©keztetÃµ most!
+give us your feedback about the conversation: VÃ¡rjuk  a <b> visszajelzÃ©sÃ©t </ b> <br/> ennek a beszÃ©lgetÃ©snek.
+has this dialog been helpful: Hasznos volt ez a beszÃ©lgetÃ©s?
+Would you recommend this experience to your facebook friends: AjÃ¡nlanÃ¡ ezt a tapasztalatot a barÃ¡tainak is?
+Any comments or suggestions: HozzÃ¡szÃ³lÃ¡sok? Javaslatok?
+Get a reccord of this conversation by e-mail: Kap egy rekordot a beszÃ©lgetÃ©srÃµl e-mailben.
+Please enter your e-mail address: KÃ©rem adja meg az email cÃ­mÃ©t
+Please give a valid address: KÃ©rjÃ¼k, adja meg az Ã©rvÃ©nyes cÃ­met
+The record has been successfully sent: A rekordot sikeresen elkÃ¼ldtÃ¼k
+your message has been successfully sent. We Will contact you soon: Az Ã¼zenet sikeresen elkÃ¼ldve. <br /> Mi hamarosan felveszÃ¼k a kapcsolatot Ã–nnel.
+Please fill email field: KÃ©rjÃ¼k, tÃ¶ltse ki az email mezÃµt
+Please fill phone field: KÃ©rjÃ¼k, tÃ¶ltse ki az telefon mezÃµt
+Please fill message textarea: KÃ©rjÃ¼k tÃ¶ltse ki a szÃ¶veges Ã¼zenet
+Please fill firstname field: KÃ©rjÃ¼k, tÃ¶ltse ki a KeresztnÃ©v mezÃµt
+Please fill lastname field: KÃ©rjÃ¼k, tÃ¶ltse ki a VezetÃ©knÃ©v mezÃµt
+Please fill company field: KÃ©rjÃ¼k, tÃ¶ltse ki a cÃ©gnÃ©v mezÃµt
+call audio: HanghÃ­vÃ¡s
+call video: VideÃ³hÃ­vÃ¡s
+video suggestion: HanghÃ­vÃ¡s elfogadÃ¡sa
+audio suggestion: VideÃ³hÃ­vÃ¡s elfogadÃ¡sa
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: AZÃ‰RT VAGYUNK ITT, HOGY SEGÃTSÃœNK!  <br /> Ã‰LÃ• Ã‰RTÃ‰KESÃTÃ‰SI TANÃCSADÃ“.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: AZÃ‰RT VAGYUNK ITT, HOGY SEGÃTSÃœNK!  <br /> KÃ‰REM HAGYJON ÃœZENETET!
+GIVE US YOUR FEEDBACK! THANK YOU: VISSZAJELZÃ‰S KÃœLDÃ‰S!<br />KÃ–SZÃ–NÃ–M!
 
 #V1.2
-required field: Kötelezõ mezõ
-message sent: Email elküldve
-Before contacting you operator: Mielõtt felvenné a kapcsolatot a szolgáltatóval, <br/> adjon meg néhány információt:
-No operator is available for the moment: Nem áll pilanatnyilag operátor a rendelkezésre.
-Please leave me a message: Kérem, hagyjon üzenetet
-Please leave a message: Kérem, hagyjon üzenetet
-Do you Want to start an audio call with me: Szeretne hanghívást kezdeményezni velem? 
-Do you Want to start a video call with me: Szeretne videohívást kezdeményezni velem?
-e-mail invalid: Érvénytelen email
-close webpage cause end of the discussion: Bezárni a weboldalt a beszélgetés végén 
-survey sent: Felmérés küld
-Survey sent: Felmérés küld
-agent hangup: Az operátor befejezte a beszélgetést .
-agent unavailable: Az operátor nem elérhetõ.
-Agent deny call: Az operátornak sajnos vissza kellett utasítania a hívást .
-Agent dont answer call: Az operátor sajnos nem tudott válaszolni .
-Ongoing discussion: Folyamatban lévõ beszélgetés
-Click here to enlarge: Kattintson ide a nagyításhoz 
-Give us your feedback: Várjuk a visszajelzését 
-Thank_you: Köszönöm
-click here to enlarge: Kattintson a nagyításhoz
-Your question: Az Ön kérdése 
+required field: KÃ¶telezÃµ mezÃµ
+message sent: Email elkÃ¼ldve
+Before contacting you operator: MielÃµtt felvennÃ© a kapcsolatot a szolgÃ¡ltatÃ³val, <br/> adjon meg nÃ©hÃ¡ny informÃ¡ciÃ³t:
+No operator is available for the moment: Nem Ã¡ll pilanatnyilag operÃ¡tor a rendelkezÃ©sre.
+Please leave me a message: KÃ©rem, hagyjon Ã¼zenetet
+Please leave a message: KÃ©rem, hagyjon Ã¼zenetet
+Do you Want to start an audio call with me: Szeretne hanghÃ­vÃ¡st kezdemÃ©nyezni velem?
+Do you Want to start a video call with me: Szeretne videohÃ­vÃ¡st kezdemÃ©nyezni velem?
+e-mail invalid: Ã‰rvÃ©nytelen email
+close webpage cause end of the discussion: BezÃ¡rni a weboldalt a beszÃ©lgetÃ©s vÃ©gÃ©n
+survey sent: FelmÃ©rÃ©s kÃ¼ld
+Survey sent: FelmÃ©rÃ©s kÃ¼ld
+agent hangup: Az operÃ¡tor befejezte a beszÃ©lgetÃ©st .
+agent unavailable: Az operÃ¡tor nem elÃ©rhetÃµ.
+Agent deny call: Az operÃ¡tornak sajnos vissza kellett utasÃ­tania a hÃ­vÃ¡st .
+Agent dont answer call: Az operÃ¡tor sajnos nem tudott vÃ¡laszolni .
+Ongoing discussion: Folyamatban lÃ©vÃµ beszÃ©lgetÃ©s
+Click here to enlarge: Kattintson ide a nagyÃ­tÃ¡shoz 
+Give us your feedback: VÃ¡rjuk a visszajelzÃ©sÃ©t 
+Thank_you: KÃ¶szÃ¶nÃ¶m
+click here to enlarge: Kattintson a nagyÃ­tÃ¡shoz
+Your question: Az Ã–n kÃ©rdÃ©se 
 click_on: Kattints 
 allow: hogy
-to_start_your_microphone: Indítsa el a mikrofont 
-to_start_your_webcam: Indítsa el a webkamerát
-terms_of_use: "Elolvashatja a felhasználási feltételeket" 
+to_start_your_microphone: IndÃ­tsa el a mikrofont 
+to_start_your_webcam: IndÃ­tsa el a webkamerÃ¡t
+terms_of_use: "Elolvashatja a felhasznÃ¡lÃ¡si feltÃ©teleket" 
 here: 'itt'
 webcam_blocked: A webkamera jelenleg blokkolva 
 microphone_blocked: A mikrofon jelenleg blokkolva 
 click_to_unlock: Kattintson a kamera ikonra, hogy elinduljon most 
-reload_to_unlock: Frissítse az oldalt, hogy a webkamera elérhetõvé váljon
+reload_to_unlock: FrissÃ­tse az oldalt, hogy a webkamera elÃ©rhetÃµvÃ© vÃ¡ljon
 hangup: Tegye le 
-alternative_message_1: Sajnos, az ügynökeink nem elérhetõek.
-alternative_message_2: Köszönjük a megértést .
-initiate_video_call: Szeretné videóhívást kezdeményezni velem? 
-initiate_audio_call: Szeretné hanghívás kezdeményezezni velem? 
-initiate_video_btn: Elfogadom a videóhívást
-initiate_audio_btn: Elfogadom a hanghívást
-webuser_accept_audio_call: Elfogadta a hangbeszélgetést 
-webuser_accept_video_call: Elfogadta a videóbeszélgetést 
-conversation_send: emailt küld 
-email_empty: üres email
-email_invalid: érvénytelen email
+alternative_message_1: Sajnos, az Ã¼gynÃ¶keink nem elÃ©rhetÃµek.
+alternative_message_2: KÃ¶szÃ¶njÃ¼k a megÃ©rtÃ©st .
+initiate_video_call: SzeretnÃ© videÃ³hÃ­vÃ¡st kezdemÃ©nyezni velem? 
+initiate_audio_call: SzeretnÃ© hanghÃ­vÃ¡s kezdemÃ©nyezezni velem? 
+initiate_video_btn: Elfogadom a videÃ³hÃ­vÃ¡st
+initiate_audio_btn: Elfogadom a hanghÃ­vÃ¡st
+webuser_accept_audio_call: Elfogadta a hangbeszÃ©lgetÃ©st 
+webuser_accept_video_call: Elfogadta a videÃ³beszÃ©lgetÃ©st 
+conversation_send: emailt kÃ¼ld 
+email_empty: Ã¼res email
+email_invalid: Ã©rvÃ©nytelen email
 
 # default values for new module
-grabber_advisor_1: Azért vagyunk itt, hogy segítsünk! 
-grabber_advisor_2: Élõ értékesítési tanácsadók 
-grabber_message_1: Online Segítség
-grabber_message_2: Hagyj üzenetet 
-invitation_baloon: "Szia! \ Hogyan segíthetek?" 
-invitation_baloon_several_agents: "Szia! \ Az operátor már elérhetõ és válaszolunk a kérdéseidre" 
-leave_message_1: Sajnos, a mi ügynökeink nem elérhetõek. 
-leave_message_2: Kérem, hagyjon nekünk üzenetet! 
-crm_txt_1: Hogy kapcsolatba lépjen az ügynöke, 
-crm_txt_2: Kérjük, adja meg az alábbi:
+grabber_advisor_1: AzÃ©rt vagyunk itt, hogy segÃ­tsÃ¼nk! 
+grabber_advisor_2: Ã‰lÃµ Ã©rtÃ©kesÃ­tÃ©si tanÃ¡csadÃ³k 
+grabber_message_1: Online SegÃ­tsÃ©g
+grabber_message_2: Hagyj Ã¼zenetet 
+invitation_baloon: "Szia! \ Hogyan segÃ­thetek?" 
+invitation_baloon_several_agents: "Szia! \ Az operÃ¡tor mÃ¡r elÃ©rhetÃµ Ã©s vÃ¡laszolunk a kÃ©rdÃ©seidre" 
+leave_message_1: Sajnos, a mi Ã¼gynÃ¶keink nem elÃ©rhetÃµek. 
+leave_message_2: KÃ©rem, hagyjon nekÃ¼nk Ã¼zenetet! 
+crm_txt_1: Hogy kapcsolatba lÃ©pjen az Ã¼gynÃ¶ke, 
+crm_txt_2: KÃ©rjÃ¼k, adja meg az alÃ¡bbi:
 
 #new
-message_baloon: Szia, hagyj üzenetet, és felveszük a kapcsolatot veled! 
-fall_back_window_default: Az ügynök nem érhetõ el most, próbálkozzon késõbb 
-back to list: Vissza a listához 
-denied_missed_call_msg: Sajnálom, nem tudom fogadni a hívását. Kérem, hagyjon üzenetet! 
-all_agent_msg_1: Elnézést, ügynökeink nem elérhetõek. 
-all_agent_msg_2: Kérem, hagyjon nekünk üzenetet! 
-agent-deny-call-media: "Elnézést, de nem tudja megnyitni a hang vagy a videohívást már, kérem folytassa szöveges csevegéssel" 
-fallback_default_msg: "Az ügynökök nem elérhetõek, próbálja meg késõbb" 
+message_baloon: Szia, hagyj Ã¼zenetet, Ã©s felveszÃ¼k a kapcsolatot veled! 
+fall_back_window_default: Az Ã¼gynÃ¶k nem Ã©rhetÃµ el most, prÃ³bÃ¡lkozzon kÃ©sÃµbb 
+back to list: Vissza a listÃ¡hoz 
+denied_missed_call_msg: SajnÃ¡lom, nem tudom fogadni a hÃ­vÃ¡sÃ¡t. KÃ©rem, hagyjon Ã¼zenetet! 
+all_agent_msg_1: ElnÃ©zÃ©st, Ã¼gynÃ¶keink nem elÃ©rhetÃµek. 
+all_agent_msg_2: KÃ©rem, hagyjon nekÃ¼nk Ã¼zenetet! 
+agent-deny-call-media: "ElnÃ©zÃ©st, de nem tudja megnyitni a hang vagy a videohÃ­vÃ¡st mÃ¡r, kÃ©rem folytassa szÃ¶veges csevegÃ©ssel" 
+fallback_default_msg: "Az Ã¼gynÃ¶kÃ¶k nem elÃ©rhetÃµek, prÃ³bÃ¡lja meg kÃ©sÃµbb" 
 
 #new FO v14
-hangup_mess_1: Sajnálom, de az ügynök letette. Az üzenetet nem sikerült elküldeni .
-hangup_mess_2: A beszélgetésnek vége.
-your_agent_hung_up: Az ügynök letette 
+hangup_mess_1: SajnÃ¡lom, de az Ã¼gynÃ¶k letette. Az Ã¼zenetet nem sikerÃ¼lt elkÃ¼ldeni .
+hangup_mess_2: A beszÃ©lgetÃ©snek vÃ©ge.
+your_agent_hung_up: Az Ã¼gynÃ¶k letette 
 you_hung_up: Letetted
-give_us_your_feedback: Szeretnél nekünk visszajelzést küldeni? 
-back_to_chat: Vissza a beszélgetéshez
-send_and_quit: Küldés és kilépés
-back_to_feedback: Vissza a visszajelzéshez
+give_us_your_feedback: SzeretnÃ©l nekÃ¼nk visszajelzÃ©st kÃ¼ldeni? 
+back_to_chat: Vissza a beszÃ©lgetÃ©shez
+send_and_quit: KÃ¼ldÃ©s Ã©s kilÃ©pÃ©s
+back_to_feedback: Vissza a visszajelzÃ©shez
 any_suggestions: Valami javaslat? 
-transcript_will_be_sent: Kéziratot küld, ha a beszélgetésnek vége. 
-transcript_sent: Beszélgetés elküldve.
-phone_invalid: Telefon érvénytelen 
-shall_we_use_this_address: Mehetünk használja ezt a címet 
+transcript_will_be_sent: KÃ©ziratot kÃ¼ld, ha a beszÃ©lgetÃ©snek vÃ©ge. 
+transcript_sent: BeszÃ©lgetÃ©s elkÃ¼ldve.
+phone_invalid: Telefon Ã©rvÃ©nytelen 
+shall_we_use_this_address: MehetÃ¼nk hasznÃ¡lja ezt a cÃ­met 
 
-tooltip_help_cobrowsing: A társ-böngészés, az ügynök csak látja, mi van a weboldalon is, nem a böngészõ, sem más fület nyitott honlapján. Az ügynök nem lát mást a számítógépen.  
+tooltip_help_cobrowsing: A tÃ¡rs-bÃ¶ngÃ©szÃ©s, az Ã¼gynÃ¶k csak lÃ¡tja, mi van a weboldalon is, nem a bÃ¶ngÃ©szÃµ, sem mÃ¡s fÃ¼let nyitott honlapjÃ¡n. Az Ã¼gynÃ¶k nem lÃ¡t mÃ¡st a szÃ¡mÃ­tÃ³gÃ©pen.  
 
-user_switch_to_audio_because_of_low_bw: Úgy tünik, a sávszélesség  hogy túl alacsony ahhoz, hogy támogassa a videó chatet. Váltsunk inkább a hangos beszégetésre.
+user_switch_to_audio_because_of_low_bw: Ãšgy tÃ¼nik, a sÃ¡vszÃ©lessÃ©g  hogy tÃºl alacsony ahhoz, hogy tÃ¡mogassa a videÃ³ chatet. VÃ¡ltsunk inkÃ¡bb a hangos beszÃ©getÃ©sre.
