@@ -84,15 +84,15 @@ gorgeous: Excellent
 #TMP MSG
 webcam_activated: Ma webcam est activée
 webcam_desactivated: Ma webcam est désactivée
-mic_activated: Mon micro est activé
-mic_desactivated: Mon micro est désactivé
+mic_activated: Votre microphone est activé
+mic_desactivated: Votre microphone est désactivé
 vid_resumed: La vidéo du conseiller est activée
 vid_stoped: La vidéo du conseiller est désactivée
 #ROLL MSG
 activate_cam: Activer ma webcam
 desactivate_cam: Désactiver ma webcam
-activate_mic: Activer mon micro
-desactivate_mic: Désactiver mon micro
+activate_mic: Activer mon microphone
+desactivate_mic: Désactiver mon microphone
 stop_vid: Désactiver la vidéo du contact
 resum_vid: Activer la vidéo du contact
 activate_volume: Activer le son
@@ -328,3 +328,7 @@ Your message here: Votre message ici
 Please enter a valid email address or a telephone number: Merci de renseigner une adresse email ou un numéro de téléphone valide.
 Message sent: Message envoyé
 Close: Fermer
+
+slogan_txt: Nous sommes là !
+welcome_balloon_txt1: "Bonjour !\nJe suis disponible pour répondre à vos questions."
+welcome_balloon_txt2:  "Bonjour !\n Un conseiller est disponible pour répondre à vos questions."
