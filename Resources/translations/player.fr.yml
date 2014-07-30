@@ -82,8 +82,8 @@ gorgeous: Excellent
 
 #-----------------FLASH PANEL--------------------
 #TMP MSG
-webcam_activated: Ma webcam est activée
-webcam_desactivated: Ma webcam est désactivée
+webcam_activated: Votre webcam est activée
+webcam_desactivated: Votre webcam est désactivée
 mic_activated: Votre microphone est activé
 mic_desactivated: Votre microphone est désactivé
 vid_resumed: La vidéo du conseiller est activée
@@ -333,3 +333,5 @@ slogan_txt: Nous sommes là !
 welcome_balloon_txt1: "Bonjour !\nJe suis disponible pour répondre à vos questions."
 welcome_balloon_txt2:  "Bonjour !\n Un conseiller est disponible pour répondre à vos questions."
 The associate cannot see you but he hear you: Le conseiller ne peut pas vous voir mais il vous entend.
+I like to share a file with you: Je voudrais partager un fichier avec vous.
+Connecting: Connexion en cours
