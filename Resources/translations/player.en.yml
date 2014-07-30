@@ -315,7 +315,7 @@ I turn on my microphone: I will now switch on my microphone.
 Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
 Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
 Unable to connect: Unable to connect.
-not here, leave a message: not available. Leave a message.
+not here, leave a message: I am currently not available. Please leave a message.
 Your video chat has ended: Your video chat has ended.
 Your opinion matters to us: Your opinion matters to us.
 Thanks for chatting with us today. Want a copy of our conversation?: Thanks for chatting with us today. Do you want a copy of our conversation?
@@ -336,3 +336,4 @@ Close: Close
 slogan_txt: We are here to help!
 welcome_balloon_txt1: "Hi!\nHow can I help you?"
 welcome_balloon_txt2: "Hi!\nAn operator is available now to answer your questions"
+
