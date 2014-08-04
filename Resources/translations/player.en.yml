@@ -128,10 +128,9 @@ click_allow_to_start: Click on "Allow" to start.
 #transcript mail
 Hi: Hello,
 You reached: You have contacted
-We have to pleasure to send you the transcript of your discussion.: We have the pleasure to send you the transcript of your conversation below.
-Please find the entire conversation attached below.: Please find the entire conversation attached below.
-We look forward to seeing you again on: We are looking forward to hearing from you on videodesk.
-Thank you for your visit: Thank you.
+We have to pleasure to send you the transcript of your discussion.: Your recent chat with one of our agents is attached below.
+We look forward to seeing you again on: We hope to see you again, soon!
+Thank you for your visit: Thank you for your visit,
 videodesk team: The Videodesk team
 transcript: Transcript,
 yours transcripts with: Your transcript with
@@ -346,3 +345,6 @@ Play: Play
 Sound off: Sound off
 Sound on: Sound on
 My text chat conversation: My text chat conversation
+Please find the entire conversation attached below.: ''
+files push during the conversation: Files shared during the conversation.
+videos push during the conversation: Videos shared during the conversation.

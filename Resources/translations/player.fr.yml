@@ -129,7 +129,6 @@ click_allow_to_start: Cliquez sur "Autoriser" pour dialoguer
 Hi: Bonjour,
 You reached: Vous avez contacté 
 We have to pleasure to send you the transcript of your discussion.: Nous avons le plaisir de vous transmettre vos échanges durant le chat.
-Please find the entire conversation attached below.: Vous trouverez ci-dessous la totalité de votre conversation.
 We look forward to seeing you again on: Nous espérons vous revoir bientôt. 
 Thank you for your visit: En vous remerciant de votre visite.
 videodesk team: L'équipe videodesk.
@@ -342,3 +341,6 @@ Play: Lecture
 Sound off: Son désactivé
 Sound on: Son activé
 My text chat conversation: Votre conversation par texte chat.
+Please find the entire conversation attached below.: Vous trouverez ci-dessous la totalité de votre conversation.
+files push during the conversation: Fichers partagés durant la conversation
+videos push during the conversation: Vidéos partagées durant la conversation
