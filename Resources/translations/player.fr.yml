@@ -128,10 +128,11 @@ click_allow_to_start: Cliquez sur "Autoriser" pour dialoguer
 #transcript mail
 Hi: Bonjour,
 You reached: Vous avez contacté 
-We have to pleasure to send you the transcript of your discussion.: Nous avons le plaisir de vous transmettre ci-dessous vos échanges par tchat.
-We look forward to seeing you again on: Nous espérons vous revoir bientôt 
-Thank you for your visit: En vous remerciant de votre visite
-videodesk team: l'équipe VideoDesk
+We have to pleasure to send you the transcript of your discussion.: Nous avons le plaisir de vous transmettre vos échanges durant le chat.
+Please find the entire conversation attached below.: Vous trouverez ci-dessous la totalité de votre conversation.
+We look forward to seeing you again on: Nous espérons vous revoir bientôt. 
+Thank you for your visit: En vous remerciant de votre visite.
+videodesk team: L'équipe videodesk.
 transcript: Appel,
 yours transcripts with: Vos échanges avec
 We can talk, you are seeing.: Vous pouvez parler, le conseiller vous voit.
@@ -340,3 +341,4 @@ Pause: Pause
 Play: Lecture
 Sound off: Son désactivé
 Sound on: Son activé
+My text chat conversation: Votre conversation par texte chat.
