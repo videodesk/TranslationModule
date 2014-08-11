@@ -144,7 +144,7 @@ Yes: Ja
 No: Nee
 send: verzenden
 your firstname: Voornaam
-Please fill at least one of highlighted fields: Vul tenminste één van de aangegeven velden in
+Please fill at least one of highlighted fields: Verplicht veld.
 your lastname: Achternaam
 your company: Bedrijfsnaam
 your email: Email adres
@@ -179,9 +179,9 @@ GIVE US YOUR FEEDBACK! THANK YOU: Geef ons uw mening! Hartelijk dank
 required field: verplicht veld
 message sent: bericht verzonden
 Before contacting you operator: Voordat u de medewerker spreekt, vragen wij u om wat gegevens
-No operator is available for the moment: Op dit moment is er geen medewerker beschikbaar
-Please leave me a message: Laat een bericht achter
-Please leave a message: Laat een bericht achter
+No operator is available for the moment: Er is momenteel geen medewerker beschikbaar.
+Please leave me a message: Stuur ons een bericht.
+Please leave a message: Stuur ons een bericht.
 Do you Want to start an audio call with me: Wilt u een audio gesprek met mij starten?
 Do you Want to start a video call with me: Wilt u een video gesprek met mij starten?
 e-mail invalid: Ongeldig email adres
