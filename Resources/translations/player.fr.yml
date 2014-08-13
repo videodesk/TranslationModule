@@ -330,8 +330,8 @@ Message sent: Message envoyé
 Close: Fermer
 
 slogan_txt: Nous sommes là !
-welcome_balloon_txt1: "Bonjour !\nJe suis disponible pour répondre à vos questions."
-welcome_balloon_txt2:  "Bonjour !\n Un conseiller est disponible pour répondre à vos questions."
+welcome_balloon_txt1: "Pouvons-nous vous aider ?"
+welcome_balloon_txt2:  "Un conseiller est disponible pour répondre à vos questions."
 The associate cannot see you but he hear you: Le conseiller ne peut pas vous voir mais il vous entend.
 I like to share a file with you: Je voudrais partager un fichier avec vous.
 Connecting: Connexion en cours
