@@ -25,7 +25,7 @@
 'send': Enviar
 'not ready to switch': 'no preparado para cambiar'
 'will answer in a few seconds': 'estará disponible en unos segundos.'
-'Email adress': 'Dirección Email'
+'Email adress': ''
 'Phone number': 'Número de teléfono'
 'Phone': 'Número de teléfono'
 'email invalide': 'Dirección Email no válida'
@@ -252,7 +252,7 @@ give_us_your_feedback: Denos su opinión.
 back_to_chat: Volver a la conversación
 send_and_quit: Mandar y salir
 back_to_feedback: Volver
-any_suggestions: ¿Tiene sugestiones?
+any_suggestions: ¿Tiene sugerencias?
 transcript_will_be_sent: Mandaremos sus intercambios por email cuando acabare su conversación. 
 transcript_sent: Le hemos mandado su conversación.
 phone_invalid: Número de telefóno invalido 
@@ -268,51 +268,51 @@ See_the_agent_webcam: Llamada vídeo
 callcenter_1: Iniciar llamada vídeo
 agent_txt: Asesor
 agents_txt: Asesores
-bar_txt: Live Customer Service
-welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
-fallback_timeout_unavailble_txt: There are no available video chat agent.
-fallback_timeout_calls_txt: There are no available video chat agent.
+bar_txt: Atención al cliente directa
+welcome_balloon_txt: Un asesor está disponible para responder a sus preguntas. Click Start video chat now to begin.
+fallback_timeout_unavailble_txt: No hay asesor en vídeo chat disponible. 
+fallback_timeout_calls_txt: No hay asesor en vídeo chat disponible. 
 
-The associate cannot see or hear you: The agent cannot see or hear you.
-The associate cant see you: The agent cannot see or hear you.
-I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
-Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
-Are you sure? This will end the conversation: Are you sure? This will end the conversation.
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Your Internet connection does not support video chat. However we can still voice or text chat.
-Before we get started,:  Before we get started,
-to enable your microphone,: to enable your microphone.
-click the Share selected device button above: click on the ‘‘Share selected device’’ button above
-click the Allow button above: click on the ‘‘Allow’’ button above
-click the Allow once button below: click on the ‘‘Allow once’’ button below
-You did not enable your microphone. I cant hear you but I can receive text messages.: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-The associate cannot see or hear you: The agent cannot see or hear you.
-Accept: Accept
-Decline: Decline 
-File accepted: File accepted
-File declined: File declined
-Can I co-browse our store with you?: Can I co-browse our store with you?
-Allow: Allow
-Deny: Deny
-Send and quit: Send and quit
-Survey sent: Survey sent.
-Click this button to turn on your microphone: Click this button to turn on your microphone.
-I turn on my microphone: I will now switch on my microphone.
+The associate cannot see or hear you: El asesor no puede verte y oírte.
+The associate cant see you: El asesor no puede verte.
+I will be with you in just a moment. Please wait while the video chat loads: Estaré con usted en un momento. Por favor, espere mientras se carga el vídeo chat.
+Are you sure you want to end this conversation?: ¿Quiere terminar la conversacion?
+Are you sure? This will end the conversation: ¿Quiere terminar la conversacion?
+There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Su conexión a Internet no es compatible con el chat vídeo. Todavía podemos hablar o chatear. 
+Before we get started,: Antes de empezar,
+to enable your microphone,: para activar el micrófono.
+click the Share selected device button above: haga clic en el botón "Share selected device" arriba
+click the Allow button above: haga clic en el botón "Allow" arriba
+click the Allow once button below: haga clic en el botón ‘‘Allow once’’ abajo
+You did not enable your microphone. I cant hear you but I can receive text messages.: Usted no ha activado el micrófono. No puedo oírte pero puedo recibir tus mensajes en el chat.
+The associate cannot see or hear you: El asesor no puede ver ni oír. 
+Accept: Aceptar 
+Decline: Rechazar
+File accepted: Archivo aceptado 
+File declined: Archivo rechazado
+Can I co-browse our store with you?: ¿Puedo co-navegar con usted? 
+Allow: Permitir 
+Deny: Denegar 
+Send and quit: Enviar y salir
+Survey sent: Encuesta enviada. 
+Click this button to turn on your microphone: Haga clic en este botón para activar el micrófono. 
+I turn on my microphone: Ahora voy a activar el micrófono. 
 Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
 Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
 Unable to connect: Unable to connect.
-not here, leave a message: I am currently not available. Please leave a message.
-Your video chat has ended: Your video chat has ended.
-Your opinion matters to us: Your opinion matters to us.
-Thanks for chatting with us today. Want a copy of our conversation?: Thanks for chatting with us today. Do you want a copy of our conversation?
-Please enter a valid email address: Invalid email address.
-Enter your email address: Enter your email address.
-No thanks: No thanks
-Submit: Submit
-Transcript sent: Transcript sent
+not here, leave a message: Lo siento, en este momento no estoy disponible. Por favor, deja un mensaje.
+Your video chat has ended: ¡Se acabo la conversación!
+Your opinion matters to us: Tu opinión cuenta.
+Thanks for chatting with us today. Want a copy of our conversation?: ¡Gracias para su llamada! ¿Quieres recibir una copia de nuestra conversación?
+Please enter a valid email address: Dirección Email no válida
+Enter your email address: Dirección Email
+No thanks: No, gracias
+Submit: Enviar
+Transcript sent: Conversación enviada
 We are unable to connect you with an associate: We are unable to connect you to an agent.
-Your email address: Your email address
-Your phone number: Your phone number
-Your message here: Your message here
+Your email address: Su Email
+Your phone number: Su telefono
+Your message here: Dejar un mensaje
 Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
 Message sent: Message sent
 Close: Close
@@ -321,7 +321,7 @@ Close: Close
 slogan_txt: We are here to help!
 welcome_balloon_txt1: "How can I help you?"
 welcome_balloon_txt2: "An operator is available now to answer your questions"
-The associate cannot see you but he hear you: The agent cannot see you but he is able to hear you.
+The associate cannot see you but he hear you: El asesor no puede ver usted, pero él es capaz de escucharte.
 I like to share a file with you: I would like to share a file with you.
 Connecting: Connecting
 whats this: What's this?
@@ -329,7 +329,7 @@ Pause: Pause
 Play: Play
 Sound off: Sound off
 Sound on: Sound on
-My text chat conversation: My text chat conversation
+My text chat conversation: Mi conversación de chat
 My video chat conversation: My video chat conversation
 Please find the entire conversation attached below.: ''
 files push during the conversation: Files shared during the conversation.
