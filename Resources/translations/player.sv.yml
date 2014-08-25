@@ -257,7 +257,7 @@ transcript_sent: Konversation har skickats.
 phone_invalid: Telefon ogiltig
 shall_we_use_this_address: Ska vi använda denna adress
 
-tooltip_help_cobrowsing:Under bläddring tillsammans , kan vår agent bara se vad som finns på webbsidan själv, inte din webbläsare, eller någon annan flik som är öppen på din webbplats. Agenten ser aldrig något annat på din dator.
+tooltip_help_cobrowsing: Under bläddring tillsammans , kan vår agent bara se vad som finns på webbsidan själv, inte din webbläsare, eller någon annan flik som är öppen på din webbplats. Agenten ser aldrig något annat på din dator.
 
 user_switch_to_audio_because_of_low_bw: Din bandbredd verkar vara för låg för att stödja videochatt. Vi har bytt till röstchatt för att kunna betjäna dig bättre.
 
