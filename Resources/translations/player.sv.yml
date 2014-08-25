@@ -6,16 +6,16 @@
 'faq help': Hjälp
 'Your discussion has ended': Ditt samtal har avslutats<br />Tack för att du kontaktade oss.
 'Please, rate this discussion': Dina synpunkter är viktiga för oss.
-'Discussion helpful ?': Har denna konversation varit hjälpsam?
+'Discussion helpful ?': Har denna konversation varit till hjälp?
 'Would you recommend this experience to your friends?': Skulle du rekommendera denna erfarenhet till vänner?
 'Any comments ?': Kommentarer
-'chat_transcript': Skulle du vilja ha en mail på konversationen, lämna din E-postadress.
+'chat_transcript': Skulle du vilja ha ett mail på konversationen, lämna din E-postadress.
 'Webuser is typing': Skriver...
 'Type your text here': Skriv din text här...
 'agent dont answer': Din agent är inte online
-'chat redirection': Chat
+'chat redirection': Chatt
 'agent close communication': Agenten har lagt på.
-'Deprecated version of Flash Chat only': Tagen version av Flash Chat endast.
+'Deprecated version of Flash Chat only': Tagen version av Flash Chatt endast.
 'i am currently unavailable': Jag är för tillfället inte tillgänglig. Vänligen lämna ett meddelande.
 'Your mail': Din E-postadress
 'Or': Eller
@@ -29,14 +29,14 @@
 'Phone number': Telefonnummer
 'Phone': Telefon
 'email invalide': Oigiltig E-postadress
-'Discutez en video' : Video chat
-'Discutez en audio' : Ljud chat
-'Discutez en chat' : Text chat
+'Discutez en video' : Videochatt
+'Discutez en audio' : Ljudchatt
+'Discutez en chat' : Textchatt
 'Laissez un message' : Lämna ett meddelande
 'agent-accept-communication' : Kommunikationen accepterad
 'agent indisponible. redirection vers message': Agent otillgänglig, omdirigering till meddelande
 'webuser': Webb användare
-'user flash crash': Shockwave Flash har kraschat. Du är ansluten i text chat-läge
+'user flash crash': Shockwave Flash har kraschat. Du är ansluten i textchat-läge
 'message sent': Meddelande skickat
 'cgv': Din användning av denna tjänst innebär att du har accepterat <a href="http://www.videodesk.com/terms"> target Villkor </ a> för Videodesk inc och din fortsatta användning av denna tjänst innebär att du samtycker till eventuella uppdateringar. Om du inte håller med om dessa Villkor, snälla använd inte denna tjänst.
 'You will can enter your text here': Du kommer att kunna skriva in din text här
@@ -73,9 +73,9 @@ gorgeous: Superbra
 
 #module texts
 'Live Help': Kontakt
-'agent(s) available': Tillgängliga agent (er)
-'Chat (video or text) for free with ecommerce experts': Chat (video eller text)
-'information help':   Du kan nu chatta med tillgängliga agenter. Du kan välja mellan video, ljud eller text chat.
+'agent(s) available': Tillgänglig (a) agent (er)
+'Chat (video or text) for free with ecommerce experts': Chatt (video eller text)
+'information help':   Du kan nu chatta med tillgängliga agenter. Du kan välja mellan video, ljud eller textchatt.
 'pending call text': Hej, vill du kontakta. Begärd kontakt är omedelbart tillgänglig för dig.
 'flash security panel': Klicka på "Tillåt" för att diskutera
 'Leave a text message': Tyvärr, jag är för närvarande inte tillgänglig. Lämna gärna ett meddelande till mig.
@@ -92,7 +92,7 @@ vid_stoped: Videon på din agent är avstängd
 activate_cam: Aktivera min webbkamera
 desactivate_cam: Inaktivera min webbkamera
 activate_mic: Aktivera min mikrofonen
-desactivate_mic: Avaktivera min mikrofon
+desactivate_mic: Inaktivera min mikrofon
 stop_vid: Stoppa video med agenten
 resume_vid: Återuppta video med agenten
 activate_volume: Slå på högtalarna
@@ -103,21 +103,21 @@ agentBusy: Tyvärr, är agenten redan upptagen!
 waitRemote: Vänta, vi kopplar upp dig. Det kan ta lite tid
 waitLocal: Väntar på din webbkamera för att ansluta
 switchToAudio: Webbkamera inaktiverad,vi sätter upp en ljudanslutning
-ncFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan text chatta med din agent
+ncFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan textchatta med din agent
 #ATTENTION MSG
-userNoFMSConnection: På grund av ett nätverksproblem, växlar vi till text chat.(#1)
-agentNoFMSConnection: På grund av ett nätverksproblem, växlar vi till text chat.(#2)
-agentFlashCrashed: På grund av ett nätverksproblem, växlar vi till text chat.(#4)
+userNoFMSConnection: På grund av ett nätverksproblem, växlar vi till textchatt.(#1)
+agentNoFMSConnection: På grund av ett nätverksproblem, växlar vi till textchatt.(#2)
+agentFlashCrashed: På grund av ett nätverksproblem, växlar vi till textchatt.(#4)
 userNoCamButMic: Vi upptäckte inte din webbkamera. Du måste vara utrustad med en webbkamera för att starta en videochatt. Vi växlar dig till ljudläge.(#5)
-userNiCamNiMic: Vi kunde inte detektera en webbkamera eller mikrofon. Du måste vara utrustad med en webbkamera och mikrofon, för att kunna delta i en videochatt. Vi växlar dig till chatt läge.(#6)
+userNiCamNiMic: Vi kunde inte detektera en webbkamera eller mikrofon. Du måste vara utrustad med en webbkamera och mikrofon, för att kunna delta i en videochatt. Vi växlar dig till chattläge.(#6)
 agentNoCamButMic: Agenten har ingen webbkamera. Vi skiftar dig till ljudchatt.(#7)
 agentNiCamNiMic: Agenten har ingen webbkamera och ingen mikrofon. Vi skiftar dig till textchatt.(#8)
 userDenyFlash: Du nekades tillgång till din webbkamera och din mikrofon. Vi växlar dig till textchatt.(#9)
-noPeerConnection: På grund av ett nätverksproblem, skiftar vi dig till text chat.(#11)
-userConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till text chat.(#11)
-agentConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till text chat.(#110)
-userNoMic: Vi upptäckte inte någon mikrofon. Du måste vara utrustad med en mikrofon för att kunna utföra en ljudchatt. Vi växlar dig till text chat.(#12)
-agentNoMic: Agenten har ingen mikrofon, vi växlar dig till text chat.(#13)
+noPeerConnection: På grund av ett nätverksproblem, skiftar vi dig till textchatt.(#11)
+userConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till textchatt.(#11)
+agentConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till textchatt.(#110)
+userNoMic: Vi upptäckte inte någon mikrofon. Du måste vara utrustad med en mikrofon för att kunna utföra en ljudchatt. Vi växlar dig till textchatt.(#12)
+agentNoMic: Agenten har ingen mikrofon, vi växlar dig till textchatt.(#13)
 userRtmptConnection: Nätverket tillåter inte tillräckligt med video / ljud kvalitet, därför rekommenderar vi textchatt(#15)
 agentRtmptConnection: Nätverket tillåter inte tillräckligt med video / ljud kvalitet, därför rekommenderar vi textchatt(#16)
 userNoSpeakers: Vi har inte upptäckt någon ljudutgång (högtalare, hörlurar ...). Du kommer inte att kunna höra agenten du ringde. Vi föreslår att du ansluter högtalare eller headset till datorn. Men du kan redan prata med din agent via text.
@@ -161,15 +161,15 @@ Please give a valid address: Vänligen ge oss en giltig adress
 The record has been successfully sent: Inspelningen har skickats med lyckat resultat.
 your message has been successfully sent. We Will contact you soon: Ditt meddelande har skickats med lyckat resultat.<br />Vi kontaktar dig snart.
 Please fill email field: Vänligen fyll i E-post fält
-Please fill phone field: Vänligen fyll i telefonfält
+Please fill phone field: Vänligen fyll i Telefonfält
 Please fill message textarea: Vänligen fyll i meddelandetext textfältet
 Please fill firstname field: Vänligen fyll i förnamn fältet
 Please fill lastname field: Vänligen fyll i efternamn fältet
 Please fill company field: Vänligen fyll i företagets fältet
-call audio: Ljud Samtal
-call video: Video Samtal
-video suggestion: Video förslag
-audio suggestion: Ljud förslag
+call audio: Ljudsamtal
+call video: Videosamtal
+video suggestion: Videoförslag
+audio suggestion: Ljudförslag
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: VI ÄR HÄR FÖR ATT HJÄLPA!<br />LIVE FÖRSÄLJNINGS RÅDGIVARE.
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: VI ÄR HÄR FÖR ATT HJÄLPA!<br />VÄNLIGEN LÄMNA ETT MEDDELANDE.
 GIVE US YOUR FEEDBACK! THANK YOU: GE OSS DIN FEEDBACK!<br />TACK!
@@ -223,7 +223,7 @@ email_invalid: Ogiltig E-post
 # default values for new module
 grabber_advisor_1: Vi är här för att hjälpa!
 grabber_advisor_2: Live försäljnings rådgivare
-grabber_message_1: Online hjälp
+grabber_message_1: Onlinehjälp
 grabber_message_2: Lämna ett meddelande
 invitation_baloon: "Hej!\nHur kan Jag hjälpa dig?"
 invitation_baloon_several_agents: "Hej!\nEn operatör är tillgänglig nu för att svara på dina frågor"
@@ -267,8 +267,8 @@ user_switch_to_audio_because_of_low_bw: Din bandbredd verkar vara för låg för
 
 
 #V16---------------------------------------------------------------------------
-See_the_agent_webcam: Video samtal
-callcenter_1: Starta video chat
+See_the_agent_webcam: Videosamtal
+callcenter_1: Starta videochatt
 agent_txt: Agent
 agents_txt: Agenter
 bar_txt: Live Kundservice
@@ -332,8 +332,8 @@ Pause: Paus
 Play: Spela
 Sound off: Ljud av
 Sound on: Ljud på
-My text chat conversation: Min text chatt konversation
-My video chat conversation: Min video chatt konversation
+My text chat conversation: Min textchatt konversation
+My video chat conversation: Min videochatt konversation
 Please find the entire conversation attached below.: ''
 files push during the conversation: Filer som delats under samtalet.
 videos push during the conversation: Videor som har delats under samtalet.
