@@ -1,4 +1,4 @@
-'let a message': Låt ett meddelande
+'let a message': Lämna ett meddelande
 'chat call': Chat
 'audio call': Ljudsamtal
 'video call': Videosamtal
@@ -6,261 +6,260 @@
 'faq help': Hjälp
 'Your discussion has ended': Ditt samtal har avslutats<br />Tack för att du kontaktade oss.
 'Please, rate this discussion': Dina synpunkter är viktiga för oss.
-'Discussion helpful ?': Har denna dialog varit hjälpsam?
+'Discussion helpful ?': Har denna konversation varit hjälpsam?
 'Would you recommend this experience to your friends?': Skulle du rekommendera denna erfarenhet till vänner?
 'Any comments ?': Kommentarer
-'chat_transcript': Skulle du vilja ha en mail på konversationen, lämna din e-mail adress.
+'chat_transcript': Skulle du vilja ha en mail på konversationen, lämna din E-postadress.
 'Webuser is typing': Skriver...
 'Type your text here': Skriv din text här...
 'agent dont answer': Din agent är inte online
 'chat redirection': Chat
 'agent close communication': Agenten har lagt på.
-'Deprecated version of Flash Chat only': Deprecated version of Flash. 
+'Deprecated version of Flash Chat only': Tagen version av Flash Chat endast.
 'i am currently unavailable': Jag är för tillfället inte tillgänglig. Vänligen lämna ett meddelande.
-'Your mail': Din e-post
+'Your mail': Din E-postadress
 'Or': Eller
 'Please type your message here': Skriv ditt meddelande här
 'message field required': Meddelande krävs
-'email or phone field required': e-post eller telefon krävs
-'send': skicka
-'not ready to switch': inte redo att byta
-'will answer in a few seconds': är tillgänlig om en stund.
-'Email adress': e-post adress
+'email or phone field required': E-postadress eller telefon krävs
+'send': Skicka
+'not ready to switch': Inte redo att byta
+'will answer in a few seconds': Är tillgänlig om en stund.
+'Email adress': E-postadress
 'Phone number': Telefonnummer
-'Phone': Telefonnummer
-'email invalide': oigiltig e-post
+'Phone': Telefon
+'email invalide': Oigiltig E-postadress
 'Discutez en video' : Video chat
 'Discutez en audio' : Ljud chat
 'Discutez en chat' : Text chat
 'Laissez un message' : Lämna ett meddelande
 'agent-accept-communication' : Kommunikationen accepterad
 'agent indisponible. redirection vers message': Agent otillgänglig, omdirigering till meddelande
-'webuser': Jag
+'webuser': Webb användare
 'user flash crash': Shockwave Flash har kraschat. Du är ansluten i text chat-läge
 'message sent': Meddelande skickat
-'cgv': Din användning av denna tjänst innebär att du har accepterat <a href="http://www.videodesk.com/terms"> target Villkor </ a> av Videodesk inc och din fortsatta användning av denna tjänst innebär att du samtycker till eventuella uppdateringar. Om du inte håller med dessa Villkor, använd snälla inte denna tjänst.
+'cgv': Din användning av denna tjänst innebär att du har accepterat <a href="http://www.videodesk.com/terms"> target Villkor </ a> för Videodesk inc och din fortsatta användning av denna tjänst innebär att du samtycker till eventuella uppdateringar. Om du inte håller med om dessa Villkor, snälla använd inte denna tjänst.
 'You will can enter your text here': Du kommer att kunna skriva in din text här
 'Discussion with %site%': Diskussion med %site%
 'hello': Hej
 'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': Nytt meddelande på din sida.
+'new message from': Nytt meddelande från.
 'message from videodesk module': Nytt meddelande från videodesk modulen
 'message originally intended to': Meddelande skickas till:
 'Enter your question here': Skriv din fråga här
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Vänligen lämna era uppgifter nedan, så kontaktar vi er strax.
-firstname: Namn
+firstname: Förnamn
 lastname: Efternamn
-email: E-post
+email: E-postadress
 phone: Telefon
 company: Företag
 send: Skicka
-firstname required: Namn Krävs
+firstname required: Förnamn Krävs
 lastname required: Efternamn Krävs
-email required: E-post Krävs
-email invalid: E-post Ogiltigd
+email required: E-postadress Krävs
+email invalid: E-postadress Ogiltigd
 phone required: Telefon Krävs
 company required: Företag Krävs
-required: Krävs
+required: Obligatorisk
 
 #survey
 bad: Usel
 poor: Dålig
-regular: Ok
+regular: OK
 good: Bra
 gorgeous: Superbra
 
 #module texts
 'Live Help': Kontakt
-'agent(s) available': Tillgängliga agenter(s)
+'agent(s) available': Tillgängliga agent (er)
 'Chat (video or text) for free with ecommerce experts': Chat (video eller text)
 'information help':   Du kan nu chatta med tillgängliga agenter. Du kan välja mellan video, ljud eller text chat.
 'pending call text': Hej, vill du kontakta. Begärd kontakt är omedelbart tillgänglig för dig.
-'flash security panel': Klicka på "Allow/Tillåt" för att diskutera
+'flash security panel': Klicka på "Tillåt" för att diskutera
 'Leave a text message': Tyvärr, jag är för närvarande inte tillgänglig. Lämna gärna ett meddelande till mig.
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: My webcam is on
-webcam_desactivated: My webcam is off
-mic_activated: My microphone is on
-mic_desactivated: My microphone is muted
-vid_resumed: The video of your agent is resuming
-vid_stoped: The video of your agent is off
+webcam_activated: Min webbkamera är på
+webcam_desactivated: Min webbkamera är avstängd
+mic_activated: Min mikrofonen är på
+mic_desactivated: Min mikrofonen är avstängd
+vid_resumed: Videon på din agent återupptar
+vid_stoped: Videon på din agent är avstängd
 #ROLL MSG
-activate_cam: Activate my webcam
-desactivate_cam: Disable my webcam
-activate_mic: Activate my microphone
-desactivate_mic: Mute my microphone
-stop_vid: Stop the video of the agent
-resume_vid: Resume the video of the agent
-activate_volume: Unmute the speakers
-desactivate_volume: Mute the speakers
+activate_cam: Aktivera min webbkamera
+desactivate_cam: Inaktivera min webbkamera
+activate_mic: Aktivera min mikrofonen
+desactivate_mic: Avaktivera min mikrofon
+stop_vid: Stoppa video med agenten
+resume_vid: Återuppta video med agenten
+activate_volume: Slå på högtalarna
+desactivate_volume: Stäng av högtalarna
 #WAITING MSG
-peerFailed: Sorry, we couldn't set up the call. You can text chat with your agent
-agentBusy: Sorry, the agent is already busy!
-waitRemote: Please wait, we are currently connecting you. This may take some time
-waitLocal: Waiting for your webcam to connect
-switchToAudio: Webcam disabled, we set up an audio connection
-ncFailed: Sorry, we couldn't set up the call. You can text chat with your agent
+peerFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan text chatta med din agent
+agentBusy: Tyvärr, är agenten redan upptagen!
+waitRemote: Vänta, vi kopplar upp dig. Det kan ta lite tid
+waitLocal: Väntar på din webbkamera för att ansluta
+switchToAudio: Webbkamera inaktiverad,vi sätter upp en ljudanslutning
+ncFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan text chatta med din agent
 #ATTENTION MSG
-userNoFMSConnection: Because of a network problem, we switch you to text chat.(#1)
-agentNoFMSConnection: Because of a network problem, we switch you to text chat.(#2)
-agentFlashCrashed: Because of a network problem, we switch you to text chat.(#4)
-userNoCamButMic: We did not detect your webcam. You must be equipped with a webcam in order to launch a video chat. We switch you to audio mode.(#5)
-userNiCamNiMic: We did not detect a webcam, or a microphone. You must be equipped with a webcam or a microphone, to be able to launch a video chat. We switch you to chat mode.(#6)
-agentNoCamButMic: The agent has no webcam. We switch you to audio chat.(#7)
-agentNiCamNiMic: The agent has no webcam and no microphone. We switch you in text chat.(#8)
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
-noPeerConnection: Because of a network problem, we switch you to text chat.(#11)
-userConnectionFailed: Because of a network problem, we switch you to text chat.(#11)
-agentConnectionFailed: Because of a network problem, we switch you to text chat.(#110)
-userNoMic: We did not detect any microphone. You must be equipped with a microphone to be able to launch an audio chat. We witch you to text chat.(#12)
-agentNoMic: The agent has no microphone, we switch you to text chat.(#13)
-userRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#15)
-agentRtmptConnection: The network does not allow sufficient video/audio quality, therefore we recommend text chat(#16)
-userNoSpeakers: We have not detected any audio output (speakers, headset...). You may not hear the agent you called. We suggest that you connect speakers or headsets to your computer. However, you can already chat with your agent via text.
-remote_audio_desactivated: The sound is muted
-remote_audio_activated: The sound is on
-click_allow_to_start: Click on "Allow" to start.
+userNoFMSConnection: På grund av ett nätverksproblem, växlar vi till text chat.(#1)
+agentNoFMSConnection: På grund av ett nätverksproblem, växlar vi till text chat.(#2)
+agentFlashCrashed: På grund av ett nätverksproblem, växlar vi till text chat.(#4)
+userNoCamButMic: Vi upptäckte inte din webbkamera. Du måste vara utrustad med en webbkamera för att starta en videochatt. Vi växlar dig till ljudläge.(#5)
+userNiCamNiMic: Vi kunde inte detektera en webbkamera eller mikrofon. Du måste vara utrustad med en webbkamera och mikrofon, för att kunna delta i en videochatt. Vi växlar dig till chatt läge.(#6)
+agentNoCamButMic: Agenten har ingen webbkamera. Vi skiftar dig till ljudchatt.(#7)
+agentNiCamNiMic: Agenten har ingen webbkamera och ingen mikrofon. Vi skiftar dig till textchatt.(#8)
+userDenyFlash: Du nekades tillgång till din webbkamera och din mikrofon. Vi växlar dig till textchatt.(#9)
+noPeerConnection: På grund av ett nätverksproblem, skiftar vi dig till text chat.(#11)
+userConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till text chat.(#11)
+agentConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till text chat.(#110)
+userNoMic: Vi upptäckte inte någon mikrofon. Du måste vara utrustad med en mikrofon för att kunna utföra en ljudchatt. Vi växlar dig till text chat.(#12)
+agentNoMic: Agenten har ingen mikrofon, vi växlar dig till text chat.(#13)
+userRtmptConnection: Nätverket tillåter inte tillräckligt med video / ljud kvalitet, därför rekommenderar vi textchatt(#15)
+agentRtmptConnection: Nätverket tillåter inte tillräckligt med video / ljud kvalitet, därför rekommenderar vi textchatt(#16)
+userNoSpeakers: Vi har inte upptäckt någon ljudutgång (högtalare, hörlurar ...). Du kommer inte att kunna höra agenten du ringde. Vi föreslår att du ansluter högtalare eller headset till datorn. Men du kan redan prata med din agent via text.
+remote_audio_desactivated: Ljudet är avstängt
+remote_audio_activated: Ljudet är på
+click_allow_to_start: Klicka på "Tillåt" för att starta.
 
 #transcript mail
-Hi: Ahoj,
-You reached: môžete kontaktovať
-We have to pleasure to send you the transcript of your discussion.: Máme radosť, aby vám poslal prepis vašej diskusie.
-We look forward to seeing you again on: Tešíme sa na stretnutie s Vami opäť
-Thank you for your visit: Ďakujeme za Vašu návštevu.
-videodesk team: Tím Videodesk
-transcript: Prepis,
-yours transcripts with: Váš prepis s
-We can talk, you are seeing.: Môžeme hovoriť, vidíte.
-We can talk, you are not seeing.: Môžeme hovoriť, nie ste vidieť.
+Hi: Hej,
+You reached: Du har nått:
+We have to pleasure to send you the transcript of your discussion.: Vi har nöjet att skicka dig en utskrift av er konversation.:
+Thank you for your visit: Tack för ditt besök.
+videodesk team: Videodesk teamet:
+transcript: Synpunkter:
+yours transcripts with: Dina synpunkter med:
+We can talk, you are seeing.: Vi kan prata, du ser inte.:
+We can talk, you are not seeing.:Vi kan prata, du ser inte .:
 
 #REFACTOR
-type here: Type your message here...
-Do you want to close the discussion?: Do you want to close the discussion?
-Yes: Yes
-No: No
-send: Send
-your firstname: First name
-Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
-your lastname: Last name
-your company: Company
-your email: Email
-your phone: Phone
-your message: Message
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
-Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
-has this dialog been helpful: Has this dialog been helpful?
-Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
-Any comments or suggestions: Comments? Suggestions?
-Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
-Please enter your e-mail address: Please enter your e-mail address
-Please give a valid address: Please give a valid address
-The record has been successfully sent: The record has been successfully sent
-your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
-Please fill email field: Please fill email field
-Please fill phone field: Please fill phone field
-Please fill message textarea: Please fill message textarea
-Please fill firstname field: Please fill firstname field
-Please fill lastname field: Please fill lastname field
-Please fill company field: Please fill company field
-call audio: Audio Call
-call video: Video Call
-video suggestion: Video suggestion
-audio suggestion: Audio suggestion
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
-GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+type here: Skriv ditt meddelande här ...
+Do you want to close the discussion?: Vill du avsluta diskussionen?
+Yes: Ja
+No: Nej
+send: Skicka
+your firstname: Förnamn
+Please fill at least one of highlighted fields: Vänligen fyll i minst ett av de markerade fälten:
+your lastname: Efternamn
+your company: Företag
+your email: Din E-postadress
+your phone: Ditt telefonnummer
+your message: Ditt meddelande
+Your conversation has ended.Thank you for contacting us!: <strong>Din konversation har avslutats.</strong><br />Tack för att du kontaktar oss!
+Recall this operator now: Återuppring denna operatör nu:
+give us your feedback about the conversation: Ge oss dina <strong>synpunkterk</strong><br/>om din konversation.
+has this dialog been helpful: Har den här dialogen varit till hjälp?
+Would you recommend this experience to your facebook friends: Skulle du rekommendera denna erfarenhet till dina Facebook-vänner?
+Any comments or suggestions: Kommentarer? Förslag?
+Get a reccord of this conversation by e-mail: Få en utskrift av konversationen via E-post.
+Please enter your e-mail address: Vänligen Fyll i din E-postadress
+Please give a valid address: Vänligen ge oss en giltig adress
+The record has been successfully sent: Inspelningen har skickats med lyckat resultat.
+your message has been successfully sent. We Will contact you soon: Ditt meddelande har skickats med lyckat resultat.<br />Vi kontaktar dig snart.
+Please fill email field: Vänligen fyll i E-post fält
+Please fill phone field: Vänligen fyll i telefonfält
+Please fill message textarea: Vänligen fyll i meddelandetext textfältet
+Please fill firstname field: Vänligen fyll i förnamn fältet
+Please fill lastname field: Vänligen fyll i efternamn fältet
+Please fill company field: Vänligen fyll i företagets fältet
+call audio: Ljud Samtal
+call video: Video Samtal
+video suggestion: Video förslag
+audio suggestion: Ljud förslag
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: VI ÄR HÄR FÖR ATT HJÄLPA!<br />LIVE FÖRSÄLJNINGS RÅDGIVARE.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: VI ÄR HÄR FÖR ATT HJÄLPA!<br />VÄNLIGEN LÄMNA ETT MEDDELANDE.
+GIVE US YOUR FEEDBACK! THANK YOU: GE OSS DIN FEEDBACK!<br />TACK!
 
 #V1.2
-required field: Required field
-message sent: Message sent
-Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
-No operator is available for the moment: No operator is available for the moment.
-Please leave me a message: Please leave me a message
-Please leave a message: Please leave a message
-Do you Want to start an audio call with me: Do you want to start an audio call with me?
-Do you Want to start a video call with me: Do you want to start a video call with me?
-e-mail invalid: Invalid Email
-close webpage cause end of the discussion: Close webpage cause end of the discussion
-survey sent: undersökning skickat
-Survey sent: undersökning skickat
-agent hangup: Agent hangup
-agent unavailable: Agent unavailable
-Agent deny call: Agent deny call
-Agent dont answer call: Agent dont answer call
-Ongoing discussion: Ongoing discussion
-Click here to enlarge: Click here to enlarge
-Give us your feedback: Give us your feedback
-Thank_you: Thank you
-click here to enlarge: Click to enlarge 
-Your question: Your question
-click_on: Click on
-allow: allow
-to_start_your_microphone: To start your microphone
-to_start_your_webcam: To start your webcam
-terms_of_use: 'You can read the terms of use '
-here: 'here'
-webcam_blocked: Your webcam is currently blocked
-microphone_blocked: Your microphone is currently blocked
-click_to_unlock: Click on the cam icon to unlock it now
-reload_to_unlock: Refresh your page to make your webcam available
-hangup: Hang up
-alternative_message_1: Sorry, our agents are unavailable.
-alternative_message_2: Thank you for your understanding.
-initiate_video_call: Do you want to start a video call with me?
-initiate_audio_call: Do you want to start an audio call with me?
-initiate_video_btn: Accept the video call
-initiate_audio_btn: Accept the audio call
-webuser_accept_audio_call: You accepted the audio conversation
-webuser_accept_video_call: You accepted the video conversation
-conversation_send: e-mail sent
-email_empty: email empty
-email_invalid: email invalid
+required field: Obligatoriska fält
+message sent: Meddelande skickat
+Before contacting you operator: Innan du kontaktar din operatör,<br/>Please give up a few infos:Vänligen ge oss lite information
+No operator is available for the moment: Ingen operatör är tillgänglig för tillfället.
+Please leave me a message: Vänligen lämna ett meddelande.
+Please leave a message: Vänligen lämna ett meddelande
+Do you Want to start an audio call with me: Vill du starta ett ljudsamtal med mig?
+Do you Want to start a video call with me: Vill du starta ett ljudsamtal med mig?
+e-mail invalid: Ogiltig E-postadress
+close webpage cause end of the discussion: Stäng din webbsida för att avsluta diskussionen
+survey sent: Undersökning skickad
+Survey sent: Undersökning skickad
+agent hangup: Agent avslutade
+agent unavailable: Agent inte tillgänglig
+Agent deny call: Agent nekar samtal
+Agent dont answer call: Agent svarar inte på samtal
+Ongoing discussion: Pågående diskussion
+Click here to enlarge: Klicka här för att förstora
+Give us your feedback: Ge oss dina synpunkter
+Thank_you: Tack!
+click here to enlarge: Klicka för att förstora
+Your question: Din fråga
+click_on: Klicka på
+allow: Tillåt
+to_start_your_microphone: För att starta din mikrofon
+to_start_your_webcam: För att starta din webbkamera
+terms_of_use: 'Du kan läsa användarvillkoren '
+here: 'här'
+webcam_blocked: Din webbkamera är för närvarande blockerad
+microphone_blocked: Din mikrofon är för närvarande blockerad
+click_to_unlock: Klicka på kameraikonen för att låsa upp den nu
+reload_to_unlock: Uppdatera sidan för att göra din webbkamera tillgänglig
+hangup: Lägg på
+alternative_message_1: Tyvärr, våra agenter är inte tillgängliga.
+alternative_message_2: Tack för din förståelse.
+initiate_video_call: Vill du starta ett videosamtal med mig?
+initiate_audio_call: Vill du starta ett ljudsamtal med mig?
+initiate_video_btn: Acceptera videosamtal
+initiate_audio_btn: Acceptera ljudsamtal
+webuser_accept_audio_call: Du accepterade ljudkonversation
+webuser_accept_video_call: Du accepterade videokonversation
+conversation_send: E-post skickad
+email_empty: E-post tomt
+email_invalid: Ogiltig E-post
 
 # default values for new module
-grabber_advisor_1: We are here to help!
-grabber_advisor_2: Live sales advisors
-grabber_message_1: Online Help
-grabber_message_2: Leave a message
-invitation_baloon: "Hi!\nHow can I help you?"
-invitation_baloon_several_agents: "Hi!\nAn operator is available now to answer your questions"
-leave_message_1: Sorry, our agents are unavailable.
-leave_message_2: Please leave us a message!
-crm_txt_1: While we contact your agent, 
-crm_txt_2: please enter the following:
+grabber_advisor_1: Vi är här för att hjälpa!
+grabber_advisor_2: Live försäljnings rådgivare
+grabber_message_1: Online hjälp
+grabber_message_2: Lämna ett meddelande
+invitation_baloon: "Hej!\nHur kan Jag hjälpa dig?"
+invitation_baloon_several_agents: "Hej!\nEn operatör är tillgänglig nu för att svara på dina frågor"
+leave_message_1: Tyvärr, våra agenter är inte tillgängliga.
+leave_message_2: Lämna oss ett meddelande!
+crm_txt_1: Medan vi kontaktar din agent,
+crm_txt_2: Var vänlig ange följande:
 
 #new
-message_baloon: Hi, leave me a message and I will contact you back!
-fall_back_window_default: Our agent is unavailable right now, please try later
-back to list: Back to the list
-denied_missed_call_msg: Sorry, I cannot take your call. Please leave me a message!
-all_agent_msg_1: Sorry our agents are unavailable.
-all_agent_msg_2: Please leave us a message!
-agent-deny-call-media: 'Sorry, i cannot open an audio or video call any more, please continue via text chat'
-fallback_default_msg: 'Our agent are not available right now, please try again later'
+message_baloon: Hej, lämna mig ett meddelande, och jag kommer att kontakta dig!
+fall_back_window_default: vår agent är inte tillgänglig just nu, försök senare
+back to list: Tillbaka till listan
+denied_missed_call_msg: Ledsen, jag kan inte ta ditt samtal. Lämna ett meddelande till mig!
+all_agent_msg_1: Tyvärr våra agenter är inte tillgängliga.
+all_agent_msg_2: Lämna oss ett meddelande!
+agent-deny-call-media: 'Tyvärr, jag kan inte öppna en ljud eller ett videosamtal längre, fortsätt via textchatt'
+fallback_default_msg: 'Vår agent är inte tillgängliga just nu, försök igen lite senare'
 
 #new FO v14
-hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
-hangup_mess_2: The conversation is over.
-your_agent_hung_up: Your agent hung up
-you_hung_up: You hung up
-give_us_your_feedback: Would you like to give us your feedback ?
-back_to_chat: Back to chat
-send_and_quit: Send and quit
-back_to_feedback: Back to feedback
-any_suggestions: Any suggestions?
-transcript_will_be_sent: A transcript will be sent once the chat is over.
-transcript_sent: Conversation has been sent.
-phone_invalid: Phone invalid
-shall_we_use_this_address: Shall we use this address
+hangup_mess_1: Ledsen men agenten la på. Ditt meddelande kunde inte skickas.
+hangup_mess_2: Konversationen är över.
+your_agent_hung_up: Din agent la på
+you_hung_up: Du la på
+give_us_your_feedback: Vill du ge oss dina synpunkter?
+back_to_chat: Tillbaka till chatt
+send_and_quit: Skicka och avsluta
+back_to_feedback: Tillbaka till synpunkter
+any_suggestions: Några förslag?
+transcript_will_be_sent: En utskrift kommer att skickas när chatten är över.
+transcript_sent: Konversation har skickats.
+phone_invalid: Telefon ogiltig
+shall_we_use_this_address: Ska vi använda denna adress
 
-tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
+tooltip_help_cobrowsing:Under bläddring tillsammans , kan vår agent bara se vad som finns på webbsidan själv, inte din webbläsare, eller någon annan flik som är öppen på din webbplats. Agenten ser aldrig något annat på din dator.
 
-user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
+user_switch_to_audio_because_of_low_bw: Din bandbredd verkar vara för låg för att stödja videochatt. Vi har bytt till röstchatt för att kunna betjäna dig bättre.
 
 
 
@@ -268,73 +267,73 @@ user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to 
 
 
 #V16---------------------------------------------------------------------------
-See_the_agent_webcam: Video call
-callcenter_1: Start video chat
-agent_txt: agent
-agents_txt: agents
-bar_txt: Live Customer Service
-welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
-fallback_timeout_unavailble_txt: There are no available video chat agent.
-fallback_timeout_calls_txt: There are no available video chat agent.
+See_the_agent_webcam: Video samtal
+callcenter_1: Starta video chat
+agent_txt: Agent
+agents_txt: Agenter
+bar_txt: Live Kundservice
+welcome_balloon_txt: En agent är nu tillgänglig för att besvara dina frågor. Klicka på Starta videochatt nu för att börja.
+fallback_timeout_unavailble_txt: Det finns inga tillgängliga videochatt agenter.
+fallback_timeout_calls_txt: Det finns inga tillgängliga videochatt agenter.
 
-The associate cannot see or hear you: The agent cannot see or hear you.
-The associate cant see you: The agent cannot see or hear you.
-I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
-Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
-Are you sure? This will end the conversation: Are you sure? This will end the conversation.
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Your Internet connection does not support video chat. However we can still voice or text chat.
-Before we get started,:  Before we get started,
-to enable your microphone,: to enable your microphone.
-click the Share selected device button above: click on the ‘‘Share selected device’’ button above
-click the Allow button above: click on the ‘‘Allow’’ button above
-click the Allow once button below: click on the ‘‘Allow once’’ button below
-You did not enable your microphone. I cant hear you but I can receive text messages.: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-The associate cannot see or hear you: The agent cannot see or hear you.
-Accept: Accept
-Decline: Decline 
-File accepted: File accepted
-File declined: File declined
-Can I co-browse our store with you?: Can I co-browse our store with you?
-Allow: Allow
-Deny: Deny
-Send and quit: Send and quit
-Survey sent: Survey sent.
-Click this button to turn on your microphone: Click this button to turn on your microphone.
-I turn on my microphone: I will now switch on my microphone.
-Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
-Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
-Unable to connect: Unable to connect.
-not here, leave a message: I am currently not available. Please leave a message.
-Your video chat has ended: Your video chat has ended.
-Your opinion matters to us: Your opinion matters to us.
-Thanks for chatting with us today. Want a copy of our conversation?: Thanks for chatting with us today. Do you want a copy of our conversation?
-Please enter a valid email address: Invalid email address.
-Enter your email address: Enter your email address.
-No thanks: No thanks
-Submit: Submit
-Transcript sent: Transcript sent
-We are unable to connect you with an associate: We are unable to connect you to an agent.
-Your email address: Your email address
-Your phone number: Your phone number
-Your message here: Your message here
-Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
-Message sent: Message sent
-Close: Close
+The associate cannot see or hear you: Agenten kan inte se eller höra dig.
+The associate cant see you:  Agenten kan inte se eller höra dig.
+I will be with you in just a moment. Please wait while the video chat loads: Jag kommer att vara med dig på bara ett ögonblick. Vänta medans videochatt laddas.
+Are you sure you want to end this conversation?: Är du säker på att du vill avsluta den här kenversationen?
+Are you sure? This will end the conversation: Är du säker? Detta kommer att avsluta samtalet.
+There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Din Internet anslutning har inte stöd för videochatt. Men vi kan fortfarande röst eller text chatta.
+Before we get started,:  Innan vi börjar,
+to enable your microphone,: För att aktivera mikrofonen.
+click the Share selected device button above: Klicka på ‘‘Dela’’ valda enheten knappen här ovan
+click the Allow button above: Klicka på ‘‘Tillåt’’ knappen ovan
+click the Allow once button below: Klicka på ‘‘Tillåt en gång’’ knappen nedan
+You did not enable your microphone. I cant hear you but I can receive text messages.: Du har inte aktivera mikrofonen. Jag kan inte höra dig, men jag kan ta emot textmeddelanden.
+The associate cannot see or hear you: Agenten kan inte se eller höra dig.
+Accept: Acceptera
+Decline: Neka
+File accepted: Fil accepterad
+File declined: Fil nekad
+Can I co-browse our store with you?: Kan jag bläddra tillsammans med dig och vår butik?
+Allow: Tillåt
+Deny: Neka
+Send and quit: Skicka och avsluta
+Survey sent: Undersökning skickad.
+Click this button to turn on your microphone: Klicka på denna knapp för att slå på mikrofonen.
+I turn on my microphone: Jag kommer nu att slå på min mikrofon.
+Sorry, but the agents did not answer in time.: Tyvärr men agenten svarade inte i tid.
+Sorry, an error occured and the conversation is over.: Tyvärr, ett fel har uppstått och konversationen är över.
+Unable to connect: Det går inte att ansluta.
+not here, leave a message: Jag är för tillfället inte tillgänglig. Lämna ett meddelande.
+Your video chat has ended: Din videochatt har avslutats.
+Your opinion matters to us: Din åsikt är viktig för oss.
+Thanks for chatting with us today. Want a copy of our conversation?: Tack för att du chattat med oss idag. Vill du ha en kopia av vår konversation?
+Please enter a valid email address: Ogiltig E-postadress.
+Enter your email address: Skriv in din E-postadress.
+No thanks: Nej tack
+Submit: Skicka in
+Transcript sent: Konversation skickad
+We are unable to connect you with an associate: Vi kan inte ansluta dig till en agent.
+Your email address: Din E-postadress
+Your phone number: Ditt telefonnummer
+Your message here: Ditt meddelande här
+Please enter a valid email address or a telephone number: Vänligen ange en giltig E-postadress eller ett telefonnummer.
+Message sent: Meddelande skickat
+Close: Stäng
 
 
-slogan_txt: We are here to help!
-welcome_balloon_txt1: "How can I help you?"
-welcome_balloon_txt2: "An operator is available now to answer your questions"
-The associate cannot see you but he hear you: The agent cannot see you but he is able to hear you.
-I like to share a file with you: I would like to share a file with you.
-Connecting: Connecting
-whats this: What's this?
-Pause: Pause
-Play: Play
-Sound off: Sound off
-Sound on: Sound on
-My text chat conversation: My text chat conversation
-My video chat conversation: My video chat conversation
+slogan_txt: Vi är här för att hjälpa!
+welcome_balloon_txt1: "Hur kan jag hjälpa dig?"
+welcome_balloon_txt2: "En operatör finns tillgänglig nu för att svara på dina frågor"
+The associate cannot see you but he hear you: Agenten kan inte se dig men han / hon kan höra dig.
+I like to share a file with you: Jag skulle vilja dela en fil med dig.
+Connecting: Ansluter
+whats this: Vad är det här?
+Pause: Paus
+Play: Spela
+Sound off: Ljud av
+Sound on: Ljud på
+My text chat conversation: Min text chatt konversation
+My video chat conversation: Min video chatt konversation
 Please find the entire conversation attached below.: ''
-files push during the conversation: Files shared during the conversation.
-videos push during the conversation: Videos shared during the conversation.
+files push during the conversation: Filer som delats under samtalet.
+videos push during the conversation: Videor som har delats under samtalet.
