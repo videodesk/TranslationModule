@@ -1,5 +1,5 @@
 'let a message': Lämna ett meddelande
-'chat call': Chat
+'chat call': Chatt
 'audio call': Ljudsamtal
 'video call': Videosamtal
 'information help': Information
@@ -35,7 +35,7 @@
 'Laissez un message' : Lämna ett meddelande
 'agent-accept-communication' : Kommunikationen accepterad
 'agent indisponible. redirection vers message': Personal otillgänglig, omdirigering till meddelande
-'webuser': Webb användare
+'webuser': Webbanvändare
 'user flash crash': Shockwave Flash har kraschat. Du är ansluten i textchat-läge
 'message sent': Meddelande skickat
 'cgv': Din användning av denna tjänst innebär att du har accepterat <a href="http://www.videodesk.com/terms"> target Villkor </ a> för Videodesk inc och din fortsatta användning av denna tjänst innebär att du samtycker till eventuella uppdateringar. Om du inte håller med om dessa Villkor, snälla använd inte denna tjänst.
@@ -62,7 +62,7 @@ email required: E-postadress Krävs
 email invalid: E-postadress Ogiltigd
 phone required: Telefon Krävs
 company required: Företag Krävs
-required: Obligatorisk
+required: Obligatoriskt
 
 #survey
 bad: Usel
@@ -98,7 +98,7 @@ resume_vid: Återuppta video med agenten
 activate_volume: Slå på högtalarna
 desactivate_volume: Stäng av högtalarna
 #WAITING MSG
-peerFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan text chatta med din agent
+peerFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan textchatta med din agent
 agentBusy: Tyvärr, är agenten redan upptagen!
 waitRemote: Vänta, vi kopplar upp dig. Det kan ta lite tid
 waitLocal: Väntar på din webbkamera för att ansluta
@@ -112,12 +112,12 @@ userNoCamButMic: Vi upptäckte inte din webbkamera. Du måste vara utrustad med 
 userNiCamNiMic: Vi kunde inte detektera en webbkamera eller mikrofon. Du måste vara utrustad med en webbkamera och mikrofon, för att kunna delta i en videochatt. Vi växlar dig till chattläge.(#6)
 agentNoCamButMic: Agenten har ingen webbkamera. Vi skiftar dig till ljudchatt.(#7)
 agentNiCamNiMic: Agenten har ingen webbkamera och ingen mikrofon. Vi skiftar dig till textchatt.(#8)
-userDenyFlash: Du nekades tillgång till din webbkamera och din mikrofon. Vi växlar dig till textchatt.(#9)
+userDenyFlash: Du nekades tillgång till din webbkamera och din mikrofon. Vi skiftar dig till textchatt.(#9)
 noPeerConnection: På grund av ett nätverksproblem, skiftar vi dig till textchatt.(#11)
 userConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till textchatt.(#11)
 agentConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till textchatt.(#110)
 userNoMic: Vi upptäckte inte någon mikrofon. Du måste vara utrustad med en mikrofon för att kunna utföra en ljudchatt. Vi växlar dig till textchatt.(#12)
-agentNoMic: Agenten har ingen mikrofon, vi växlar dig till textchatt.(#13)
+agentNoMic: Agenten har ingen mikrofon, vi skiftar dig till textchatt.(#13)
 userRtmptConnection: Nätverket tillåter inte tillräckligt med video / ljud kvalitet, därför rekommenderar vi textchatt(#15)
 agentRtmptConnection: Nätverket tillåter inte tillräckligt med video / ljud kvalitet, därför rekommenderar vi textchatt(#16)
 userNoSpeakers: Vi har inte upptäckt någon ljudutgång (högtalare, hörlurar ...). Du kommer inte att kunna höra agenten du ringde. Vi föreslår att du ansluter högtalare eller headset till datorn. Men du kan redan prata med din agent via text.
@@ -227,20 +227,20 @@ grabber_message_1: Onlinehjälp
 grabber_message_2: Lämna ett meddelande
 invitation_baloon: "Hej!\nHur kan Jag hjälpa dig?"
 invitation_baloon_several_agents: "Hej!\nEn operatör är tillgänglig nu för att svara på dina frågor"
-leave_message_1: Tyvärr, våra agenter är inte tillgängliga.
+leave_message_1: Tyvärr, vår personal är inte tillgänglig just nu.
 leave_message_2: Lämna oss ett meddelande!
 crm_txt_1: Medan vi kontaktar din agent,
 crm_txt_2: Var vänlig ange följande:
 
 #new
 message_baloon: Hej, lämna mig ett meddelande, och jag kommer att kontakta dig!
-fall_back_window_default: vår agent är inte tillgänglig just nu, försök senare
+fall_back_window_default: vår personal är inte tillgänglig just nu, försök senare
 back to list: Tillbaka till listan
 denied_missed_call_msg: Ledsen, jag kan inte ta ditt samtal. Lämna ett meddelande till mig!
-all_agent_msg_1: Tyvärr våra agenter är inte tillgängliga.
+all_agent_msg_1: Tyvärr vår personal är inte tillgänglig just nu.
 all_agent_msg_2: Lämna oss ett meddelande!
-agent-deny-call-media: 'Tyvärr, jag kan inte öppna en ljud eller ett videosamtal längre, fortsätt via textchatt'
-fallback_default_msg: 'Vår agent är inte tillgängliga just nu, försök igen lite senare'
+agent-deny-call-media: 'Tyvärr, jag kan inte öppna ett ljud eller ett videosamtal längre, fortsätt via textchatt'
+fallback_default_msg: 'Vår personal är inte tillgänglig just nu, försök igen lite senare'
 
 #new FO v14
 hangup_mess_1: Ledsen men agenten la på. Ditt meddelande kunde inte skickas.
