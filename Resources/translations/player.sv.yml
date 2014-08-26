@@ -34,7 +34,7 @@
 'Discutez en chat' : Textchatt
 'Laissez un message' : Lämna ett meddelande
 'agent-accept-communication' : Kommunikationen accepterad
-'agent indisponible. redirection vers message': Agent otillgänglig, omdirigering till meddelande
+'agent indisponible. redirection vers message': Personal otillgänglig, omdirigering till meddelande
 'webuser': Webb användare
 'user flash crash': Shockwave Flash har kraschat. Du är ansluten i textchat-läge
 'message sent': Meddelande skickat
@@ -75,7 +75,7 @@ gorgeous: Superbra
 'Live Help': Kontakt
 'agent(s) available': Tillgänglig (a) agent (er)
 'Chat (video or text) for free with ecommerce experts': Chatt (video eller text)
-'information help':   Du kan nu chatta med tillgängliga agenter. Du kan välja mellan video, ljud eller textchatt.
+'information help':   Du kan nu chatta med tillgänglig person. Du kan välja mellan video, ljud eller textchatt.
 'pending call text': Hej, vill du kontakta. Begärd kontakt är omedelbart tillgänglig för dig.
 'flash security panel': Klicka på "Tillåt" för att diskutera
 'Leave a text message': Tyvärr, jag är för närvarande inte tillgänglig. Lämna gärna ett meddelande till mig.
@@ -208,7 +208,7 @@ microphone_blocked: Din mikrofon är för närvarande blockerad
 click_to_unlock: Klicka på kameraikonen för att låsa upp den nu
 reload_to_unlock: Uppdatera sidan för att göra din webbkamera tillgänglig
 hangup: Lägg på
-alternative_message_1: Tyvärr, våra agenter är inte tillgängliga.
+alternative_message_1: Tyvärr, vår personal är inte tillgänglig.
 alternative_message_2: Tack för din förståelse.
 initiate_video_call: Vill du starta ett videosamtal med mig?
 initiate_audio_call: Vill du starta ett ljudsamtal med mig?
