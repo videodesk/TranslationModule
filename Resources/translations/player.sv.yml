@@ -12,9 +12,9 @@
 'chat_transcript': Skulle du vilja ha ett mail på konversationen, lämna din E-postadress.
 'Webuser is typing': Skriver...
 'Type your text here': Skriv din text här...
-'agent dont answer': Din agent är inte online
+'agent dont answer': Din operatör är inte online
 'chat redirection': Chatt
-'agent close communication': Agenten har lagt på.
+'agent close communication': Operatör har lagt på.
 'Deprecated version of Flash Chat only': Tagen version av Flash Chatt endast.
 'i am currently unavailable': Jag är för tillfället inte tillgänglig. Vänligen lämna ett meddelande.
 'Your mail': Din E-postadress
@@ -34,7 +34,7 @@
 'Discutez en chat' : Textchatt
 'Laissez un message' : Lämna ett meddelande
 'agent-accept-communication' : Kommunikationen accepterad
-'agent indisponible. redirection vers message': Personal otillgänglig, omdirigering till meddelande
+'agent indisponible. redirection vers message': Operatör otillgänglig, omdirigering till meddelande
 'webuser': Webbanvändare
 'user flash crash': Shockwave Flash har kraschat. Du är ansluten i textchat-läge
 'message sent': Meddelande skickat
@@ -73,9 +73,9 @@ gorgeous: Superbra
 
 #module texts
 'Live Help': Kontakt
-'agent(s) available': Tillgänglig (a) agent (er)
+'agent(s) available': Tillgänglig (a) operatör (er)
 'Chat (video or text) for free with ecommerce experts': Chatt (video eller text)
-'information help':   Du kan nu chatta med tillgänglig person. Du kan välja mellan video, ljud eller textchatt.
+'information help':   Du kan nu chatta med tillgänglig operatör. Du kan välja mellan video, ljud eller textchatt.
 'pending call text': Hej, vill du kontakta. Begärd kontakt är omedelbart tillgänglig för dig.
 'flash security panel': Klicka på "Tillåt" för att diskutera
 'Leave a text message': Tyvärr, jag är för närvarande inte tillgänglig. Lämna gärna ett meddelande till mig.
@@ -86,41 +86,41 @@ webcam_activated: Min webbkamera är på
 webcam_desactivated: Min webbkamera är avstängd
 mic_activated: Min mikrofonen är på
 mic_desactivated: Min mikrofonen är avstängd
-vid_resumed: Videon på din agent återupptar
-vid_stoped: Videon på din agent är avstängd
+vid_resumed: Videon på din operatör återupptar
+vid_stoped: Videon på din operatör är avstängd
 #ROLL MSG
 activate_cam: Aktivera min webbkamera
 desactivate_cam: Inaktivera min webbkamera
 activate_mic: Aktivera min mikrofonen
 desactivate_mic: Inaktivera min mikrofon
-stop_vid: Stoppa video med agenten
-resume_vid: Återuppta video med agenten
+stop_vid: Stoppa video med operatör
+resume_vid: Återuppta video med operatör
 activate_volume: Slå på högtalarna
 desactivate_volume: Stäng av högtalarna
 #WAITING MSG
-peerFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan textchatta med din agent
-agentBusy: Tyvärr, är agenten redan upptagen!
+peerFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan textchatta med din operatör
+agentBusy: Tyvärr, är operatören redan upptagen!
 waitRemote: Vänta, vi kopplar upp dig. Det kan ta lite tid
 waitLocal: Väntar på din webbkamera för att ansluta
 switchToAudio: Webbkamera inaktiverad,vi sätter upp en ljudanslutning
-ncFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan textchatta med din agent
+ncFailed: Tyvärr, vi kunde inte koppla upp samtalet. Du kan textchatta med din operatör
 #ATTENTION MSG
-userNoFMSConnection: På grund av ett nätverksproblem, växlar vi till textchatt.(#1)
-agentNoFMSConnection: På grund av ett nätverksproblem, växlar vi till textchatt.(#2)
-agentFlashCrashed: På grund av ett nätverksproblem, växlar vi till textchatt.(#4)
-userNoCamButMic: Vi upptäckte inte din webbkamera. Du måste vara utrustad med en webbkamera för att starta en videochatt. Vi växlar dig till ljudläge.(#5)
-userNiCamNiMic: Vi kunde inte detektera en webbkamera eller mikrofon. Du måste vara utrustad med en webbkamera och mikrofon, för att kunna delta i en videochatt. Vi växlar dig till chattläge.(#6)
-agentNoCamButMic: Agenten har ingen webbkamera. Vi skiftar dig till ljudchatt.(#7)
-agentNiCamNiMic: Agenten har ingen webbkamera och ingen mikrofon. Vi skiftar dig till textchatt.(#8)
+userNoFMSConnection: På grund av ett nätverksproblem, skiftar vi till textchatt.(#1)
+agentNoFMSConnection: På grund av ett nätverksproblem, skiftar vi till textchatt.(#2)
+agentFlashCrashed: På grund av ett nätverksproblem, skiftar vi till textchatt.(#4)
+userNoCamButMic: Vi upptäckte inte din webbkamera. Du måste vara utrustad med en webbkamera för att starta en videochatt. Vi skiftar dig till ljudläge.(#5)
+userNiCamNiMic: Vi kunde inte detektera en webbkamera eller mikrofon. Du måste vara utrustad med en webbkamera och mikrofon, för att kunna delta i en videochatt. Vi skiftar dig till chattläge.(#6)
+agentNoCamButMic: Operatör har ingen webbkamera. Vi skiftar dig till ljudchatt.(#7)
+agentNiCamNiMic: Operatör har ingen webbkamera och ingen mikrofon. Vi skiftar dig till textchatt.(#8)
 userDenyFlash: Du nekades tillgång till din webbkamera och din mikrofon. Vi skiftar dig till textchatt.(#9)
 noPeerConnection: På grund av ett nätverksproblem, skiftar vi dig till textchatt.(#11)
 userConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till textchatt.(#11)
 agentConnectionFailed: På grund av ett nätverksproblem, skiftar vi dig till textchatt.(#110)
 userNoMic: Vi upptäckte inte någon mikrofon. Du måste vara utrustad med en mikrofon för att kunna utföra en ljudchatt. Vi växlar dig till textchatt.(#12)
-agentNoMic: Agenten har ingen mikrofon, vi skiftar dig till textchatt.(#13)
+agentNoMic: Operatör har ingen mikrofon, vi skiftar dig till textchatt.(#13)
 userRtmptConnection: Nätverket tillåter inte tillräckligt med video / ljud kvalitet, därför rekommenderar vi textchatt(#15)
 agentRtmptConnection: Nätverket tillåter inte tillräckligt med video / ljud kvalitet, därför rekommenderar vi textchatt(#16)
-userNoSpeakers: Vi har inte upptäckt någon ljudutgång (högtalare, hörlurar ...). Du kommer inte att kunna höra agenten du ringde. Vi föreslår att du ansluter högtalare eller headset till datorn. Men du kan redan prata med din agent via text.
+userNoSpeakers: Vi har inte upptäckt någon ljudutgång (högtalare, hörlurar ...). Du kommer inte att kunna höra operatören du ringde. Vi föreslår att du ansluter högtalare eller headset till datorn. Men du kan redan prata med din agent via text.
 remote_audio_desactivated: Ljudet är avstängt
 remote_audio_activated: Ljudet är på
 click_allow_to_start: Klicka på "Tillåt" för att starta.
@@ -172,7 +172,7 @@ video suggestion: Videoförslag
 audio suggestion: Ljudförslag
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: VI ÄR HÄR FÖR ATT HJÄLPA!<br />LIVE FÖRSÄLJNINGS RÅDGIVARE.
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: VI ÄR HÄR FÖR ATT HJÄLPA!<br />VÄNLIGEN LÄMNA ETT MEDDELANDE.
-GIVE US YOUR FEEDBACK! THANK YOU: GE OSS DIN FEEDBACK!<br />TACK!
+GIVE US YOUR FEEDBACK! THANK YOU: GE OSS DINA SYNPUNKTER!<br />TACK!
 
 #V1.2
 required field: Obligatoriska fält
@@ -187,10 +187,10 @@ e-mail invalid: Ogiltig E-postadress
 close webpage cause end of the discussion: Stäng din webbsida för att avsluta diskussionen
 survey sent: Undersökning skickad
 Survey sent: Undersökning skickad
-agent hangup: Agent avslutade
-agent unavailable: Agent inte tillgänglig
-Agent deny call: Agent nekar samtal
-Agent dont answer call: Agent svarar inte på samtal
+agent hangup: Operatör avslutade
+agent unavailable: Operatören inte tillgänglig
+Agent deny call: Operatören nekar samtal
+Agent dont answer call: Operatören svarar inte på samtal
 Ongoing discussion: Pågående diskussion
 Click here to enlarge: Klicka här för att förstora
 Give us your feedback: Ge oss dina synpunkter
@@ -208,7 +208,7 @@ microphone_blocked: Din mikrofon är för närvarande blockerad
 click_to_unlock: Klicka på kameraikonen för att låsa upp den nu
 reload_to_unlock: Uppdatera sidan för att göra din webbkamera tillgänglig
 hangup: Lägg på
-alternative_message_1: Tyvärr, vår personal är inte tillgänglig.
+alternative_message_1: Tyvärr, vår operatör är inte tillgänglig.
 alternative_message_2: Tack för din förståelse.
 initiate_video_call: Vill du starta ett videosamtal med mig?
 initiate_audio_call: Vill du starta ett ljudsamtal med mig?
@@ -227,25 +227,25 @@ grabber_message_1: Onlinehjälp
 grabber_message_2: Lämna ett meddelande
 invitation_baloon: "Hej!\nHur kan Jag hjälpa dig?"
 invitation_baloon_several_agents: "Hej!\nEn operatör är tillgänglig nu för att svara på dina frågor"
-leave_message_1: Tyvärr, vår personal är inte tillgänglig just nu.
+leave_message_1: Tyvärr, vår operatör är inte tillgänglig just nu.
 leave_message_2: Lämna oss ett meddelande!
-crm_txt_1: Medan vi kontaktar din agent,
+crm_txt_1: Medan vi kontaktar din operatör,
 crm_txt_2: Var vänlig ange följande:
 
 #new
 message_baloon: Hej, lämna mig ett meddelande, och jag kommer att kontakta dig!
-fall_back_window_default: vår personal är inte tillgänglig just nu, försök senare
+fall_back_window_default: vår operatör är inte tillgänglig just nu, försök senare
 back to list: Tillbaka till listan
 denied_missed_call_msg: Ledsen, jag kan inte ta ditt samtal. Lämna ett meddelande till mig!
-all_agent_msg_1: Tyvärr vår personal är inte tillgänglig just nu.
+all_agent_msg_1: Tyvärr vår operatör är inte tillgänglig just nu.
 all_agent_msg_2: Lämna oss ett meddelande!
 agent-deny-call-media: 'Tyvärr, jag kan inte öppna ett ljud eller ett videosamtal längre, fortsätt via textchatt'
-fallback_default_msg: 'Vår personal är inte tillgänglig just nu, försök igen lite senare'
+fallback_default_msg: 'Vår operatör är inte tillgänglig just nu, försök igen lite senare'
 
 #new FO v14
-hangup_mess_1: Ledsen men agenten la på. Ditt meddelande kunde inte skickas.
+hangup_mess_1: Ledsen men operatören la på. Ditt meddelande kunde inte skickas.
 hangup_mess_2: Konversationen är över.
-your_agent_hung_up: Din agent la på
+your_agent_hung_up: Din operatör la på
 you_hung_up: Du la på
 give_us_your_feedback: Vill du ge oss dina synpunkter?
 back_to_chat: Tillbaka till chatt
@@ -257,7 +257,7 @@ transcript_sent: Konversation har skickats.
 phone_invalid: Telefon ogiltig
 shall_we_use_this_address: Ska vi använda denna adress
 
-tooltip_help_cobrowsing: Under bläddring tillsammans , kan vår agent bara se vad som finns på webbsidan själv, inte din webbläsare, eller någon annan flik som är öppen på din webbplats. Agenten ser aldrig något annat på din dator.
+tooltip_help_cobrowsing: Under bläddring tillsammans , kan vår operatör bara se vad som finns på webbsidan, inte din webbläsare, eller någon annan flik som är öppen på din webbplats. Operatören ser aldrig något annat på din dator.
 
 user_switch_to_audio_because_of_low_bw: Din bandbredd verkar vara för låg för att stödja videochatt. Vi har bytt till röstchatt för att kunna betjäna dig bättre.
 
@@ -269,26 +269,26 @@ user_switch_to_audio_because_of_low_bw: Din bandbredd verkar vara för låg för
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Videosamtal
 callcenter_1: Starta videochatt
-agent_txt: Agent
-agents_txt: Agenter
+agent_txt: Operatör
+agents_txt: Operatörer
 bar_txt: Live Kundservice
-welcome_balloon_txt: En agent är nu tillgänglig för att besvara dina frågor. Klicka på Starta videochatt nu för att börja.
-fallback_timeout_unavailble_txt: Det finns inga tillgängliga videochatt agenter.
-fallback_timeout_calls_txt: Det finns inga tillgängliga videochatt agenter.
+welcome_balloon_txt: En operatör är nu tillgänglig för att besvara dina frågor. Klicka på Starta videochatt nu för att börja.
+fallback_timeout_unavailble_txt: Det finns inga tillgängliga videochatt operatörer.
+fallback_timeout_calls_txt: Det finns inga tillgängliga videochatt operatörer.
 
-The associate cannot see or hear you: Agenten kan inte se eller höra dig.
-The associate cant see you:  Agenten kan inte se eller höra dig.
+The associate cannot see or hear you: Operatören kan inte se eller höra dig.
+The associate cant see you:  Operatören kan inte se eller höra dig.
 I will be with you in just a moment. Please wait while the video chat loads: Jag kommer att vara med dig på bara ett ögonblick. Vänta medans videochatt laddas.
 Are you sure you want to end this conversation?: Är du säker på att du vill avsluta den här kenversationen?
 Are you sure? This will end the conversation: Är du säker? Detta kommer att avsluta samtalet.
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Din Internet anslutning har inte stöd för videochatt. Men vi kan fortfarande röst eller text chatta.
+There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Din Internetanslutning har inte stöd för videochatt. Men vi kan fortfarande röst eller text chatta.
 Before we get started,:  Innan vi börjar,
 to enable your microphone,: För att aktivera mikrofonen.
 click the Share selected device button above: Klicka på ‘‘Dela’’ valda enheten knappen här ovan
 click the Allow button above: Klicka på ‘‘Tillåt’’ knappen ovan
 click the Allow once button below: Klicka på ‘‘Tillåt en gång’’ knappen nedan
 You did not enable your microphone. I cant hear you but I can receive text messages.: Du har inte aktivera mikrofonen. Jag kan inte höra dig, men jag kan ta emot textmeddelanden.
-The associate cannot see or hear you: Agenten kan inte se eller höra dig.
+The associate cannot see or hear you: Operatören kan inte se eller höra dig.
 Accept: Acceptera
 Decline: Neka
 File accepted: Fil accepterad
@@ -300,7 +300,7 @@ Send and quit: Skicka och avsluta
 Survey sent: Undersökning skickad.
 Click this button to turn on your microphone: Klicka på denna knapp för att slå på mikrofonen.
 I turn on my microphone: Jag kommer nu att slå på min mikrofon.
-Sorry, but the agents did not answer in time.: Tyvärr men agenten svarade inte i tid.
+Sorry, but the agents did not answer in time.: Tyvärr men operatören svarade inte i tid.
 Sorry, an error occured and the conversation is over.: Tyvärr, ett fel har uppstått och konversationen är över.
 Unable to connect: Det går inte att ansluta.
 not here, leave a message: Jag är för tillfället inte tillgänglig. Lämna ett meddelande.
@@ -312,7 +312,7 @@ Enter your email address: Skriv in din E-postadress.
 No thanks: Nej tack
 Submit: Skicka in
 Transcript sent: Konversation skickad
-We are unable to connect you with an associate: Vi kan inte ansluta dig till en agent.
+We are unable to connect you with an associate: Vi kan inte ansluta dig till en operatör.
 Your email address: Din E-postadress
 Your phone number: Ditt telefonnummer
 Your message here: Ditt meddelande här
@@ -324,7 +324,7 @@ Close: Stäng
 slogan_txt: Vi är här för att hjälpa!
 welcome_balloon_txt1: "Hur kan jag hjälpa dig?"
 welcome_balloon_txt2: "En operatör finns tillgänglig nu för att svara på dina frågor"
-The associate cannot see you but he hear you: Agenten kan inte se dig men han / hon kan höra dig.
+The associate cannot see you but he hear you: Operatören kan inte se dig men han / hon kan höra dig.
 I like to share a file with you: Jag skulle vilja dela en fil med dig.
 Connecting: Ansluter
 whats this: Vad är det här?
