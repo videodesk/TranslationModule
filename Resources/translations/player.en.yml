@@ -235,13 +235,13 @@ crm_txt_2: please enter the following:
 
 #new
 message_baloon: Hi, leave me a message and I will contact you back!
-fall_back_window_default: Our agent is unavailable right now, please try later
+fall_back_window_default: Our agent are unavailable right now. Please try later
 back to list: Back to the list
 denied_missed_call_msg: Sorry, I cannot take your call. Please leave me a message!
 all_agent_msg_1: Sorry our agents are unavailable.
 all_agent_msg_2: Please leave us a message!
 agent-deny-call-media: 'Sorry, i cannot open an audio or video call any more, please continue via text chat'
-fallback_default_msg: 'Our agent are not available right now, please try again later'
+fallback_default_msg: 'Our agent are not available right now. Please try again later'
 
 #new FO v14
 hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
@@ -349,3 +349,6 @@ My video chat conversation: My video chat conversation
 Please find the entire conversation attached below.: ''
 files push during the conversation: Files shared during the conversation.
 videos push during the conversation: Videos shared during the conversation.
+allowed: allowed
+denied: denied
+Access: Access

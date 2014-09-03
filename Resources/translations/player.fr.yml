@@ -302,7 +302,7 @@ Accept: Accepter
 Decline: Refuser
 File accepted: Fichier accepté
 File declined: Fichier refusé
-Can I co-browse our store with you?: Voulez-vous lancer la co-navigation ?
+Can I co-browse our store with you?: Voulez-vous lancer la navigation assistée ?
 Allow: Autoriser
 Deny: Refuser
 Send and quit: Envoyer et quitter
@@ -345,3 +345,7 @@ My video chat conversation: Votre conversation par vidéo chat.
 Please find the entire conversation attached below.: Vous trouverez ci-dessous la totalité de votre conversation.
 files push during the conversation: Fichers partagés durant la conversation
 videos push during the conversation: Vidéos partagées durant la conversation
+
+allowed: autorisé
+denied: refusé
+Access: Accès
