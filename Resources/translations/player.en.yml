@@ -353,3 +353,7 @@ allowed: allowed
 denied: denied
 Access: Access
 call_button_txt: Start video chat
+The: The
+cant see you: cannot see you.
+cannot see you but he hear you: cannot see you but he is able to hear you.
+cannot see or hear you: cannot see or hear you.
