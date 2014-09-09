@@ -1,52 +1,52 @@
-let a message': Keskustele meidän kanssa
-'chat call': Kirjoistus keskustelu
+let a message': Jätä viesti
+'chat call': Teksti keskustelu
 'audio call': Ääni keskustelu
 'video call': Video keskustelu
-'information help': Lisätietoa
+'information help': lisätietoa
 'faq help': Lisätietoa
-'Your discussion has ended': Keskustelusi on päättynyt.<br />Me kiitämme.
-'Please, rate this discussion': Mielipiteesi on meille tärkeä
-'Discussion helpful ?': Oliko keskustelu hyödyllinen?
-'Would you recommend this experience to your friends?': Suosittelisitko tätä ystävällesi?
-'Any comments ?': Ehdotuksia
-'chat_transcript': Jos haluat kipion tästä keskustelusta, jätä  -sähhköpostiosoitteesi.
+'Your discussion has ended': Keskustelusi päättyi.<br />Kiitos yhteydenotosta.
+'Please, rate this discussion': Mielipiteesi on tärkeä.
+'Discussion helpful ?': Oliko keskustelusta hyötyä?
+'Would you recommend this experience to your friends?': Suosittelisitko tätä kokemusta kaverille?
+'Any comments ?': Kommentteja, ehdotuksia?
+'chat_transcript': Haluatko keskustelun sähköpostiin?
 'Webuser is typing': kirjoittaa...
-'Type your text here': Kirjoita viestisi tähän
-'agent dont answer': Asiakaspalvelija ei vasta
-'chat redirection': Kirjoistus keskustelu
+'Type your text here': Kirjoita teksi tähän
+'agent dont answer':Asiakaspalvelija ei ole saatavilla
+'chat redirection': Keskustelu
 'agent close communication': Asiakaspalvelija lopetti keskustelun
-'Deprecated version of Flash Chat only': Vanha Flash versio. 
-'i am currently unavailable': Pahoittelen, olen tällä hetkellä varattu.
-'Your mail': Sähköpostiosoitteesi
-'Or': Tai
-'Please type your message here': Olehyvä ja kirjoita viestisi tähän
-'message field required': vesti on pakollinen
-'email or phone field required': sähköpostiosoite tai puhelin numero on pakollinen
-'send': lähetä
-'not ready to switch': ei valmis siirtoon
-'will answer in a few seconds': palvelee kohta.
+'Deprecated version of Flash Chat only': Flashin vanha versio.
+'i am currently unavailable': Asiakaspalvelija ei saatavilla, jätä viesti
+'Your mail': Sähköpostisi
+'Or': tai puhelinnumerosi
+'Please type your message here': Kirjoita viestisi tähän
+'message field required': Viesti vaadittu
+'email or phone field required': Sähköposti tai puhelin vaadittu
+'send': Lähetä
+'not ready to switch': ei vielä valmiina vaihtamaan
+'will answer in a few seconds': vapaana aivan pian.
 'Email adress': Sähköpostiosoite
-'Phone number': Puhelin numero
-'Phone': Puhelin numero
-'email invalide': Virhellinen sähköpostiosoite
+'Phone number': Puhelinnumero
+'Phone': Puhelin
+'email invalide': Virheellinen sähköposti
 'Discutez en video' : Video keskustelu
 'Discutez en audio' : Ääni keskustelu
-'Discutez en chat' : Kirjoistus keskustelu
+'Discutez en chat' : Teksti keskustelu
 'Laissez un message' : Jätä viesti
-'agent-accept-communication' : Keskustelu hyväksytty
+'agent-accept-communication' : Yhteys hyväksytty
 'agent indisponible. redirection vers message': Aiasiakaspalvelija ei saatavilla, siirry viestinkirjoitukseen
 'webuser': Minä
 'user flash crash': shockwave flash kaatui. Sinu't on siirety kirjoitus keskusteluun
 'message sent': Viesti lähetetty
 'cgv': Käyttämälla tätä palvelua olet hyväksynyt <a href="http://www.videodesk.com/terms" target="_blank">Yleiset sopimusehdot</a> ja Videodesk inc ja käytön jatkamista tämän palvelun tarkoittaa asiakas suostuu päivityksiä. Jos et hyväksy näitä ehtoja ja edellytyksiä, älä käytä tätä palvelua.
-'You will can enter your text here': Voit kirjoittaa viestisi tähän
-'Discussion with %site%': Keskustelu kohteeseen %site%
+'You will can enter your text here': Kirjoita teksti tähän
+'Discussion with %site%': Keskustelu %site% kanssa
 'hello': Hei
 'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': Uusi viesti nettisivultaq
-'message from videodesk module': Uusi viesti Videodesk laajennuksesta
-'message originally intended to': viesti lähetetty kohteeseen :
-'Enter your question here': Kirjoita kysymtksesi tähän
+'new message from': Uusi viesti
+'message from videodesk module': Uusi viesti videodesk moduulilta
+'message originally intended to': Viesti lähetetty:
+'Enter your question here': Kirjoita viestisi tähän...
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Täytä alla olevat tiedot niin vastaamme ihan kohta
@@ -316,10 +316,10 @@ Transcript sent: Transcript sent
 We are unable to connect you with an associate: We are unable to connect you to an agent.
 Your email address: Your email address
 Your phone number: Your phone number
-Your message here: Your message here
-Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
-Message sent: Message sent
-Close: Close
+Your message here: Kirjoita viestisi tähän
+Please enter a valid email address or a telephone number: Syötä toimiva sähköpostiosoite tai puhelinnumero
+Message sent: Viesti lähetetty
+Close: Sulje
 
 
 slogan_txt: We are here to help!
