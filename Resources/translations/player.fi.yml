@@ -11,7 +11,7 @@ let a message': Jätä viesti
 'Any comments ?': Kommentteja, ehdotuksia?
 'chat_transcript': Haluatko keskustelun sähköpostiin?
 'Webuser is typing': kirjoittaa...
-'Type your text here': Kirjoita teksi tähän
+'Type your text here': Kirjoita viesti tähän..
 'agent dont answer': Asiakaspalvelija ei ole saatavilla
 'chat redirection': Keskustelu
 'agent close communication': Asiakaspalvelija lopetti keskustelun
@@ -138,18 +138,18 @@ We can talk, you are seeing.: Voimme puhua, näet.
 We can talk, you are not seeing.: Voimme puhua, et näe.
 
 #REFACTOR
-type here: Type your message here...
-Do you want to close the discussion?: Do you want to close the discussion?
-Yes: Yes
-No: No
-send: Send
-your firstname: First name
-Please fill at least one of highlighted fields: Please fill at least one of highlighted fields
-your lastname: Last name
-your company: Company
-your email: Email
-your phone: Phone
-your message: Message
+type here: Kirjoita viesti tähän...
+Do you want to close the discussion?: Haluatko sulkea keskustelun?
+Yes: Kyllä
+No: Ei
+send: Lähetä
+your firstname: Etunimi
+Please fill at least one of highlighted fields: Täytä ainakin yksi korostetuista kentistä
+your lastname: Sukunimi
+your company: Yritys
+your email: Sähköposti
+your phone: Puhelin
+your message: Viesti
 Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
 Recall this operator now: Recall this operator now!
 give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
@@ -176,8 +176,8 @@ WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LE
 GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
 
 #V1.2
-required field: Required field
-message sent: Message sent
+required field: Vaadittu kenttä
+message sent: Viesti lähetetty
 Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
 No operator is available for the moment: No operator is available for the moment.
 Please leave me a message: Please leave me a message
