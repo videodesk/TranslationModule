@@ -76,7 +76,7 @@ gorgeous: maravilloso
 'agent(s) available': 'asesor(es) disponible(s)'
 'Chat (video or text) for free with ecommerce experts': 'Vídeo, Audio, Chat'
 'information help': Ya puedes hablar con los asesores disponibles. Puedes elegir entre el vídeo, el audio y el chat. Podrás disfrutar gratuitamente de una ayuda instantánea para efectuar una compra. Instantáneo, sencillo y anónimo.
-'pending call text': Hola, Intentas ponerte en contacto con Videodesk. El contacto que has solicitado ya está disponible para responderte,
+'pending call text': Hola, Intentas poner usted en contacto con Videodesk. El contacto que has solicitado ya está disponible para responder usted,
 'flash security panel': Pulsa en “Autorizar” para activar tu webcam o tu micrófono.
 'Leave a text message': Lo siento, en este momento no estoy disponible. Por favor, deja un mensaje.
 
@@ -105,21 +105,21 @@ waitLocal: Activación de tu webcam en curso
 switchToAudio: Webcam desactivada. Conexión audio en curso
 ncFailed: Lo sentimos, no podemos establecer la conexión. Estás en modo chat
 #ATTENTION MSG
-userNoFMSConnection: Debido a un problema en la red, te pasamos al modo chat.(#1)
-agentNoFMSConnection: Debido a un problema en la red, te pasamos al modo chat.(#2)
-agentFlashCrashed: Debido a un problema en la red, te pasamos al modo chat.(#4)
-userNoCamButMic: No hemos detectado ninguna webcam. Necesitas disponer de una webcam para poder lanzar una conversación vídeo. Te pasamos al modo audio.(#5)
-userNiCamNiMic: No hemos detectado ni webcams, ni micrófonos. Necesitas disponer de una webcam o de un micrófono, para poder lanzar una conversación vídeo. Te pasamos al modo chat.(#6)
-agentNoCamButMic: Tu interlocutor no dispone de webcam. Te pasamos al modo audio.(#7)
-agentNiCamNiMic: Tu interlocutor no dispone de webcam, ni de micrófono. Te pasamos al modo chat.(#8)
-userDenyFlash: Has rechazado el acceso a tu webcam y a tu micrófono. Te pasamos al modo chat.(#9)
-noPeerConnection: Debido a un problema en la red, te pasamos al modo chat.(#11)
-userConnectionFailed: Debido a un problema en la red, te pasamos al modo chat.(#11)
-agentConnectionFailed: Debido a un problema en la red, te pasamos al modo chat.(#110)
+userNoFMSConnection: Debido a un problema en la red, pasamos al modo chat.(#1)
+agentNoFMSConnection: Debido a un problema en la red, pasamos al modo chat.(#2)
+agentFlashCrashed: Debido a un problema en la red, pasamos al modo chat.(#4)
+userNoCamButMic: No hemos detectado ninguna webcam. Necesitas disponer de una webcam para poder lanzar una conversación vídeo.Pasamos al modo audio.(#5)
+userNiCamNiMic: No hemos detectado ni webcams, ni micrófonos. Necesitas disponer de una webcam o de un micrófono, para poder lanzar una conversación vídeo. Pasamos al modo chat.(#6)
+agentNoCamButMic: Tu interlocutor no dispone de webcam. Pasamos al modo audio.(#7)
+agentNiCamNiMic: Tu interlocutor no dispone de webcam, ni de micrófono. Pasamos al modo chat.(#8)
+userDenyFlash: Has rechazado el acceso a tu webcam y a tu micrófono. Pasamos al modo chat.(#9)
+noPeerConnection: Debido a un problema en la red, pasamos al modo chat.(#11)
+userConnectionFailed: Debido a un problema en la red, pasamos al modo chat.(#11)
+agentConnectionFailed: Debido a un problema en la red, pasamos al modo chat.(#110)
 userNoMic: No hemos detectado ningún micrófono. Necesitas disponer de un micrófono para poder lanzar una conversación audio. Te pasamos al modo chat.(#12)
-agentNoMic: El asesor no dispone de micrófono,lo hemos pasado al modo chat. Te pasamos al modo chat.(#13)
-userRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#15)
-agentRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, te recomendamos que utilices el chat(#16)
+agentNoMic: El asesor no dispone de micrófono,lo hemos pasado al modo chat. Pasamos al modo chat.(#13)
+userRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, le recomendamos que utilices el chat(#15)
+agentRtmptConnection: La calidad de la red no permite una calidad audio y vídeo óptimas, le recomendamos que utilices el chat(#16)
 userNoSpeakers: No hemos detectado ninguna salida de audio (altavoces, auriculares ...). Usted no puede escuchar el agente le llamó. Le sugerimos que conecte altavoces o auriculares a su ordenador. Sin embargo, ya se puede hablar con su agente a través de texto.
 remote_audio_desactivated: El sonido es desactiva
 remote_audio_activated: El sonido es activa
@@ -129,7 +129,7 @@ click_allow_to_start: Pulsa en “Autorizar” para activar tu webcam o tu micr�
 Hi: ¡Hola!
 You reached: Usted contactado
 We have to pleasure to send you the transcript of your discussion.: Tenemos el placer de enviarle la transcripción de su conversación.
-We look forward to seeing you again on: Esperamos que te ayude
+We look forward to seeing you again on: Esperamos que ayude a usted
 Thank you for your visit: Gracias por su visita.
 videodesk team: El equipo Videodesk
 transcript: Transcripción
@@ -273,8 +273,8 @@ welcome_balloon_txt: Un asesor está disponible para responder a sus preguntas. 
 fallback_timeout_unavailble_txt: No hay asesor en vídeo chat disponible. 
 fallback_timeout_calls_txt: No hay asesor en vídeo chat disponible. 
 
-The associate cannot see or hear you: El asesor no puede verte y oírte.
-The associate cant see you: El asesor no puede verte.
+The associate cannot see or hear you: El asesor no puede ver y oír a usted.
+The associate cant see you: El asesor no puede ver a usted.
 I will be with you in just a moment. Please wait while the video chat loads: Estaré con usted en un momento. Por favor, espere mientras se carga el vídeo chat.
 Are you sure you want to end this conversation?: ¿Quiere terminar la conversacion?
 Are you sure? This will end the conversation: ¿Quiere terminar la conversacion?
@@ -285,7 +285,6 @@ click the Share selected device button above: haga clic en el botón "Share sele
 click the Allow button above: haga clic en el botón "Allow" arriba
 click the Allow once button below: haga clic en el botón ‘‘Allow once’’ abajo
 You did not enable your microphone. I cant hear you but I can receive text messages.: Usted no ha activado el micrófono. No puedo oírte pero puedo recibir tus mensajes en el chat.
-The associate cannot see or hear you: El asesor no puede ver ni oír. 
 Accept: Aceptar 
 Decline: Rechazar
 File accepted: Archivo aceptado 
@@ -321,7 +320,7 @@ Close: Close
 slogan_txt: We are here to help!
 welcome_balloon_txt1: "How can I help you?"
 welcome_balloon_txt2: "An operator is available now to answer your questions"
-The associate cannot see you but he hear you: El asesor no puede ver usted, pero él es capaz de escucharte.
+The associate cannot see you but he hear you: El asesor no puede ver usted, pero él es capaz de escuchar a usted.
 I like to share a file with you: I would like to share a file with you.
 Connecting: Connecting
 whats this: What's this?
