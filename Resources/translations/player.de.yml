@@ -156,7 +156,7 @@ give us your feedback about the conversation: Gib uns dein <b>feedback</b> über
 has this dialog been helpful: War dieses Gespräch hilfreich?
 Would you recommend this experience to your facebook friends: Würden Sie diese Erfahrung an Ihre Freunde weiterempfehlen?
 Any comments or suggestions: Irgendwelche Verbesserungen?
-Get a reccord of this conversation by e-mail: Erhalten Sie eine Aufnahme Ihres Gesprächs per Email.
+Get a reccord of this conversation by e-mail: Erhalten Sie eine Aufnahme Ihres Gesprächs.
 Please enter your e-mail address: Bitte geben Sie Ihre Emailadresse an
 Please give a valid address: Bitte geben Sie eine gültige Adresse an
 The record has been successfully sent: Die Aufnahme wurde erfolgreich abgeschickt
@@ -249,9 +249,9 @@ hangup_mess_2: The conversation is over.
 your_agent_hung_up: Your agent hung up
 you_hung_up: You hung up
 give_us_your_feedback: Gib uns dein Feedback über dieses Gespräch ?
-back_to_chat: Back to chat
-send_and_quit: Send and quit
-back_to_feedback: Back to feedback
+back_to_chat: Zurück zur Chat
+send_and_quit: Senden und beenden
+back_to_feedback: Zurück zur Feedback
 any_suggestions: Irgendwelche Verbesserungen?
 transcript_will_be_sent: A transcript will be sent once the chat is over.
 transcript_sent: Conversation has been sent.
@@ -269,7 +269,7 @@ user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to 
 
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Video call
-callcenter_1: Start video chat
+callcenter_1: Fangen Sie Videochat an
 agent_txt: agent
 agents_txt: agents
 bar_txt: Live Customer Service
@@ -280,8 +280,8 @@ fallback_timeout_calls_txt: There are no available video chat agent.
 The associate cannot see or hear you: The agent cannot see or hear you.
 The associate cant see you: The agent cannot see or hear you.
 I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
-Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
-Are you sure? This will end the conversation: Are you sure? This will end the conversation.
+Are you sure you want to end this conversation?: Wollen Sie dieses Gespräch beenden?
+Are you sure? This will end the conversation: Wollen Sie dieses Gespräch beenden?
 There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Wir haben festgestellt ein Stabilitätsproblem mit Ihrem Internet-Verbindungsgeschwindigkeit, die erlaubt nicht die kontinuierliche Pflege einer guten Videoqualität. Wir können doch weiterhin durch Sprach und Text diskutieren.
 Before we get started,:  Before we get started,
 to enable your microphone,: to enable your microphone.
@@ -297,8 +297,8 @@ File declined: File declined
 Can I co-browse our store with you?: Can I co-browse our store with you?
 Allow: Allow
 Deny: Deny
-Send and quit: Send and quit
-Survey sent: Survey sent.
+Send and quit: Senden und beenden
+Survey sent: Umfrage abgeschickt.
 Click this button to turn on your microphone: Click this button to turn on your microphone.
 I turn on my microphone: I will now switch on my microphone.
 Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
@@ -306,9 +306,9 @@ Sorry, an error occured and the conversation is over.: Sorry, an error occured a
 Unable to connect: Unable to connect.
 not here, leave a message: I am currently not available. Please leave a message.
 Your video chat has ended: Your video chat has ended.
-Your opinion matters to us: Your opinion matters to us.
 Thanks for chatting with us today: Thanks for chatting with us today.
 Want a copy of our conversation?: Do you want a copy of our conversation?
+Your opinion matters to us: Ihre Meinung ist uns wichtig.
 Please enter a valid email address: Invalid email address.
 Enter your email address: Enter your email address.
 No thanks: No thanks
