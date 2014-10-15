@@ -156,7 +156,7 @@ give us your feedback about the conversation: Gib uns dein <b>feedback</b> über
 has this dialog been helpful: War dieses Gespräch hilfreich?
 Would you recommend this experience to your facebook friends: Würden Sie diese Erfahrung an Ihre Freunde weiterempfehlen?
 Any comments or suggestions: Irgendwelche Verbesserungen?
-Get a reccord of this conversation by e-mail: Erhalten Sie eine Aufnahme Ihres Gesprächs per Email.
+Get a reccord of this conversation by e-mail: Erhalten Sie eine Aufnahme Ihres Gesprächs.
 Please enter your e-mail address: Bitte geben Sie Ihre Emailadresse an
 Please give a valid address: Bitte geben Sie eine gültige Adresse an
 The record has been successfully sent: Die Aufnahme wurde erfolgreich abgeschickt
@@ -249,9 +249,9 @@ hangup_mess_2: The conversation is over.
 your_agent_hung_up: Your agent hung up
 you_hung_up: You hung up
 give_us_your_feedback: Gib uns dein Feedback über dieses Gespräch ?
-back_to_chat: Back to chat
-send_and_quit: Send and quit
-back_to_feedback: Back to feedback
+back_to_chat: Zurück zur Chat
+send_and_quit: Senden und beenden
+back_to_feedback: Zurück zur Feedback
 any_suggestions: Irgendwelche Verbesserungen?
 transcript_will_be_sent: A transcript will be sent once the chat is over.
 transcript_sent: Conversation has been sent.
