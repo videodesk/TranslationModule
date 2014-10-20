@@ -5,7 +5,7 @@
 'information help': more information
 'faq help': more information
 'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
-'Please, rate this discussion': Your opinion matters to us.
+'Please, rate this discussion': Give us your <b>feedback</b>.
 'Discussion helpful ?': Has this conversation been helpful?
 'Would you recommend this experience to your friends?': Would you recommend this experience to your friends?
 'Any comments ?': Comments? Suggestions?
@@ -152,7 +152,7 @@ your phone: Phone
 your message: Message
 Your conversation has ended.Thank you for contacting us!: <strong>Your conversation is closed.</strong><br />Thank you for contacting us!
 Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <b>feedback</b><br/>about this conversation.
+give us your feedback about the conversation: Give us your <b>feedback</b>.
 has this dialog been helpful: Has this conversation been helpful?
 Would you recommend this experience to your facebook friends: Would you recommend this experience to your friends?
 Any comments or suggestions: Comments? Suggestions?
@@ -173,7 +173,7 @@ video suggestion: Accept audio call
 audio suggestion: Accept video call
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
-GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+GIVE US YOUR FEEDBACK! THANK YOU: Give us your <b>feedback</b>.
 
 #V1.2
 required field: Required field
@@ -194,7 +194,7 @@ Agent deny call: Your operator unfortunately had to refuse the call.
 Agent dont answer call: Your operator unfortunately could not respond.
 Ongoing discussion: Ongoing conversation
 Click here to enlarge: Click here to enlarge
-Give us your feedback: Give us your feedback
+Give us your feedback: Give us your <b>feedback</b>.
 Thank_you: Thank you
 click here to enlarge: Click to enlarge 
 Your question: Your question
@@ -318,7 +318,7 @@ Sorry, an error occured and the conversation is over.: Sorry, an error occured a
 Unable to connect: Unable to connect.
 not here, leave a message: I am currently not available. Please leave a message.
 Your video chat has ended: Your video chat has ended.
-Your opinion matters to us: Your opinion matters to us.
+Your opinion matters to us: Give us your <b>feedback</b>.
 Thanks for chatting with us today: Thanks for chatting with us today.
 Want a copy of our conversation?: Do you want a copy of our conversation?
 Please enter a valid email address: Invalid email address.
@@ -366,6 +366,7 @@ The associate can see and hear you: The associate can see and hear you.
 "Thanks for contacting us.": "Thanks for contacting us."
 "Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
 agent: Agent
+any_suggestions: Any suggestions?
 
 #title popin
 pdf_title: PDF Push
