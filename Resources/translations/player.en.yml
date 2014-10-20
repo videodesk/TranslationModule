@@ -336,6 +336,8 @@ Message sent: Message sent
 Close: Close
 
 
+
+#reunification
 slogan_txt: We are here to help!
 welcome_balloon_txt1: "How can I help you?"
 welcome_balloon_txt2: "An operator is available now to answer your questions"
@@ -369,3 +371,9 @@ agent: Agent
 pdf_title: PDF Push
 video_title: Video Push
 product_webcam_title: Product camera
+
+
+click_on_allow_button: Click on the ‘‘Allow’’ button
+to_turn_on_your_webcam: To turn on your webcam
+to_turn_on_your_microphone: To turn on your microphone
+by_clicking_allow: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you. 
