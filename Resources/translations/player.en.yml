@@ -273,10 +273,8 @@ tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the 
 
 user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
 
-
 # new
 transcript_subject_ms: Microsoft Store - Video chat transcript
-
 
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Video call
@@ -287,8 +285,6 @@ bar_txt: Live Customer Service
 welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
 fallback_timeout_unavailble_txt: There are no available video chat agent.
 fallback_timeout_calls_txt: There are no available video chat agent.
-
-The associate cannot see or hear you: The agent cannot see or hear you.
 The associate cant see you: The agent cannot see or hear you.
 I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
 Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
@@ -334,8 +330,6 @@ Your message here: Your message here
 Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
 Message sent: Message sent
 Close: Close
-
-
 slogan_txt: We are here to help!
 welcome_balloon_txt1: "How can I help you?"
 welcome_balloon_txt2: "An operator is available now to answer your questions"
@@ -363,10 +357,11 @@ cannot see or hear you: cannot see or hear you.
 The associate can see and hear you: The associate can see and hear you.
 "Thanks for contacting us.": "Thanks for contacting us."
 "Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
-agent: Agent
 any_suggestions: Any suggestions?
 
 #title popin
 pdf_title: PDF Push
 video_title: Video Push
 product_webcam_title: Product camera
+agent: Agent
+Click here to expand: Click here to expand

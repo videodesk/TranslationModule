@@ -257,11 +257,24 @@ transcript_will_be_sent: Mandaremos sus intercambios por email cuando acabare su
 transcript_sent: Le hemos mandado su conversación.
 phone_invalid: Número de telefóno invalido 
 shall_we_use_this_address: ¿Podemos utilizar está dirección?
+maximize: Maximize
+reduce: Reduce
+
+cobrowsing_toolbar: Ongoing co-browse session
+initiate_a_cobrowsing_session: Do you want to accept a cobrowse session?
+accept_cobrowsing: Accept co-browse
+cobrowsing_session: I have opened a co-browse session.
+deny_btn: Deny
+allow_btn: Allow
+label_grant: Can I control your webpage alongside you?
+control: Control
 
 tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
 
 user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
 
+# new
+transcript_subject_ms: Microsoft Store - Video chat transcript
 
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Llamada vídeo
@@ -272,7 +285,6 @@ bar_txt: Atención al cliente directa
 welcome_balloon_txt: Un asesor está disponible para responder a sus preguntas. Click Start video chat now to begin.
 fallback_timeout_unavailble_txt: No hay asesor en vídeo chat disponible. 
 fallback_timeout_calls_txt: No hay asesor en vídeo chat disponible. 
-
 The associate cannot see or hear you: El asesor no puede ver y oír a usted.
 The associate cant see you: El asesor no puede ver a usted.
 I will be with you in just a moment. Please wait while the video chat loads: Estaré con usted en un momento. Por favor, espere mientras se carga el vídeo chat.
@@ -296,6 +308,7 @@ Send and quit: Enviar y salir
 Survey sent: Encuesta enviada. 
 Click this button to turn on your microphone: Haga clic en este botón para activar el micrófono. 
 I turn on my microphone: Ahora voy a activar el micrófono. 
+Unfortunately, the agent you called is unavailable at the moment: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
 Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
 Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
 Unable to connect: Unable to connect.
@@ -307,6 +320,7 @@ Want a copy of our conversation?: ¿Quieres recibir una copia de nuestra convers
 Please enter a valid email address: Dirección Email no válida
 Enter your email address: Dirección Email
 No thanks: No, gracias
+"No, thanks!": "No, gracias"
 Submit: Enviar
 Transcript sent: Conversación enviada
 We are unable to connect you with an associate: We are unable to connect you to an agent.
@@ -316,8 +330,6 @@ Your message here: Dejar un mensaje
 Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
 Message sent: Message sent
 Close: Close
-
-
 slogan_txt: We are here to help!
 welcome_balloon_txt1: "How can I help you?"
 welcome_balloon_txt2: "An operator is available now to answer your questions"
@@ -346,3 +358,10 @@ The associate can see and hear you: The associate can see and hear you.
 "Thanks for contacting us.": "Thanks for contacting us."
 "Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
 any_suggestions: ¿Tiene sugerencias?
+
+#title popin
+pdf_title: PDF Push
+video_title: Video Push
+product_webcam_title: Product camera
+agent: Asesor
+Click here to expand: Haz click para ampliar
