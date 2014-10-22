@@ -389,3 +389,7 @@ by_clicking_share_micro: By clicking “Share selected device”, the support ag
 close_video: Close video
 whats this video: What's this?
 video_desactivate: Mute the webcam
+
+click_allow_once_button: Click “allow once” button
+by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
+by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
