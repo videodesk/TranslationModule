@@ -369,11 +369,13 @@ video_title: Video Push
 product_webcam_title: Product camera
 agent: Agent
 Click here to expand: Click here to expand
+No operator is available: The agent is not available
+start a chat discussion: Start a chat conversation
+start a video discussion: Start a video conversation
 
-
-click_on_allow_button: Click on the ‘‘Allow’’ button
-to_turn_on_your_webcam: To turn on your webcam
-to_turn_on_your_microphone: To turn on your microphone
+click_on_allow_button: Click on the ‘‘Allow’’ button,
+to_turn_on_your_webcam: to turn on your webcam.
+to_turn_on_your_microphone: to turn on your microphone.
 by_clicking_allow_webcam: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
 by_clicking_allow_micro: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
 microphone_icon: microphone icon
@@ -381,9 +383,7 @@ camera_icon: camera icon
 first_click_on_the: First click on the
 above: above.
 this_will_make_the_menu_appear: this will make the menu appear.
-click_share_selected_device_button: Click “Share selected device” button
+click_share_selected_device_button: Click “Share selected device” button,
 by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
 by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
-No operator is available: The agent is not available
-start a chat discussion: Start a chat conversation
-start a video discussion: Start a video conversation
+
