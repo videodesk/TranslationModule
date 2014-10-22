@@ -273,8 +273,8 @@ tooltip_help_cobrowsing: Pendant la co-navigation, les conseillers ne peuvent vo
 
 user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
 
-
-
+# new
+transcript_subject_ms: Microsoft Store - Video chat transcript
 
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Appel vidéo
@@ -285,7 +285,6 @@ bar_txt: Service client en direct
 welcome_balloon_txt: Un conseiller est disponible pour répondre à vos questions. Cliquez sur ‘‘Démarrer la conversation vidéo’’ pour commencer. Ne vous inquiétez pas, nos conseillers ne vous voient pas.
 fallback_timeout_unavailble_txt: Les conseillers du service client sont indisponibles.
 fallback_timeout_calls_txt: Les conseillers du service client sont indisponibles.
-
 The associate cant see you: Le conseiller ne peut pas vous voir.
 I will be with you in just a moment. Please wait while the video chat loads: Je serai disponible dans quelques instants. Merci de patienter pendant le chargement de la conversation vidéo.
 Are you sure you want to end this conversation?: Voulez-vous mettre fin à la discussion ?  
@@ -309,6 +308,7 @@ Send and quit: Envoyer et quitter
 Survey sent: Sondage envoyé
 Click this button to turn on your microphone: Cliquez sur ce bouton pour activer votre microphone
 I turn on my microphone: J’ai activé mon microphone
+Unfortunately, the agent you called is unavailable at the moment: Nous sommes désolé, le conseiller que vous avez appellé n'est pas disponible pour le moment.
 Sorry, but the agents did not answer in time.: Désolé, mais les conseillers n’ont pas répondu à temps.
 Sorry, an error occured and the conversation is over.: Désolé, une erreur entrainant la fin de la conversation est survenue.
 Unable to connect: Connexion impossible
@@ -330,7 +330,6 @@ Your message here: Votre message ici
 Please enter a valid email address or a telephone number: Merci de renseigner une adresse email ou un numéro de téléphone valide.
 Message sent: Message envoyé
 Close: Fermer
-
 slogan_txt: Nous sommes là !
 welcome_balloon_txt1: "Pouvons-nous vous aider ?"
 welcome_balloon_txt2:  "Un conseiller est disponible pour répondre à vos questions."
@@ -350,12 +349,22 @@ videos push during the conversation: Vidéos partagées durant la conversation
 allowed: autorisé
 denied: refusé
 Access: Accès
-call_button_txt: Démarrer une conversation vidéo
+call_button_txt: Démarrer une conversation
 The: Le 
 cant see you: ne peut pas vous voir.
 cannot see you but he hear you: ne peut pas vous voir mais il vous entend.
 cannot see or hear you: ne peut ni vous voir ni vous entendre.
-"Thanks for contacting us.": "Merci de nous avoir contacter."
+The associate can see and hear you: Le conseiller peut vous voir et vous entendre.
+"Thanks for contacting us.": "Merci de nous avoir contacté."
 "Would you like a copy of this conversation?": "Voulez-vous recevoir une copie de cette conversation ?"
 any_suggestions: Des suggestions ?
 
+#title popin
+pdf_title: PDF Push
+video_title: Video Push
+product_webcam_title: Product camera
+agent: Conseiller
+Click here to expand: Cliquez pour agrandir
+No operator is available: Le conseiller n'est pas disponible
+start a chat discussion: Commencer une discussion texte
+start a video discussion: Commencer une discussion vidéo

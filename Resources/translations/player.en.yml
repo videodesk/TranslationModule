@@ -273,10 +273,8 @@ tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the 
 
 user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
 
-
 # new
 transcript_subject_ms: Microsoft Store - Video chat transcript
-
 
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Video call
@@ -287,8 +285,6 @@ bar_txt: Live Customer Service
 welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
 fallback_timeout_unavailble_txt: There are no available video chat agent.
 fallback_timeout_calls_txt: There are no available video chat agent.
-
-The associate cannot see or hear you: The agent cannot see or hear you.
 The associate cant see you: The agent cannot see or hear you.
 I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
 Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
@@ -357,7 +353,7 @@ videos push during the conversation: Videos shared during the conversation.
 allowed: allowed
 denied: denied
 Access: Access
-call_button_txt: Start video chat
+call_button_txt: Start a conversation now
 The: The
 cant see you: cannot see you.
 cannot see you but he hear you: cannot see you but he is able to hear you.
@@ -365,13 +361,14 @@ cannot see or hear you: cannot see or hear you.
 The associate can see and hear you: The associate can see and hear you.
 "Thanks for contacting us.": "Thanks for contacting us."
 "Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
-agent: Agent
 any_suggestions: Any suggestions?
 
 #title popin
 pdf_title: PDF Push
 video_title: Video Push
 product_webcam_title: Product camera
+agent: Agent
+Click here to expand: Click here to expand
 
 
 click_on_allow_button: Click on the ‘‘Allow’’ button
@@ -387,5 +384,9 @@ this_will_make_the_menu_appear: this will make the menu appear.
 click_share_selected_device_button: Click “Share selected device” button
 by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
 by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
+No operator is available: The agent is not available
+start a chat discussion: Start a chat conversation
+start a video discussion: Start a video conversation
 
 close_video: Close video
+
