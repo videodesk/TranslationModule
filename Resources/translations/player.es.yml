@@ -224,8 +224,8 @@ email_invalid: Email inválido
 # default values for new module COntenu des phrases modifiables
 grabber_advisor_1: ¡Estamos aquí!
 grabber_advisor_2: Asesores disponible
-grabber_message_1: Ayuda en vivo
-grabber_message_2: Déjenos un mensaje
+grabber_message_1: ¿Cómo puedo ayudarle?
+grabber_message_2: Un consejero está disponible para responderle.
 invitation_baloon: "¡Hola!\n Estoy disponible para atenderle."
 invitation_baloon_several_agents: "¡Hola!\n Un consejero está disponible para responderle"
 leave_message_1: Los asesores no están disponibles
