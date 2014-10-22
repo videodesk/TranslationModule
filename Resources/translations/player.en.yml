@@ -82,8 +82,8 @@ gorgeous: gorgeous
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: My webcam is on
-webcam_desactivated: My webcam is off
+webcam_activated: Your webcam is on
+webcam_desactivated: Your webcam is off
 mic_activated: Your mic is on
 mic_desactivated: Your mic is muted
 vid_resumed: The video of your agent is resuming
@@ -358,7 +358,7 @@ The: The
 cant see you: cannot see you.
 cannot see you but he hear you: cannot see you but he is able to hear you.
 cannot see or hear you: cannot see or hear you.
-The associate can see and hear you: The associate can see and hear you.
+The associate can see and hear you: The agent can see and hear you.
 "Thanks for contacting us.": "Thanks for contacting us."
 "Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
 any_suggestions: Any suggestions?
@@ -388,4 +388,4 @@ by_clicking_share_webcam: By clicking “Share selected device”, the support a
 by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
 close_video: Close video
 whats this video: What's this?
-
+video_desactivate: Mute the webcam
