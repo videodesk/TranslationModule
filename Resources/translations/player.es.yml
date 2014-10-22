@@ -38,7 +38,7 @@
 'webuser': Yo
 'user flash crash': shockwave flash se ha parado. Estás conectado en modo chat texto'
 'message sent': Mensage enviado
-'cgv': Al utilizar este servicio, confirmas que aceptas las <a href="http://www.videodesk.es/terms" target="_blank">Condiciones generales de venta</a> de Videodesk y, con el uso continuado, das tu consentimiento a cualquier actualización realizada. Si no aceptas las Condiciones generales de venta, por favor, no utilices este servicio.to the Terms and conditions, please do not use this service.
+'cgv': Al utilizar este servicio, confirmas que aceptas las <a href="http://www.videodesk.es/terms" target="_blank">Condiciones generales de venta</a> de videodesk y, con el uso continuado, das tu consentimiento a cualquier actualización realizada. Si no aceptas las Condiciones generales de venta, por favor, no utilices este servicio.to the Terms and conditions, please do not use this service.
 'You will can enter your text here': Puede introducir su texto aquí
 'Discussion with %site%': Discusión con %site%
 'hello': Ola
@@ -76,7 +76,7 @@ gorgeous: maravilloso
 'agent(s) available': 'asesor(es) disponible(s)'
 'Chat (video or text) for free with ecommerce experts': 'Vídeo, Audio, Chat'
 'information help': Ya puedes hablar con los asesores disponibles. Puedes elegir entre el vídeo, el audio y el chat. Podrás disfrutar gratuitamente de una ayuda instantánea para efectuar una compra. Instantáneo, sencillo y anónimo.
-'pending call text': Hola, Intentas poner usted en contacto con Videodesk. El contacto que has solicitado ya está disponible para responder usted,
+'pending call text': Hola, Intentas poner usted en contacto con videodesk. El contacto que has solicitado ya está disponible para responder usted,
 'flash security panel': Pulsa en “Autorizar” para activar tu webcam o tu micrófono.
 'Leave a text message': Lo siento, en este momento no estoy disponible. Por favor, deja un mensaje.
 
@@ -131,7 +131,7 @@ You reached: Usted contactado
 We have to pleasure to send you the transcript of your discussion.: Tenemos el placer de enviarle la transcripción de su conversación.
 We look forward to seeing you again on: Esperamos que ayude a usted
 Thank you for your visit: Gracias por su visita.
-videodesk team: El equipo Videodesk
+videodesk team: El equipo videodesk
 transcript: Transcripción
 yours transcripts with: Su transcripción con
 We can talk, you are seeing.: Podemos hablar, usted ve.
@@ -168,7 +168,7 @@ Please fill firstname field: Por favor, rellene la linea Nombre
 Please fill lastname field: Por favor, rellene la linea Apellido
 Please fill company field: Por favor, rellene la linea Empresa
 call audio: Llamada audio
-call video: Llamada video
+call video: Llamada vídeo
 video suggestion: Aceptar la llamada
 audio suggestion: Aceptar la llamada
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: ¡Ayuda en tiempo real!<br />¡Asesor disponible!
@@ -183,7 +183,7 @@ No operator is available for the moment: ¡Todos nuestros asesores están ocupad
 Please leave me a message: Por favor, dejeme un mensaje.
 Please leave a message: Por favor, deje un mensaje.
 Do you Want to start an audio call with me: ¿Le gustaria empezar una conversación audio?
-Do you Want to start a video call with me: ¿Le gustaria empezar una conversación video?
+Do you Want to start a video call with me: ¿Le gustaria empezar una conversación vídeo?
 e-mail invalid: Email inválido
 close webpage cause end of the discussion: La cierre de la pagina web lleva al acabo de la conversacion
 survey sent: Mensaje enviado
@@ -211,12 +211,12 @@ reload_to_unlock: Reactualice su pagina para poner su cámara disponible
 hangup: Colgar
 alternative_message_1: Nuestros asesores no estan disponibles
 alternative_message_2: Gracias por su comprension
-initiate_video_call: ¿Le gustaria empezar una conversacion video?
+initiate_video_call: ¿Le gustaria empezar una conversacion vídeo?
 initiate_audio_call: ¿Le gustaria empezar una conversacion audio?
-initiate_video_btn: Aceptar la llamada video
+initiate_video_btn: Aceptar la llamada vídeo
 initiate_audio_btn: Aceptar la llamada audio
 webuser_accept_audio_call: Usted ha aceptado la conversacion audio
-webuser_accept_video_call: Usted ha aceptado la conversacion video
+webuser_accept_video_call: Usted ha aceptado la conversacion vídeo
 conversation_send: Email enviado
 email_empty: Email vacío
 email_invalid: Email inválido
@@ -240,7 +240,7 @@ message_baloon: ¡Hola! Déjeme un mensaje y le volveré a contactar!
 denied_missed_call_msg: Lo siento, no puedo responder a su llamada. Dejarme un mensaje.
 all_agent_msg_1: Lo sentimos, los asesores no están disponibles.
 all_agent_msg_2: ¡Gracias, déjenos un mensaje!
-agent-deny-call-media: 'Lo sentimos, el asesor ya no puede abrir una llamada audio ó video,  por favor prosiga por chat'
+agent-deny-call-media: 'Lo sentimos, el asesor ya no puede abrir una llamada audio ó vídeo,  por favor prosiga por chat'
 fallback_default_msg: De momento el asesor no esta disponible, por favor vuelva a contactarle más tarde.
 
 #new FO v14
@@ -271,10 +271,10 @@ control: Control
 
 tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
 
-user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
+user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support vídeo chat. We have switched to voice chat to serve you better.
 
 # new
-transcript_subject_ms: Microsoft Store - Video chat transcript
+transcript_subject_ms: Microsoft Store - vídeo chat transcript
 
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Llamada vídeo
@@ -366,3 +366,5 @@ product_webcam_title: Product camera
 agent: Asesor
 Click here to expand: Haz click para ampliar
 No operator is available: Los asesores están ocupados
+start a chat discussion: Empezar una conversación de chat texto
+start a video discussion: Empezar una conversación vídeo
