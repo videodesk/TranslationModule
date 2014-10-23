@@ -238,8 +238,8 @@ back to list: Retour à la liste
 fall_back_window_default: Notre conseiller est indisponible pour le moment, veuillez réessayer plus tard.
 message_baloon: Bonjour, laissez moi un message et je vous recontacte !
 denied_missed_call_msg: Désolé, je ne peux pas répondre à votre appel. Merci de me laisser un message.
-all_agent_msg_1: Désolé, nos conseillers sont indisponibles.
-all_agent_msg_2: Merci de laisser un message !
+all_agent_msg_1: Nos conseillers sont indisponibles.
+all_agent_msg_2: Laissez-nous un message !
 agent-deny-call-media: 'Désolé, le conseiller ne peut plus communiquer en audio ou en vidéo, merci de continuer en tchat'
 fallback_default_msg: Notre conseiller est indisponible pour le moment, veuillez réessayer plus tard.
 
@@ -365,7 +365,8 @@ video_title: Video Push
 product_webcam_title: Product camera
 agent: Conseiller
 Click here to expand: Cliquez pour agrandir
-No operator is available: Le conseiller n'est pas disponible
+No operator is available: Conseiller<br />non<br />disponible
+Leave us a message: Laissez-nous un message
 start a chat discussion: Commencer une discussion texte
 start a video discussion: Commencer une discussion vidéo
 
