@@ -388,3 +388,7 @@ by_clicking_share_micro: Haciendo clic en el botón ‘‘Share selected device�
 close_video: Cerrar el vídeo
 video_desactivate: Cortar la webcam
 whats this video: What's this?
+
+click_allow_once_button: Haga clic en el botón ‘‘Allow once’’
+by_clicking_allow_once_webcam: Haciendo clic en el botón ‘‘Allow once’’, el asesor del sitio es capaz de escuchar y ver a usted.
+by_clicking_allow_once_micro: Haciendo clic en el botón ‘‘Allow’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
