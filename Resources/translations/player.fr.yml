@@ -355,7 +355,7 @@ cant see you: ne peut pas vous voir.
 cannot see you but he hear you: ne peut pas vous voir mais il vous entend.
 cannot see or hear you: ne peut ni vous voir ni vous entendre.
 The associate can see and hear you: Le conseiller peut vous voir et vous entendre.
-"Thanks for contacting us.": "Merci de nous avoir contacté."
+"Thanks for contacting us.": "Merci de avoir nous contacté."
 "Would you like a copy of this conversation?": "Voulez-vous recevoir une copie de cette conversation ?"
 any_suggestions: Des suggestions ?
 
@@ -391,3 +391,5 @@ whats this video: Comment ça marche ?
 click_allow_once_button: Cliquez sur le bouton “Autoriser une fois”
 by_clicking_allow_once_webcam: En cliquant sur le bouton ‘‘Autoriser une fois’’, le conseiller du site internet sur lequel vous êtes en train de naviguer pourra vous voir et vous entendre.
 by_clicking_allow_once_micro: En cliquant sur le bouton ‘‘Autoriser une fois’’, le conseiller du site internet sur lequel vous êtes en train de naviguer pourra vous entendre.
+I will be with you in just a moment. Please wait while the text chat loads: Je serai disponible dans quelques instants. Merci de patienter pendant le chargement de la conversation.
+Your text chat has ended: Votre conversation est terminée.
