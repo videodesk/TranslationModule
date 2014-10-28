@@ -9,9 +9,9 @@
 'Discussion helpful ?': Vai palīdzējām Jums?
 'Would you recommend this experience to your friends?': Vai jūs šo ieteiktu saviem draugiem?
 'Any comments ?': Komentāri? Ieteikumi?
-'chat_transcript': Saņemt čata tekstu uz epastu.
+'chat_transcript': Saņemt sarunas tekstu uz epastu.
 'Webuser is typing': raksta...
-'Type your text here': Raksti te
+'Type your text here': Rakstiet šeit
 'agent dont answer': Neviena nav uz vietas
 'chat redirection': Čats
 'agent close communication': Pārstāvis beidza aizvēra sarunu
@@ -19,7 +19,7 @@
 'i am currently unavailable': Atvainojiet, šobrīd esmu aizņemts, lūdzu, atstājiet man ziņu.
 'Your mail': Jūsu epasts
 'Or': Vai jūsu telefona numurs
-'Please type your message here': Raksti savu ziņu te
+'Please type your message here': Rakstiet savu ziņu šeit
 'message field required': Aizpildiet teksta lauku
 'email or phone field required': Lūdzu, norādiet epastu vai telefona numuru
 'send': Sūta
@@ -46,7 +46,7 @@
 'new message from': Jauna ziņa 
 'message from videodesk module': Jauna ziņa no videodesk moduļa
 'message originally intended to': Ziņa nosūtīta uz:
-'Enter your question here': Raksti savu ziņu te...
+'Enter your question here': Rakstiet savu ziņu šeit...
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Pirms uzsākam sarunu, lūdzu, uzrakstiet, par ko vēlaties runāt.
@@ -229,7 +229,7 @@ grabber_message_2: Atstāt ziņu
 invitation_baloon: "Sveiki! Kā es Jums varu palīzēt?"
 invitation_baloon_several_agents: "Sveiki! Pārstāvis ir pieejams un gatavs atbildēt uz Jūsu jautājumiem"
 leave_message_1: Atvainojiet, neviens operators nav pieejams.
-leave_message_2: Lūdzu atstājie ziņu!
+leave_message_2: Lūdzu atstājiet ziņu!
 crm_txt_1: Kamēr mēs sazināmies ar operatoru, 
 crm_txt_2: lūdzu, ievadiet sekojošo:
 
