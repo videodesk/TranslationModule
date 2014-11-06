@@ -228,8 +228,8 @@ grabber_message_1: Online hulp
 grabber_message_2: Laat een bericht achter
 invitation_baloon: "Hallo! Kan ik u helpen?"
 invitation_baloon_several_agents: "Hallo! Een productadviseur is beschikbaar om uw vragen te beantwoorden."
-leave_message_1: Sorry, onze productadviseurs zijn niet beschikbaar.
-leave_message_2: Laat hier alsjeblieft een bericht achter!
+leave_message_1: Momenteel zijn we niet beschikbaar.
+leave_message_2: Laat hier een bericht achter!
 crm_txt_1: Terwijl we verbinding maken met uw productadviseur,
 crm_txt_2: vul alstublieft het volgende in:
 
@@ -369,8 +369,8 @@ video_title: Video Push
 product_webcam_title: Product camera
 agent: Agent
 Click here to expand: Click here to expand
-No operator is available: The agent is not available
-Leave us a message: Leave us a message
+No operator is available: Onze adviseurs zijn niet beschikbaar
+Leave us a message: Laat hier een bericht achter!
 start a chat discussion: Start a text conversation
 start a video discussion: Start a video conversation
 
