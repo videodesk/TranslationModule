@@ -284,7 +284,7 @@ agents_txt: agents
 bar_txt: Live Customer Service
 welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
 fallback_timeout_unavailble_txt: There are no available video chat agent.
-fallback_timeout_calls_txt: There are no available video chat agent.
+fallback_timeout_calls_txt: There are no available chat agent.
 
 The associate cannot see or hear you: The agent cannot see or hear you.
 The associate cant see you: The agent cannot see or hear you.
@@ -369,10 +369,10 @@ video_title: Video Push
 product_webcam_title: Product camera
 agent: Agent
 Click here to expand: Click here to expand
-No operator is available: The agent is not available
-Leave us a message: Leave us a message
-start a chat discussion: Start a text conversation
-start a video discussion: Start a video conversation
+No operator is available: Vores medarbejdere er utilgængelige
+Leave us a message: Læg venligst en besked!
+start a chat discussion: Start en tekst samtale
+start a video discussion: Start en videosamtale
 
 click_on_allow_button: Click on the ‘‘Allow’’ button,
 to_turn_on_your_webcam: to turn on your webcam.
