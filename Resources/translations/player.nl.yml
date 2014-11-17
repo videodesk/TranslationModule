@@ -238,8 +238,8 @@ message_baloon: Hallo, laat hier een bericht achter en ik neem contact met u op!
 fall_back_window_default: Onze productadviseurs zijn niet beschikbaar, probeer het later opnieuw.
 back to list: Terug naar het overzicht
 denied_missed_call_msg: Sorry, ik kan momenteel uw vraag niet beantwoorden. Laat alstublieft een bericht achter.
-all_agent_msg_1: Op dit moment zijn onze adviseurs niet beschikbaar. 
-all_agent_msg_2: Laat een bericht achter, we nemen terug contact. 
+all_agent_msg_1: Sorry, momenteel zijn we niet beschikbaar. 
+all_agent_msg_2: Laat hier een bericht achter! 
 agent-deny-call-media: 'Sorry, ik kan geen audio of video gesprek met u starten, kunnen we verder gaan in een tekst chatgesprek?'
 fallback_default_msg: 'Onze productadviseurs zijn momenteel niet beschikbaar, probeer het later nog eens.'
 
