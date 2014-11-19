@@ -264,7 +264,7 @@ click_share_selected_device_button: Click “Share selected device” button,
 by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
 by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
 close_video: Close video
-whats this video: What's this?
+whats this video: Presentation video
 video_desactivate: Mute the webcam
 click_allow_once_button: Click “allow once” button
 by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
@@ -280,3 +280,10 @@ you_are_seeing: You are seeing
 you_are_not_seeing: You are not seeing
 Co-browse session has ended: Co-browse session has ended.
 we are unavailable: We are unavailable.
+#audio video access
+ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
+ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
+audio_access_allowed: Audio access allowed
+video_access_allowed: Video access allowed
+audio_access_denied: Audio access denied
+video_access_denied: Video access denied
