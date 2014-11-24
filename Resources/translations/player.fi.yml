@@ -20,29 +20,29 @@ regular: normaali
 good: hyvä
 gorgeous: loistava
 #module texts
-'information help':   Voit nyt keskustella kanssamme. Valitse istellesi sopivin tapa keskustella, se on täysin ilmaista.
+'information help': Voit nyt keskustella kanssamme. Valitse istellesi sopivin tapa keskustella, se on täysin ilmaista.
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: My webcam is on
-webcam_desactivated: My webcam is off
-mic_activated: My microphone is on
-mic_desactivated: My microphone is muted
-vid_resumed: The video of your agent is resuming
-vid_stoped: The video of your agent is off
+webcam_activated: Videokamera on päällä
+webcam_desactivated: Videokamera ei ole päällä
+mic_activated: Mikrofoni on päällä
+mic_desactivated: Mikrofoni on mykistetty
+vid_resumed: Videokuva jatkuu
+vid_stoped: Video lopetettiin
 #ROLL MSG
-activate_cam: Activate my webcam
-desactivate_cam: Disable my webcam
-activate_mic: Activate my microphone
-desactivate_mic: Mute my microphone
-stop_vid: Stop the video of the agent
-resume_vid: Resume the video of the agent
-activate_volume: Unmute the speakers
-desactivate_volume: Mute the speakers
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
+activate_cam: Aktivoi videokamera
+desactivate_cam: Älä aktivoi videokameraa
+activate_mic: Aktivoi mikrofoni
+desactivate_mic: Mykistä mikrofoni
+stop_vid: Pysäytä video
+resume_vid: Jatka videota
+activate_volume: Aktivoi kaiuttimet
+desactivate_volume: Mykistä kaiuttimet
+userDenyFlash: Et sallinut pääsyä videokameraasi ja mikrofoniisi. Vaihdamme normaaliin keskusteluun.(#9)
 #transcript mail
 Hi: Hei ,
-You reached: You yhteyttä 
-We have to pleasure to send you the transcript of your discussion.: Meillä on ilo lähettää sinulle transkriptio teidän keskustelun.
+You reached: You yhteyttä
+We have to pleasure to send you the transcript of your discussion.: Meillä on ilo lähettää sinulle teidän keskustelu.
 We look forward to seeing you again on: Odotamme tapaamistamme
 Thank you for your visit: Kiitos vierailusta.
 videodesk team: Videodesk joukkue
@@ -63,227 +63,220 @@ your company: Yritys
 your email: Sähköposti
 your phone: Puhelin
 your message: Viesti
-Your conversation has ended.Thank you for contacting us!: <strong>Your conversation has ended.</strong><br />Thank you for contacting us!
-Recall this operator now: Recall this operator now!
-give us your feedback about the conversation: Give us your <strong>feedback</strong><br/>about your conversation.
-has this dialog been helpful: Has this dialog been helpful?
-Would you recommend this experience to your facebook friends: Would you recommend this experience to your facebook friends?
-Any comments or suggestions: Comments? Suggestions?
-Get a reccord of this conversation by e-mail: Get a reccord of your conversation by e-mail.
-Please enter your e-mail address: Please enter your e-mail address
-Please give a valid address: Please give a valid address
-The record has been successfully sent: The record has been successfully sent
-your message has been successfully sent. We Will contact you soon: Your message has been successfully sent.<br />We Will contact you soon.
-Please fill email field: Please fill email field
-Please fill phone field: Please fill phone field
-Please fill message textarea: Please fill message textarea
-Please fill firstname field: Please fill firstname field
-Please fill lastname field: Please fill lastname field
-Please fill company field: Please fill company field
-call audio: Audio Call
-call video: Video Call
-video suggestion: Video suggestion
-audio suggestion: Audio suggestion
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: WE ARE HERE TO HELP!<br />LIVE SALES ADVISOR.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: WE ARE HERE TO HELP!<br />PLEASE LEAVE A MESSAGE.
-GIVE US YOUR FEEDBACK! THANK YOU: GIVE US YOUR FEEDBACK!<br />THANK YOU
+Your conversation has ended.Thank you for contacting us!: <strong>Keskustelusi on päättynyt.</strong><br />Kiitos yhteydenotosta!
+Recall this operator now: Soita asiakaspalvelijalle uudestaan!
+give us your feedback about the conversation: Anne meille <strong>palautetta</strong><br/>keskustelustasi.
+has this dialog been helpful: Olisko keskustelustasi apua?
+Would you recommend this experience to your facebook friends: Haluaisitko suositella keskusteluasi kavereillesi Facebookissa?
+Any comments or suggestions: Kommentteja? Ehdotuksia?
+Get a reccord of this conversation by e-mail: Haluatko keskustelusi sähköpostiin?
+Please enter your e-mail address: Syötä sähköpostisi
+Please give a valid address: Anna toimiva osoite
+The record has been successfully sent: Tietojen lähettäminen onnistui
+your message has been successfully sent. We Will contact you soon: Tietojen lähettäminen onnistui.<br />Otamme pian yhteyttä.
+Please fill email field: Täytä sähköposti kenttä
+Please fill phone field: Täytä puhelin kenttä
+Please fill message textarea: Täytä viesti kenttä
+Please fill firstname field: Täytä etunimi kenttä
+Please fill lastname field: Täytä sukunimi kenttä
+Please fill company field: Täytä yritys kenttä
+call audio: Äänipuhelu
+call video: Videopuhelu
+video suggestion: Video ehdotus
+audio suggestion: Ääni ehdotus
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: Me autamme!<br />Asiakaspalvelu.
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: Me autamme!<br />Jätä viesti.
+GIVE US YOUR FEEDBACK! THANK YOU: Kiitos palautteesta!
 #V1.2
 required field: Vaadittu kenttä
 message sent: Viesti lähetetty
-Before contacting you operator: Before contacting your operator,<br/>Please give up a few infos:
-No operator is available for the moment: No operator is available for the moment.
-Please leave me a message: Please leave me a message
-Please leave a message: Please leave a message
-Do you Want to start an audio call with me: Do you want to start an audio call with me?
-Do you Want to start a video call with me: Do you want to start a video call with me?
-e-mail invalid: Invalid Email
-close webpage cause end of the discussion: Close webpage cause end of the discussion
+Before contacting you operator: Ennen keskustelua,<br/>anna muutama tieto:
+No operator is available for the moment: Yhtään asiakaspalvelijaa ei nyt ole valitettavasti vapaana.
+Please leave me a message: Ole hyvä ja jätä viesti
+Please leave a message: Ole hyvä ja jätä viesti
+Do you Want to start an audio call with me: Haluatko aloittaa äänipuhelun kanssani?
+Do you Want to start a video call with me: Haluatko aloittaa videopuhelun kanssani?
+e-mail invalid: Virheellinen sähköposti
+close webpage cause end of the discussion: Sivun sulkeminen lopettaa keskustelun
 survey sent: Lähetetty
-agent hangup: Agent hangup
-agent unavailable: Agent unavailable
-Agent dont answer call: Agent dont answer call
-Ongoing discussion: Ongoing discussion
-Click here to enlarge: Click here to enlarge
-Give us your feedback: Give us your feedback
-Thank_you: Thank you
-click here to enlarge: Click to enlarge 
-Your question: Your question
-click_on: Click on
-allow: allow
-to_start_your_microphone: To start your microphone
-to_start_your_webcam: To start your webcam
-terms_of_use: 'You can read the terms of use '
-here: 'here'
-hangup: Hang up
-initiate_video_call: Do you want to start a video call with me?
-initiate_audio_call: Do you want to start an audio call with me?
-webuser_accept_audio_call: You accepted the audio conversation
-webuser_accept_video_call: You accepted the video conversation
-conversation_send: e-mail sent
+agent hangup: Asiakaspalvelija lopetti puhelun
+agent unavailable: Asiakaspalvelija ei ole saatavilla
+Agent dont answer call: Asiakaspalvelija ei vastaa
+Ongoing discussion: Keskustelu käynnisssä
+Click here to enlarge: Klikkaa suurentaaksesi
+Give us your feedback: Anna meille palautetta
+Thank_you: Kiitos
+click here to enlarge: Klikkaa suurentaaksesi
+Your question: Kysymyksesi
+click_on: Klikkaa
+allow: salli
+to_start_your_microphone: Laittaaksesi mikrofonin päälle
+to_start_your_webcam: Laittaaksesi videokameran päälle
+terms_of_use: 'Käyttöehdot '
+here: 'täällä'
+hangup: Sulje puhelu
+initiate_video_call: Haluatko aloittaa videopuhelun kanssani?
+initiate_audio_call: Haluatko aloittaa äänipuhelun kanssani?
+webuser_accept_audio_call: Hyväksyit äänipuhelun
+webuser_accept_video_call: Hyväksyit videopuhelun
+conversation_send: sähköposti lähetetty
 # default values for new module
-grabber_advisor_1: We are here to help!
-grabber_advisor_2: Live sales advisors
-grabber_message_1: Online Help
-grabber_message_2: Leave a message
-invitation_baloon: "Hi!\nHow can I help you?"
-invitation_baloon_several_agents: "Hi!\nAn operator is available now to answer your questions"
+grabber_advisor_1: Me autamme!
+grabber_advisor_2: Asiakaspalvelu
+grabber_message_1: Auttaa verkossa
+grabber_message_2: Jätä viesti
+invitation_baloon: "Hei!\nKuinka voimme auttaa?"
+invitation_baloon_several_agents: "Hei!\nAsiaspalvelija on vapaana vastaamaan kysymyksiisi"
 #new
-message_baloon: Hi, leave me a message and I will contact you back!
-fall_back_window_default: Our agent is unavailable right now, please try later
-back to list: Back to the list
-denied_missed_call_msg: Sorry, I cannot take your call. Please leave me a message!
-all_agent_msg_1: Sorry our agents are unavailable.
-all_agent_msg_2: Please leave us a message!
-agent-deny-call-media: 'Sorry, i cannot open an audio or video call any more, please continue via text chat'
-fallback_default_msg: 'Our agent are not available right now, please try again later'
+message_baloon: Hei, jätä viesti ja palaamme asiaan!
+fall_back_window_default: Asiakaspalvelija ei ole saatavilla, yritä myöhemmin uudestaan
+back to list: Takaisin listaan
+denied_missed_call_msg: Valitan, en voi vastata puheluusi. Jätä viesti, kiitos!
+all_agent_msg_1: Asiakaspalvelijat ei ole saatavilla.
+all_agent_msg_2: Jätä viesti!
+agent-deny-call-media: 'Valitan, en voi nyt käyttää videota tai ääntä, jatketaan keskustelulla'
+fallback_default_msg: 'Asiakaspalvelija ei ole saatavilla, yritä myöhemmin uudestaan'
 #new FO v14
-hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
-hangup_mess_2: The conversation is over.
-your_agent_hung_up: Your agent hung up
-you_hung_up: You hung up
-give_us_your_feedback: Would you like to give us your feedback ?
-back_to_chat: Back to chat
-send_and_quit: Send and quit
-back_to_feedback: Back to feedback
-any_suggestions: Any suggestions?
-transcript_will_be_sent: A transcript will be sent once the chat is over.
-transcript_sent: Conversation has been sent.
-phone_invalid: Phone invalid
-shall_we_use_this_address: Shall we use this address
-maximize: Maximize
-reduce: Reduce
-cobrowsing_toolbar: Ongoing co-browse session
-initiate_a_cobrowsing_session: Do you want to accept a cobrowse session?
-accept_cobrowsing: Accept co-browse
-cobrowsing_session: I have opened a co-browse session.
-deny_btn: Deny
-allow_btn: Allow
-label_grant: Can I control your webpage alongside you?
-control: Control
-tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
+hangup_mess_1: Valitettavasti asiakaspelvelija joutui lopettamaan puhelun. Viestisi ei mennyt perille.
+hangup_mess_2: Keskustelusi on ohi.
+your_agent_hung_up: Asiakaspalvelija lopetti puhelun
+you_hung_up: Lopetit puhelun
+give_us_your_feedback: Haluaisitko antaa palautetta?
+back_to_chat: Takaisin keskusteluun
+send_and_quit: Lähetä ja lopeta
+back_to_feedback: Takaisin palautteeseen
+any_suggestions: Ehdotuksia?
+transcript_will_be_sent: Kopio keskustelusi lähetetään kun keskustelu on ohi.
+transcript_sent: Keskustelu lähetetty.
+phone_invalid: Virheellinen puhelin
+shall_we_use_this_address: Käytämmekö tätä osoitetta?
+maximize: Suurenna
+reduce: Pienennä
+cobrowsing_toolbar: Ota etäyhteys
+initiate_a_cobrowsing_session: Haluatko aloittaa etäyhteyden?
+accept_cobrowsing: Hyväksy etäyhteys
+cobrowsing_session: Olen aloittanut etäyhteyden.
+deny_btn: Hylkää
+allow_btn: Salli
+label_grant: Voinko kontrolloida sivun web-sivua rinnallasi?
+control: Kontrolloi
+tooltip_help_cobrowsing: Etäyhteyden aikana, asiakaspalvelija näkee ainoastaan web-sivun sisällön, ei sinun selaintasi, tai muuta avoinna olevia sivujasi. Asiakaspalvelija ei myöskään näe mitään muuta koneeltasi.
 # new
 #V16---------------------------------------------------------------------------
-See_the_agent_webcam: Video call
-agent_txt: agent
-agents_txt: agents
-bar_txt: Live Customer Service
-welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
-fallback_timeout_unavailble_txt: There are no available video chat agent.
-fallback_timeout_calls_txt: There are no available video chat agent.
-The associate cant see you: The agent cannot see or hear you.
-I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
-Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
-Are you sure? This will end the conversation: Are you sure? This will end the conversation.
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Your Internet connection does not support video chat. However we can still voice or text chat.
-Before we get started,:  Before we get started,
-to enable your microphone,: to enable your microphone.
-click the Share selected device button above: click on the ‘‘Share selected device’’ button above
-click the Allow button above: click on the ‘‘Allow’’ button above
-click the Allow once button below: click on the ‘‘Allow once’’ button below
-You did not enable your microphone. I cant hear you but I can receive text messages.: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-The associate cannot see or hear you: The agent cannot see or hear you.
-Accept: Accept
-Decline: Decline 
-File accepted: File accepted
-File declined: File declined
-Can I co-browse our store with you?: Can I co-browse our store with you?
-Allow: Allow
-Deny: Deny
-Send and quit: Send and quit
-Survey sent: Survey sent.
-Click this button to turn on your microphone: Click this button to turn on your microphone.
-I turn on my microphone: I will now switch on my microphone.
-Unfortunately, the agent you called is unavailable at the moment: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
-Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
-Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
-Unable to connect: Unable to connect.
-not here, leave a message: I am currently not available. Please leave a message.
-Your video chat has ended: Your video chat has ended.
-Your opinion matters to us: Your opinion matters to us.
-Thanks for chatting with us today: Thanks for chatting with us today.
-Want a copy of our conversation?: Do you want a copy of our conversation?
-Please enter a valid email address: Invalid email address.
-Enter your email address: Enter your email address.
-No thanks: No thanks
-"No, thanks!": "No, thanks"
-Submit: Submit
-Transcript sent: Transcript sent
-We are unable to connect you with an associate: We are unable to connect you to an agent.
-Your email address: Your email address
-Your phone number: Your phone number
+See_the_agent_webcam: Videopuhelu
+agent_txt: Asiakaspalvelija
+agents_txt: Asiakaspalvelijat
+bar_txt: Asiakaspalvelu verkossa
+welcome_balloon_txt: Asiakaspalvelija on nyt vapaana. Klikkaa Aloita videopuhelu aloittaaksesi.
+fallback_timeout_unavailble_txt: Asiakaspalvelija ei nyt pysty vastaamaan.
+fallback_timeout_calls_txt: Asiakaspalvelija ei nyt pysty vastaamaan.
+The associate cant see you: Asiakaspalvelija ei kuule tai näe sinua.
+I will be with you in just a moment. Please wait while the video chat loads: Odota vielä pieni hetki. Videokeskustelu lataa...
+Are you sure you want to end this conversation?: Haluatko varmasti lopettaa tämän keskustelun?
+Are you sure? This will end the conversation: Oletko varma? Tämä lopettaa keskustelun.
+There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Internet yhteytesi ei salli videopuhelua. Voimme silti keskustella chatissa.
+Before we get started,: Ennen kuin aloitamme,
+to enable your microphone,: aktivoi mikrofonisi.
+click the Share selected device button above: Klikkaa ‘‘Jaa valitut laitteet’’ painiketta yläpuolella
+click the Allow button above: Klikkaa‘‘Salli’’ painiketta yläpuolella
+click the Allow once button below: Klikkaa ‘‘Salli kerran’’ painiketta alapuolella
+You did not enable your microphone. I cant hear you but I can receive text messages.: Et aktivoinut mikrofoniasi. En kuule sinua, mutta voimme chattailla.
+The associate cannot see or hear you: Asiakaspalvelija ei näe tai kuule sinua.
+Accept: Hyväksy
+Decline: Hylkää
+File accepted: Tiedosto hyväksytty
+File declined: Tiedosto hylätty
+Can I co-browse our store with you?: Voinko ottaa etäyhteyden ja näyttää sivustoamme?
+Allow: Salli
+Deny: Hylkää
+Send and quit: Lähetä ja lopeta
+Survey sent: Kysely lähetetty.
+Click this button to turn on your microphone: Klikkaa tätä palloa aktivoidaksesi mikrofonin.
+I turn on my microphone: Aktivoin nyt oman mikrofonini.
+Unfortunately, the agent you called is unavailable at the moment: Valitamme. Asiakaspalvelija ei ole nyt vapaapa.
+Sorry, but the agents did not answer in time.: Valitamme, asiakaspalvelija ei vastannut.
+Sorry, an error occured and the conversation is over.: Valitamme, virhe ilmeni ja keskustelu on ohi.
+Unable to connect: Yhteys ei onnistu.
+not here, leave a message: En ole vapaana, jätä viesti
+Your video chat has ended: Videopuhelusi on päättynyt.
+Your opinion matters to us: Mielipiteelläsi on merkitystä.
+Thanks for chatting with us today: Kiitos keskustelustasi.
+Want a copy of our conversation?: Haluatko kopion keskustelustasi?
+Please enter a valid email address: Virheellinen sähköposti.
+Enter your email address: Syötä sähköpostisi.
+No thanks: Ei kiitos
+"No, thanks!": "Ei kiitos"
+Submit: Lähetä
+Transcript sent: Kopio lähetetty
+We are unable to connect you with an associate: Yhdistäminen ei onnistunut.
+Your email address: Sinun sähköpostisi
+Your phone number: Puhelinnumerosi
 Your message here: Kirjoita viestisi tähän
 Please enter a valid email address or a telephone number: Syötä toimiva sähköpostiosoite tai puhelinnumero
 Message sent: Viesti lähetetty
 Close: Sulje
 #reunification
-slogan_txt: We are here to help!
-welcome_balloon_txt1: "How can I help you?"
-welcome_balloon_txt2: "An operator is available now to answer your questions"
-The associate cannot see you but he hear you: The agent cannot see you but he is able to hear you.
-I like to share a file with you: I would like to share a file with you.
-Connecting: Connecting
-whats this: Presentation video
-My text chat conversation: My text chat conversation
-My video chat conversation: My video chat conversation
-Please find the entire conversation attached below.: ''
-files push during the conversation: Files shared during the conversation.
-videos push during the conversation: Videos shared during the conversation.
-allowed: allowed
-denied: denied
-Access: Access
-call_button_txt: Start video chat
-The: The
-cant see you: cannot see you.
-cannot see you but he hear you: cannot see you but he is able to hear you.
-cannot see or hear you: cannot see or hear you.
-The associate can see and hear you: The agent can see and hear you.
-"Thanks for contacting us.": "Thanks for contacting us."
-"Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
-any_suggestions: Any suggestions?
+slogan_txt: Me autamme!
+welcome_balloon_txt1: "Kuinka voin auttaa"
+welcome_balloon_txt2: "Asiakaspalvelija on nyt vapaana"
+The associate cannot see you but he hear you: Asiakaspalvelija ei näe sinua, mutta kuulee sinut.
+I like to share a file with you: Haluaisin jakaa tiedoston kanssasi.
+Connecting: Yhdistää
+whats this: Esitysvideo
+My text chat conversation: Chattikeskusteluni
+My video chat conversation: Videokeskusteluni
+Please find the entire conversation attached below.: 'Koko keskustelusi on liitetty alle'
+files push during the conversation: Tiedostot jotka jaettiin keskustelun aikana.
+videos push during the conversation: Videot jotka jaettiin keskustelun aikana.
+allowed: sallittu
+denied: kielletty
+Access: Pääsy
+call_button_txt: Aloita videopuhelu
+The:
+cant see you: ei näe sinua.
+cannot see you but he hear you: ei näe sinua, mutta kuulee sinut.
+cannot see or hear you: ei näe tai kuule sinua
+The associate can see and hear you: Asiakaspalvelija näkee ja kuulee sinut
+"Thanks for contacting us.": "Kiitos yhteydenotosta."
+"Would you like a copy of this conversation?": "Haluaisitko kopion tästä keskustelusta?"
+any_suggestions: Ehdotuksia?
 #title popin
-pdf_title: PDF Push
-video_title: Video Push
-product_webcam_title: Product camera
-agent: Agent
-Click here to expand: Click here to expand
-No operator is available: The agent is not available
-Leave us a message: Leave us a message
-start a chat discussion: Start a text conversation
-start a video discussion: Start a video conversation
-click_on_allow_button: Click on the ‘‘Allow’’ button,
-to_turn_on_your_webcam: to turn on your webcam.
-to_turn_on_your_microphone: to turn on your microphone.
-by_clicking_allow_webcam: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_micro: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
-microphone_icon: microphone icon
-camera_icon: camera icon
-first_click_on_the: First click on the
-above: above.
-this_will_make_the_menu_appear: this will make the menu appear.
-click_share_selected_device_button: Click “Share selected device” button,
-by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
-by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
-close_video: Close video
-whats this video: Presentation video
-video_desactivate: Mute the webcam
-click_allow_once_button: Click “allow once” button
-by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
-I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
-Your text chat has ended: Your text chat has ended.
-Your text conversation is now over: Your text conversation is now over.
-video_activate: Webcam is on
-audio_activate: Microphone is on
-audio_desactivate: Mute the microphone
-do_you_want_to_end_discussion: Do you want to end the conversation?
-you_are_seeing: You are seeing
-you_are_not_seeing: You are not seeing
-Co-browse session has ended: Co-browse session has ended.
-we are unavailable: We are unavailable.
-#audio video access
-ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
-audio_access_allowed: Audio access allowed
-video_access_allowed: Video access allowed
-audio_access_denied: Audio access denied
-video_access_denied: Video access denied
+pdf_title: Lähetä PDF
+video_title: Lähetä video
+product_webcam_title: Kamera
+agent: Asiakaspalvelija
+Click here to expand: Klikkaa suurentaaksesi
+No operator is available: Asiakaspalvelija ei ole vapaana
+Leave us a message: Jätä viesti
+start a chat discussion: Aloita chatkeskustelu
+start a video discussion: Aloita videokeskustelu
+click_on_allow_button: Klikkaa ‘‘Salli’’ painiketta,
+to_turn_on_your_webcam: aktivoidaksesi videokameran.
+to_turn_on_your_microphone: aktivoidaksesi mikrofonin.
+by_clicking_allow_webcam: Klikkaamalla “Salli”, asiakaspalvelija pystyy näkemään ja kuulemaan sinut.
+by_clicking_allow_micro: Klikkaamalla “Salli”, asiakaspalvelija pystyy kuulemaan sinut.
+microphone_icon: mikrofonin ikoni
+camera_icon: kameran ikoni
+first_click_on_the: Ensiksi klikkaa
+above: yllä.
+this_will_make_the_menu_appear: tämä piilottaa valikon.
+click_share_selected_device_button: Klikkaa “Jaa valittu laite” painiketta,
+by_clicking_share_webcam: Klikkaamalla “Jaa valittu laite”, asiakaspalvelija pystyy näkemään ja kuulemaan sinut.
+by_clicking_share_micro: Klikkaamalla “Jaa valittu laite”, asiakaspalvelija pystyy kuulemaan sinut.
+close_video: Sulje video
+whats this video: Esitysvideo
+video_desactivate: Mykistä videokamera
+click_allow_once_button: Klikkaa “salli kerran” painiketta
+by_clicking_allow_once_webcam: Klikkaamalla “Salli kerran”, asiakaspalvelija pystyy näkemään ja kuulemaan sinut.
+by_clicking_allow_once_micro: Klikkaamalla “Salli kerran”, asiakaspalvelija pystyy kuulemaan sinut
+I will be with you in just a moment. Please wait while the text chat loads: Odota vielä hetki, chat lataantuu.
+Your text chat has ended: Keskustelusi on nyt päättynyt.
+Your text conversation is now over: Keskustelusi on nyt päättynyt.
+video_activate: Videokamera on päällä
+audio_activate: Mikrofoni on päällä
+audio_desactivate: Mykistä mikrofoni
+do_you_want_to_end_discussion: Haluatko lopettaa keskustelun?
+you_are_seeing: Näet
+you_are_not_seeing: Et näe
+Co-browse session has ended: Etäyhteys on päättynyt.
+we are unavailable: Emme ole tavoitettavissa.
