@@ -1,85 +1,26 @@
-'let a message': Laat een bericht achter
-'chat call': chat gesprek
 'audio call': audio gesprek
 'video call': video gesprek
 'information help': meer weten
 'faq help': veel gestelde vragen
-'Your discussion has ended': Uw gesprek is beeïndigd.<br /> Dankuwel om ons te contacteren.
-'Please, rate this discussion': Beoordeel dit gesprek aub :
-'Discussion helpful ?': Was dit gesprek nuttig voor u ?
-'Would you recommend this experience to your friends?': Zou u deze service aan uw vrienden aanbevelen ?
-'Any comments ?': Uw suggesties :
-'chat_transcript': Geef uw emailadres door om de inhoud van dit gesprek te ontvangen.
 'Webuser is typing': is aan het typen...
-'Type your text here': Typ uw text hier in
-'agent dont answer': onze medewerker kan nu niet antwoorden
-'chat redirection': chat verbinding wordt opgezet
-'agent close communication': onze medewerker heeft het gesprek beeïndigd
-'Deprecated version of Flash Chat only': Verouderde Flash versie. Enkel chat (tekst) mogelijk.
-'i am currently unavailable': Mijn excuses, ik ben momenteel niet beschikbaar. Gelieve een bericht achter te laten.
-'Your mail': Uw emailadres
-'Or': of
-'Please type your message here': Typ hier uw bericht aub.
-'message field required': verplicht veld
-'email or phone field required': email of telefoonnummer verplicht in te vullen
-'send': versturen
-'not ready to switch': 'niet gereed om te wisselen'
 'will answer in a few seconds': 'zal over enkele ogenblikken antwoorden.'
-'Email adress': 'emailadres'
 'Phone number': 'telefoonnummer'
-'Phone': 'telefoonnummer'
 'email invalide': 'ongeldig emailadres'
 'Discutez en video' : 'Gesprek via video'
 'Discutez en audio' : 'Gesprek met enkel geluid'
 'Discutez en chat' : 'Gesprek met enkel tekst chat'
-'Laissez un message' : 'Laat een boodschap achter'
-'agent-accept-communication' : verbinding met medewerker aanvaard
-'agent indisponible. redirection vers message': Medewerker is niet aanwezig, doorverwijzing naar boodschap
 'webuser': ik
-'user flash crash': Probleem met de Flash plugin. U bent nu in de chat (tekst) modus gezet.
 'message sent': Bericht verzonden
-'cgv': Door deze service te gebruiken aanvaardt u de <a href="http://www.videodesk.fr/terms" target="_blank">Algemene Verkoopsvoorwaarden</a> van Videodesk S.A.S. en alle aanpassingen ervan. Indien u niet akkoord kan gaan, gelieve dan deze service niet te gebruiken.
-'You will can enter your text here': U kan uw tekst hier invoeren
 'Discussion with %site%': Gesprek met %site%
-'hello': hallo
-'videodesk team': videodesk team<br /><a href="http://www.videodesk.fr">www.videodesk.fr</a>
-'new message from': nieuw bericht van
-'message from videodesk module': nieuw bericht van de videodesk module
-'message originally intended to': bericht verzonden naar :
 'Enter your question here': Stel uw vraag hier :
-
-#CRM
-Please provide the details below and we will answer in a few seconds: Please provide the details below and we will answer in a few seconds
-firstname: Voornaam
-lastname: Achternaam
-email: E-mailadres
-phone: Telefoonnummer
-company: Organisatienaam
-send: Verzonden
-firstname required: Voornaam verplicht
-lastname required: Achternaam verplicht
-email required: E-mailadres verplicht
-email invalid: E-mailadres incorrect
-phone required: Telefoonnummer verplicht
-company required: Organisatienaam verplicht
-required: Verplicht veld
-
 #survey
 bad: Slecht
 poor: Zeer slecht
 regular: Neutraal
 good: Goed
 gorgeous: Geweldig
-
 #module texts
-'Live Help': CONTACT
-'agent(s) available': beschikbare medewerker(s)
-'Chat (video or text) for free with ecommerce experts': Chat (video of text) met één van onze deskundige medewerkers
 'information help':  U kunt nu een gesprek beginnen met een beschikbare medewerker. U kunt kiezen tussen een  video, audio of text gesprek. Snel, simpel, anoniem en gratis.
-'pending call text': Goedendag, u wilt contact met Videodesk. De gevraagde persoon is direct voor u beschikbaar.
-'flash security panel': Klik op "Toestaan" voor een gesprek
-'Leave a text message': Sorry, ik ben momenteel niet beschikbaar. Laat een bericht achter aub.
-
 #--------------FLASH PANEL-----------------
 #TMP MSG
 webcam_activated: Mijn webcam is ingeschakeld
@@ -97,34 +38,7 @@ stop_vid: Schakel video van mijn contact uit
 resume_vid: Schakel video van mijn contact opnieuw in
 activate_volume: Geluid inschakelen
 desactivate_volume: Geluid uitschakelen
-#WAITING MSG
-peerFailed: Sorry, geen video gesprek mogelijk. We schakelen over naar een tekst gesprek
-agentBusy: Sorry, deze medewerker is in gesprek!
-waitRemote:  Nog even geduld, we zijn nog even bezig met opstarten. Het kan nog even duren.
-waitLocal: Wachten totdat de webcam ingeschakeld is
-switchToAudio: webcam uitgeschakeld, audio ingeschakeld
-ncFailed: Sorry, we konden geen connectie maken. U bent in de Chat modus
-#ATTENTION MSG
-userNoFMSConnection: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#1)
-agentNoFMSConnection: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#2)
-agentFlashCrashed: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#4)
-userNoCamButMic: We hebben geen webcam kunnen ontdekken. U hebt een webcam nodig om de video chat te gebruiken. We schakelen over naar de Audio modus. (#5)
-userNiCamNiMic: We hebben geen webcam kunnen ontdekken. U hebt een webcam nodig om de video chat te gebruiken. We schakelen over naar de Audio modus. (#6)
-agentNoCamButMic: De medewerker gebruikt geen webcam. We schakelen over naar de audio modus. (#7)
-agentNiCamNiMic: De medewerker gebruikt geen webcam of microfoon. We schakelen over naar de Chat Modus.(#8)
-userDenyFlash: U heeft geen toegang tot uw webcam of uw microfoon. We schakelen over naar de Chat modus(#9)
-noPeerConnection: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#11)
-userConnectionFailed: Door een netwerk probleem, schakelen we over naar de Chat Modus. (#11)
-agentConnectionFailed: BDoor een netwerk probleem, schakelen we over naar de Chat Modus. (#110)
-userNoMic: We hebben geen microfoon kunnen ontdekken. U dient een microfoon aan te sluiten voordat u de audio-chat kunt gebruiken. We schakelen over naar de Chat Modus. (#12)
-agentNoMic: Deze medewerker gebruikt geen microfoon. We schakelen over naar de Chat Modus. (#13)
-userRtmptConnection:  Het netwerk laat geen goede video/audio kwaliteit toe, u kunt beter overschakelen naar de tekst chat (#15)
-agentRtmptConnection: Het netwerk laat geen goede video/audio kwaliteit toe, u kunt beter overschakelen naar de tekst chat (#16)
-userNoSpeakers: Er is geen audio-uitgang (luidsprekers, koptelefoon ...) gedetecteerd. Je mag niet hoort de agent je belde. Wij stellen voor dat u luidsprekers of headsets aansluiten op uw computer. U kunt echter al chatten met uw agent via tekst.
-remote_audio_desactivated: geluid is uitgeschakeld
-remote_audio_activated: geluid is ingeschakeld
-click_allow_to_start: Klik op "Toestaan" om te starten.
-
+userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
 #transcript mail
 Hi: Hi,
 You reached: contact opgenomen met u 
@@ -136,7 +50,6 @@ transcript: Transcript,
 yours transcripts with: Je cijferlijst met
 We can talk, you are seeing.: We kunnen praten, je ziet.
 We can talk, you are not seeing.: We kunnen praten, je bent niet te zien.
-
 #REFACTOR
 type here: Type hier uw bericht...
 Do you want to close the discussion?: Wilt u dit gesprek beeïndigen?
@@ -174,7 +87,6 @@ audio suggestion: Audio suggestie
 WE ARE HERE TO HELP! LIVE SALES ADVISOR:  Kunnen wij u helpen? Medewerkers online.
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: Kunnen wij u helpen? U kunt een bericht achterlaten
 GIVE US YOUR FEEDBACK! THANK YOU: Geef ons uw mening! Hartelijk dank
-
 #V1.2
 required field: verplicht veld
 message sent: bericht verzonden
@@ -187,10 +99,8 @@ Do you Want to start a video call with me: Wilt u een video gesprek met mij star
 e-mail invalid: Ongeldig email adres
 close webpage cause end of the discussion: Door verwijdering van webpagina is het gesprek beeïndigd
 survey sent: Boodschap verstuurd
-Survey sent: Boodschap verstuurd
 agent hangup: Medewerker heeft gesprek beeïndigd
 agent unavailable: Medewerker niet beschikbaar
-Agent deny call: Medewerker heeft gesprek geweigerd
 Agent dont answer call: Medewerker beantwoord het gesprek niet
 Ongoing discussion: Lopend gesprek
 Click here to enlarge: Klik hier om te vergroten
@@ -204,23 +114,12 @@ to_start_your_microphone: Start uw microfoon
 to_start_your_webcam: Start uw webcam
 terms_of_use: Gebruiksvoorwaarden
 here: hier
-webcam_blocked: Uw webcam is op het moment geblokkeerd
-microphone_blocked: Uw microfoon is op het moment geblokkeerd
-click_to_unlock: Klik op het webcam icoon om gelijk te deblokkeren
-reload_to_unlock: Ververs uw pagina om uw webcam te gebruiken
-hangup: Ophangen
-alternative_message_1: Sorry, onze medewerkers zijn op dit moment niet beschikbaar.
-alternative_message_2: Hartelijk dank voor uw begrip.
+hangup: Hang up
 initiate_video_call: Wilt u een video gesprek met mij starten?
 initiate_audio_call: Wilt u een audio gesprek met mij starten?
-initiate_video_btn: Accepteer dit video gesprek
-initiate_audio_btn: Aceepteer dit audio gesprek
 webuser_accept_audio_call: U heeft dit audio gesprek geaccepteerd
 webuser_accept_video_call: U heeft dit video gesprek geaccepteerd
 conversation_send: E-mail is verzonden
-email_empty: E-mail leeg
-email_invalid: E-mail is incorrect
-
 # default values for new module
 grabber_advisor_1: Wij zitten klaar om u te helpen!
 grabber_advisor_2: Live productadviseurs
@@ -228,11 +127,6 @@ grabber_message_1: Online hulp
 grabber_message_2: Laat een bericht achter
 invitation_baloon: "Hallo! Kan ik u helpen?"
 invitation_baloon_several_agents: "Hallo! Een productadviseur is beschikbaar om uw vragen te beantwoorden."
-leave_message_1: Momenteel zijn we niet beschikbaar.
-leave_message_2: Laat hier een bericht achter!
-crm_txt_1: Terwijl we verbinding maken met uw productadviseur,
-crm_txt_2: vul alstublieft het volgende in:
-
 #new
 message_baloon: Hallo, laat hier een bericht achter en ik neem contact met u op!
 fall_back_window_default: Onze productadviseurs zijn niet beschikbaar, probeer het later opnieuw.
@@ -242,7 +136,6 @@ all_agent_msg_1: Sorry, momenteel zijn we niet beschikbaar.
 all_agent_msg_2: Laat hier een bericht achter! 
 agent-deny-call-media: 'Sorry, ik kan geen audio of video gesprek met u starten, kunnen we verder gaan in een tekst chatgesprek?'
 fallback_default_msg: 'Onze productadviseurs zijn momenteel niet beschikbaar, probeer het later nog eens.'
-
 #new FO v14
 hangup_mess_1: Sorry, de productadviseur heeft het gesprek beëindigd. Uw bericht kan niet worden verzonden.
 hangup_mess_2: Het gesprek is beëindigd.
@@ -259,7 +152,6 @@ phone_invalid: Telefoonnummer is incorrect.
 shall_we_use_this_address: Kunnen we dit adres gebruiken?
 maximize: Maximize
 reduce: Reduce
-
 cobrowsing_toolbar: Ongoing co-browse session
 initiate_a_cobrowsing_session: Do you want to accept a cobrowse session?
 accept_cobrowsing: Accept co-browse
@@ -268,17 +160,10 @@ deny_btn: Deny
 allow_btn: Allow
 label_grant: Can I control your webpage alongside you?
 control: Control
-
 tooltip_help_cobrowsing: Tijdens een co-browse sessie kan de productadviseur alleen zien wat op de webpagina zelf te zien is. Andere tabbladen die open staan of andere bestanden op uw computer zijn nooit zichtbaar voor de productadviseur.
-
-user_switch_to_audio_because_of_low_bw: Uw bandwijdte lijkt te lag voor een videochat met onze productadviseur. We hebben u doorgeschakeld naar een audiochat om u beter van dienst te zijn.
-
-
-
-
+# new
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Video call
-callcenter_1: Start video chat
 agent_txt: agent
 agents_txt: agents
 bar_txt: Live Customer Service
@@ -330,9 +215,6 @@ Your message here: Your message here
 Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
 Message sent: Message sent
 Close: Close
-
-
-
 #reunification
 slogan_txt: We are here to help!
 welcome_balloon_txt1: "How can I help you?"
@@ -340,11 +222,7 @@ welcome_balloon_txt2: "An operator is available now to answer your questions"
 The associate cannot see you but he hear you: The agent cannot see you but he is able to hear you.
 I like to share a file with you: I would like to share a file with you.
 Connecting: Connecting
-whats this: What's this?
-Pause: Pause
-Play: Play
-Sound off: Sound off
-Sound on: Sound on
+whats this: Presentation video
 My text chat conversation: My text chat conversation
 My video chat conversation: My video chat conversation
 Please find the entire conversation attached below.: ''
@@ -362,7 +240,6 @@ The associate can see and hear you: The agent can see and hear you.
 "Thanks for contacting us.": "Thanks for contacting us."
 "Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
 any_suggestions: Any suggestions?
-
 #title popin
 pdf_title: PDF Push
 video_title: Video Push
@@ -373,7 +250,6 @@ No operator is available: Onze adviseurs zijn niet beschikbaar
 Leave us a message: Laat hier een bericht achter!
 start a chat discussion: Start a text conversation
 start a video discussion: Start a video conversation
-
 click_on_allow_button: Click on the ‘‘Allow’’ button,
 to_turn_on_your_webcam: to turn on your webcam.
 to_turn_on_your_microphone: to turn on your microphone.
@@ -388,11 +264,26 @@ click_share_selected_device_button: Click “Share selected device” button,
 by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
 by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
 close_video: Close video
-whats this video: What's this?
+whats this video: Presentation video
 video_desactivate: Mute the webcam
-
 click_allow_once_button: Click “allow once” button
 by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
 by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
 I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
 Your text chat has ended: Your text chat has ended.
+Your text conversation is now over: Your text conversation is now over.
+video_activate: Webcam is on
+audio_activate: Microphone is on
+audio_desactivate: Mute the microphone
+do_you_want_to_end_discussion: Do you want to end the conversation?
+you_are_seeing: You are seeing
+you_are_not_seeing: You are not seeing
+Co-browse session has ended: Co-browse session has ended.
+we are unavailable: We are unavailable.
+#audio video access
+ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
+ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
+audio_access_allowed: Audio access allowed
+video_access_allowed: Video access allowed
+audio_access_denied: Audio access denied
+video_access_denied: Video access denied

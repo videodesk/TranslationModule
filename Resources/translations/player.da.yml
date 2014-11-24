@@ -1,85 +1,26 @@
-'let a message': Læg en besked
-'chat call': Chat opkald
 'audio call': Lyd opkald
 'video call': Video opkald
 'information help': mere information
 'faq help': mere information
-'Your discussion has ended': Din samtale er afsluttet.<br />Tak fordi du kontaktede os.
-'Please, rate this discussion': Din feedback betyder meget
-'Discussion helpful ?': Har samtalen hjulpet dig?
-'Would you recommend this experience to your friends?': Vil du anbefale oplevelsen til en ven?
-'Any comments ?': Kommentarer? Forslag?
-'chat_transcript': Få en optagelse af samtalen på din e-mail
 'Webuser is typing': er ved at skrive...
-'Type your text here': Indtast din besked her
-'agent dont answer': Denne medarbejder er i øjeblikket utilgængelig
-'chat redirection': Chat opkald
-'agent close communication': Medarbejderen sluttede opkaldet
-'Deprecated version of Flash Chat only': Forældet udgave af Flash.
-'i am currently unavailable': Jeg er desværre ikke tilgængelig lige nu. Læg venligst en besked
-'Your mail': Din email
-'Or': Eller dit telefonnummer
-'Please type your message here': Indtast venligst din besked her
-'message field required': Besked mangler
-'email or phone field required': E-mail eller telefonnummer mangler
-'send': Send
-'not ready to switch': ikke klar til at skifte
 'will answer in a few seconds': er klar om få sekunder.
-'Email adress': E-mail adresse
 'Phone number': Telefonnummer
-'Phone': Telefonnummer
 'email invalide': Ugyldig e-mail adresse
 'Discutez en video' : Video chat
 'Discutez en audio' : Lyd chat
 'Discutez en chat' : Tekst chat
-'Laissez un message' : Læg en besked
-'agent-accept-communication' : Kommunikation accepteret
-'agent indisponible. redirection vers message': Din supportmedarbejder er ikke tilgængelig; du er velkommen til at lægge en besked
 'webuser': Mig
-'user flash crash': Din video software har et problem, brug venligst tekst chatten
 'message sent': Besked sendt
-'cgv': Ved at benytte denne service, accepterer du samtidig Videodesk inc's <a href="http://www.videodesk.com/terms" target="_blank">betingelser og vilkår</a> og din fremtidige brug af softwaren betyder, at du accepterer fremtidige opdateringer. Hvis du ikke accepterer betingelserne, bedes du venligst stoppe med at bruge dette software
-'You will can enter your text here': Du kan indtaste din tekst her
 'Discussion with %site%': Samtale med %site%
-'hello': Hej
-'videodesk team': videodesk holdet<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': Ny besked på hjemmeside
-'message from videodesk module': Ny besked fra videodesk modulet
-'message originally intended to': Besked sendt til:
 'Enter your question here': Indtast din besked her...
-
-#CRM
-Please provide the details below and we will answer in a few seconds: Før vi viderestiller dig til en af vores medarbejdere, har vi brug for lidt information.
-firstname: Fornavn
-lastname: Efternavn
-email: E-mail
-phone: Telefonnummer
-company: Virksomhed
-send: Send
-firstname required: Fornavn krævet
-lastname required: Efternavn krævet
-email required: E-mail krævet
-email invalid: Ugyldig e-mail
-phone required: Telefonnummer krævet
-company required: Virksomhed krævet
-required: Obligatorisk felt
-
 #survey
 bad: rigtig dårlig
 poor: dårlig
 regular: middel
 good: god
 gorgeous: fantastisk
-
 #module texts
-'Live Help': Online Hjælp
-'agent(s) available': tilgængelige medarbejdere
-'Chat (video or text) for free with ecommerce experts': Chat (tekst, lyd eller video) gratis med vores eksperter.
 'information help':   Du kan nu chatte med vores ledige medarbejdere. Du kan vælge mellem video, lyd eller tekst chat. Omgående, simpelt, anonymt og gratis.
-'pending call text': Hej, du har brug for at kontakte os. En medarbejder vil skrive tilbage inden for ganske kort tid.
-'flash security panel': Klik på "Tillad" for at starte samtalen.
-'Leave a text message': Jeg er desværre ikke tilgængelig lige nu. Læg venligst en besked.
-
 #--------------FLASH PANEL-----------------
 #TMP MSG
 webcam_activated: Mit webcam er tændt
@@ -97,34 +38,7 @@ stop_vid: Stop supportmedarbejderens webcam
 resume_vid: Tænd supportmedarbejderens webcam igen
 activate_volume: Tænd lyden
 desactivate_volume: Sluk lyden
-#WAITING MSG
-peerFailed: Vi kunne desværre ikke få lyden til at virke. Du kan i stedet benyttes vores tekst chat
-agentBusy: Vi er lige nu i gang med at hjælpe en anden kunde. Vi undskylder ventetiden.
-waitRemote: Vent venligst mens vi forbinder dig. Dette kan tage noget tid
-waitLocal: Venter på forbindelse til dit webcam
-switchToAudio: Webcam slået fra, vi forsøger at at aktivere lyden
-ncFailed: Vi kunne desværre ikke få den ønskede video/lyd chat til at virke. Du kan i stedet benyttes vores tekst chat
-#ATTENTION MSG
-userNoFMSConnection: På grund af et netværksproblem bliver du overført til vores tekst chat.(#1)
-agentNoFMSConnection: På grund af et netværksproblem bliver du overført til vores tekst chat.(#2)
-agentFlashCrashed: På grund af et netværksproblem bliver du overført til vores tekst chat.(#4)
-userNoCamButMic: Vi kunne ikke finde dit webcam. Du skal have et fungerende webcam tilsluttet for at starte en video chat. Vi overfører dig i stedet til chat med lyd på.(#5)
-userNiCamNiMic: Vi kunne ikke finde et webcam eller en mikrofon. Du skal have webcam eller mikrofon tilsluttet for at starte en video/lyd chat. Vi overfører dig i stedet til vores tekst chat.(#6)
-agentNoCamButMic: Vores medarbejder har ikke noget webcam tilsluttet. Vi overfører dig i stedet til chat med lyd på.(#7)
-agentNiCamNiMic: Vores medarbejder har ikke noget webcam tilsluttet. Vi overfører dig i stedet til tekst chat.(#8)
-userDenyFlash: Du tillod ikke adgang til dit webcam eller din mikrofon. Vi overfører dig i stedet til tekst chat.(#9)
-noPeerConnection: På grund af et netværksproblem bliver du overført til vores tekst chat.(#11)
-userConnectionFailed: På grund af et netværksproblem bliver du overført til vores tekst chat.(#11)
-agentConnectionFailed: På grund af et netværksproblem bliver du overført til vores tekst chat.(#110)
-userNoMic: Vi kunne ikke få forbindelse til din mikrofon. Du skal have en fungerende mikrofon tilsluttet for at starte en chat med lyd på. Vi overfører dig i stedet til vores tekst chat.(#12)
-agentNoMic: Vores medarbejder har ikke nogen mikrofon tilsluttet. Vi overfører dig i stedet til tekst chat.(#13)
-userRtmptConnection: Forbindelse tillader ikke ordentlig video/lyd kvalitet, derfor foreslår vi at du i stedet at benytter tekst chatten.(#15)
-agentRtmptConnection: Forbindelse tillader ikke ordentlig video/lyd kvalitet, derfor foreslår vi at du i stedet at benytter tekst chatten.(#16)
-userNoSpeakers: Vi kunne ikke få forbindelse til en lydudgang (højtalere, høretelefoner..) Du kan derfor muligvis ikke høre vores medarbejder. Vi foreslår at du tilslutter et par høretelefoner eller højtalere til din computer. Hvis ikke kan du nemt skifte til vores tekst chat.
-remote_audio_desactivated: Lyden er slukket
-remote_audio_activated: Lyden er tændt
-click_allow_to_start: Klik på "Tillad" for at starte.
-
+userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
 #transcript mail
 Hi: Hej,
 You reached: Du har kontaktet
@@ -136,7 +50,6 @@ transcript: Udskrift,
 yours transcripts with: Din samtale med
 We can talk, you are seeing.: Du kan bare begynde at tale, vores medarbejder er klar til at hjælpe.
 We can talk, you are not seeing.: Du kan bare begynde at tale, vores medarbejder er endnu ikke klar til at hjælpe.
-
 #REFACTOR
 type here: Indtast din besked her.
 Do you want to close the discussion?: Vil du lukke samtalen?
@@ -174,7 +87,6 @@ audio suggestion: Accepter video opkald
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: VI ER KLAR TIL AT HJÆLPE!<br />LIVE SUPPORTMEDARBEJDER.
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: VI ER KLAR TIL AT HJÆLPE!<br />LÆG VENLIGST EN BESKED.
 GIVE US YOUR FEEDBACK! THANK YOU: GIV OS DIN FEEDBACK!<br />MANGE TAK
-
 #V1.2
 required field: Feltet skal udfyldes
 message sent: E-mail sendt
@@ -187,10 +99,8 @@ Do you Want to start a video call with me: Vil du starte et video opkald med mig
 e-mail invalid: Ugyldig E-mail
 close webpage cause end of the discussion: Luk hjemmesiden efter endt samtale
 survey sent: Undersøgelse sendt
-Survey sent: Undersøgelse sent
 agent hangup: Vores medabejder lukkede samtalen.
 agent unavailable: Vores medarbejder er ikke tilgængelig.
-Agent deny call: Vores medarbejder blev desværre nødt til at afvise opkaldet.
 Agent dont answer call: Vores medarbejder var desværre ikke i stand til at svare.
 Ongoing discussion: Igangværende samtale
 Click here to enlarge: Klik her for at forstørre
@@ -204,23 +114,12 @@ to_start_your_microphone: Start din mikrofon
 to_start_your_webcam: For at starte dit webcam
 terms_of_use: 'Du kan læse vores betingelser '
 here: 'her'
-webcam_blocked: Dit webcam er i øjeblikket spærret
-microphone_blocked: Din mikrofon er i øjeblikket spærret
-click_to_unlock: Klik på webcam ikonet for at låse det op
-reload_to_unlock: Opdater siden for at gøre dit webcam klar til brug
-hangup: Læg på
-alternative_message_1: Vores medarbejdere er desværre utilgængelige
-alternative_message_2: Tak for forståelsen
+hangup: Hang up
 initiate_video_call: Vil du starte et video opkald med mig?
 initiate_audio_call: Vil du starte et lyd opkald med mig?
-initiate_video_btn: Accepter video opkaldet
-initiate_audio_btn: Accepter lyd opkaldet
 webuser_accept_audio_call: Du accepterede en samtale med lyd på
 webuser_accept_video_call: Du accepterede video samtalen
 conversation_send: e-mail sendt
-email_empty: e-mail tom
-email_invalid: e-mail ugyldig
-
 # default values for new module
 grabber_advisor_1: Vi er her for at hjælpe!
 grabber_advisor_2: Live supportmedarbejder
@@ -228,11 +127,6 @@ grabber_message_1: Online Hjælp
 grabber_message_2: Læg en besked
 invitation_baloon: "Hej!\nHvad kan jeg hjælpe med?"
 invitation_baloon_several_agents: "Hej!\nEn medarbejder sidder klar til at hjælpe dig"
-leave_message_1: Alle vores medarbejdere er desværre utilgængelige
-leave_message_2: Læg venligst en besked!
-crm_txt_1: Mens vi kontakter din supportmedarbejder 
-crm_txt_2: indtast venligst følgende:
-
 #new
 message_baloon: Hej, læg en besked - så vender jeg hurtigt tilbage!
 fall_back_window_default: Vores medarbejder er desværre utilgængelig, prøv igen senere
@@ -242,7 +136,6 @@ all_agent_msg_1: Vores medarbejdere er desværre utilgængelige.
 all_agent_msg_2: Læg venligst en besked!
 agent-deny-call-media: 'Jeg kan desværre ikke modtage video eller lyd opkald lige nu, fortsæt venligst med tekst chat'
 fallback_default_msg: 'Vores medarbejdere er desværre ikke tilgængelige lige nu, prøv igen senere'
-
 #new FO v14
 hangup_mess_1: Medarbejderen afsluttede samtalen. Din besked blev ikke sendt.
 hangup_mess_2: Samtalen er afsluttet.
@@ -259,7 +152,6 @@ phone_invalid: Ugyldig telefonnummer
 shall_we_use_this_address: Skal vi bruge denne adresse
 maximize: Maximize
 reduce: Reduce
-
 cobrowsing_toolbar: Ongoing co-browse session
 initiate_a_cobrowsing_session: Do you want to accept a cobrowse session?
 accept_cobrowsing: Accept co-browse
@@ -268,25 +160,16 @@ deny_btn: Deny
 allow_btn: Allow
 label_grant: Can I control your webpage alongside you?
 control: Control
-
 tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
-
-user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
-
-
-
-
+# new
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Video call
-callcenter_1: Start video chat
 agent_txt: agent
 agents_txt: agents
 bar_txt: Live Customer Service
 welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
 fallback_timeout_unavailble_txt: There are no available video chat agent.
 fallback_timeout_calls_txt: There are no available chat agent.
-
-The associate cannot see or hear you: The agent cannot see or hear you.
 The associate cant see you: The agent cannot see or hear you.
 I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
 Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
@@ -310,6 +193,7 @@ Send and quit: Send and quit
 Survey sent: Survey sent.
 Click this button to turn on your microphone: Click this button to turn on your microphone.
 I turn on my microphone: I will now switch on my microphone.
+Unfortunately, the agent you called is unavailable at the moment: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
 Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
 Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
 Unable to connect: Unable to connect.
@@ -321,6 +205,7 @@ Want a copy of our conversation?: Do you want a copy of our conversation?
 Please enter a valid email address: Invalid email address.
 Enter your email address: Enter your email address.
 No thanks: No thanks
+"No, thanks!": "No, thanks"
 Submit: Submit
 Transcript sent: Transcript sent
 We are unable to connect you with an associate: We are unable to connect you to an agent.
@@ -330,9 +215,6 @@ Your message here: Your message here
 Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
 Message sent: Message sent
 Close: Close
-
-
-
 #reunification
 slogan_txt: We are here to help!
 welcome_balloon_txt1: "How can I help you?"
@@ -340,11 +222,7 @@ welcome_balloon_txt2: "An operator is available now to answer your questions"
 The associate cannot see you but he hear you: The agent cannot see you but he is able to hear you.
 I like to share a file with you: I would like to share a file with you.
 Connecting: Connecting
-whats this: What's this?
-Pause: Pause
-Play: Play
-Sound off: Sound off
-Sound on: Sound on
+whats this: Presentation video
 My text chat conversation: My text chat conversation
 My video chat conversation: My video chat conversation
 Please find the entire conversation attached below.: ''
@@ -362,18 +240,16 @@ The associate can see and hear you: The agent can see and hear you.
 "Thanks for contacting us.": "Thanks for contacting us."
 "Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
 any_suggestions: Any suggestions?
-
 #title popin
 pdf_title: PDF Push
 video_title: Video Push
 product_webcam_title: Product camera
 agent: Agent
 Click here to expand: Click here to expand
-No operator is available: Vores medarbejdere er utilgængelige
-Leave us a message: Læg venligst en besked!
-start a chat discussion: Start en tekst samtale
-start a video discussion: Start en videosamtale
-
+No operator is available: The agent is not available
+Leave us a message: Leave us a message
+start a chat discussion: Start a text conversation
+start a video discussion: Start a video conversation
 click_on_allow_button: Click on the ‘‘Allow’’ button,
 to_turn_on_your_webcam: to turn on your webcam.
 to_turn_on_your_microphone: to turn on your microphone.
@@ -388,12 +264,26 @@ click_share_selected_device_button: Click “Share selected device” button,
 by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
 by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
 close_video: Close video
-whats this video: What's this?
+whats this video: Presentation video
 video_desactivate: Mute the webcam
-
 click_allow_once_button: Click “allow once” button
 by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
 by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
 I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
 Your text chat has ended: Your text chat has ended.
 Your text conversation is now over: Your text conversation is now over.
+video_activate: Webcam is on
+audio_activate: Microphone is on
+audio_desactivate: Mute the microphone
+do_you_want_to_end_discussion: Do you want to end the conversation?
+you_are_seeing: You are seeing
+you_are_not_seeing: You are not seeing
+Co-browse session has ended: Co-browse session has ended.
+we are unavailable: We are unavailable.
+#audio video access
+ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
+ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
+audio_access_allowed: Audio access allowed
+video_access_allowed: Video access allowed
+audio_access_denied: Audio access denied
+video_access_denied: Video access denied

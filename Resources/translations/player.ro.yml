@@ -1,85 +1,26 @@
-'let a message': Làsati un mesaj
-'chat call': convorbire in direct
 'audio call': convorbire audio
 'video call': convorbire video
 'information help': mai multe informatii
 'faq help': intrebari si raspunsuri
-'Your discussion has ended': Convorbirea a luat sfàrsit .<br />Va multumim ca ati luat contactul cu noi.
-'Please, rate this discussion': Va rugam evaluati aceasta discutie: Opinia dumneavoastra este importanta pentru noi.
-'Discussion helpful ?': Discutia v-a fost de ajtor?
-'Would you recommend this experience to your friends?': Ati recomanda aceasta experienta prietenilor dumneavoastra?
-'Any comments ?': Comentarii? Sugestii ?
-'chat_transcript': Obtineti o inregistrare a discutiei via e-mail.
 'Webuser is typing': utilizatorul scrie
-'Type your text here': tasteaza textul aici     
-'agent dont answer': agentul nu este disponibil
-'chat redirection': redirectionare de apel
-'agent close communication': agentul a terminat convorbirea
-'Deprecated version of Flash Chat only': Versiune simplificata de convorbire in Flash
-'i am currently unavailable': Imi pare rau, sunt momentan indisponibil. Va rog lasati-mi un mesaj.
-'Your mail': adresa dumneavoastra de e-mail
-'Or': sau numarul dumneavoastra de telefon.
-'Please type your message here': Va rugam scrieti mesajul dumeavoastra aici
-'message field required': Mesaj scris necesar
-'email or phone field required': e-mail sau numar de telefon necesar
-'send': trimite
-'not ready to switch': inca nu pregatit de schimbare
 'will answer in a few seconds': sunt pregatit pentru dumneavoastra in cateva secunde.
-'Email adress': adresa de e-mail
 'Phone number': numar de telefon
-'Phone': telefon
 'email invalide': adresa de e-mail invalida
 'Discutez en video' : discutati prin video
 'Discutez en audio' : discutati prin audio
 'Discutez en chat' : discutati prin text
-'Laissez un message' : Lasati un mesaj
-'agent-accept-communication' : comunicatie acceptata
-'agent indisponible. redirection vers message': Agentul dumneavoastra este indisponibil. Rerirectionare carte mesagerie.
 'webuser': eu
-'user flash crash': Programul dumneavoastra de comunicare video intampina o problema. Va rugam sa utilizati comunicare prin text.
 'message sent': Messaj trimis
-'cgv': Prin utilizarea acestui serviciu sunteti de acord cu <a href="http://www.videodesk.com/terms" target="_blank">Termeni si conditii de utilizare </a> a Videodesk inc si folosirea in continuarea acestui serviciu inseamna ca sunteti de acord cu toate imbnatatirile programului. Daca nu sunteti de acord cu aceste conditii de utilizare, va rugam nu utilizati acest serviciu.
-'You will can enter your text here': Puteti introduce textul dumneavoastra aici.
 'Discussion with %site%': discutie cu %site%
-'hello': Buna ziua
-'videodesk team': echipa videodesk <br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': Mesaj nou pe situl internet
-'message from videodesk module': Mesaj nou de la modulul videodesk
-'message originally intended to': Mesaj trimis catre
 'Enter your question here': Trimiteti intrebarea dumneavoastra
-
-#CRM
-Va rugam sa ne informati cu detaliile de mai jos si va vom raspunde in cateva clipe: inainte de a contacta agentul dumneavoastra, va rugam sa ne dati cateva informatii.
-firstname: Prenume
-lastname: Nume 
-email: e-mail
-phone: Numar de telefon
-company: Companie
-send: Trimite
-firstname required: Prenume necesar
-lastname required: Nume necesar
-email required: E-mail necesar
-email invalid: adresa e-mail invalidà
-phone required: Numar de telefon, necesar
-company required: Numele companiei, necesar
-required: Càmp obligatoriu
-
 #survey
 bad: nemultumit
 poor: loc pentru mai bine
 regular: obisnuit
 good: bun
 gorgeous: foarte frumos
-
 #module texts
-'Live Help': ajutor in linie
-'agent(s) available': agenti disponibili
-'Chat (video or text) for free with ecommerce experts': Discutati (text, audio sau video) gratuit cu expertii nostri in comert electronic.
 'information help': Acum puteti discuta cu agentii disponibili. Puteti alege intre comunicatie video, audio sau text. Imediat, simplu, anonim si gratuit.
-'pending call text': Buna ziua, doriti sa ne contactati. Un agent va sta la dispozitie imediat.
-'flash security panel': Apasati pe "Allow" pentru a discuta.
-'Leave a text message': Imi pare rau, sunt pentru moment indisponibil. Va rug lasati-mi un mesaj.
-
 #--------------FLASH PANEL-----------------
 #TMP MSG
 webcam_activated: camera mea video este activa.
@@ -97,34 +38,7 @@ stop_vid: Termina video al agentului .
 resume_vid: Re initiaza video al agentului.
 activate_volume: Activeaza sunetul in difuzoare.
 desactivate_volume: Dezactiveaza sunetul in difuzoare.
-#WAITING MSG
-peerFailed: Ne pare rau, nu putem activa convorbirea. Puteti trimite un text carte agentul dumneavoastra.
-agentBusy: Ne pare rau, agentul dumneavoastra este deja inytr-o convorbire.
-waitRemote: Va rugam sa asteptati, suntem pe cale de a va conecta. Ar putea sa dureze cateva clipe.
-waitLocal: Asteptam conectia video a camerei dumeavoastra.
-switchToAudio: Camera video dezactivata, incercam sa va facem o conectie audio.
-ncFailed: Ne pare rau, nu putem activa convorbirea. Puteti trimite un text carte agentul dumneavoastra
-#ATTENTION MSG
-userNoFMSConnection: Din cauza unei probleme de retea, va schimbam catre o discutie prin text.(#1)
-agentNoFMSConnection: Din cauza unei probleme de retea, va schimbam catre o discutie prin text.(#2)
-agentFlashCrashed: Din cauza unei probleme de retea, va schimbam catre o discutie prin text.(#4)
-userNoCamButMic: Nu va putem detecta camera video. Trebuie sa aveti o camera video pentru a efectua o convorbire video. Va redirectionam spre modul audio.(#5)
-userNiCamNiMic: Nu va putem detecta o camera video, nici microfonul. Trebuie sa aveti o camera video sau un microfon, pentru a efectua o convorbire video. Va redirectionam spre modul text.(#6)
-agentNoCamButMic: Agentul nu are camera video. Va redirectionam spre convorbire audio.(#7)
-agentNiCamNiMic: Agentul nu are camera video si nici microfon. Va directionam spre o convorbire prin text.(#8)
-userDenyFlash: Nu ati dat acordul pentru semnal video si nici audio. Va directionam spre o convorbire prin text.(#9)
-noPeerConnection: Din cauza unei probleme de retea, Va directionam spre o convorbire prin text.(#11)
-userConnectionFailed: Din cauza unei probleme de retea, Va directionam spre o convorbire prin text.(#11)
-agentConnectionFailed: Din cauza unei probleme de retea, Va directionam spre o convorbire prin text.(#110)
-userNoMic: Nu detectam nici un microfon. Trebuie sa aveti un Microfon pentru a efectua o convorbire audio. Va directionam spre o convorbire prin text.(#12)
-agentNoMic: Agentul nu are microfon Va directionam spre o convorbire prin text.(#13)
-userRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#15)
-agentRtmptConnection: Reteaua nu suporta calitate audio/video suficienta , va recomandam discutia prin text(#16)
-userNoSpeakers: Noi nu am detectat nici o ieșire audio (boxe, căști ...). Nu puteți auzi agentul ai sunat. Vă sugerăm să vă conectați difuzoare sau căști la computer. Cu toate acestea, puteți discuta deja cu agentul dvs. prin text.
-remote_audio_desactivated: Sunetul este mut
-remote_audio_activated: Sunetul este activ
-click_allow_to_start: Apasati"De Acord" pentru a incepe.
-
+userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
 #transcript mail
 Hi: Buna ziua
 You reached: Ati contactat
@@ -136,7 +50,6 @@ transcript: Transcriptie,
 yours transcripts with: Transcriptia convorbirii dumneavoastra cu
 We can talk, you are seeing.: Puteti vorbi, agentul dumneavoastra va poate vedea.
 We can talk, you are not seeing.: Puteti vorbi, agentul dumneavoastra nu va poate vedea
-
 #REFACTOR
 type here: Tastati mesajul dumneavoastra aici...
 Do you want to close the discussion?: Vreti sa incheiati discutia?
@@ -174,7 +87,6 @@ audio suggestion: Accept convorbire video
 WE ARE HERE TO HELP! LIVE SALES ADVISOR: SUNTEM AICI PENTRU A VA AJUTA!<br />AGENT DE VANZARI, IN DIRECT.
 WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: SUNTEM AICI PENTRU A VA AJUTA!<br />VA RUGAM LASATI UN MESAJ.
 GIVE US YOUR FEEDBACK! THANK YOU: LASATI O OPINIE!<br />MULTUMIM
-
 #V1.2
 required field: Càmp necesar
 message sent: Mesaj trimis
@@ -187,10 +99,8 @@ Do you Want to start a video call with me: Vreti sa incepeti o discutie video cu
 e-mail invalid: adresa e-mail invalidà
 close webpage cause end of the discussion: Inchiderea paginii va rezulta in terminarea convorbirii.
 survey sent: Opinie treimisa
-Survey sent: Opinie trimisa
 agent hangup: Operatorul dumneavoastra a terminat convorbirea.
 agent unavailable: Operatorul dumneavoastra nu este disponibil.
-Agent deny call: Din pacate, operatorul dumneavoastra a trebuit sa refuze convorbirea.
 Agent dont answer call: Din pacate, operatorul dumneavoastra nu poate raspunde.
 Ongoing discussion: Discutie in mers.
 Click here to enlarge: Apasati aici pentru a màri
@@ -204,23 +114,12 @@ to_start_your_microphone: Pentru a activa microfonul
 to_start_your_webcam: Pentru a activa camera video
 terms_of_use: 'Puteti citi conditiile de utilizare '
 here: 'aici'
-webcam_blocked: Camera dumneavoastra video este in acest moment blocata
-microphone_blocked: acest moment blocat
-click_to_unlock: Apasati pe semnul camerei video pentru a o debloca 
-reload_to_unlock: Re-initializati pagina pentru a activa camera video
 hangup: Terminati
-alternative_message_1: Ne pare rau, agentii nostri sunt indisponibili.
-alternative_message_2: Va multumim pentru intelegere.
 initiate_video_call: Vreti sa incepeti o convorbire video cu mine?
 initiate_audio_call: Vreti sa incepeti o convorbire audio cu mine?
-initiate_video_btn: Accept convorbire video
-initiate_audio_btn: Accept convorbirea audio
 webuser_accept_audio_call: Ati acceptat convorbirea audio
 webuser_accept_video_call: Ati acceptat convorbirea video
 conversation_send: e-mail trimis
-email_empty: e-mail gol
-email_invalid: e-mail nevalidă
-
 # default values for new module
 grabber_advisor_1: Suntem aici pentru a va ajuta!
 grabber_advisor_2: Agenti de vanzari, in direct
@@ -228,11 +127,6 @@ grabber_message_1: Ajutor in linie
 grabber_message_2: Lasati-ne un mesaj.
 invitation_baloon: "Buna!\nCu cum te pot ajuta?"
 invitation_baloon_several_agents: "Buna!\nUn operator este disponibil sa va raspunda la intrabari"
-leave_message_1: Ne pare rau, agentii nostri sunt indisponibili.
-leave_message_2: Va rugam sa ne lasati un mesaj!
-crm_txt_1: In timp ce va punem in legatura cu agentul dumneavoastra,  
-crm_txt_2: va rugam sa completati cu urmatoarele detalii: 
-
 #new
 fall_back_window_default: Agentul nostru nu este disponibil chiar acum, vă rugăm să încercați mai târziu
 back to list: Inapoi la lista
@@ -242,7 +136,6 @@ all_agent_msg_1: Ne pare rău agenții noștri nu sunt disponibile.
 all_agent_msg_2: Vă rugăm să ne lăsați un mesaj!
 agent-deny-call-media: 'Îmi pare rău, eu nu pot deschide orice an sau apel video mai multe audio, vă rugăm să continuați prin text chat'
 fallback_default_msg: 'Agentii nostri nu sunt disponibile chiar acum, vă rugăm să încercați din nou mai târziu'
-
 #new FO v14
 hangup_mess_1: Sorry but the agent hung up. Your message could not be sent.
 hangup_mess_2: The conversation is over.
@@ -257,27 +150,26 @@ transcript_will_be_sent: A transcript will be sent once the chat is over.
 transcript_sent: Conversation has been sent.
 phone_invalid: Phone invalid
 shall_we_use_this_address: Shall we use this address
-
+maximize: Maximize
+reduce: Reduce
+cobrowsing_toolbar: Ongoing co-browse session
+initiate_a_cobrowsing_session: Do you want to accept a cobrowse session?
+accept_cobrowsing: Accept co-browse
+cobrowsing_session: I have opened a co-browse session.
+deny_btn: Deny
+allow_btn: Allow
+label_grant: Can I control your webpage alongside you?
+control: Control
 tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
-
-user_switch_to_audio_because_of_low_bw: Your bandwidth appears to be too low to support video chat. We have switched to voice chat to serve you better.
-
-
-
-
-
-
+# new
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Video call
-callcenter_1: Start video chat
 agent_txt: agent
 agents_txt: agents
 bar_txt: Live Customer Service
 welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
 fallback_timeout_unavailble_txt: There are no available video chat agent.
 fallback_timeout_calls_txt: There are no available video chat agent.
-
-The associate cannot see or hear you: The agent cannot see or hear you.
 The associate cant see you: The agent cannot see or hear you.
 I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
 Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
@@ -301,6 +193,7 @@ Send and quit: Send and quit
 Survey sent: Survey sent.
 Click this button to turn on your microphone: Click this button to turn on your microphone.
 I turn on my microphone: I will now switch on my microphone.
+Unfortunately, the agent you called is unavailable at the moment: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
 Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
 Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
 Unable to connect: Unable to connect.
@@ -312,6 +205,7 @@ Want a copy of our conversation?: Do you want a copy of our conversation?
 Please enter a valid email address: Invalid email address.
 Enter your email address: Enter your email address.
 No thanks: No thanks
+"No, thanks!": "No, thanks"
 Submit: Submit
 Transcript sent: Transcript sent
 We are unable to connect you with an associate: We are unable to connect you to an agent.
@@ -321,21 +215,75 @@ Your message here: Your message here
 Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
 Message sent: Message sent
 Close: Close
-
-
+#reunification
 slogan_txt: We are here to help!
 welcome_balloon_txt1: "How can I help you?"
 welcome_balloon_txt2: "An operator is available now to answer your questions"
 The associate cannot see you but he hear you: The agent cannot see you but he is able to hear you.
 I like to share a file with you: I would like to share a file with you.
 Connecting: Connecting
-whats this: What's this?
-Pause: Pause
-Play: Play
-Sound off: Sound off
-Sound on: Sound on
+whats this: Presentation video
 My text chat conversation: My text chat conversation
 My video chat conversation: My video chat conversation
 Please find the entire conversation attached below.: ''
 files push during the conversation: Files shared during the conversation.
 videos push during the conversation: Videos shared during the conversation.
+allowed: allowed
+denied: denied
+Access: Access
+call_button_txt: Start a conversation now
+The: The
+cant see you: cannot see you.
+cannot see you but he hear you: cannot see you but he is able to hear you.
+cannot see or hear you: cannot see or hear you.
+The associate can see and hear you: The agent can see and hear you.
+"Thanks for contacting us.": "Thanks for contacting us."
+"Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
+any_suggestions: Any suggestions?
+#title popin
+pdf_title: PDF Push
+video_title: Video Push
+product_webcam_title: Product camera
+agent: Agent
+Click here to expand: Click here to expand
+No operator is available: The agent is not available
+Leave us a message: Leave us a message
+start a chat discussion: Start a text conversation
+start a video discussion: Start a video conversation
+click_on_allow_button: Click on the ‘‘Allow’’ button,
+to_turn_on_your_webcam: to turn on your webcam.
+to_turn_on_your_microphone: to turn on your microphone.
+by_clicking_allow_webcam: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
+by_clicking_allow_micro: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
+microphone_icon: microphone icon
+camera_icon: camera icon
+first_click_on_the: First click on the
+above: above.
+this_will_make_the_menu_appear: this will make the menu appear.
+click_share_selected_device_button: Click “Share selected device” button,
+by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
+by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
+close_video: Close video
+whats this video: Presentation video
+video_desactivate: Mute the webcam
+click_allow_once_button: Click “allow once” button
+by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
+by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
+I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
+Your text chat has ended: Your text chat has ended.
+Your text conversation is now over: Your text conversation is now over.
+video_activate: Webcam is on
+audio_activate: Microphone is on
+audio_desactivate: Mute the microphone
+do_you_want_to_end_discussion: Do you want to end the conversation?
+you_are_seeing: You are seeing
+you_are_not_seeing: You are not seeing
+Co-browse session has ended: Co-browse session has ended.
+we are unavailable: We are unavailable.
+#audio video access
+ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
+ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
+audio_access_allowed: Audio access allowed
+video_access_allowed: Video access allowed
+audio_access_denied: Audio access denied
+video_access_denied: Video access denied
