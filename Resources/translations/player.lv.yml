@@ -287,3 +287,5 @@ audio_access_allowed: Audio access allowed
 video_access_allowed: Video access allowed
 audio_access_denied: Audio access denied
 video_access_denied: Video access denied
+
+cam_on_mic_off: The agent can see you but is not able to hear you.
