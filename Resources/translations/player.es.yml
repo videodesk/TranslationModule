@@ -38,14 +38,14 @@ stop_vid: Desactivar el vídeo del contacto
 resume_vid: Activar el vídeo del contacto
 activate_volume: Activar el sonido
 desactivate_volume: Desactivar el sonido
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
+userDenyFlash: Has denegado el acceso a tu webcam y a tu micrófono.  Hemos cambiado a chat de texto. (#9)
 #transcript mail
 Hi: ¡Hola!
 You reached: Usted contactado
 We have to pleasure to send you the transcript of your discussion.: Tenemos el placer de enviarle la transcripción de su conversación.
 We look forward to seeing you again on: Esperamos que ayude a usted
 Thank you for your visit: Gracias por su visita.
-videodesk team: El equipo videodesk
+videodesk team: El equipo VideoDesk
 transcript: Transcripción
 yours transcripts with: Su transcripción con
 We can talk, you are seeing.: Podemos hablar, usted ve.
@@ -114,7 +114,7 @@ to_start_your_microphone: Para activar el micrófono
 to_start_your_webcam: Para activar la webcam
 terms_of_use: 'Condiciones de uso '
 here: Haga clic
-hangup: Hang up
+hangup: Colgar
 initiate_video_call: ¿Le gustaria empezar una conversacion vídeo?
 initiate_audio_call: ¿Le gustaria empezar una conversacion audio?
 webuser_accept_audio_call: Usted ha aceptado la conversacion audio
@@ -150,17 +150,17 @@ transcript_will_be_sent: Mandaremos sus intercambios por email cuando acabare su
 transcript_sent: Le hemos mandado su conversación.
 phone_invalid: Número de telefóno invalido 
 shall_we_use_this_address: ¿Podemos utilizar está dirección?
-maximize: Maximize
-reduce: Reduce
-cobrowsing_toolbar: Ongoing co-browse session
-initiate_a_cobrowsing_session: Do you want to accept a cobrowse session?
-accept_cobrowsing: Accept co-browse
-cobrowsing_session: I have opened a co-browse session.
-deny_btn: Deny
-allow_btn: Allow
-label_grant: Can I control your webpage alongside you?
-control: Control
-tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
+maximize: Maximizar
+reduce: Reducir
+cobrowsing_toolbar: Sesión de conavegación en marcha
+initiate_a_cobrowsing_session: ¿Deseas aceptar una sesión de conavegación?
+accept_cobrowsing: Aceptar conavegación
+cobrowsing_session: He abierto una sesión de conavegación.
+deny_btn: Rechazar
+allow_btn: Permitir
+label_grant: ¿Me permites controlar contigo tu página web?
+control: Controlar
+tooltip_help_cobrowsing: Durante la sesión de conavegación, nuestro asesor puede ver solamente lo que está en la página web en sí. No podrá ver tu navegador ni cualquier otra pestaña con páginas abiertas.  El asesor nunca verá nada más en tu ordenador.
 # new
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Llamada vídeo
@@ -193,10 +193,10 @@ Send and quit: Enviar y salir
 Survey sent: Encuesta enviada. 
 Click this button to turn on your microphone: Haga clic en este botón para activar el micrófono. 
 I turn on my microphone: Ahora voy a activar el micrófono. 
-Unfortunately, the agent you called is unavailable at the moment: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
-Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
-Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
-Unable to connect: Unable to connect.
+Unfortunately, the agent you called is unavailable at the moment: Lo sentimos.  Desgraciadamente, el asesor al que has llamado no está disponible en estos momentos. 
+Sorry, but the agents did not answer in time.: Lo sentimos. Ningún asesor ha respondido en este preciso momento. 
+Sorry, an error occured and the conversation is over.: Lo sentimos. Ha ocurrido un error y la conversación ha terminado. 
+Unable to connect: No es posible la conexión. 
 not here, leave a message: Lo siento, en este momento no estoy disponible. Por favor, deja un mensaje.
 Your video chat has ended: ¡Se acabo la conversación!
 Your opinion matters to us: Tu opinión cuenta.
@@ -208,42 +208,42 @@ No thanks: No, gracias
 "No, thanks!": "No, gracias"
 Submit: Enviar
 Transcript sent: Conversación enviada
-We are unable to connect you with an associate: We are unable to connect you to an agent.
+We are unable to connect you with an associate: No podemos conectarte con un asesor. 
 Your email address: Su Email
 Your phone number: Su telefono
 Your message here: Dejar un mensaje
-Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
-Message sent: Message sent
-Close: Close
+Please enter a valid email address or a telephone number: Introduce una dirección de correo electrónico o un número de teléfono válido. 
+Message sent: Mensaje enviado
+Close: Cerrar
 #reunification
-slogan_txt: We are here to help!
-welcome_balloon_txt1: "How can I help you?"
-welcome_balloon_txt2: "An operator is available now to answer your questions"
+slogan_txt: ¡Estamos aquí para ayudarte!
+welcome_balloon_txt1: "¿Qué deseas?"
+welcome_balloon_txt2: "El asesor está ahora disponible para responder a tus preguntas"
 The associate cannot see you but he hear you: El asesor no puede ver a usted, pero él es capaz de escuchar a usted.
-I like to share a file with you: I would like to share a file with you.
-Connecting: Connecting
-whats this: Presentation video
+I like to share a file with you: Me gustaría compartir un archivo contigo.
+Connecting: Conectando
+whats this: ¿Qué es esto?
 My text chat conversation: Mi conversación de chat
 My video chat conversation: My video chat conversation
 Please find the entire conversation attached below.: ''
-files push during the conversation: Files shared during the conversation.
-videos push during the conversation: Videos shared during the conversation.
-allowed: allowed
-denied: denied
-Access: Access
+files push during the conversation: Archivos compartidos durante la conversación.
+videos push during the conversation: Vídeos compartidos durante la conversación.
+allowed: permitido
+denied: denegado
+Access: Acceso
 call_button_txt: Empezar una conversación
-The: The
-cant see you: cannot see you.
-cannot see you but he hear you: cannot see you but he is able to hear you.
-cannot see or hear you: cannot see or hear you.
-The associate can see and hear you: The associate can see and hear you.
-"Thanks for contacting us.": "Thanks for contacting us."
-"Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
+The: El
+cant see you: no puede verte.
+cannot see you but he hear you: no puede verte pero sí puede oírte.
+cannot see or hear you: no puede verte ni oírte.
+The associate can see and hear you: La otra persona puede verte y oírte.
+"Thanks for contacting us.": "Gracias por ponerte en contacto con nosotros."
+"Would you like a copy of this conversation?": "¿Te gustaría recibir una copia de esta conversación?"
 any_suggestions: ¿Tiene sugerencias?
 #title popin
-pdf_title: PDF Push
-video_title: Video Push
-product_webcam_title: Product webcam
+pdf_title: Push PDF
+video_title: Push vídeo
+product_webcam_title: Producto webcam
 agent: Asesor
 Click here to expand: Haz click para ampliar
 No operator is available: Asesores están ocupados
@@ -264,21 +264,21 @@ click_share_selected_device_button: Haciendo clic en el botón ‘‘Share selec
 by_clicking_share_webcam:  Haciendo clic en el botón ‘‘Share selected device’’, el asesor del sitio es capaz de escuchar y ver a usted.
 by_clicking_share_micro: Haciendo clic en el botón ‘‘Share selected device’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
 close_video: Cerrar el vídeo
-whats this video: Presentation video
+whats this video: Vídeo de presentación
 video_desactivate: Cortar la webcam
 click_allow_once_button: Haga clic en el botón ‘‘Allow once’’
 by_clicking_allow_once_webcam: Haciendo clic en el botón ‘‘Allow once’’, el asesor del sitio es capaz de escuchar y ver a usted.
 by_clicking_allow_once_micro: Haciendo clic en el botón ‘‘Allow’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
 I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
-Your text chat has ended: Your text chat has ended.
-Your text conversation is now over: La conversación está terminada.
-video_activate: Webcam is on
-audio_activate: Microphone is on
-audio_desactivate: Mute the microphone
-do_you_want_to_end_discussion: Do you want to end the conversation?
-you_are_seeing: You are seeing
-you_are_not_seeing: You are not seeing
-Co-browse session has ended: Co-browse session has ended.
+Your text chat has ended: El chat de texto ha terminado.
+Your text conversation is now over: La conversación de texto ha terminado. 
+video_activate: La webcam está encendida
+audio_activate: El micrófono está encendido
+audio_desactivate: Silenciar el micrófono
+do_you_want_to_end_discussion: ¿Deseas terminar la conversación?
+you_are_seeing: Puedes ver
+you_are_not_seeing: No puedes ver
+Co-browse session has ended: La sesión de conavegación ha terminado.
 we are unavailable: We are unavailable.
 #audio video access
 ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
