@@ -238,7 +238,7 @@ cant see you: Kann Sie sehen.
 cannot see you but he hear you: Kann Sie nicht sehen, aber hören.
 cannot see or hear you: Kann Sie weder sehen noch hören.
 The associate can see and hear you: Der Berater kann Sie sehen und hören.
-"Thanks for contacting us.": ""Thanks for contacting us.": "
+"Thanks for contacting us.": "Thanks for contacting us: "
 "Would you like a copy of this conversation?": "Would you like a copy of this conversation?: "
 any_suggestions: Irgendwelche Verbesserungen?
 #title popin
@@ -251,25 +251,25 @@ No operator is available: Der Berater ist nicht verfügbar
 Leave us a message: Hinterlassen Sie uns eine Nachricht
 start a chat discussion: Text-Gespräch beginnen
 start a video discussion: Video-Gespräch beginnen
-click_on_allow_button: Klicken Sie auf „Zulassen”,
+click_on_allow_button: Klicken Sie auf Zulassen,
 to_turn_on_your_webcam: Um Ihre Webcam einzuschalten.
 to_turn_on_your_microphone: Um Ihr Mikrofon einzuschalten. 
-by_clicking_allow_webcam: Wenn Sie auf „Zulassen” klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie sehen und hören. 
-by_clicking_allow_micro: Wenn Sie auf „Zulassen” klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie hören.
+by_clicking_allow_webcam: Wenn Sie auf Zulassen klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie sehen und hören. 
+by_clicking_allow_micro: Wenn Sie auf Zulassen klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie hören.
 microphone_icon: Mikrofon-Symbol
 camera_icon: Kamera-Symbol
 first_click_on_the: Klicken Sie zunächst
 above: oben.
 this_will_make_the_menu_appear: Dann erscheint das Menü.
-click_share_selected_device_button: Klicken Sie auf „ausgewähltes Gerät freigeben”,
-by_clicking_share_webcam: Wenn Sie auf „ausgewähltes Gerät freigeben” klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie sehen und hören.
-by_clicking_share_micro: Wenn Sie auf „ausgewähltes Gerät freigeben” klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie hören.
+click_share_selected_device_button: Klicken Sie auf ausgewähltes Gerät freigeben,
+by_clicking_share_webcam: Wenn Sie auf ausgewähltes Gerät freigeben klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie sehen und hören.
+by_clicking_share_micro: Wenn Sie auf ausgewähltes Gerät freigeben klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie hören.
 close_video: Video schließen
 whats this video: Präsentations-Video
 video_desactivate: Webcam auf stumm schalten
-click_allow_once_button: Klicken Sie auf „einmal zulassen“
-by_clicking_allow_once_webcam: Wenn Sie „einmal zulassen” klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie sehen und hören. 
-by_clicking_allow_once_micro: Wenn Sie „einmal zulassen” klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie hören. 
+click_allow_once_button: Klicken Sie auf einmal zulassen
+by_clicking_allow_once_webcam: Wenn Sie einmal zulassen klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie sehen und hören. 
+by_clicking_allow_once_micro: Wenn Sie einmal zulassen klicken, kann der Berater, der sich auf der Seite befindet, die Sie browsen, Sie hören. 
 I will be with you in just a moment. Please wait while the text chat loads: Ich bin gleich für Sie da.  Bitte warten Sie, während der Text-Chat lädt.
 Your text chat has ended: Ihr Text-Chat ist beendet.
 Your text conversation is now over: Ihr Text-Gespräch ist nun zu Ende. 
