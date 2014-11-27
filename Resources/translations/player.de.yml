@@ -7,9 +7,9 @@
 'will answer in a few seconds': 'wird in einigen Sekunden antworten.'
 'Phone number': 'Telefonnummer'
 'email invalide': 'Ungültige E-Mail-Adresse'
-'Discutez en video' : ''Video-Chat''
-'Discutez en audio' : ''Audio-Chat''
-'Discutez en chat' : ''Text-Chat''
+'Discutez en video' : 'Video-Chat'
+'Discutez en audio' : 'Audio-Chat'
+'Discutez en chat' : 'Text-Chat'
 'webuser': Ich
 'message sent': Nachricht wurde gesendet
 'Discussion with %site%': Diskussion mit %site%
@@ -218,8 +218,8 @@ Message sent: Nachricht verschickt.
 Close: Schließen
 #reunification
 slogan_txt: Wir sind hier, um Ihnen zu helfen! 
-welcome_balloon_txt1: "„Wie kann ich Ihnen helfen?”"
-welcome_balloon_txt2: "„Ein Telefonist steht Ihnen jetzt für Ihre Fragen zur Verfügung” "
+welcome_balloon_txt1: "Wie kann ich Ihnen helfen?"
+welcome_balloon_txt2: "Ein Telefonist steht Ihnen jetzt für Ihre Fragen zur Verfügung "
 The associate cannot see you but he hear you: Der Berater kann Sie nicht sehen, aber hören.
 I like to share a file with you: Ich würde gerne eine Datei für Sie freigeben. 
 Connecting: verbinden
@@ -239,7 +239,7 @@ cannot see you but he hear you: Kann Sie nicht sehen, aber hören.
 cannot see or hear you: Kann Sie weder sehen noch hören.
 The associate can see and hear you: Der Berater kann Sie sehen und hören.
 "Thanks for contacting us.": ""Thanks for contacting us.": "
-"Would you like a copy of this conversation?": ""Would you like a copy of this conversation?": "
+"Would you like a copy of this conversation?": "Would you like a copy of this conversation?: "
 any_suggestions: Irgendwelche Verbesserungen?
 #title popin
 pdf_title: Push-PDF
