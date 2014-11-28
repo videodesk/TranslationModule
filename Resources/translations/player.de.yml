@@ -206,7 +206,7 @@ Want a copy of our conversation?: Wollen Sie eine Kopie unseres Gesprächs?
 Please enter a valid email address: Ungültige E-Mail-Adresse.
 Enter your email address: Geben Sie Ihre E-Mail-Adresse ein.
 No thanks: Nein danke
-"No, thanks!": "No thanks: "
+"No, thanks!": "Nein danke"
 Submit: Absenden
 Transcript sent: Protokoll gesendet
 We are unable to connect you with an associate: Wir können Sie nicht mit einem Berater verbinden.
@@ -238,8 +238,8 @@ cant see you: Kann Sie sehen.
 cannot see you but he hear you: Kann Sie nicht sehen, aber hören.
 cannot see or hear you: Kann Sie weder sehen noch hören.
 The associate can see and hear you: Der Berater kann Sie sehen und hören.
-"Thanks for contacting us.": "Thanks for contacting us: "
-"Would you like a copy of this conversation?": "Would you like a copy of this conversation?: "
+"Thanks for contacting us.": "Danke, dass Sie uns kontaktiert haben"
+"Would you like a copy of this conversation?": "Möchten Sie eine Kopie dieses Gesprächs?"
 any_suggestions: Irgendwelche Verbesserungen?
 #title popin
 pdf_title: Push-PDF
