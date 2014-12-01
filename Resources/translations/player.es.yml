@@ -167,7 +167,7 @@ See_the_agent_webcam: Llamada vídeo
 agent_txt: Asesor
 agents_txt: Asesores
 bar_txt: Atención al cliente directa
-welcome_balloon_txt: Un asesor está disponible para responder a sus preguntas. Click Start video chat now to begin.
+welcome_balloon_txt: Un asesor está disponible para responder a sus preguntas. Haz clic en Empezar vídeo chat ahora para comenzar.
 fallback_timeout_unavailble_txt: No hay asesor en vídeo chat disponible. 
 fallback_timeout_calls_txt: No hay asesor en vídeo chat disponible. 
 The associate cant see you: El asesor no puede ver a usted.
@@ -177,9 +177,9 @@ Are you sure? This will end the conversation: ¿Quiere terminar la conversacion?
 There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Su conexión a Internet no es compatible con el chat vídeo. Todavía podemos hablar o chatear. 
 Before we get started,: Antes de empezar,
 to enable your microphone,: para activar el micrófono.
-click the Share selected device button above: haga clic en el botón "Share selected device" arriba
+click the Share selected device button above: haga clic en el botón "Compartir el dispositivo seleccionado" arriba
 click the Allow button above: haga clic en el botón "Allow" arriba
-click the Allow once button below: haga clic en el botón ‘‘Allow once’’ abajo
+click the Allow once button below: haga clic en el botón ‘‘Permitir una vez’’ abajo
 You did not enable your microphone. I cant hear you but I can receive text messages.: Usted no ha activado el micrófono. No puedo oírte pero puedo recibir tus mensajes en el chat.
 The associate cannot see or hear you: El asesor no puede ver y oír a usted.
 Accept: Aceptar 
@@ -224,7 +224,7 @@ I like to share a file with you: Me gustaría compartir un archivo contigo.
 Connecting: Conectando
 whats this: ¿Qué es esto?
 My text chat conversation: Mi conversación de chat
-My video chat conversation: My video chat conversation
+My video chat conversation: Mi conversación de vídeo chat
 Please find the entire conversation attached below.: ''
 files push during the conversation: Archivos compartidos durante la conversación.
 videos push during the conversation: Vídeos compartidos durante la conversación.
@@ -250,26 +250,26 @@ No operator is available: Asesores están ocupados
 Leave us a message: ¡Deje un mensaje!
 start a chat discussion: Empezar una conversación de chat texto
 start a video discussion: Empezar una conversación vídeo
-click_on_allow_button: Haga clic en el botón ‘‘Allow’’, el icono
+click_on_allow_button: Haga clic en el botón ‘‘Permitir’’, el icono
 to_turn_on_your_webcam: para activar la webcam.
 to_turn_on_your_microphone: para activar el micrófono.
-by_clicking_allow_webcam: Haciendo clic en el botón ‘‘Allow’’, el asesor del sitio es capaz de escuchar y ver a usted.
-by_clicking_allow_micro: Haciendo clic en el botón ‘‘Allow’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
+by_clicking_allow_webcam: Haciendo clic en el botón ‘‘Permitir’’, el asesor del sitio es capaz de escuchar y ver a usted.
+by_clicking_allow_micro: Haciendo clic en el botón ‘‘Permitir’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
 microphone_icon: el icono del micrófono
 camera_icon: el icono de la webcam
 first_click_on_the: Para empezar, haga clic en
 above:  arriba.
 this_will_make_the_menu_appear: Esto pondrá de manifiesto un menú.
-click_share_selected_device_button: Haciendo clic en el botón ‘‘Share selected device’’,
-by_clicking_share_webcam:  Haciendo clic en el botón ‘‘Share selected device’’, el asesor del sitio es capaz de escuchar y ver a usted.
-by_clicking_share_micro: Haciendo clic en el botón ‘‘Share selected device’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
+click_share_selected_device_button: Haciendo clic en el botón ‘‘Compartir el dispositivo seleccionado’’,
+by_clicking_share_webcam:  Haciendo clic en el botón ‘‘Compartir el dispositivo seleccionado’’, el asesor del sitio es capaz de escuchar y ver a usted.
+by_clicking_share_micro: Haciendo clic en el botón ‘‘Compartir el dispositivo seleccionado’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
 close_video: Cerrar el vídeo
 whats this video: Vídeo de presentación
 video_desactivate: Cortar la webcam
-click_allow_once_button: Haga clic en el botón ‘‘Allow once’’
-by_clicking_allow_once_webcam: Haciendo clic en el botón ‘‘Allow once’’, el asesor del sitio es capaz de escuchar y ver a usted.
-by_clicking_allow_once_micro: Haciendo clic en el botón ‘‘Allow’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
-I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
+click_allow_once_button: Haga clic en el botón ‘‘Permitir una vez’’
+by_clicking_allow_once_webcam: Haciendo clic en el botón ‘‘Permitir una vez’’, el asesor del sitio es capaz de escuchar y ver a usted.
+by_clicking_allow_once_micro: Haciendo clic en el botón ‘‘Permitir’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
+I will be with you in just a moment. Please wait while the text chat loads: Estaré contigo en un minuto. Por favor, espera mientras carga el chat de texto.
 Your text chat has ended: El chat de texto ha terminado.
 Your text conversation is now over: La conversación de texto ha terminado. 
 video_activate: La webcam está encendida
