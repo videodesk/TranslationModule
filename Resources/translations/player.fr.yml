@@ -243,7 +243,7 @@ any_suggestions: Des suggestions ?
 #title popin
 pdf_title: PDF Push
 video_title: Video Push
-product_webcam_title: Product camera
+product_webcam_title: Seconde webcam
 agent: Conseiller
 Click here to expand: Cliquez pour agrandir
 No operator is available: Conseiller non disponible
@@ -278,8 +278,9 @@ audio_desactivate: Désactiver le microphone
 do_you_want_to_end_discussion: Souhaitez-vous mettre fin à la conversation ?
 you_are_seeing: You are seeing
 you_are_not_seeing: You are not seeing
-Co-browse session has ended: Co-browse session has ended.
+Co-browse session has ended: Fin de la navigation assistée.
 we are unavailable: Nos conseillers sont indisponibles
+
 #audio video access
 ask_bullet_switch_one_way: Activer votre microphone ? Vous pourrez me voir et m'entendre, je ne pourrai pas vous voir.
 ask_bullet_switch_two_way: Activer votre webcam ? Je pourrai vous voir et vous entendre.
