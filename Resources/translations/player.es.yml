@@ -279,7 +279,7 @@ do_you_want_to_end_discussion: ¿Deseas terminar la conversación?
 you_are_seeing: Puedes ver
 you_are_not_seeing: No puedes ver
 Co-browse session has ended: La sesión de conavegación ha terminado.
-we are unavailable: We are unavailable.
+we are unavailable: No hay asesor disponible.
 #audio video access
 ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
 ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
