@@ -132,7 +132,7 @@ message_baloon: Hallo, lassen Sie mir eine Nachricht und ich werde mich bei ihne
 fall_back_window_default: Unser Agent ist derzeit nicht verfügbar, bitte versuchen Sie es später
 back to list: Zurück zur Liste
 denied_missed_call_msg: Entschuldigung, ich kann nicht antworten. Bitte hinterlassen Sie mir eine Nachricht!
-all_agent_msg_1: Wir sind momentan nicht erreichbarr.
+all_agent_msg_1: Wir sind momentan nicht erreichbar.
 all_agent_msg_2: Schicken Sie uns eine Email!
 agent-deny-call-media: 'Leider kann ich kein Audio- oder Video-Anruf mehr öffnen. Wir werden mit einem Text-Chat fortzusetzen.'
 fallback_default_msg: Unsere Agenten sind nicht sofort verfügbar. Bitte versuchen Sie weiter!
