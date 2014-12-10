@@ -269,7 +269,7 @@ video_desactivate: Cortar la webcam
 click_allow_once_button: Haga clic en el botón ‘‘Permitir una vez’’
 by_clicking_allow_once_webcam: Haciendo clic en el botón ‘‘Permitir una vez’’, el asesor del sitio es capaz de escuchar y ver a usted.
 by_clicking_allow_once_micro: Haciendo clic en el botón ‘‘Permitir’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
-I will be with you in just a moment. Please wait while the text chat loads: Estaré contigo en un minuto. Por favor, espera mientras carga el chat de texto.
+I will be with you in just a moment. Please wait while the text chat loads: Podré atenderte en un momento.  Espera mientras se carga el chat de texto.
 Your text chat has ended: El chat de texto ha terminado.
 Your text conversation is now over: La conversación de texto ha terminado. 
 video_activate: La webcam está encendida
@@ -279,12 +279,12 @@ do_you_want_to_end_discussion: ¿Deseas terminar la conversación?
 you_are_seeing: Puedes ver
 you_are_not_seeing: No puedes ver
 Co-browse session has ended: La sesión de conavegación ha terminado.
-we are unavailable: No hay asesor disponible.
+we are unavailable: No estamos disponibles.
 #audio video access
-ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
-audio_access_allowed: Audio access allowed
-video_access_allowed: Video access allowed
-audio_access_denied: Audio access denied
-video_access_denied: Video access denied
-cam_on_mic_off: The agent can see you but is not able to hear you.
+ask_bullet_switch_one_way: ¿Puedo activar tu micrófono? Podrás verme y oírme, yo no podré verte.
+ask_bullet_switch_two_way: ¿Puedo activar tu webcam? Podré verte y oírte.
+audio_access_allowed: Acceso al audio permitido
+video_access_allowed: Acceso al vídeo permitido
+audio_access_denied: Acceso al audio no permitido
+video_access_denied: Acceso al vídeo no permitido
+cam_on_mic_off: El asesor puede verte pero no puede oírte.
