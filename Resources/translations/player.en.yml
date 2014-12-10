@@ -288,3 +288,9 @@ video_access_allowed: Video access allowed
 audio_access_denied: Audio access denied
 video_access_denied: Video access denied
 cam_on_mic_off: The agent can see you but is not able to hear you.
+
+grant: grant
+deny: deny
+The agent is requesting to control your webpage alongside you: The agent is requesting to control your webpage alongside you
+You closed the co-browse session: You closed the co-browse session
+I have now closed the co-browse session: I have now closed the co-browse session
