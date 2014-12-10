@@ -281,10 +281,10 @@ you_are_not_seeing: Sie sehen nicht
 Co-browse session has ended: Co-Browsing-Sitzung ist beendet.
 we are unavailable: Wir sind nicht erreichbar
 #audio video access
-ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
-audio_access_allowed: Audio access allowed
-video_access_allowed: Video access allowed
-audio_access_denied: Audio access denied
-video_access_denied: Video access denied
-cam_on_mic_off: The agent can see you but is not able to hear you.
+ask_bullet_switch_one_way: Kann ich Ihr Mikrofon aktivieren? Sie können mich sehen und hören, ich kann Sie nicht sehen.
+ask_bullet_switch_two_way: Kann ich Ihre Webcam aktivieren? Ich kann Sie sehen und hören.
+audio_access_allowed: Audiozugriff gestattet
+video_access_allowed: Videozugriff gestattet
+audio_access_denied: Audiozugriff verweigert
+video_access_denied: Videozugriff verweigert
+cam_on_mic_off: Der Berater kann Sie sehen, aber er kann Sie nicht hören.
