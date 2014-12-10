@@ -279,13 +279,13 @@ do_you_want_to_end_discussion: Quer terminar esta conversa?
 you_are_seeing: Consegue ver
 you_are_not_seeing: Não consegue ver
 Co-browse session has ended: A sessão de co-browse terminou.
-we are unavailable: We are unavailable.
+we are unavailable: Estamos indisponíveis.
 #audio video access
-ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
-audio_access_allowed: Audio access allowed
-video_access_allowed: Video access allowed
-audio_access_denied: Audio access denied
-video_access_denied: Video access denied
+ask_bullet_switch_one_way: Posso ativar seu microfone? Poderá me ver e ouvir, eu não vejo você.
+ask_bullet_switch_two_way: Posso ativar sua câmera web? Poderei vê-lo e ouvi-lo.
+audio_access_allowed: Acesso ao áudio permitido
+video_access_allowed: Acesso ao vídeo permitido
+audio_access_denied: Acesso ao áudio recusado
+video_access_denied: Acesso ao vídeo recusado
 
-cam_on_mic_off: The agent can see you but is not able to hear you.
+cam_on_mic_off: O agente pode vê-lo, mas não consegue ouvi-lo.
