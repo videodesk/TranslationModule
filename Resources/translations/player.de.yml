@@ -288,3 +288,10 @@ video_access_allowed: Videozugriff gestattet
 audio_access_denied: Audiozugriff verweigert
 video_access_denied: Videozugriff verweigert
 cam_on_mic_off: Der Berater kann Sie sehen, aber er kann Sie nicht hören.
+
+
+grant: Zulassen
+deny: Ablehnen
+The agent is requesting to control your webpage alongside you: Kann ich unser Geschäft mit Ihnen co-browsen?
+You closed the co-browse session: Co-Browsing-Sitzung ist beendet.
+I have now closed the co-browse session: Co-Browsing-Sitzung ist beendet.
