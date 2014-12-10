@@ -290,3 +290,9 @@ audio_access_denied: Accès audio refusé
 video_access_denied: Accès vidéo refusé
 
 cam_on_mic_off: Le conseiller peut vous voir mais ne peut pas vous entendre.
+
+grant: Autoriser
+deny: Refuser
+The agent is requesting to control your webpage alongside you: M'autorisez-vous à parcourir la boutique avec vous en navigation assistée ?
+You closed the co-browse session: Fin de la navigation assistée
+I have now closed the co-browse session: Fin de la navigation assistée
