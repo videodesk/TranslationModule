@@ -289,3 +289,9 @@ audio_access_denied: Acesso ao áudio recusado
 video_access_denied: Acesso ao vídeo recusado
 
 cam_on_mic_off: O agente pode vê-lo, mas não consegue ouvi-lo.
+
+grant: Permitir
+deny: Recusar
+The agent is requesting to control your webpage alongside you: Posso conavegar pela nossa loja com você?
+You closed the co-browse session: A sessão de co-browse terminou.
+I have now closed the co-browse session: A sessão de co-browse terminou.
