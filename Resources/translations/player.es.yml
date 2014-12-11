@@ -295,3 +295,5 @@ deny: Rechazar
 The agent is requesting to control your webpage alongside you: ¿Puedo co-navegar con usted?        
 You closed the co-browse session: La sesión de conavegación ha terminado.
 I have now closed the co-browse session: La sesión de conavegación ha terminado.
+
+you deny authorization bar: you deny authorization bar
