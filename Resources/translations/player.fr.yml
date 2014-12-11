@@ -296,3 +296,7 @@ deny: Refuser
 The agent is requesting to control your webpage alongside you: Voulez-vous lancer la navigation assistée ?
 You closed the co-browse session: Fin de la navigation assistée
 I have now closed the co-browse session: Fin de la navigation assistée
+
+you deny authorization bar: you deny authorization bar
+cobrowsing access granted: cobrowsing access granted
+cobrowsing access denied: cobrowsing access granted
