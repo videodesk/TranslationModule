@@ -55,7 +55,7 @@ type here: Escribe tu mensaje aquí...
 Do you want to close the discussion?: ¿Quiere terminar la conversacion?
 Yes: Sí
 No: No
-send: Mandar
+send: Enviar
 your firstname: Nombre
 Please fill at least one of highlighted fields: Por favor, rellene al menos una linea
 your lastname: Apellido
@@ -143,7 +143,7 @@ your_agent_hung_up: El asesor ha colgado.
 you_hung_up: Usted ha colgado.
 give_us_your_feedback: Denos su opinión.
 back_to_chat: Volver a la conversación
-send_and_quit: Mandar y salir
+send_and_quit: Enviar y salir
 back_to_feedback: Volver
 any_suggestions: ¿Tiene sugerencias?
 transcript_will_be_sent: Mandaremos sus intercambios por email cuando acabare su conversación. 
@@ -152,7 +152,7 @@ phone_invalid: Número de telefóno invalido
 shall_we_use_this_address: ¿Podemos utilizar está dirección?
 maximize: Maximizar
 reduce: Reducir
-cobrowsing_toolbar: Sesión de conavegación en marcha
+cobrowsing_toolbar: Navegación compartida ya activada
 initiate_a_cobrowsing_session: ¿Deseas aceptar una sesión de conavegación?
 accept_cobrowsing: Aceptar conavegación
 cobrowsing_session: He abierto una sesión de conavegación.
@@ -160,7 +160,7 @@ deny_btn: Rechazar
 allow_btn: Permitir
 label_grant: ¿Me permites controlar contigo tu página web?
 control: Controlar
-tooltip_help_cobrowsing: Durante la sesión de conavegación, nuestro asesor puede ver solamente lo que está en la página web en sí. No podrá ver tu navegador ni cualquier otra pestaña con páginas abiertas.  El asesor nunca verá nada más en tu ordenador.
+tooltip_help_cobrowsing: Durante la sesión de navegación compartida, tu asesor solamente puede ver el contenido de la página web. No puede ver ni tu navegador, ni el resto de páginas que tengas abiertas ni nada más de tu ordenador.
 # new
 #V16---------------------------------------------------------------------------
 See_the_agent_webcam: Llamada vídeo
@@ -186,7 +186,7 @@ Accept: Aceptar
 Decline: Rechazar
 File accepted: Archivo aceptado 
 File declined: Archivo rechazado
-Can I co-browse our store with you?: ¿Puedo co-navegar con usted? 
+Can I co-browse our store with you?: ¿quieres que naveguemos juntos? 
 Allow: Permitir 
 Deny: Denegar 
 Send and quit: Enviar y salir
@@ -199,7 +199,7 @@ Sorry, an error occured and the conversation is over.: Lo sentimos. Ha ocurrido 
 Unable to connect: No es posible la conexión. 
 not here, leave a message: Lo siento, en este momento no estoy disponible. Por favor, deja un mensaje.
 Your video chat has ended: ¡Se acabo la conversación!
-Your opinion matters to us: Tu opinión cuenta.
+Your opinion matters to us: Tu opinión es importante para nosotros
 Thanks for chatting with us today: ¡Gracias para su llamada!
 Want a copy of our conversation?: ¿Quieres recibir una copia de nuestra conversación?
 Please enter a valid email address: Dirección Email no válida
@@ -213,7 +213,7 @@ Your email address: Su Email
 Your phone number: Su telefono
 Your message here: Dejar un mensaje
 Please enter a valid email address or a telephone number: Introduce una dirección de correo electrónico o un número de teléfono válido. 
-Message sent: Mensaje enviado
+Message sent: Opinión enviada
 Close: Cerrar
 #reunification
 slogan_txt: ¡Estamos aquí para ayudarte!
@@ -238,7 +238,7 @@ cannot see you but he hear you: no puede verte pero sí puede oírte.
 cannot see or hear you: no puede verte ni oírte.
 The associate can see and hear you: La otra persona puede verte y oírte.
 "Thanks for contacting us.": "Gracias por ponerte en contacto con nosotros."
-"Would you like a copy of this conversation?": "¿Te gustaría recibir una copia de esta conversación?"
+"Would you like a copy of this conversation?": "¿Quieres recibir una copia de lo que hemos hablado por email?"
 any_suggestions: ¿Tiene sugerencias?
 #title popin 
 pdf_title: Push PDF
@@ -271,7 +271,7 @@ by_clicking_allow_once_webcam: Haciendo clic en el botón ‘‘Permitir una vez
 by_clicking_allow_once_micro: Haciendo clic en el botón ‘‘Permitir’’, el asesor del sitio no puede ver a usted, pero él es capaz de escuchar a usted.
 I will be with you in just a moment. Please wait while the text chat loads: Podré atenderte en un momento.  Espera mientras se carga el chat de texto.
 Your text chat has ended: El chat de texto ha terminado.
-Your text conversation is now over: La conversación de texto ha terminado. 
+Your text conversation is now over: La conversación ha terminado. 
 video_activate: La webcam está encendida
 audio_activate: El micrófono está encendido
 audio_desactivate: Silenciar el micrófono
@@ -290,12 +290,12 @@ video_access_denied: Acceso al vídeo no permitido
 cam_on_mic_off: El asesor puede verte pero no puede oírte.
 
 
-grant: Permitir
-deny: Rechazar
+grant: Si
+deny: No
 The agent is requesting to control your webpage alongside you: ¿Puedo co-navegar con usted?        
 You closed the co-browse session: La sesión de conavegación ha terminado.
 I have now closed the co-browse session: La sesión de conavegación ha terminado.
 
 you deny authorization bar: you deny authorization bar
-cobrowsing access granted: cobrowsing access granted
-cobrowsing access denied: cobrowsing access denied
+cobrowsing access granted: Se ha activado la sesión de navegación compartida
+cobrowsing access denied: No se ha activado la sesión de navegación compartida
