@@ -299,3 +299,7 @@ I have now closed the co-browse session: La sesión de conavegación ha terminad
 you deny authorization bar: you deny authorization bar
 cobrowsing access granted: Se ha activado la sesión de navegación compartida
 cobrowsing access denied: No se ha activado la sesión de navegación compartida
+
+The webuser close product webcam: User has closed the product webcam.
+The_webuser_close_push_file: User has closed file-sharing.
+The webuser close lighbox: User has closed the lightbox.
