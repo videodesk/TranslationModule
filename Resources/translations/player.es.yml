@@ -65,7 +65,7 @@ your phone: Telefono
 your message: Mensaje
 Your conversation has ended.Thank you for contacting us!: <strong>¡Se acabo la conversación!</strong><br />¡Gracias para su llamada!
 Recall this operator now: Volver a llamar el asesor
-give us your feedback about the conversation: Tu opinión cuenta.
+give us your feedback about the conversation: Tu opinión es importante para nosotros.
 has this dialog been helpful: ¿Esta conversación ha sido útil?
 Would you recommend this experience to your facebook friends: ¿Aconsejarías este servicio a tus amigos?
 Any comments or suggestions: ¿Tienes algún comentario? ¿Sugerencias?
@@ -145,7 +145,7 @@ give_us_your_feedback: Denos su opinión.
 back_to_chat: Volver a la conversación
 send_and_quit: Enviar y salir
 back_to_feedback: Volver
-any_suggestions: ¿Tiene sugerencias?
+any_suggestions: ¿Tienes alguna sugerencia?
 transcript_will_be_sent: Mandaremos sus intercambios por email cuando acabare su conversación. 
 transcript_sent: Le hemos mandado su conversación.
 phone_invalid: Número de telefóno invalido 
@@ -239,7 +239,7 @@ cannot see or hear you: no puede verte ni oírte.
 The associate can see and hear you: La otra persona puede verte y oírte.
 "Thanks for contacting us.": "Gracias por ponerte en contacto con nosotros."
 "Would you like a copy of this conversation?": "¿Quieres recibir una copia de lo que hemos hablado por email?"
-any_suggestions: ¿Tiene sugerencias?
+any_suggestions: ¿Tienes alguna sugerencia?
 #title popin 
 pdf_title: Push PDF
 video_title: Push vídeo
