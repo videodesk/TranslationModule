@@ -299,3 +299,7 @@ I have now closed the co-browse session: Co-Browsing-Sitzung ist beendet.
 you deny authorization bar: you deny authorization bar
 cobrowsing access granted: cobrowsing access granted
 cobrowsing access denied: cobrowsing access denied
+
+The webuser close product webcam: User has closed the product webcam.
+The_webuser_close_push_file: User has closed file-sharing.
+The webuser close lighbox: User has closed the lightbox.
