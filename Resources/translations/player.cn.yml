@@ -5,22 +5,22 @@
 'Webuser is typing': 正在写入……
 'will answer in a few seconds': 几秒钟后便可以使用。
 'Phone number': 电话号码
-'email invalide': 无效的电子邮件
+'email invalide': 无效邮件
 'Discutez en video' : 视频聊天
 'Discutez en audio' : 音频聊天
 'Discutez en chat' : 文字聊天
 'webuser': 我
-'message sent': 发送消息  或消息已成功发送
-'Discussion with %site%': 谈话 %site%
-'Enter your question here': 请在这里输入您的信息或疑问...
+'message sent': 消息已发送
+'Discussion with %site%': 与%site%对话
+'Enter your question here': 在此输入消息…
 #survey 客户信息反馈
 bad: 很差
 poor: 差
-regular: 一般
+regular: 普通
 good: 好
-gorgeous: 非常好
+gorgeous: 很好
 #module texts 信息模块
-'information help':   更多信息帮助
+'information help':   您现在可以与可用的客服专员聊天。您可以选择视频、音频或文字聊天。立即、简单、匿名和免费。
 #--------------FLASH PANEL-----------------
 #TMP MSG
 webcam_activated: 网络摄像头已经开启
