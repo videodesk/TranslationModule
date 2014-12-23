@@ -1,44 +1,44 @@
 'audio call': 音频呼叫
-'video call': 视频呼叫
-'information help': 详细信息
-'faq help': 详细信息
-'Webuser is typing': 正在写入……
-'will answer in a few seconds': 几秒钟后便可以使用。
+'video call': 视频通话
+'information help': 更多信息帮助
+'faq help': 常见问题解答
+'Webuser is typing': 对方正在输入中...
+'will answer in a few seconds': 会很快答复您
 'Phone number': 电话号码
-'email invalide': 无效邮件
+'email invalide': 无效的电子邮件
 'Discutez en video' : 视频聊天
 'Discutez en audio' : 音频聊天
 'Discutez en chat' : 文字聊天
 'webuser': 我
-'message sent': 消息已发送
-'Discussion with %site%': 与%site%对话
-'Enter your question here': 在此输入消息…
+'message sent': 发送消息  或消息已成功发送
+'Discussion with %site%': 谈话 %site%
+'Enter your question here': 请在这里输入您的信息或疑问...
 #survey 客户信息反馈
 bad: 很差
 poor: 差
-regular: 普通
+regular: 一般
 good: 好
-gorgeous: 很好
+gorgeous: 非常好
 #module texts 信息模块
-'information help':   您现在可以与可用的客服专员聊天。您可以选择视频、音频或文字聊天。立即、简单、匿名和免费。
+'information help':   更多信息帮助
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: 您的网络摄像头已打开
-webcam_desactivated: 您的网络摄像头已关闭
-mic_activated: 麦克风已打开
-mic_desactivated: 麦克风已静音
-vid_resumed: 客服专员的视频正在恢复
-vid_stoped: 客服专员的视频已关闭
+webcam_activated: 网络摄像头已经开启
+webcam_desactivated: 网络摄像头已经关闭
+mic_activated: 话筒已经开启
+mic_desactivated: 话筒已经处于静音状态
+vid_resumed: 您的代理视频已经重新接通
+vid_stoped: 您的代理视频已经关闭
 #ROLL MSG
-activate_cam: 激活我的网络摄像头
-desactivate_cam: 禁用我的网络摄像头
-activate_mic: 激活我的麦克风
-desactivate_mic: 使我的麦克风静音
-stop_vid: 停止客服专员的视频
-resume_vid: 恢复客服专员的视频
-activate_volume: 取消扬声器静音
-desactivate_volume: 使扬声器静音
-userDenyFlash: 您拒绝使用网络摄像头和麦克风。将您切换成文字聊天。（#9)
+activate_cam: 开启网络摄像头
+desactivate_cam: 关闭网络摄像头
+activate_mic: 开启话筒
+desactivate_mic: 关闭话筒
+stop_vid: 终止视频
+resume_vid: 再次接通代理的视频
+activate_volume: 开启扬声器
+desactivate_volume: 关闭扬声器
+userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
 #transcript mail
 Hi: 您好,
 You reached: 您已经接通我们的服务
@@ -279,7 +279,7 @@ do_you_want_to_end_discussion: Do you want to end the conversation?
 you_are_seeing: You are seeing
 you_are_not_seeing: You are not seeing
 Co-browse session has ended: Co-browse session has ended.
-we are unavailable: 我们正在忙碌中，因此不能为您服务。
+we are unavailable: We are unavailable.
 #audio video access
 ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
 ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
