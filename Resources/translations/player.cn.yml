@@ -23,22 +23,22 @@ gorgeous: 很好
 'information help':   您现在可以与可用的客服专员聊天。您可以选择视频、音频或文字聊天。立即、简单、匿名和免费。
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: 网络摄像头已经开启
-webcam_desactivated: 网络摄像头已经关闭
-mic_activated: 话筒已经开启
-mic_desactivated: 话筒已经处于静音状态
-vid_resumed: 您的代理视频已经重新接通
-vid_stoped: 您的代理视频已经关闭
+webcam_activated: 您的网络摄像头已打开
+webcam_desactivated: 您的网络摄像头已关闭
+mic_activated: 麦克风已打开
+mic_desactivated: 麦克风已静音
+vid_resumed: 客服专员的视频正在恢复
+vid_stoped: 客服专员的视频已关闭
 #ROLL MSG
-activate_cam: 开启网络摄像头
-desactivate_cam: 关闭网络摄像头
-activate_mic: 开启话筒
-desactivate_mic: 关闭话筒
-stop_vid: 终止视频
-resume_vid: 再次接通代理的视频
-activate_volume: 开启扬声器
-desactivate_volume: 关闭扬声器
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
+activate_cam: 激活我的网络摄像头
+desactivate_cam: 禁用我的网络摄像头
+activate_mic: 激活我的麦克风
+desactivate_mic: 使我的麦克风静音
+stop_vid: 停止客服专员的视频
+resume_vid: 恢复客服专员的视频
+activate_volume: 取消扬声器静音
+desactivate_volume: 使扬声器静音
+userDenyFlash: 您拒绝使用网络摄像头和麦克风。将您切换成文字聊天。（#9)
 #transcript mail
 Hi: 您好,
 You reached: 您已经接通我们的服务
