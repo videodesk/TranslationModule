@@ -1,291 +1,311 @@
 'audio call': 音频呼叫
-'video call': 视频通话
-'information help': 更多信息帮助
-'faq help': 常见问题解答
-'Webuser is typing': 对方正在输入中...
-'will answer in a few seconds': 会很快答复您
+'video call': 视频呼叫
+'information help': 详细信息
+'faq help': 详细信息
+'Webuser is typing': 正在写入...
+'will answer in a few seconds': 几秒钟后便可以使用。
 'Phone number': 电话号码
-'email invalide': 无效的电子邮件
+'email invalide': 无效邮件
 'Discutez en video' : 视频聊天
 'Discutez en audio' : 音频聊天
 'Discutez en chat' : 文字聊天
 'webuser': 我
-'message sent': 发送消息  或消息已成功发送
-'Discussion with %site%': 谈话 %site%
-'Enter your question here': 请在这里输入您的信息或疑问...
+'message sent': 消息已发送
+'Discussion with %site%': 与%site%对话
+'Enter your question here': 在此输入消息...
 #survey 客户信息反馈
 bad: 很差
 poor: 差
-regular: 一般
+regular: 普通
 good: 好
-gorgeous: 非常好
+gorgeous: 很好
 #module texts 信息模块
-'information help':   更多信息帮助
+'information help':   您现在可以与可用的客服专员聊天。您可以选择视频、音频或文字聊天。立即、简单、匿名和免费。
 #--------------FLASH PANEL-----------------
 #TMP MSG
-webcam_activated: 网络摄像头已经开启
-webcam_desactivated: 网络摄像头已经关闭
-mic_activated: 话筒已经开启
-mic_desactivated: 话筒已经处于静音状态
-vid_resumed: 您的代理视频已经重新接通
-vid_stoped: 您的代理视频已经关闭
+webcam_activated: 您的网络摄像头已打开
+webcam_desactivated: 您的网络摄像头已关闭
+mic_activated: 麦克风已打开
+mic_desactivated: 麦克风已静音
+vid_resumed: 客服专员的视频正在恢复
+vid_stoped: 客服专员的视频已关闭
 #ROLL MSG
-activate_cam: 开启网络摄像头
-desactivate_cam: 关闭网络摄像头
-activate_mic: 开启话筒
-desactivate_mic: 关闭话筒
-stop_vid: 终止视频
-resume_vid: 再次接通代理的视频
-activate_volume: 开启扬声器
-desactivate_volume: 关闭扬声器
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
+activate_cam: 激活我的网络摄像头
+desactivate_cam: 禁用我的网络摄像头
+activate_mic: 激活我的麦克风
+desactivate_mic: 使我的麦克风静音
+stop_vid: 停止客服专员的视频
+resume_vid: 恢复客服专员的视频
+activate_volume: 取消扬声器静音
+desactivate_volume: 使扬声器静音
+userDenyFlash: 您拒绝使用网络摄像头和麦克风。将您切换成文字聊天。（#9)
 #transcript mail
 Hi: 您好,
-You reached: 您已经接通我们的服务
-We have to pleasure to send you the transcript of your discussion.: 很高兴为您发送您的会话记录
-We look forward to seeing you again on: 期待您的下次访问
-Thank you for your visit: 感谢您的访问
-videodesk team: Videodesk团队
-transcript: 文本,
-yours transcripts with: 您的文本
-We can talk, you are seeing.: 您可以开始和代理人员交谈了，代理人员能看到您
-We can talk, you are not seeing.: 您可以开始和代理人员交谈了，代理人员现在无法看到您
+You reached: 您已经联系
+We have to pleasure to send you the transcript of your discussion.: 您最近与我们的一个客服专员的聊天记录如下所示。
+We look forward to seeing you again on: 希望以后能够再见到您！
+Thank you for your visit: 感谢您的访问，
+videodesk team: VideoDesk团队
+transcript: 副本
+yours transcripts with: 您的副本
+We can talk, you are seeing.: 您可以讲话，客服专员能看到您。
+We can talk, you are not seeing.: 您可以讲话，客服专员看不到您。
 #REFACTOR
-type here: 请在这里输入您的信息
-Do you want to close the discussion?: 您打算结束会话吗?
+type here: 在此输入消息…
+Do you want to close the discussion?: 您是否要关闭对话？
 Yes: 是
 No: 否
 send: 发送
 your firstname: 名字
-Please fill at least one of highlighted fields: 请填写至少一个显示高亮的区域
+Please fill at least one of highlighted fields: 请至少填写一个凸显字段
 your lastname: 姓氏
 your company: 公司
 your email: 电子邮件
 your phone: 电话
-your message: 您的信息
-Your conversation has ended. Thank you for contacting us!: 您的会话已结束，感谢您联系我们。
-Recall this operator now: 再次呼叫此代理
-give us your feedback about the conversation: 关于此次会话，请填写您的反馈意见
-has this dialog been helpful: 您觉得此次会话有帮助吗？
-Would you recommend this experience to your facebook friends: 您会将此次会话体验推荐给您的朋友们吗？
-Any comments or suggestions: 您有什么意见或建议吗？
-Get a reccord of this conversation by e-mail: 您可以通过电子邮件获得您的会话记录
-Please enter your e-mail address: 请填写您的电邮地址
-Please give a valid address: 请提供有效地址
-The record has been successfully sent: 记录已经发送成功
-your message has been successfully sent. We Will contact you soon: 您的信息已经成功发送，我们将尽快联系您
-Please fill email field: 请填写电子邮件
-Please fill phone field: 请填写电话号码
-Please fill message text area: 请填写信息文本
-Please fill firstname field: 请填写名字
-Please fill lastname field: 请填写姓氏
-Please fill company field: 请填写公司名称
+your message: 消息
+Your conversation has ended. Thank you for contacting us!: <strong>对话已关闭。</strong><br />感谢您联系我们！
+Recall this operator now: 立即重新呼叫该接线员！
+give us your feedback about the conversation: 向我们提供您的<b>反馈</b>。
+has this dialog been helpful: 这个对话有帮助吗？
+Would you recommend this experience to your facebook friends: 您愿意把该体验介绍给您的朋友吗？
+Any comments or suggestions: 评论？建议？
+Get a reccord of this conversation by e-mail: 通过电子邮件获得对话记录。
+Please enter your e-mail address: 请输入电子邮件地址
+Please give a valid address: 请提供有效的地址
+The record has been successfully sent: 该记录已发送成功
+your message has been successfully sent. We Will contact you soon: 您的消息已发送成功。<br />我们稍后会联系您。
+Please fill email field: 请填写电子邮件字段
+Please fill phone field: 请填写电话字段
+Please fill message text area: 请填写消息文本区
+Please fill firstname field: 请填写名字字段
+Please fill lastname field: 请填写姓氏字段
+Please fill company field: 请填写公司字段
 call audio: 音频呼叫
 call video: 视频呼叫
 video suggestion: 接受音频呼叫
 audio suggestion: 接受视频呼叫
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: 我们在这里竭诚为您服务，提供实时销售顾问
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: 我们在这里竭诚为您服务，请留言
-GIVE US YOUR FEEDBACK! THANK YOU: 请填写您的反馈，非常感谢！
+WE ARE HERE TO HELP! LIVE SALES ADVISOR: 我们可以帮助您！<br />实时销售顾问。
+WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: 我们可以帮助您！<br />请留言。
+GIVE US YOUR FEEDBACK! THANK YOU: 向我们提供您的<b>反馈</b>。
 #V1.2
-required field: 必填项
+required field: 必填字段
 message sent: 电子邮件已发送
-Before contacting you operator: 在联系代理之前，请您提供一些信息
-No operator is available for the moment: 目前客服繁忙中
-Please leave me a message: 请留言
+Before contacting you operator: 联系接线员之前，<br/>请提供一些信息：
+No operator is available for the moment: 此时没有空闲的接线员。
+Please leave me a message: 请给我留言
 Please leave a message: 请留言
-Do you Want to start an audio call with me: 您想开始音频会话吗?
-Do you Want to start a video call with me: 您想开始视频会话吗?
-e-mail invalid: 无效的电邮
-close webpage cause end of the discussion: 关闭网页将导致会话结束
+Do you Want to start an audio call with me: 您是否要音频呼叫我？
+Do you Want to start a video call with me: 您是否要视频呼叫我？
+e-mail invalid: 无效邮件
+close webpage cause end of the discussion: 关闭网页导致对话结束
 survey sent: 调查已发送
-agent hangup: 您的代理结束了会话
-agent unavailable: 您的代理现在繁忙中
-Agent dont answer call: 您的代理现在无法答复
-Ongoing discussion: 会话进行中
-Click here to enlarge: 请点击此处扩大窗口
-Give us your feedback: 请告诉我们您的反馈意见
-Thank_you: 谢谢您！
-click here to enlarge: 请点击此处扩大窗口
+agent hangup: 您的接线员结束了对话。
+agent unavailable: 您的接线员不能提供服务。
+Agent dont answer call: 很遗憾，您的接线员没有回应。
+Ongoing discussion: 进行中的对话
+Click here to enlarge: 点击此处放大
+Give us your feedback: 向我们提供您的<b>反馈</b>。
+Thank_you: 谢谢
+click here to enlarge: 点击放大
 Your question: 您的问题
 click_on: 点击 
-allow: 同意
-to_start_your_microphone: 为了启动您的话筒
-to_start_your_webcam: 为了启动您的网络摄像头
-terms_of_use: '您可以阅读使用条款 '
-here: '这里'
-hangup: Hang up
-initiate_video_call: 您想开始视频会话吗?
-initiate_audio_call: 您想开始音频会话吗?
-webuser_accept_audio_call: 您已经接受音频会话
-webuser_accept_video_call: 您已经接受视频会话
+allow: 允许
+to_start_your_microphone: 若要打开麦克风
+to_start_your_webcam: 若要打开网络摄像头
+terms_of_use: '您可以阅读使用条款'
+here: '此处'
+hangup: 挂断
+initiate_video_call: 您是否要视频呼叫我？
+initiate_audio_call: 您是否要音频呼叫我？
+webuser_accept_audio_call: 您接受了音频对话
+webuser_accept_video_call: 您接受了视频对话
 conversation_send: 电子邮件已发送
 # default values for new module 新模式的默认值
-grabber_advisor_1: 很高兴为您服务
+grabber_advisor_1: 我们可以帮助您！
 grabber_advisor_2: 实时销售顾问
-grabber_message_1: 在线帮助
-grabber_message_2: 留言
-invitation_baloon: 您好，请问我能为您做些什么？
-invitation_baloon_several_agents: 您好，有一位代理人员现在可以为您解答问题
+grabber_message_1: 有什么可以帮助您的？
+grabber_message_2: 接线员现在可以回答您的问题。
+invitation_baloon: "您好！\n有什么可以帮助您的？"
+invitation_baloon_several_agents: "您好！\n接线员现在可以回答您的问题。"
 #new
-message_baloon: 您好，请给我留言，我会尽快和您联系！
-fall_back_window_default: 对不起，您的代理现在不在线，请稍后再试！
+message_baloon: 您好，请给我留言，我会和您联系！
+fall_back_window_default: 我们的客服专员现在正在忙碌中，不能提供服务。。请稍候尝试
 back to list: 返回列表
-denied_missed_call_msg: 对不起，暂时不能接听您的电话。请留言！
-all_agent_msg_1: 对不起,您的代理当前不在线上。
+denied_missed_call_msg: 对不起，我不能接听您的电话。请给我留言！
+all_agent_msg_1: 对不起，我们的客服专员正在忙碌中，不能提供服务。
 all_agent_msg_2: 请给我们留言！
-agent-deny-call-media: 对不起，我不能再打开一个音频或视频呼叫，请通过文字聊天继续
-fallback_default_msg: 对不起，您的代理现在不在线，请稍后再试！
+agent-deny-call-media: '对不起，我无法启用音频或视频呼叫，请用继续使用文字聊天'
+fallback_default_msg: '我们的客服专员现在正在忙碌中，不能提供服务。请稍后尝试'
 #new FO v14
-hangup_messkuaduan_1: 对不起，由于网络原因，您的通话已中断。您的信息无法发送成功。
-hangup_mess_2: 会话已结束。
-your_agent_hung_up: 对不起，由于网络原因，您的通话已中断。
-you_hung_up: 您已挂断通话。
-give_us_your_feedback: 您能给我们一些此次通话的反馈吗？谢谢！
-back_to_chat: 返回到通话中
-send_and_quit: 发送信息，关闭窗口
-back_to_feedback: 返回信息反馈页面
-any_suggestions: 针对本次会谈， 您有建议或意见吗？
-transcript_will_be_sent:  会话一结束，会话文本记录就会发送到您的邮箱。
-transcript_sent: 通话文本已发送
-phone_invalid: 无效的电话号码
-shall_we_use_this_address: 请问您提供的这个电子邮件地址是否有效？
-maximize: Maximize
-reduce: Reduce
-cobrowsing_toolbar: Ongoing co-browse session
-initiate_a_cobrowsing_session: Do you want to accept a cobrowse session?
-accept_cobrowsing: Accept co-browse
-cobrowsing_session: I have opened a co-browse session.
-deny_btn: Deny
-allow_btn: Allow
-label_grant: Can I control your webpage alongside you?
-control: Control
-tooltip_help_cobrowsing: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
+hangup_messkuaduan_1: 对不起，但是客服专员已经挂断。您的消息无法发送。
+hangup_mess_2: 对话已结束。
+your_agent_hung_up: 您的客服专员已挂断
+you_hung_up: 您已挂断
+give_us_your_feedback: 您愿意给我们反馈吗？
+back_to_chat: 返回聊天
+send_and_quit: 发送并退出
+back_to_feedback: 返回反馈
+any_suggestions: 有什么建议？
+transcript_will_be_sent:  聊天结束后会发送聊天记录。
+transcript_sent: 对话已发送。
+phone_invalid: 电话无效
+shall_we_use_this_address: 我们可以使用这个地址吗
+maximize: 最大化
+reduce: 降低
+cobrowsing_toolbar: 进行中的共同浏览会话
+initiate_a_cobrowsing_session: 您愿意接受共同浏览会话吗？
+accept_cobrowsing: 接受共同浏览
+cobrowsing_session: 我已经打开了共同浏览会话。
+deny_btn: 拒绝
+allow_btn: 允许
+label_grant: 我能和你一起控制您的网页吗？
+control: 控制
+tooltip_help_cobrowsing: 共同浏览期间，我们的客服专员只能看到网页上的内容，看不到浏览器及其他网页选项卡上的内容。客服专员不会看到您的计算机上的其他内容。
 # new
 #V16---------------------------------------------------------------------------
-See_the_agent_webcam: Video call
-agent_txt: agent
-agents_txt: agents
-bar_txt: Live Customer Service
-welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
-fallback_timeout_unavailble_txt: There are no available video chat agent.
-fallback_timeout_calls_txt: There are no available video chat agent.
-The associate cant see you: The agent cannot see or hear you.
-I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
-Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
-Are you sure? This will end the conversation: Are you sure? This will end the conversation.
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Your Internet connection does not support video chat. However we can still voice or text chat.
-Before we get started,:  Before we get started,
-to enable your microphone,: to enable your microphone.
-click the Share selected device button above: click on the ‘‘Share selected device’’ button above
-click the Allow button above: click on the ‘‘Allow’’ button above
-click the Allow once button below: click on the ‘‘Allow once’’ button below
-You did not enable your microphone. I cant hear you but I can receive text messages.: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-The associate cannot see or hear you: The agent cannot see or hear you.
-Accept: Accept
-Decline: Decline 
-File accepted: File accepted
-File declined: File declined
-Can I co-browse our store with you?: Can I co-browse our store with you?
-Allow: Allow
-Deny: Deny
-Send and quit: Send and quit
-Survey sent: Survey sent.
-Click this button to turn on your microphone: Click this button to turn on your microphone.
-I turn on my microphone: I will now switch on my microphone.
-Unfortunately, the agent you called is unavailable at the moment: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
-Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
-Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
-Unable to connect: Unable to connect.
-not here, leave a message: I am currently not available. Please leave a message.
-Your video chat has ended: Your video chat has ended.
-Your opinion matters to us: Your opinion matters to us.
-Thanks for chatting with us today: Thanks for chatting with us today.
-Want a copy of our conversation?: Do you want a copy of our conversation?
-Please enter a valid email address: Invalid email address.
-Enter your email address: Enter your email address.
-No thanks: No thanks
-"No, thanks!": "No, thanks"
-Submit: Submit
-Transcript sent: Transcript sent
-We are unable to connect you with an associate: We are unable to connect you to an agent.
-Your email address: Your email address
-Your phone number: Your phone number
-Your message here: Your message here
-Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
-Message sent: Message sent
-Close: Close
+See_the_agent_webcam: 视频呼叫
+agent_txt: 客服专员
+agents_txt: 客服专员
+bar_txt: 实时客户服务
+welcome_balloon_txt: 现在客服专员可以回答您的问题。现在点击开始视频聊天。
+fallback_timeout_unavailble_txt: 没有可用的视频聊天客服专员。
+fallback_timeout_calls_txt: 没有可用的视频聊天客服专员。
+The associate cant see you: 客服专员无法看到或听到您。
+I will be with you in just a moment. Please wait while the video chat loads: 我一会儿就回来。请等待视频聊天加载。
+Are you sure you want to end this conversation?: 您确定要结束对话吗？
+Are you sure? This will end the conversation: 您确定吗？它将结束对话。
+There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: 您的互联网连接不支持视频聊天。但是我们仍然可以用语音或文字聊天
+Before we get started,:  在开始之前，
+to enable your microphone,: 需启用您的麦克风。
+click the Share selected device button above: 点击上面的“共享选择的设备”按钮
+click the Allow button above: 点击上面的“允许”按钮
+click the Allow once button below: 点击下面的“允许一次”按钮
+You did not enable your microphone. I cant hear you but I can receive text messages.: 您没有启用麦克风。我无法听到您的声音，但是我可以收到您的文字消息。
+The associate cannot see or hear you: 客服专员无法看到或听到您。
+Accept: 接受
+Decline: 拒绝
+File accepted: 文件已接受
+File declined: 文件已拒绝
+Can I co-browse our store with you?: 我能和你一起共同浏览我们的商店吗？
+Allow: 允许
+Deny: 拒绝
+Send and quit: 发送并退出
+Survey sent: 调查已发送。
+Click this button to turn on your microphone: 点击该按钮打开麦克风。
+I turn on my microphone: 我现在打开我的麦克风。
+Unfortunately, the agent you called is unavailable at the moment: 对不起。很遗憾，您呼叫的客服专员正在忙碌中，此时不能提供服务。
+Sorry, but the agents did not answer in time.: 对不起。现在，所有客服均在忙碌中，因此不能回应您的呼叫。
+Sorry, an error occured and the conversation is over.: 对不起，出现错误，对话结束。
+Unable to connect: 无法连接。
+not here, leave a message: 我现在不能提供服务。请留言。
+Your video chat has ended: 您的视频聊天已结束。
+Your opinion matters to us: 向我们提供您的<b>反馈</b>。
+Thanks for chatting with us today: 感谢今天与我们聊天。
+Want a copy of our conversation?: 你需要一份对话记录吗？
+Please enter a valid email address: 无效的电子邮件地址。
+Enter your email address: 输入电子邮件地址。
+No thanks: 不，谢谢
+"No, thanks!": "不，谢谢"
+Submit: 提交
+Transcript sent: 对话记录已发送
+We are unable to connect you with an associate: 我们无法将您连接至客服专员。
+Your email address: 您的电子邮件地址
+Your phone number: 您的电话号码
+Your message here: 您的消息
+Please enter a valid email address or a telephone number: 请输入有效的电子邮件地址或电话号码。
+Message sent: 消息已发送
+Close: 关闭
 #reunification
-slogan_txt: We are here to help!
-welcome_balloon_txt1: "How can I help you?"
-welcome_balloon_txt2: "An operator is available now to answer your questions"
-The associate cannot see you but he hear you: The agent cannot see you but he is able to hear you.
-I like to share a file with you: I would like to share a file with you.
-Connecting: Connecting
-whats this: Presentation video
-My text chat conversation: My text chat conversation
-My video chat conversation: My video chat conversation
+slogan_txt: 我们可以帮助您！
+welcome_balloon_txt1: "有什么可以帮助您的？"
+welcome_balloon_txt2: "接线员现在可以回答您的问题"
+The associate cannot see you but he hear you: 客服专员无法看到您，但是可以听到您的声音。
+I like to share a file with you: 我愿意和您共享文件。
+Connecting: 连接中
+whats this: 视频显示
+My text chat conversation: 我的文字聊天对话
+My video chat conversation: 我的视频聊天对话
 Please find the entire conversation attached below.: ''
-files push during the conversation: Files shared during the conversation.
-videos push during the conversation: Videos shared during the conversation.
-allowed: allowed
-denied: denied
-Access: Access
-call_button_txt: Start a conversation now
-The: The
-cant see you: cannot see you.
-cannot see you but he hear you: cannot see you but he is able to hear you.
-cannot see or hear you: cannot see or hear you.
-The associate can see and hear you: The agent can see and hear you.
-"Thanks for contacting us.": "Thanks for contacting us."
-"Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
-any_suggestions: Any suggestions?
+files push during the conversation: 对话时的共享文件。
+videos push during the conversation: 对话时的共享视频。
+allowed: 已允许
+denied: 已拒绝
+Access: 访问
+call_button_txt: 立即开始对话
+The: 此
+cant see you: 无法看到您。
+cannot see you but he hear you: 无法看到您，但是可以听到您。
+cannot see or hear you: 无法看到或听到您。
+The associate can see and hear you: 客服专员可以看到并听到您。
+"Thanks for contacting us.": "感谢您与我们联系。"
+"Would you like a copy of this conversation?": "你需要一份对话记录吗？"
+any_suggestions: 有什么建议？
 #title popin
-pdf_title: PDF Push
-video_title: Video Push
-product_webcam_title: Product camera
+pdf_title: PDF推送
+video_title: 视频推送
+product_webcam_title: 产品照相机
 agent: Agent
-Click here to expand: Click here to expand
-No operator is available: The agent is not available
-Leave us a message: Leave us a message
-start a chat discussion: Start a text conversation
-start a video discussion: Start a video conversation
-click_on_allow_button: Click on the ‘‘Allow’’ button,
-to_turn_on_your_webcam: to turn on your webcam.
-to_turn_on_your_microphone: to turn on your microphone.
-by_clicking_allow_webcam: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_micro: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
-microphone_icon: microphone icon
-camera_icon: camera icon
-first_click_on_the: First click on the
-above: above.
-this_will_make_the_menu_appear: this will make the menu appear.
-click_share_selected_device_button: Click “Share selected device” button,
-by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
-by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
-close_video: Close video
-whats this video: Presentation video
-video_desactivate: Mute the webcam
-click_allow_once_button: Click “allow once” button
-by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
-I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
-Your text chat has ended: Your text chat has ended.
-Your text conversation is now over: Your text conversation is now over.
-video_activate: Webcam is on
-audio_activate: Microphone is on
-audio_desactivate: Mute the microphone
-do_you_want_to_end_discussion: Do you want to end the conversation?
-you_are_seeing: You are seeing
-you_are_not_seeing: You are not seeing
-Co-browse session has ended: Co-browse session has ended.
-we are unavailable: We are unavailable.
+Click here to expand: 点击此处展开
+No operator is available: 客服专员正在忙碌中，不能提供服务
+Leave us a message: 给我们留言
+start a chat discussion: 开始文字对话
+start a video discussion: 开始视频对话
+click_on_allow_button: 点击‘‘允许’’按钮，
+to_turn_on_your_webcam: 打开网络摄像头。
+to_turn_on_your_microphone: 打开麦克风。
+by_clicking_allow_webcam: 点击“允许”按钮，您所浏览网站的客服专员将会看到并听到您。
+by_clicking_allow_micro: 点击“允许”按钮，您所浏览网站的客服专员将会听到您。
+microphone_icon: 麦克风图标
+camera_icon: 照相机图标
+first_click_on_the: 首先点击
+above: 上面。
+this_will_make_the_menu_appear: 这样会显示菜单。
+click_share_selected_device_button: 点击“共享选定的设备”按钮，
+by_clicking_share_webcam: 点击“共享选定的设备”按钮，您所浏览网站的客服专员将会看到并听到您。
+by_clicking_share_micro: 点击“共享选定的设备”按钮，您所浏览网站的客服专员将会听到您。
+close_video: 关闭视频
+whats this video: 视频显示
+video_desactivate: 使网络摄像头静音
+click_allow_once_button: 点击“允许一次”按钮
+by_clicking_allow_once_webcam: 点击“允许一次”按钮，您所浏览的网站的支持客服专员将会看到并听到您。
+by_clicking_allow_once_micro: 点击“允许一次”按钮，您所浏览的网站的支持客服专员将会听到您。
+I will be with you in just a moment. Please wait while the text chat loads: 我一会儿就回来。请等待文字聊天加载。
+Your text chat has ended: 您的文字聊天已结束。
+Your text conversation is now over: 您的文字对话现已结束。
+video_activate: 网络摄像头已打开
+audio_activate: 麦克风已打开
+audio_desactivate: 使麦克风静音
+do_you_want_to_end_discussion: 您要结束对话吗？
+you_are_seeing: 您正在看
+you_are_not_seeing: 您没在看
+Co-browse session has ended: 共同浏览会话已结束。
+we are unavailable: 我们正在忙碌中，因此不能为您服务。
 #audio video access
-ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
-audio_access_allowed: Audio access allowed
-video_access_allowed: Video access allowed
-audio_access_denied: Audio access denied
-video_access_denied: Video access denied
+ask_bullet_switch_one_way: 我能激活您的麦克风吗？你可以看到并听到我，但是我看不到你。
+ask_bullet_switch_two_way: 我能激活您的网络摄像头吗？我可以看到并听到您。
+audio_access_allowed: 允许使用音频
+video_access_allowed: 允许使用视频
+audio_access_denied: 拒绝使用音频
+video_access_denied: 拒绝使用视频
+cam_on_mic_off: 客服专员可以看到您，但是听不到您。
 
-cam_on_mic_off: The agent can see you but is not able to hear you.
+grant: Allow
+deny: Deny
+The agent is requesting to control your webpage alongside you: Can I co-browse our store with you?
+You closed the co-browse session: Co-browse session has ended
+I have now closed the co-browse session: Co-browse session has ended
+
+you deny authorization bar: you deny authorization bar
+cobrowsing access granted: cobrowsing access granted
+cobrowsing access denied: cobrowsing access denied
+
+The webuser close product webcam: User has closed the product webcam.
+The_webuser_close_push_file: User has closed file-sharing.
+The webuser close lighbox: User has closed the lightbox.
+
+Select an option to start the conversation: Select an option to start the conversation
+Dont worry, I will not see you: Dont worry, I will not see you
+Video call: Video call
+Text chat: Text chat
+Tired of typing?: Tired of typing?
+We are also available for a video chat: We are also available for a video chat
