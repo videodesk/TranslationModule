@@ -232,7 +232,7 @@ allowed: 許可しました
 denied: 拒否しました
 Access: アクセス
 call_button_txt: 今すぐ会話を開始する
-The: The
+'The': ''
 cant see you: 映像は届いていません。
 cannot see you but he hear you: 映像は届いていませんが、音声は届いています。
 cannot see or hear you: 映像も音声も届いていません。
