@@ -244,7 +244,7 @@ any_suggestions: 有什么建议？
 pdf_title: PDF推送
 video_title: 视频推送
 product_webcam_title: 产品照相机
-agent: Agent
+agent: 客服专员
 Click here to expand: 点击此处展开
 No operator is available: 客服专员正在忙碌中，不能提供服务
 Leave us a message: 给我们留言
@@ -295,17 +295,17 @@ The agent is requesting to control your webpage alongside you: Can I co-browse o
 You closed the co-browse session: Co-browse session has ended
 I have now closed the co-browse session: Co-browse session has ended
 
-you deny authorization bar: you deny authorization bar
-cobrowsing access granted: cobrowsing access granted
-cobrowsing access denied: cobrowsing access denied
+you deny authorization bar: 您拒绝授权栏
+cobrowsing access granted: 允许共同浏览访问
+cobrowsing access denied: 拒绝共同浏览访问
 
-The webuser close product webcam: User has closed the product webcam.
-The_webuser_close_push_file: User has closed file-sharing.
-The webuser close lighbox: User has closed the lightbox.
+The webuser close product webcam: 用户关闭产品网络摄像头。
+The_webuser_close_push_file: 用户关闭文件共享。
+The webuser close lighbox: 用户关闭灯箱效果。
 
-Select an option to start the conversation: Select an option to start the conversation
-Dont worry, I will not see you: Dont worry, I will not see you
-Video call: Video call
-Text chat: Text chat
-Tired of typing?: Tired of typing?
-We are also available for a video chat: We are also available for a video chat
+Select an option to start the conversation: 选择一个选项以开启对话
+Dont worry, I will not see you: 别担心，我看不见您
+Video call: 视频呼叫
+Text chat: 文字聊天
+Tired of typing?: 厌倦打字了吗？
+We are also available for a video chat: 我们也有视频聊天可用

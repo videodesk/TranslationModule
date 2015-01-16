@@ -289,3 +289,24 @@ audio_access_denied: Audio access denied
 video_access_denied: Video access denied
 
 cam_on_mic_off: The agent can see you but is not able to hear you.
+
+grant: Allow
+deny: Deny
+The agent is requesting to control your webpage alongside you: Can I co-browse our store with you?
+You closed the co-browse session: Co-browse session has ended
+I have now closed the co-browse session: Co-browse session has ended
+
+you deny authorization bar: you deny authorization bar
+cobrowsing access granted: cobrowsing access granted
+cobrowsing access denied: cobrowsing access denied
+
+The webuser close product webcam: User has closed the product webcam.
+The_webuser_close_push_file: User has closed file-sharing.
+The webuser close lighbox: User has closed the lightbox.
+
+Select an option to start the conversation: Select an option to start the conversation
+Dont worry, I will not see you: Dont worry, I will not see you
+Video call: Video call
+Text chat: Text chat
+Tired of typing?: Tired of typing?
+We are also available for a video chat: We are also available for a video chat
