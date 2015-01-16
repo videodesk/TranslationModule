@@ -290,7 +290,7 @@ video_access_denied: Acceso al vídeo no permitido
 cam_on_mic_off: El asesor puede verte pero no puede oírte.
 
 
-grant: Si
+grant: Sí
 deny: No
 The agent is requesting to control your webpage alongside you: ¿Puedo co-navegar con usted?        
 You closed the co-browse session: La sesión de conavegación ha terminado.
