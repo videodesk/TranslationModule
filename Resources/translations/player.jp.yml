@@ -295,17 +295,17 @@ The agent is requesting to control your webpage alongside you: Can I co-browse o
 You closed the co-browse session: Co-browse session has ended
 I have now closed the co-browse session: Co-browse session has ended
 
-you deny authorization bar: you deny authorization bar
-cobrowsing access granted: cobrowsing access granted
-cobrowsing access denied: cobrowsing access denied
+you deny authorization bar: "許可を拒否しました"バー
+cobrowsing access granted: 同期ブラウズへのアクセスが許可されました
+cobrowsing access denied: 同期ブラウズへのアクセスが拒否されました
 
-The webuser close product webcam: User has closed the product webcam.
-The_webuser_close_push_file: User has closed file-sharing.
-The webuser close lighbox: User has closed the lightbox.
+The webuser close product webcam: ユーザーがウェブカメラ製品を閉じました。
+The_webuser_close_push_file: ユーザーがファイル共有を閉じました。
+The webuser close lighbox: ユーザーがライトボックスを閉じました。
 
-Select an option to start the conversation: Select an option to start the conversation
-Dont worry, I will not see you: Dont worry, I will not see you
-Video call: Video call
-Text chat: Text chat
-Tired of typing?: Tired of typing?
-We are also available for a video chat: We are also available for a video chat
+Select an option to start the conversation: 会話を始めるにはオプションを選択してください。
+Dont worry, I will not see you: ご安心ください。こちらに映像は届いていません
+Video call: ビデオ通話
+Text chat: テキストチャット
+Tired of typing?: キーボード入力に疲れましたか？
+We are also available for a video chat: ビデオチャットも可能です
