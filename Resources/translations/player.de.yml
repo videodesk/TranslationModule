@@ -122,7 +122,7 @@ webuser_accept_video_call: Sie haben den Videoanruf angenommen
 conversation_send: Gespräch senden
 # default values for new module
 grabber_advisor_1: Wir sind hier!
-grabber_advisor_2: Live Mitarbeiterr
+grabber_advisor_2: Live Mitarbeiter
 grabber_message_1: Online Hilfe
 grabber_message_2: Lassen Sie eine Nachricht
 invitation_baloon: "Hallo!\nIch bin jetzt erreichbar, um Ihnen zu helfen"
