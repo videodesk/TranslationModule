@@ -296,17 +296,17 @@ The agent is requesting to control your webpage alongside you: ¿Puedo co-navega
 You closed the co-browse session: La sesión de conavegación ha terminado.
 I have now closed the co-browse session: La sesión de conavegación ha terminado.
 
-you deny authorization bar: you deny authorization bar
+you deny authorization bar: barra denegar autorización
 cobrowsing access granted: Se ha activado la sesión de navegación compartida
 cobrowsing access denied: No se ha activado la sesión de navegación compartida
 
-The webuser close product webcam: User has closed the product webcam.
-The_webuser_close_push_file: User has closed file-sharing.
-The webuser close lighbox: User has closed the lightbox.
+The webuser close product webcam: El usuario ha cerrado la cámara de producto.
+The_webuser_close_push_file: El usuario ha cerrado el intercambio de archivos.
+The webuser close lighbox: El usuario ha cerrado la ventana lightbox.
 
-Select an option to start the conversation: Select an option to start the conversation
-Dont worry, I will not see you: Dont worry, I will not see you
-Video call: Video call
-Text chat: Text chat
-Tired of typing?: Tired of typing?
-We are also available for a video chat: We are also available for a video chat
+Select an option to start the conversation: Seleccionar una opción para iniciar la conversación
+Dont worry, I will not see you: No te preocupes, no te veremos
+Video call: Videollamada
+Text chat: Chat de texto
+Tired of typing?: ¿Cansado de escribir?
+We are also available for a video chat: También podemos comunicarnos por videollamada
