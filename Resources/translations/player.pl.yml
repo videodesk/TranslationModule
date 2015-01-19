@@ -1,291 +1,70 @@
-'audio call': Rozmowa Audio
-'video call': Rozmowa Video
-'information help': więcej informacji
-'faq help': więcej informacji
-'Webuser is typing': pisze...
-'will answer in a few seconds': będzie dostępna w ciągu kilku sekund
-'Phone number': Nr telefonu
-'email invalide': Niepoprawny e-mail
-'Discutez en video' : Rozmowa Video
-'Discutez en audio' : Rozmowa Audio
-'Discutez en chat' : Rozmowa tekstowa
-'webuser': Ja
-'message sent': Wiadomość wysłana
-'Discussion with %site%': Rozmowa z %site%
-'Enter your question here': Wpisz swoją wiadomość tutaj...
-#survey
-bad: źle
-poor: słabo
-regular: Regularnie
-good: dobrze
-gorgeous: wspaniale
-#module texts
-'information help':   Teraz możesz porozmawiać z naszymi konsultantami za pomocą video/audio czatu. Szybko, łatwo, anonimowo i bezpłatnie.
-#--------------FLASH PANEL-----------------
-#TMP MSG
-webcam_activated: Moja kamera jest włączona
-webcam_desactivated: Moja kamera jest wyłączona
-mic_activated: Mój mikrofon jest włączony
-mic_desactivated: Mój mikrofon jest wyłączony
-vid_resumed: Rozmowa video z konsultantem została wznowiona
-vid_stoped: Rozmowa video z konsultantem została zakończona
-#ROLL MSG
-activate_cam: Włącz moją kamerę
-desactivate_cam: Wyłącz moją kamerę
-activate_mic: Włącz mój mikrofon
-desactivate_mic: Wyłącz mój mikrofon
-stop_vid: Zatrzymaj rozmowę video z konsultantem
-resume_vid: Wznów rozmowę video z konsultantem
-activate_volume: Włącz głos
-desactivate_volume: Wycisz głos
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
-#transcript mail
-Hi: Dzień Dobry,
-You reached: Kontaktowali się Państwo
-We have to pleasure to send you the transcript of your discussion.: Mamy przyjemność przesłać Państwu zapis rozmowy
-We look forward to seeing you again on: Czekamy na kontakt z Państwem
-Thank you for your visit: Dziękuję.
-videodesk team: Zespół sklepu Meringer
-transcript: Transkrypcja,
-yours transcripts with: Twój zapis z
-We can talk, you are seeing.: Można mówić, jesteś widoczny
-We can talk, you are not seeing.: Można mówić, jesteś niewidoczny
-#REFACTOR
-type here: Wpisz swoją wiadomość tutaj...
-Do you want to close the discussion?: Czy chcesz zakończyć rozmowę?
-Yes: Tak
-No: Nie
-send: Wyślij
-your firstname: Imię
-Please fill at least one of highlighted fields: Proszę wypełnić przynajmniej jedno z wyróżnionych pól.
-your lastname: Nazwisko
-your company: Firma
-your email: E-mail
-your phone: Telefon
-your message: Wiadomość
-Your conversation has ended.Thank you for contacting us!: <strong>Twoja rozmowa jest zakończona.</strong><br />Dziękujemy za skontaktowanie się z nami!
-Recall this operator now: Zadzwoń ponownie do konsultanta!
-give us your feedback about the conversation: Przekaż nam swoją <b>opinię</b><br/>na temat tej rozmowy.
-has this dialog been helpful: Czy ta rozmowa była pomocna?
-Would you recommend this experience to your facebook friends: Czy poleciłbyś tą formę kontaktu innym?
-Any comments or suggestions: Komentarze? Sugestie?
-Get a reccord of this conversation by e-mail: Wysłać zapis rozmowy na e-mail?
-Please enter your e-mail address: Proszę podać adres e-mail
-Please give a valid address: Proszę podać poprawny adres
-The record has been successfully sent: Zapis rozmowy został wysłany na e-mail
-your message has been successfully sent. We Will contact you soon: Twoja wiadomość została wysłana<br />Skontaktujemy się z Państwem wkrótce.
-Please fill email field: Proszę uzupełnić pole e-mail
-Please fill phone field: Proszę uzupełnić pole telefon
-Please fill message textarea: Proszę uzupełnić pole wiadomości
-Please fill firstname field: Proszę uzupełnić pole Imię
-Please fill lastname field: Proszę uzupełnić pole Nazwisko
-Please fill company field: Proszę uzupełnić pole Firma
-call audio: Rozmowa audio
-call video: Rozmowa video
-video suggestion: Zaakceptuj rozmowę video
-audio suggestion: Zaakceptuj rozmowę audio
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: JESTEŚMY TUTAJ ABY POMAGAĆ!<br />TWÓJ KONSULTANT NA ŻYWO.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: JESTEŚMY TUTAJ ABY POMAGAĆ!<br />PROSZĘ ZOSTAWIĆ WIADOMOŚĆ.
-GIVE US YOUR FEEDBACK! THANK YOU: DODAJ SWOJĄ OPINIĘ!<br />DZIĘKUJĘ
-#V1.2
-required field: Pole wymagane
-message sent: E-mail wysłany
-Before contacting you operator: Przed skontaktowaniem z konsultantem,<br/>Prosimy podać kilka informacji:
-No operator is available for the moment: Kontultant nie jest dostępny w tej chwili.
-Please leave me a message: Proszę zostawić wiadomość
-Please leave a message: Proszę zostawić wiadomość
-Do you Want to start an audio call with me: Czy chcesz rozpocząć rozmowę audio?
-Do you Want to start a video call with me: Czy chcesz rozpocząć rozmowę video?
-e-mail invalid: Błędny adres e-mail
-close webpage cause end of the discussion: Zamknięta strona www przyczyną zakończenia rozmowy
-survey sent: Ankieta wysłana
-agent hangup: Konsultant zakończył rozmowę.
-agent unavailable: Konsultant jest niedostępny.
-Agent dont answer call: Przepraszamy, KOnsultant nie mógł odpowiedzieć.
-Ongoing discussion: Rozmowa w trakcie
-Click here to enlarge: Kliknij tutaj, aby powiększyć
-Give us your feedback: Przekaż nam swoją opinię
-Thank_you: Dziękuję
-click here to enlarge: Kliknij aby powiększyć
-Your question: Twoje pytanie
-click_on: Kliknij tutaj
-allow: Zezwól
-to_start_your_microphone: Włącz mikrofon
-to_start_your_webcam: Włącz kamerę
-terms_of_use: 'Możesz zapoznać się z warunkami korzystania '
-here: 'tutaj'
-hangup: Hang up
-initiate_video_call: Czy chcesz nawiązać połączenie video?
-initiate_audio_call: Czy chcesz nawiązać połączenie audio?
-webuser_accept_audio_call: Rozmowa audio zaakceptowana.
-webuser_accept_video_call: Rozmowa video zaakceptowana.
-conversation_send: E-mail wysłany
-# default values for new module
-grabber_advisor_1: Jesteśmy tutaj aby pomagać.
-grabber_advisor_2: Twój konsultant na żywo
-grabber_message_1: W czym mogę pomóc?
-grabber_message_2: Zostaw wiadomość
-invitation_baloon: "Dzień Dobry!\nW czym mogę pomóc?"
-invitation_baloon_several_agents: "Dzień Dobry!\nKonsultant jest teraz dostępny, aby odpowiedzieć na Twoje pytania."
-#new
-message_baloon: Dzień dobry! Zostaw wiadomość, skontaktujemy się z Tobą
-fall_back_window_default: Nasz konsultant jest niedostępny w tej chwili, prosimy spróbować później.
-back to list: Powrót do listy
-denied_missed_call_msg: Przepraszamy, nie możemy w tej chwili odebrać telefonu. Proszę zostaw wiadomość.
-all_agent_msg_1: Przepraszamy, nasi konsultanci są niedostępni
-all_agent_msg_2: Proszę zostawić wiadomość
-agent-deny-call-media: 'Przepraszamy, nie możemy nawiązać połączenia video, audio. Proszę kontaktować się za pomocą rozmowy tekstowej.'
-fallback_default_msg: 'Nasi konsultanci nie są teraz dostępni. Prosimy spróbować później.'
-#new FO v14
-hangup_mess_1: Przepraszamy, konsultant się rozłączył. Twoja wiadomość nie mogła zostać wysłana
-hangup_mess_2: Rozmowa została zakończona
-your_agent_hung_up: Konsultant się rozłączył.
-you_hung_up: Rozłączyłeś się
-give_us_your_feedback: Chcesz dodać nam swoją opinię?
-back_to_chat: Powrót do rozmowy
-send_and_quit: Wyślij i zamknij
-back_to_feedback: Wróć do opinii
-any_suggestions: Jakieś sugestie?
-transcript_will_be_sent: Zapis zostanie wysłany po zakończonej rozmowie
-transcript_sent: Rozmowa została wysłana
-phone_invalid: Błedny nr telefonu
-shall_we_use_this_address: Będziemy korzystać z tego adresu
-maximize: Maksymalizuj
-reduce: Pomniejsz
-cobrowsing_toolbar: Przebieg sesji współpracy
-initiate_a_cobrowsing_session: Chcesz zaakceptować sesję współpracy?
-accept_cobrowsing: Akceptuję jednoczesne przeglądanie
-cobrowsing_session: Sesja współpracy otwarta
-deny_btn: Odmów
-allow_btn: Zezwól
-label_grant: Czy mogę kontrolować swoje strony obok Ciebie?
-control: Kontrola
-tooltip_help_cobrowsing: Podczas jednoczesnego przeglądania, nasz konsultant widzi tylko to, co znajduje się na stronie internetowej. Konsultant nie widzi żadnych innych zakładek, stron oraz innych danych.
-# new
-#V16---------------------------------------------------------------------------
-See_the_agent_webcam: Video call
-agent_txt: agent
-agents_txt: agents
-bar_txt: Live Customer Service
-welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
-fallback_timeout_unavailble_txt: There are no available video chat agent.
-fallback_timeout_calls_txt: There are no available video chat agent.
-The associate cant see you: The agent cannot see or hear you.
-I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
-Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
-Are you sure? This will end the conversation: Are you sure? This will end the conversation.
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Your Internet connection does not support video chat. However we can still voice or text chat.
-Before we get started,:  Before we get started,
-to enable your microphone,: to enable your microphone.
-click the Share selected device button above: click on the ‘‘Share selected device’’ button above
-click the Allow button above: click on the ‘‘Allow’’ button above
-click the Allow once button below: click on the ‘‘Allow once’’ button below
-You did not enable your microphone. I cant hear you but I can receive text messages.: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-The associate cannot see or hear you: The agent cannot see or hear you.
-Accept: Accept
-Decline: Decline 
-File accepted: File accepted
-File declined: File declined
-Can I co-browse our store with you?: Can I co-browse our store with you?
-Allow: Allow
-Deny: Deny
-Send and quit: Send and quit
-Survey sent: Survey sent.
-Click this button to turn on your microphone: Click this button to turn on your microphone.
-I turn on my microphone: I will now switch on my microphone.
-Unfortunately, the agent you called is unavailable at the moment: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
-Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
-Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
-Unable to connect: Unable to connect.
-not here, leave a message: I am currently not available. Please leave a message.
-Your video chat has ended: Your video chat has ended.
-Your opinion matters to us: Your opinion matters to us.
-Thanks for chatting with us today: Thanks for chatting with us today.
-Want a copy of our conversation?: Do you want a copy of our conversation?
-Please enter a valid email address: Invalid email address.
-Enter your email address: Enter your email address.
-No thanks: No thanks
-"No, thanks!": "No, thanks"
-Submit: Submit
-Transcript sent: Transcript sent
-We are unable to connect you with an associate: We are unable to connect you to an agent.
-Your email address: Your email address
-Your phone number: Your phone number
-Your message here: Your message here
-Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
-Message sent: Message sent
-Close: Close
-#reunification
-slogan_txt: We are here to help!
-welcome_balloon_txt1: "How can I help you?"
-welcome_balloon_txt2: "An operator is available now to answer your questions"
-The associate cannot see you but he hear you: The agent cannot see you but he is able to hear you.
-I like to share a file with you: I would like to share a file with you.
-Connecting: Connecting
-whats this: Presentation video
-My text chat conversation: My text chat conversation
-My video chat conversation: My video chat conversation
-Please find the entire conversation attached below.: ''
-files push during the conversation: Files shared during the conversation.
-videos push during the conversation: Videos shared during the conversation.
-allowed: allowed
-denied: denied
-Access: Access
-call_button_txt: Start a conversation now
-The: The
-cant see you: cannot see you.
-cannot see you but he hear you: cannot see you but he is able to hear you.
-cannot see or hear you: cannot see or hear you.
-The associate can see and hear you: The agent can see and hear you.
-"Thanks for contacting us.": "Thanks for contacting us."
-"Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
-any_suggestions: Any suggestions?
-#title popin
-pdf_title: PDF Push
-video_title: Video Push
-product_webcam_title: Product camera
-agent: Agent
-Click here to expand: Click here to expand
-No operator is available: The agent is not available
-Leave us a message: Leave us a message
-start a chat discussion: Start a text conversation
-start a video discussion: Start a video conversation
-click_on_allow_button: Click on the ‘‘Allow’’ button,
-to_turn_on_your_webcam: to turn on your webcam.
-to_turn_on_your_microphone: to turn on your microphone.
-by_clicking_allow_webcam: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_micro: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
-microphone_icon: microphone icon
-camera_icon: camera icon
-first_click_on_the: First click on the
-above: above.
-this_will_make_the_menu_appear: this will make the menu appear.
-click_share_selected_device_button: Click “Share selected device” button,
-by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
-by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
-close_video: Close video
-whats this video: Presentation video
-video_desactivate: Mute the webcam
-click_allow_once_button: Click “allow once” button
-by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
-I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
-Your text chat has ended: Your text chat has ended.
-Your text conversation is now over: Your text conversation is now over.
-video_activate: Webcam is on
-audio_activate: Microphone is on
-audio_desactivate: Mute the microphone
-do_you_want_to_end_discussion: Do you want to end the conversation?
-you_are_seeing: You are seeing
-you_are_not_seeing: You are not seeing
-Co-browse session has ended: Co-browse session has ended.
-we are unavailable: We are unavailable.
-#audio video access
-ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
-audio_access_allowed: Audio access allowed
-video_access_allowed: Video access allowed
-audio_access_denied: Audio access denied
-video_access_denied: Video access denied
-
-cam_on_mic_off: The agent can see you but is not able to hear you.
+fo_1: Wpisz swoją wiadomość tutaj...
+fo_2: Czy chcesz zakończyć rozmowę?
+fo_3: Tak
+fo_4: Nie
+fo_5: Wyślij
+fo_6: Imię
+fo_7: Nazwisko
+fo_8: Firma
+fo_9: E-mail
+fo_10: Telefon
+fo_11: Wiadomość
+fo_12: Przekaż nam swoją <b>opinię</b><br/>na temat tej rozmowy.
+fo_13: Czy poleciłbyś tą formę kontaktu innym?
+fo_14: Proszę podać adres e-mail
+fo_15: Zapis rozmowy został wysłany na e-mail
+fo_16: Rozmowa w trakcie
+fo_17: Proszę uzupełnić pole e-mail
+fo_18: Proszę uzupełnić pole telefon
+fo_19: Proszę uzupełnić pole Imię
+fo_20: Proszę uzupełnić pole Nazwisko
+fo_21: Proszę uzupełnić pole Firma
+fo_22: źle
+fo_23: słabo
+fo_24: Regularnie
+fo_25: dobrze
+fo_26: wspaniale
+fo_27: Niepoprawny e-mail
+fo_28: Pole wymagane
+fo_29: Ankieta wysłana
+fo_30: Przepraszamy, nie możemy w tej chwili odebrać telefonu. Proszę zostaw wiadomość.
+fo_31: Powrót do listy
+fo_32: Przepraszamy, nasi konsultanci są niedostępni
+fo_33: Proszę zostawić wiadomość
+fo_34: Wyślij i zamknij
+fo_35: Wróć do opinii
+fo_36: Any suggestions?
+fo_37: Sesja współpracy otwarta
+fo_38: Zezwól
+fo_39: Odmów
+fo_40: Proszę wypełnić przynajmniej jedno z wyróżnionych pól.
+fo_41: I would like to share a file with you.
+fo_42: File accepted
+fo_43: File declined
+fo_44: Accept
+fo_45: Decline
+fo_46: "No, thanks"
+fo_47: "Thanks for contacting us."
+fo_48: "Would you like a copy of this conversation?"
+fo_49: Please enter a valid email address or a telephone number.
+fo_50: PDF Push
+fo_51: Video Push
+fo_52: Product camera
+fo_53: Your text conversation is now over.
+fo_54: Click here to expand
+fo_55: The agent is not available
+fo_56: Agent
+fo_57: Przebieg sesji współpracy
+fo_58: Podczas jednoczesnego przeglądania, nasz konsultant widzi tylko to, co znajduje się na stronie internetowej. Konsultant nie widzi żadnych innych zakładek, stron oraz innych danych.
+fo_59: Connecting
+fo_60: Close video
+fo_61: Presentation video
+fo_62: Start a text conversation
+fo_63: Start a video conversation
+fo_64: We are unavailable.
+fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
+fo_66: Can I activate your webcam? I will be able to see and hear you.
+fo_67: Audio access allowed
+fo_68: Video access allowed
+fo_69: Audio access denied
+fo_70: Video access denied

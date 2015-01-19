@@ -1,312 +1,83 @@
-'audio call': Ljudsamtal
-'video call': Videosamtal
-'information help': Information
-'faq help': Hjälp
-'Webuser is typing': Skriver...
-'will answer in a few seconds': Är tillgänlig om en stund.
-'Phone number': Telefonnummer
-'email invalide': Oigiltig E-postadress
-'Discutez en video' : Videochatt
-'Discutez en audio' : Ljudchatt
-'Discutez en chat' : Textchatt
-'webuser': Webbanvändare
-'message sent': Meddelande skickat
-'Discussion with %site%': Diskussion med %site%
-'Enter your question here': Skriv din fråga här
-#survey
-bad: Usel
-poor: Dålig
-regular: OK
-good: Bra
-gorgeous: Superbra
-#module texts
-'information help':   Du kan nu chatta med tillgänglig operatör. Du kan välja mellan video, ljud eller textchatt.
-#--------------FLASH PANEL-----------------
-#TMP MSG
-webcam_activated: Min webbkamera är på
-webcam_desactivated: Min webbkamera är avstängd
-mic_activated: Min mikrofonen är på
-mic_desactivated: Min mikrofonen är avstängd
-vid_resumed: Videon på din operatör återupptar
-vid_stoped: Videon på din operatör är avstängd
-#ROLL MSG
-activate_cam: Aktivera min webbkamera
-desactivate_cam: Inaktivera min webbkamera
-activate_mic: Aktivera min mikrofonen
-desactivate_mic: Inaktivera min mikrofon
-stop_vid: Stoppa video med operatör
-resume_vid: Återuppta video med operatör
-activate_volume: Slå på högtalarna
-desactivate_volume: Stäng av högtalarna
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
-#transcript mail
-Hi: Hej,
-You reached: Du har nått:
-We have to pleasure to send you the transcript of your discussion.: Vi har nöjet att skicka dig en utskrift av er konversation.:
-We look forward to seeing you again on: We hope to see you again, soon!
-Thank you for your visit: Tack för ditt besök.
-videodesk team: Videodesk teamet:
-transcript: Synpunkter:
-yours transcripts with: Dina synpunkter med:
-We can talk, you are seeing.: Vi kan prata, du ser inte.:
-We can talk, you are not seeing.:Vi kan prata, du ser inte .:
-#REFACTOR
-type here: Skriv ditt meddelande här ...
-Do you want to close the discussion?: Vill du avsluta diskussionen?
-Yes: Ja
-No: Nej
-send: Skicka
-your firstname: Förnamn
-Please fill at least one of highlighted fields: Vänligen fyll i minst ett av de markerade fälten:
-your lastname: Efternamn
-your company: Företag
-your email: Din E-postadress
-your phone: Ditt telefonnummer
-your message: Ditt meddelande
-Your conversation has ended.Thank you for contacting us!: <strong>Din konversation har avslutats.</strong><br />Tack för att du kontaktar oss!
-Recall this operator now: Återuppring denna operatör nu:
-give us your feedback about the conversation: Ge oss dina <strong>synpunkterk</strong><br/>om din konversation.
-has this dialog been helpful: Har den här dialogen varit till hjälp?
-Would you recommend this experience to your facebook friends: Skulle du rekommendera denna erfarenhet till dina Facebook-vänner?
-Any comments or suggestions: Kommentarer? Förslag?
-Get a reccord of this conversation by e-mail: Få en utskrift av konversationen via E-post.
-Please enter your e-mail address: Vänligen Fyll i din E-postadress
-Please give a valid address: Vänligen ge oss en giltig adress
-The record has been successfully sent: Inspelningen har skickats med lyckat resultat.
-your message has been successfully sent. We Will contact you soon: Ditt meddelande har skickats med lyckat resultat.<br />Vi kontaktar dig snart.
-Please fill email field: Vänligen fyll i E-post fält
-Please fill phone field: Vänligen fyll i Telefonfält
-Please fill message textarea: Vänligen fyll i meddelandetext textfältet
-Please fill firstname field: Vänligen fyll i förnamn fältet
-Please fill lastname field: Vänligen fyll i efternamn fältet
-Please fill company field: Vänligen fyll i företagets fältet
-call audio: Ljudsamtal
-call video: Videosamtal
-video suggestion: Videoförslag
-audio suggestion: Ljudförslag
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: VI ÄR HÄR FÖR ATT HJÄLPA!<br />LIVE FÖRSÄLJNINGS RÅDGIVARE.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: VI ÄR HÄR FÖR ATT HJÄLPA!<br />VÄNLIGEN LÄMNA ETT MEDDELANDE.
-GIVE US YOUR FEEDBACK! THANK YOU: GE OSS DINA SYNPUNKTER!<br />TACK!
-#V1.2
-required field: Obligatoriska fält
-message sent: Meddelande skickat
-Before contacting you operator: Innan du kontaktar din operatör,<br/>Please give up a few infos:Vänligen ge oss lite information
-No operator is available for the moment: Ingen operatör är tillgänglig för tillfället.
-Please leave me a message: Vänligen lämna ett meddelande.
-Please leave a message: Vänligen lämna ett meddelande
-Do you Want to start an audio call with me: Vill du starta ett ljudsamtal med mig?
-Do you Want to start a video call with me: Vill du starta ett ljudsamtal med mig?
-e-mail invalid: Ogiltig E-postadress
-close webpage cause end of the discussion: Stäng din webbsida för att avsluta diskussionen
-survey sent: Undersökning skickad
-agent hangup: Operatör avslutade
-agent unavailable: Operatören inte tillgänglig
-Agent dont answer call: Operatören svarar inte på samtal
-Ongoing discussion: Pågående diskussion
-Click here to enlarge: Klicka här för att förstora
-Give us your feedback: Ge oss dina synpunkter
-Thank_you: Tack!
-click here to enlarge: Klicka för att förstora
-Your question: Din fråga
-click_on: Klicka på
-allow: Tillåt
-to_start_your_microphone: För att starta din mikrofon
-to_start_your_webcam: För att starta din webbkamera
-terms_of_use: 'Du kan läsa användarvillkoren '
-here: 'här'
-hangup: Hang up
-initiate_video_call: Vill du starta ett videosamtal med mig?
-initiate_audio_call: Vill du starta ett ljudsamtal med mig?
-webuser_accept_audio_call: Du accepterade ljudkonversation
-webuser_accept_video_call: Du accepterade videokonversation
-conversation_send: E-post skickad
-# default values for new module
-grabber_advisor_1: Vi är här för att hjälpa!
-grabber_advisor_2: Live försäljnings rådgivare
-grabber_message_1: Onlinehjälp
-grabber_message_2: Lämna ett meddelande
-invitation_baloon: "Hej!\nHur kan Jag hjälpa dig?"
-invitation_baloon_several_agents: "Hej!\nEn operatör är tillgänglig nu för att svara på dina frågor"
-#new
-message_baloon: Hej, lämna mig ett meddelande, och jag kommer att kontakta dig!
-fall_back_window_default: vår operatör är inte tillgänglig just nu, försök senare
-back to list: Tillbaka till listan
-denied_missed_call_msg: Ledsen, jag kan inte ta ditt samtal. Lämna ett meddelande till mig!
-all_agent_msg_1: Tyvärr vår operatör är inte tillgänglig just nu.
-all_agent_msg_2: Lämna oss ett meddelande!
-agent-deny-call-media: 'Tyvärr, jag kan inte öppna ett ljud eller ett videosamtal längre, fortsätt via textchatt'
-fallback_default_msg: 'Vår operatör är inte tillgänglig just nu, försök igen lite senare'
-#new FO v14
-hangup_mess_1: Ledsen men operatören la på. Ditt meddelande kunde inte skickas.
-hangup_mess_2: Konversationen är över.
-your_agent_hung_up: Din operatör la på
-you_hung_up: Du la på
-give_us_your_feedback: Vill du ge oss dina synpunkter?
-back_to_chat: Tillbaka till chatt
-send_and_quit: Skicka och avsluta
-back_to_feedback: Tillbaka till synpunkter
-any_suggestions: Några förslag?
-transcript_will_be_sent: En utskrift kommer att skickas när chatten är över.
-transcript_sent: Konversation har skickats.
-phone_invalid: Telefon ogiltig
-shall_we_use_this_address: Ska vi använda denna adress
-maximize: Maximize
-reduce: Reduce
-cobrowsing_toolbar: Ongoing co-browse session
-initiate_a_cobrowsing_session: Do you want to accept a cobrowse session?
-accept_cobrowsing: Accept co-browse
-cobrowsing_session: I have opened a co-browse session.
-deny_btn: Deny
-allow_btn: Allow
-label_grant: Can I control your webpage alongside you?
-control: Control
-tooltip_help_cobrowsing: Under bläddring tillsammans , kan vår operatör bara se vad som finns på webbsidan, inte din webbläsare, eller någon annan flik som är öppen på din webbplats. Operatören ser aldrig något annat på din dator.
-# new
-#V16---------------------------------------------------------------------------
-See_the_agent_webcam: Videosamtal
-agent_txt: Operatör
-agents_txt: Operatörer
-bar_txt: Live Kundservice
-welcome_balloon_txt: En operatör är nu tillgänglig för att besvara dina frågor. Klicka på Starta videochatt nu för att börja.
-fallback_timeout_unavailble_txt: Det finns inga tillgängliga videochatt operatörer.
-fallback_timeout_calls_txt: Det finns inga tillgängliga videochatt operatörer.
-The associate cant see you:  Operatören kan inte se eller höra dig.
-I will be with you in just a moment. Please wait while the video chat loads: Jag kommer att vara med dig på bara ett ögonblick. Vänta medans videochatt laddas.
-Are you sure you want to end this conversation?: Är du säker på att du vill avsluta den här kenversationen?
-Are you sure? This will end the conversation: Är du säker? Detta kommer att avsluta samtalet.
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Din Internetanslutning har inte stöd för videochatt. Men vi kan fortfarande röst eller text chatta.
-Before we get started,:  Innan vi börjar,
-to enable your microphone,: För att aktivera mikrofonen.
-click the Share selected device button above: Klicka på ‘‘Dela’’ valda enheten knappen här ovan
-click the Allow button above: Klicka på ‘‘Tillåt’’ knappen ovan
-click the Allow once button below: Klicka på ‘‘Tillåt en gång’’ knappen nedan
-You did not enable your microphone. I cant hear you but I can receive text messages.: Du har inte aktivera mikrofonen. Jag kan inte höra dig, men jag kan ta emot textmeddelanden.
-The associate cannot see or hear you: Operatören kan inte se eller höra dig.
-Accept: Acceptera
-Decline: Neka
-File accepted: Fil accepterad
-File declined: Fil nekad
-Can I co-browse our store with you?: Kan jag bläddra tillsammans med dig och vår butik?
-Allow: Tillåt
-Deny: Neka
-Send and quit: Skicka och avsluta
-Survey sent: Undersökning skickad.
-Click this button to turn on your microphone: Klicka på denna knapp för att slå på mikrofonen.
-I turn on my microphone: Jag kommer nu att slå på min mikrofon.
-Unfortunately, the agent you called is unavailable at the moment: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
-Sorry, but the agents did not answer in time.: Tyvärr men operatören svarade inte i tid.
-Sorry, an error occured and the conversation is over.: Tyvärr, ett fel har uppstått och konversationen är över.
-Unable to connect: Det går inte att ansluta.
-not here, leave a message: Jag är för tillfället inte tillgänglig. Lämna ett meddelande.
-Your video chat has ended: Din videochatt har avslutats.
-Your opinion matters to us: Din åsikt är viktig för oss.
-Thanks for chatting with us today: Tack för att du chattat med oss idag.
-Want a copy of our conversation?: Vill du ha en kopia av vår konversation?
-Please enter a valid email address: Ogiltig E-postadress.
-Enter your email address: Skriv in din E-postadress.
-No thanks: Nej tack
-"No, thanks!": "No, thanks"
-Submit: Skicka in
-Transcript sent: Konversation skickad
-We are unable to connect you with an associate: Vi kan inte ansluta dig till en operatör.
-Your email address: Din E-postadress
-Your phone number: Ditt telefonnummer
-Your message here: Ditt meddelande här
-Please enter a valid email address or a telephone number: Vänligen ange en giltig E-postadress eller ett telefonnummer.
-Message sent: Meddelande skickat
-Close: Stäng
-#reunification
-slogan_txt: Vi är här för att hjälpa!
-welcome_balloon_txt1: "Hur kan jag hjälpa dig?"
-welcome_balloon_txt2: "En operatör finns tillgänglig nu för att svara på dina frågor"
-The associate cannot see you but he hear you: Operatören kan inte se dig men han / hon kan höra dig.
-I like to share a file with you: Jag skulle vilja dela en fil med dig.
-Connecting: Ansluter
-whats this: Vad är det här?
-My text chat conversation: Min textchatt konversation
-My video chat conversation: Min videochatt konversation
-Please find the entire conversation attached below.: ''
-files push during the conversation: Filer som delats under samtalet.
-videos push during the conversation: Videor som har delats under samtalet.
-allowed: allowed
-denied: denied
-Access: Access
-call_button_txt: Start a conversation now
-The: The
-cant see you: cannot see you.
-cannot see you but he hear you: cannot see you but he is able to hear you.
-cannot see or hear you: cannot see or hear you.
-The associate can see and hear you: The agent can see and hear you.
-"Thanks for contacting us.": "Thanks for contacting us."
-"Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
-any_suggestions: Any suggestions?
-#title popin
-pdf_title: PDF Push
-video_title: Video Push
-product_webcam_title: Product camera
-agent: Agent
-Click here to expand: Click here to expand
-No operator is available: The agent is not available
-Leave us a message: Leave us a message
-start a chat discussion: Start a text conversation
-start a video discussion: Start a video conversation
-click_on_allow_button: Click on the ‘‘Allow’’ button,
-to_turn_on_your_webcam: to turn on your webcam.
-to_turn_on_your_microphone: to turn on your microphone.
-by_clicking_allow_webcam: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_micro: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
-microphone_icon: microphone icon
-camera_icon: camera icon
-first_click_on_the: First click on the
-above: above.
-this_will_make_the_menu_appear: this will make the menu appear.
-click_share_selected_device_button: Click “Share selected device” button,
-by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
-by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
-close_video: Close video
-whats this video: Presentation video
-video_desactivate: Mute the webcam
-click_allow_once_button: Click “allow once” button
-by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
-I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
-Your text chat has ended: Your text chat has ended.
-Your text conversation is now over: Your text conversation is now over.
-video_activate: Webcam is on
-audio_activate: Microphone is on
-audio_desactivate: Mute the microphone
-do_you_want_to_end_discussion: Do you want to end the conversation?
-you_are_seeing: You are seeing
-you_are_not_seeing: You are not seeing
-Co-browse session has ended: Co-browse session has ended.
-we are unavailable: We are unavailable.
-#audio video access
-ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
-audio_access_allowed: Audio access allowed
-video_access_allowed: Video access allowed
-audio_access_denied: Audio access denied
-video_access_denied: Video access denied
-
-cam_on_mic_off: The agent can see you but is not able to hear you.
-
-grant: Allow
-deny: Deny
-The agent is requesting to control your webpage alongside you: Can I co-browse our store with you?
-You closed the co-browse session: Co-browse session has ended
-I have now closed the co-browse session: Co-browse session has ended
-
-you deny authorization bar: you deny authorization bar
-cobrowsing access granted: cobrowsing access granted
-cobrowsing access denied: cobrowsing access denied
-
-The webuser close product webcam: User has closed the product webcam.
-The_webuser_close_push_file: User has closed file-sharing.
-The webuser close lighbox: User has closed the lightbox.
-
-Select an option to start the conversation: Select an option to start the conversation
-Dont worry, I will not see you: Dont worry, I will not see you
-Video call: Video call
-Text chat: Text chat
-Tired of typing?: Tired of typing?
-We are also available for a video chat: We are also available for a video chat
+fo_1: Skriv ditt meddelande här ...
+fo_2: Vill du avsluta diskussionen?
+fo_3: Ja
+fo_4: Nej
+fo_5: Skicka
+fo_6: Förnamn
+fo_7: Efternamn
+fo_8: Företag
+fo_9: Din E-postadress
+fo_10: Ditt telefonnummer
+fo_11: Ditt meddelande
+fo_12: Ge oss dina <strong>synpunkterk</strong><br/>om din konversation.
+fo_13: Skulle du rekommendera denna erfarenhet till dina Facebook-vänner?
+fo_14: Vänligen Fyll i din E-postadress
+fo_15: Inspelningen har skickats med lyckat resultat.
+fo_16: Pågående diskussion
+fo_17: Vänligen fyll i E-post fält
+fo_18: Vänligen fyll i Telefonfält
+fo_19: Vänligen fyll i förnamn fältet
+fo_20: Vänligen fyll i efternamn fältet
+fo_21: Vänligen fyll i företagets fältet
+fo_22: Usel
+fo_23: Dålig
+fo_24: OK
+fo_25: Bra
+fo_26: Superbra
+fo_27: Oigiltig E-postadress
+fo_28: Obligatoriska fält
+fo_29: Undersökning skickad
+fo_30: Ledsen, jag kan inte ta ditt samtal. Lämna ett meddelande till mig!
+fo_31: Tillbaka till listan
+fo_32: Tyvärr vår operatör är inte tillgänglig just nu.
+fo_33: Lämna oss ett meddelande!
+fo_34: Skicka och avsluta
+fo_35: Tillbaka till synpunkter
+fo_36: Any suggestions?
+fo_37: I have opened a co-browse session.
+fo_38: Allow
+fo_39: Deny
+fo_40: 
+fo_41: Jag skulle vilja dela en fil med dig.
+fo_42: Fil accepterad
+fo_43: Fil nekad
+fo_44: Acceptera
+fo_45: Neka
+fo_46: "No, thanks"
+fo_47: "Thanks for contacting us."
+fo_48: "Would you like a copy of this conversation?"
+fo_49: Vänligen ange en giltig E-postadress eller ett telefonnummer.
+fo_50: PDF Push
+fo_51: Video Push
+fo_52: Product camera
+fo_53: Your text conversation is now over.
+fo_54: Click here to expand
+fo_55: The agent is not available
+fo_56: Agent
+fo_57: Ongoing co-browse session
+fo_58: Under bläddring tillsammans , kan vår operatör bara se vad som finns på webbsidan, inte din webbläsare, eller någon annan flik som är öppen på din webbplats. Operatören ser aldrig något annat på din dator.
+fo_59: Ansluter
+fo_60: Close video
+fo_61: Presentation video
+fo_62: Start a text conversation
+fo_63: Start a video conversation
+fo_64: We are unavailable.
+fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
+fo_66: Can I activate your webcam? I will be able to see and hear you.
+fo_67: Audio access allowed
+fo_68: Video access allowed
+fo_69: Audio access denied
+fo_70: Video access denied
+fo_71: Allow
+fo_72: Deny
+fo_73: Can I co-browse our store with you?
+fo_74: Co-browse session has ended
+fo_75: Co-browse session has ended
+fo_76: cobrowsing access granted
+fo_77: cobrowsing access denied
+fo_78: Select an option to start the conversation
+fo_79: Dont worry, I will not see you
+fo_80: Video call
+fo_81: Text chat
+fo_82: Tired of typing?
+fo_83: We are also available for a video chat
