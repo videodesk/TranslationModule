@@ -295,7 +295,7 @@ The agent is requesting to control your webpage alongside you: Can I co-browse o
 You closed the co-browse session: Co-browse session has ended
 I have now closed the co-browse session: Co-browse session has ended
 
-you deny authorization bar: "許可を拒否しました"バー
+you deny authorization bar: 許可を拒否しましたバー
 cobrowsing access granted: 同期ブラウズへのアクセスが許可されました
 cobrowsing access denied: 同期ブラウズへのアクセスが拒否されました
 
