@@ -68,11 +68,11 @@ fo_67: 允许使用音频
 fo_68: 允许使用视频
 fo_69: 拒绝使用音频
 fo_70: 拒绝使用视频
-fo_71: Allow
-fo_72: Deny
-fo_73: Can I co-browse our store with you?
-fo_74: Co-browse session has ended
-fo_75: Co-browse session has ended
+fo_71: 允许
+fo_72: 拒绝
+fo_73: 我可以您协同浏览我们的商店吗？
+fo_74: 协同浏览会话已结束
+fo_75: 协同浏览会话已结束
 fo_76: 允许共同浏览访问
 fo_77: 拒绝共同浏览访问
 fo_78: 选择一个选项以开启对话
