@@ -101,12 +101,14 @@ fo_100: You are seeing
 fo_101: You are not seeing
 fo_102: Microphone is on
 fo_103: Ja
+fo_104: you deny authorization bar
 fo_105: Tento agent nevidí a nepočuje vás.
 fo_106: Budem pri vás o chvíľu. Prosím čakajte pokiaľ sa video chat natiahne.
 fo_107: Ste si istý, že chcete ukončiť konverzáciu?
 fo_108: Ste si istý? Toto ukončí konverzáciu.
 fo_109: Vaše internetové pripojenie nepodporuje video chat. Avšak môžeme uskutočniť audio alebo textový chat.
 fo_110: Nezapli ste váš mikrofón. Nepočujem vás, alebo môžem dostávať textové správy.
+fo_111: Tento agent nevidí a nepočuje vás.
 fo_112: Môžme spoločne prehľadávať náš obchod?
 fo_113: Povoliť
 fo_114: Odmietnuť
