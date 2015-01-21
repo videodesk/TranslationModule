@@ -87,6 +87,7 @@ fo_86: Tapez votre message ici...
 fo_87: sera disponible dans quelques secondes.co
 fo_88: Vous avez accepté la conversation audio
 fo_89: Vous avez accepté la conversation vidéo
+fo_90: Discussion avec 
 fo_91: Agrandir
 fo_92: Raccrocher
 fo_93: Couper la caméra
@@ -107,7 +108,6 @@ fo_107: Voulez-vous mettre fin à la discussion ?
 fo_108: Êtes-vous sûr?  Cela va fermer la conversation.
 fo_109: Nous avons détecté un problème avec votre connexion internet, la conversation en vidéo ne peut être maintenue. Cependant, nous pouvons continuer à parler et à nous écrire.
 fo_110: Vous n’avez pas activé votre microphone. Je ne peux pas vous entendre mais je reçois vos messages écrits.
-fo_111: Le conseiller ne peut ni vous voir ni vous entendre.
 fo_112: Voulez-vous lancer la navigation assistée ?
 fo_113: Autoriser
 fo_114: Refuser

@@ -87,6 +87,7 @@ fo_86: Digita qui il tuo messaggio...
 fo_87: 'disponibile tra qualche secondo'
 fo_88: Hai accettato la chiamata vocale
 fo_89: Hai accettato la videochiamata
+fo_90: iscussione con 
 fo_91: Ingrandisci
 fo_92: Hang up
 fo_93: Spegni webcam
@@ -107,7 +108,6 @@ fo_107: Sei sicuro di voler terminare questa conversazione?
 fo_108: Sei sicuro? Questo terminerà la conversazione.
 fo_109: La velocità della tua connessione non consente di effettuare una chat video. E’ comunque possibile continuare con una chat di testo o vocale.
 fo_110: Non hai attivato il tuo microfono. Non posso sentirti ma posso ricevere i tuoi messaggi di testo.
-fo_111: L’agente non può vederti né sentirti.
 fo_112: Posso assisterti durante la navigazione del nostro store?
 fo_113: Consenti
 fo_114: Nega

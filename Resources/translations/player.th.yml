@@ -87,6 +87,7 @@ fo_86: ใส่คำถามของคุณที่นี่
 fo_87: จะสามารถใช้งานได้ในอีกไม่กี่วินาที
 fo_88: คุณได้รับการยอมรับเสียงสนทนา
 fo_89: คุณได้รับการยอมรับวิดีโอแชท
+fo_90: การสนทนากับ 
 fo_91: Maximize
 fo_92: Hang up
 fo_93: Mute the webcam
@@ -106,7 +107,6 @@ fo_107: Are you sure you want to end this conversation?
 fo_108: Are you sure? This will end the conversation.
 fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
 fo_110: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-fo_111: The agent cannot see or hear you.
 fo_112: Can I co-browse our store with you?
 fo_113: Allow
 fo_114: Deny
