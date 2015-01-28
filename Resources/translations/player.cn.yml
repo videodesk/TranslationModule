@@ -162,3 +162,13 @@ fo_161: 点击“允许一次”按钮
 fo_162: 我一会儿就回来。请等待文字聊天加载。
 fo_163: 您的文字聊天已结束。
 fo_164: 客服专员可以看到您，但是听不到您。
+fo_165: 这个对话有帮助吗？
+fo_166: 您愿意把该体验介绍给您的朋友吗？
+fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+fo_168: 我们可以帮助您！ #grabber_advisor_1 
+fo_169: 实时销售顾问 #grabber_advisor_2 
+fo_170: 有什么可以帮助您的？ #grabber_message_1 
+fo_171: 接线员现在可以回答您的问题。 #grabber_message_2 
+fo_172: 立即开始对话 #call_button_txt
+fo_173: 没有可用的视频聊天客服专员。 #fallback_timeout_calls_txt
+fo_174: 没有可用的视频聊天客服专员。 #fallback_timeout_unavailble_txt
