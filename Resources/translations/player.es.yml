@@ -164,3 +164,13 @@ fo_163: El chat de texto ha terminado.
 fo_164: El asesor puede verte pero no puede oírte.
 fo_165: ¿Esta conversación ha sido útil?
 fo_166: ¿Aconsejarías este servicio a tus amigos?
+fo_167: Su conexión a Internet no es compatible con el chat vídeo. Todavía podemos chatear. #when webuser switch to chat text
+
+
+fo_168: ¡Estamos aquí! #grabber_advisor_1 
+fo_169: Asesores disponible #grabber_advisor_2 
+fo_170: ¿Cómo puedo ayudarle? #grabber_message_1 
+fo_171: Un consejero está disponible para responderle. #grabber_message_2 
+fo_172: Empezar una conversación #call_button_txt
+fo_173: No hay asesor en vídeo chat disponible. #fallback_timeout_calls_txt
+fo_174: No hay asesor en vídeo chat disponible.  #fallback_timeout_unavailble_txt
