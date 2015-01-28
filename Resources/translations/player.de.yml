@@ -172,5 +172,5 @@ fo_169: Live Mitarbeiter #grabber_advisor_2
 fo_170: Online Hilfe #grabber_message_1 
 fo_171: Lassen Sie eine Nachricht #grabber_message_2 
 fo_172: Video-Chat starten #call_button_txt
-fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
-fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
+fo_173: Es sind keine Berater für Video-Chat verfügbar. #fallback_timeout_calls_txt
+fo_174: Es sind keine Berater für Video-Chat verfügbar. #fallback_timeout_unavailble_txt
