@@ -162,15 +162,15 @@ fo_161: Klikkaa “salli kerran” painiketta
 fo_162: Odota vielä hetki, chat lataantuu.
 fo_163: Keskustelusi on nyt päättynyt.
 fo_164: Asiakaspalvelija näkee sinut, mutta ei kuule sinua.
-fo_165: Has this conversation been helpful?
-fo_166: Would you recommend this experience to your friends?
-fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+fo_165: Olisko keskustelustasi apua?
+fo_166: Haluaisitko suositella meitä Facebookissa?
+fo_167: Internet yhteytesi ei salli videopuhelua. Voimme silti keskustella chatissa. #when webuser switch to chat text
 
 
-fo_168: We're here to help #grabber_advisor_1 
-fo_169: Live sales advisors #grabber_advisor_2 
-fo_170: How can I help you? #grabber_message_1 
-fo_171: An operator is available now to answer your questions. #grabber_message_2 
-fo_172: Start a conversation now #call_button_txt
-fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
-fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
+fo_168: Tarvitsetko apua? #grabber_advisor_1 
+fo_169: Asiakaspalvelu #grabber_advisor_2 
+fo_170: Auttaa verkossa #grabber_message_1 
+fo_171: Jätä viesti #grabber_message_2 
+fo_172: Aloita videopuhelu #call_button_txt
+fo_173: Asiakaspalvelija ei nyt pysty vastaamaan. #fallback_timeout_calls_txt
+fo_174: Asiakaspalvelija ei nyt pysty vastaamaan. #fallback_timeout_unavailble_txt
