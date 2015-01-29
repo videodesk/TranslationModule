@@ -44,7 +44,7 @@ fo_43: Fichier refusé
 fo_44: Accepter
 fo_45: Refuser
 fo_46: Non, merci.
-fo_47: "Merci de avoir nous contacté."
+fo_47: "Merci de nous avoir contacté."
 fo_48: "Voulez-vous recevoir une copie de cette conversation ?"
 fo_49: Merci de renseigner une adresse email ou un numéro de téléphone valide.
 fo_50: PDF Push
@@ -55,7 +55,7 @@ fo_54: Cliquez pour agrandir
 fo_55: Conseiller non disponible
 fo_56: Conseiller
 fo_57: Co-navigation en cours
-fo_58: Pendant la co-navigation, les conseillers ne peuvent voir que la page web sur laquelle vous êtes. Ils n'ont pas accès aux autres pages de votre navigateur et ne peuvent rien voir sur votre ordinateur.
+fo_58: Pendant la co-navigation, les conseillers ne peuvent que voir la page web sur laquelle vous êtes. Ils n'ont pas accès aux autres pages de votre navigateur et ne peuvent rien voir sur votre ordinateur.
 fo_59: Connexion en cours
 fo_60: Fermer la vidéo
 fo_61: Comment ça marche ?
@@ -82,9 +82,9 @@ fo_81: Chat texte
 fo_82: Vous ne souhaitez plus écrire ?
 fo_83: Passez en mode vidéo.
 fo_84: Vous pouvez parler, le conseiller vous voit.
-fo_85: Vous pouvez parler, vous n'êtes pas vu.
+fo_85: Vous pouvez parler, le conseiller ne vous voit # vous n'êtes pas vu
 fo_86: Tapez votre message ici...
-fo_87: sera disponible dans quelques secondes.co
+fo_87: sera disponible dans quelques secondes. 
 fo_88: Vous avez accepté la conversation audio
 fo_89: Vous avez accepté la conversation vidéo
 fo_90: Discussion avec 
@@ -97,11 +97,11 @@ fo_96: Votre microphone est activé
 fo_97: Votre microphone est désactivé
 fo_98: Votre webcam est activée
 fo_99: Votre webcam est désactivée
-fo_100: You are seeing
-fo_101: You are not seeing
+fo_100: You are seeing #pas utilisé
+fo_101: You are not seeing #pas utilisé
 fo_102: Microphone activé
 fo_103: Moi
-fo_104: you deny authorization bar
+fo_104: Barre autorisation refusée
 fo_105: Le conseiller ne peut pas vous voir.
 fo_106: Je serai disponible dans quelques instants. Merci de patienter pendant le chargement de la conversation vidéo.
 fo_107: Voulez-vous mettre fin à la discussion ?
@@ -142,28 +142,28 @@ fo_141: Le
 fo_142: ne peut pas vous voir mais il vous entend.
 fo_143: ne peut ni vous voir ni vous entendre.
 fo_144: Le conseiller peut vous voir et vous entendre.
-fo_145: Nous sommes désolé, le conseiller que vous avez appellé n'est pas disponible pour le moment.
+fo_145: Nous sommes désolés, le conseiller que vous avez appellé n'est pas disponible pour le moment.
 fo_146: Souhaitez-vous recevoir une copie de cette conversation ?
 fo_147: Cliquez sur le bouton ‘‘Autoriser’’,
 fo_148: pour activer votre webcam.
 fo_149: pour activer votre microphone.
-fo_150: En cliquant sur le bouton ‘‘Autoriser’’, le conseiller du site internet sur lequel vous êtes en train de naviguer pourra vous voir et vous entendre.
-fo_151: En cliquant sur le bouton ‘‘Autoriser’’, le conseiller du site internet sur lequel vous êtes en train de naviguer pourra vous entendre.
+fo_150: En cliquant sur le bouton ‘‘Autoriser’’, le conseiller pourra vous voir et vous entendre.
+fo_151: En cliquant sur le bouton ‘‘Autoriser’’, le conseiller pourra vous entendre.
 fo_152: l'icône du microphone
 fo_153: l'icône de la caméra
 fo_154: Tout d'abord, cliquez sur
 fo_155: ci-dessus.
 fo_156: Ceci fera apparaitre un menu.
 fo_157: Cliquez sur le bouton ‘‘Partager le périphérique sélectionné’’,
-fo_158: En cliquant sur le bouton ‘‘Autoriser une fois’’, le conseiller du site internet sur lequel vous êtes en train de naviguer pourra vous voir et vous entendre.
-fo_159: En cliquant sur le bouton ‘‘Autoriser une fois’’, le conseiller du site internet sur lequel vous êtes en train de naviguer pourra vous entendre.
+fo_158: En cliquant sur le bouton ‘‘Autoriser une fois’’, le conseiller pourra vous voir et vous entendre.
+fo_159: En cliquant sur le bouton ‘‘Autoriser une fois’’, le conseiller pourra vous entendre.
 fo_160: Fin de la navigation assistée.
 fo_161: Cliquez sur le bouton “Autoriser une fois”
 fo_162: Je serai disponible dans quelques instants. Merci de patienter pendant le chargement de la conversation.
 fo_163: Votre conversation est terminée.
 fo_164: Le conseiller peut vous voir mais ne peut pas vous entendre.
 fo_165: Cette conversation vous a-t-elle été utile ?
-fo_166: Recommanderiez-vous un tel dialogue à vos amis ?
+fo_166: Recommanderiez-vous ce service à vos amis ?
 fo_167: Nous avons détecté un problème avec votre connexion internet, la conversation en vidéo ne peut être maintenue. Cependant, nous pouvons continuer à nous écrire. #when webuser switch to chat text
 
 fo_168: Nous sommes là !
