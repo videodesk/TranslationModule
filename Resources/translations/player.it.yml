@@ -162,3 +162,15 @@ fo_161: Clicca su “consenti una volta”
 fo_162: Sarò a tua disposizione tra un attimo. Per favore attendi mentre la chat viene caricata.
 fo_163: La tua chat è terminata.
 fo_164: L’operatore può vederti ma non può sentirti.
+fo_165: Questa conversazione ti è servita?
+fo_166: Raccomanderesti questa esperienza a un amico?
+fo_167: La velocità della tua connessione non consente di effettuare una chat video. E’ comunque possibile continuare con una chat di testo.
+
+
+fo_168: Siamo qui per aiutarti!
+fo_169: Consulenti di vendita
+fo_170: Assistenza online 
+fo_171: Lascia un messaggio
+fo_172: Start a conversation now #call_button_txt
+fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
+fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
