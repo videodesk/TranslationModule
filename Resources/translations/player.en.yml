@@ -23,7 +23,7 @@ fo_22: bad # survey feeling
 fo_23: poor # survey feeling
 fo_24: regular # survey feeling
 fo_25: good # survey feeling
-fo_26: gorgeous # survey feeling
+fo_26: excellent # survey feeling
 fo_27: Invalid email
 fo_28: Required field
 fo_29: Survey sent
@@ -55,7 +55,7 @@ fo_54: Click here to expand
 fo_55: The agent is not available
 fo_56: Agent
 fo_57: Ongoing co-browse session
-fo_58: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
+fo_58: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other open tab. The agent will never see anything else on your computer. # fo_58: During co-browse, our agent can only see whats on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
 fo_59: Connecting
 fo_60: Close video
 fo_61: Video presentation
@@ -81,8 +81,8 @@ fo_80: Video call
 fo_81: Text chat
 fo_82: Tired of typing?
 fo_83: We are also available for a video chat
-fo_84: You can talk, the agent is seeing you.
-fo_85: You can talk, the agent does not see you.
+fo_84: You can talk, the agent can see you.
+fo_85: You can talk, the agent can't see you.
 fo_86: Type your message here...
 fo_87: will be available in a few seconds.
 fo_88: You accepted the audio conversation
@@ -97,17 +97,17 @@ fo_96: Your mic is on
 fo_97: Your mic is muted
 fo_98: Your webcam is on
 fo_99: Your webcam is off
-fo_100: You are seeing
-fo_101: You are not seeing
+fo_100: You are seeing # not used
+fo_101: You are not seeing # not used
 fo_102: Microphone is on
 fo_103: Me
 fo_104: you deny authorization bar
-fo_105: The agent cannot see or hear you. #no use anymore
+fo_105: The agent cannot see or hear you. #not used anymore
 fo_106: I will be with you in just a moment. Please wait while the video chat loads.
 fo_107: Are you sure you want to end this conversation?
 fo_108: Are you sure? This will end the conversation.
 fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
-fo_110: You did not enable your microphone. I cannot hear you but I can receive your text messages.
+fo_110: You have not enabled your microphone. I can't hear you but I can receive your text messages.
 fo_111: The agent cannot see or hear you.
 fo_112: Can I co-browse our store with you?
 fo_113: Allow
@@ -116,7 +116,7 @@ fo_115: Send and quit
 fo_116: Survey sent.
 fo_117: Click this button to turn on your microphone.
 fo_118: I will now switch on my microphone.
-fo_119: We're sorry. Currently, none of our agents are available to respond to your call.
+fo_119: We're sorry. Currently, none of our agents are available to take your call. #respond to your call
 fo_120: Unable to connect.
 fo_121: I am currently not available. Please leave a message.
 fo_122: Your video chat has ended.
@@ -174,6 +174,3 @@ fo_171: An operator is available now to answer your questions. #grabber_message_
 fo_172: Start a conversation now #call_button_txt
 fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
 fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
-
-
-
