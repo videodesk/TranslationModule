@@ -49,7 +49,7 @@ fo_48: "Desideri ricevere una copia di questa conversazione?"
 fo_49: Per favore inserisci un indirizzo email valido oppure un numero di telefono.
 fo_50: PDF Push
 fo_51: Video Push
-fo_52: Product camera
+fo_52: Prodotto webcam
 fo_53: La tua conversazione è ora conclusa.
 fo_54: Clicca qui per espandere
 fo_55: Nessun operatore disponibile
@@ -171,6 +171,6 @@ fo_168: Siamo qui per aiutarti!
 fo_169: Consulenti di vendita
 fo_170: Assistenza online 
 fo_171: Lascia un messaggio
-fo_172: Start a conversation now #call_button_txt
-fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
-fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
+fo_172: Avvia la chat #call_button_txt
+fo_173: Nessun operatore videochat disponibile. #fallback_timeout_calls_txt
+fo_174: Nessun operatore videochat disponibile. #fallback_timeout_unavailble_txt
