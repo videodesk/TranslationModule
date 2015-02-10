@@ -172,5 +172,5 @@ fo_169: Live sales advisors #grabber_advisor_2
 fo_170: How can I help you? #grabber_message_1 
 fo_171: An operator is available now to answer your questions. #grabber_message_2 
 fo_172: Start a conversation now #call_button_txt
-fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
-fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
+fo_173: Our agent are unavailable right now, please try later. #fallback_timeout_calls_txt
+fo_174: Our agent are unavailable right now, please try later. #fallback_timeout_unavailble_txt
