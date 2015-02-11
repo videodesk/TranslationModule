@@ -173,3 +173,4 @@ fo_172: 立即开始对话 #call_button_txt
 fo_173: 没有可用的视频聊天客服专员。 #fallback_timeout_calls_txt
 fo_174: 没有可用的视频聊天客服专员。 #fallback_timeout_unavailble_txt
 fo_175: Leave a message
+fo_176: 您的副本
