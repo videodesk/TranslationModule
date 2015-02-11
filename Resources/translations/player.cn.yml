@@ -174,3 +174,13 @@ fo_173: 没有可用的视频聊天客服专员。 #fallback_timeout_calls_txt
 fo_174: 没有可用的视频聊天客服专员。 #fallback_timeout_unavailble_txt
 fo_175: Leave a message
 fo_176: 您的副本
+fo_177: 我的文字聊天对话  #My text chat conversation
+fo_178: 我的视频聊天对话 #My video chat conversation
+fo_179: 您好, #Hi
+fo_180: 您最近与我们的一个客服专员的聊天记录如下所示。 #We have to pleasure to send you the transcript of your discussion.
+fo_181: '' #Please find the entire conversation attached below.
+fo_182: 希望以后能够再见到您！#We look forward to seeing you again on
+fo_183: 感谢您的访问，#Thank you for your visit
+fo_184: 对话时的共享视频。#videos push during the conversation
+fo_185: 对话时的共享文件。 #files push during the conversation
+fo_186: View this email in your browser # do not exist in old file
