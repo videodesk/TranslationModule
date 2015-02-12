@@ -1,0 +1,189 @@
+fo_1: Escreva aqui a sua mensagem...
+fo_2: Deseja terminar a conversa?
+fo_3: Sim
+fo_4: Não
+fo_5: Enviar
+fo_6: Nome
+fo_7: Apelido
+fo_8: Empresa
+fo_9: E-mail
+fo_10: Telefone
+fo_11: Mensagem
+fo_12: Dê-nos a sua <strong>opinião</strong>sobre esta conversa.
+fo_13: Recomendaria a experiência aos seus amigos?
+fo_14: Indique, por favor, o seu endereço de e-mail
+fo_15: A gravação foi enviada com sucesso
+fo_16: Discussão em curso
+fo_17: Preencha, por favor, o campo "Endereço de e-mail"
+fo_18: Preencha, por favor, o campo "Telefone"
+fo_19: Preencha, por favor, o campo "Nome"
+fo_20: Preencha, por favor, o campo "Apelido"
+fo_21: Preencha, por favor, o campo "Empresa"
+fo_22: péssimo
+fo_23: fraco
+fo_24: regular
+fo_25: bom
+fo_26: excelente
+fo_27: 'Endereço e-mail inválido'
+fo_28: Campo obrigatório
+fo_29: Sondagem enviada
+fo_30: Desculpe, não posso atender a sua chamada, deixe-me uma mensagem!
+fo_31: Voltar à lista
+fo_32: Nenhum operador disponível de momento.
+fo_33: Deixe a sua mensagem.
+fo_34: Enviar e sair
+fo_35: Voltar ao feedback
+fo_36: Sugestões?
+fo_37: Abri uma sessão de co-browse.
+fo_38: Permitir
+fo_39: Recusar
+fo_40: Preencha, por favor, pelo menos um dos campos em destaque
+fo_41: Gostaria de compartilhar um arquivo com você.
+fo_42: Arquivo aceito
+fo_43: Arquivo recusado
+fo_44: Aceitar
+fo_45: Recusar
+fo_46: "Não, obrigado"
+fo_47: "Obrigado por seu contato."
+fo_48: "Quer uma cópia desta conversa?"
+fo_49: Escreva um e-mail ou número de telefone válido.
+fo_50: Push de PDF
+fo_51: Push de Vídeo
+fo_52: Produzir câmera
+fo_53: Sua conversa de texto terminou.
+fo_54: Clique aqui para expandir
+fo_55: O agente não está disponível
+fo_56: Agente
+fo_57: Sessão de co-browse em andamento
+fo_58: Durante a navegação, o nosso operador só pode ver o que está na página web onde está o chat, e não o navegador(ex.: Internet Explorer, Chrome, Firefox...), nem qualquer outro separador ou janela que tenha aberto. O operador não pode visualizar nada no seu computador.
+fo_59: Ligando
+fo_60: Fechar vídeo
+fo_61: Vídeo de apresentação
+fo_62: Começar uma conversa de texto
+fo_63: Começar uma conversa de vídeo
+fo_64: Estamos indisponíveis.
+fo_65: Posso ativar seu microfone? Poderá me ver e ouvir, eu não vejo você.
+fo_66: Posso ativar sua câmera web? Poderei vê-lo e ouvi-lo.
+fo_67: Acesso ao áudio permitido
+fo_68: Acesso ao vídeo permitido
+fo_69: Acesso ao áudio recusado
+fo_70: Acesso ao vídeo recusado
+fo_71: Permitir
+fo_72: Recusar
+fo_73: Posso conavegar pela nossa loja com você?
+fo_74: A sessão de co-browse terminou.
+fo_75: A sessão de co-browse terminou.
+fo_76: acesso de conavegação concedido
+fo_77: acesso de conavegação negado
+fo_78: Selecione uma opção para iniciar a conversação
+fo_79: Não se preocupe, eu não vejo você
+fo_80: Chamada de vídeo
+fo_81: Chat de texto
+fo_82: Cansado de escrever?
+fo_83: Também estamos disponíveis para chat de vídeo
+fo_84: Pode falar, o operador está a vê-lo.
+fo_85: Pode falar, o operador não está a vê-lo.
+fo_86: Faça a sua pergunta aqui
+fo_87: 'vai responder em poucos segundos.'
+fo_88: Aceitou a chamada de áudio
+fo_89: Aceitou a chamada de vídeo
+fo_90: Conversa com 
+fo_91: Maximizar
+fo_92: Desligar
+fo_93: Silenciar webcam
+fo_94: Webcam ligada
+fo_95: Silenciar microfone
+fo_96: O meu microfone ativado
+fo_97: O meu microfone desativado
+fo_98: A minha webcam está ativada
+fo_99: A minha webcam está desativada
+fo_100: Consegue ver
+fo_101: Não consegue ver
+fo_102: Microfone ligado
+fo_103: Eu
+fo_104: recusou a barra de autorização
+fo_105: O agente não consegue vê-lo nem ouvi-lo.
+fo_106: Irei atendê-lo em um instante.  Aguarde enquanto a chamada de vídeo carrega.
+fo_107: Tem certeza que quer terminar esta conversa?
+fo_108: Tem certeza? Isto terminará a conversa.
+fo_109: Sua conexão Internet não suporta chamadas de vídeo.  Entretanto, ainda podemos falar ou escrever.
+fo_110: Não permitiu seu microfone.  Não consigo ouvi-lo, mas consigo receber suas mensagens de texto.
+fo_111: O agente não consegue vê-lo nem ouvi-lo.
+fo_112: Posso conavegar pela nossa loja com você?
+fo_113: Permitir
+fo_114: Recusar
+fo_115: Enviar e sair
+fo_116: Pesquisa enviada.
+fo_117: Clique neste botão para ligar seu microfone.
+fo_118: Vou ligar agora meu microfone.
+fo_119: Lamentamos.  No momento, nenhum de nossos agentes está disponível para atender sua chamada.
+fo_120: Impossível ligar.
+fo_121: Não estou disponível neste momento.  Deixe mensagem.
+fo_122: Sua chamada de vídeo terminou.
+fo_123: Dê-nos seu <b>feedback</b>.
+fo_124: Obrigado por falar conosco.
+fo_125: E-mail inválido.
+fo_126: Escreva seu e-mail.
+fo_127: Não, obrigado
+fo_128: Enviar
+fo_129: Transcrição enviada
+fo_130: Não conseguimos liga-lo a um agente.
+fo_131: Seu e-mail
+fo_132: Seu número de telefone
+fo_133: Sua mensagem
+fo_134: Mensagem enviada
+fo_135: Fechar
+fo_136: O agente não consegue vê-lo nem ouvi-lo.
+fo_137: O agente não consegue vê-lo, mas consegue ouvi-lo.
+fo_138: permitido
+fo_139: recusado
+fo_140: Acesso
+fo_141: O
+fo_142: não consegue vê-lo, mas consegue ouvi-lo.
+fo_143: não consegue vê-lo nem ouvi-lo.
+fo_144: O agente consegue vê-lo e ouvi-lo.
+fo_145: Lamentamos.  Infelizmente, o agente para quem ligou não está disponível.
+fo_146: Quer uma cópia de nossa conversa?
+fo_147: Clique no botão ‘‘Permitir’’ button,
+fo_148: para ligar sua webcam.
+fo_149: para ligar seu microfone.
+fo_150: Clicando em “Permitir”, o agente de apoio no site em que está navegando poderá vê-lo e ouvi-lo.
+fo_151: Clicando em “Permitir”, o agente de apoio no site em que está navegando poderá ouvi-lo.
+fo_152: ícone do microfone
+fo_153: ícone da câmera
+fo_154: Clique primeiro no
+fo_155: acima.
+fo_156: o menu aparece.
+fo_157: Clique no botão “Compartilhar dispositivo selecionado”,
+fo_158: Clicando em “Permitir uma vez”, o agente de apoio no site em que está navegando poderá vê-lo e ouvi-lo.
+fo_159: Clicando em “Permitir uma vez”, o agente de apoio no site em que está navegando poderá ouvi-lo.
+fo_160: A sessão de co-browse terminou.
+fo_161: Clique no botão “Permitir uma vez”
+fo_162: Irei atendê-lo em um instante. Aguarde enquanto o chat de texto carrega.
+fo_163: Seu chat de texto terminou.
+fo_164: O agente pode vê-lo, mas não consegue ouvi-lo.
+fo_165: A conversa foi-lhe útil?
+fo_166: Recomendaria a experiência aos seus amigos?
+fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+
+
+fo_168: Estamos aqui!
+fo_169: Consultores de vendas
+fo_170: Ajuda Online
+fo_171: Deixe a sua mensagem
+fo_172: Começar agora uma conversa
+fo_173: Não há agentes de chat de vídeo disponíveis.
+fo_174: Não há agentes de chat de vídeo disponíveis.
+fo_175: Leave a message
+fo_176: A sua transcrição com
+fo_177: Minha conversa de texto  #My text chat conversation
+fo_178: Minha conversa de vídeo #My video chat conversation
+fo_179: Olá, #Hi
+fo_180: Temos todo o prazer em lhe enviar uma transcrição da nossa conversa. #We have to pleasure to send you the transcript of your discussion.
+fo_181: '' #Please find the entire conversation attached below.
+fo_182: Esperamos voltar a falar em breve. #We look forward to seeing you again on
+fo_183: Agradecemos a sua visita. #Thank you for your visit
+fo_184: Vídeos compartilhados durante a conversa. #videos push during the conversation
+fo_185: Arquivos compartilhados durante a conversa. #files push during the conversation
+fo_186: View this email in your browser # do not exist in old file
+fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
