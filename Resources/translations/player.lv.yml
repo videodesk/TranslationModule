@@ -1,291 +1,189 @@
-'audio call': Audio call
-'video call': Video call
-'information help': vairāk info
-'faq help': vairāk informācijas
-'Webuser is typing': raksta...
-'will answer in a few seconds': pēc mirkļa atbildēs.
-'Phone number': Telefona numurss
-'email invalide': Kļūdains epasts
-'Discutez en video' : Video zvans
-'Discutez en audio' : Balss zvans
-'Discutez en chat' : Čats
-'webuser': Es
-'message sent': Ziņa nosūtīta
-'Discussion with %site%': Saruna ar %site%
-'Enter your question here': Rakstiet savu ziņu šeit...
-#survey
-bad: slikti
-poor: viduvēji
-regular: vidēji
-good: labi
-gorgeous: lieliski
-#module texts
-'information help':   Tagad varat sazināties ar pieejamajiem pārstāvjeim. Jūs varat izvēlēties starp čatu, balss un video zvaniem - anonīmi un bez maksas. 
-#--------------FLASH PANEL-----------------
-#TMP MSG
-webcam_activated: My webcam is on
-webcam_desactivated: My webcam is off
-mic_activated: My microphone is on
-mic_desactivated: My microphone is muted
-vid_resumed: The video of your agent is resuming
-vid_stoped: The video of your agent is off
-#ROLL MSG
-activate_cam: Activate my webcam
-desactivate_cam: Disable my webcam
-activate_mic: Activate my microphone
-desactivate_mic: Mute my microphone
-stop_vid: Stop the video of the agent
-resume_vid: Resume the video of the agent
-activate_volume: Unmute the speakers
-desactivate_volume: Mute the speakers
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
-#transcript mail
-Hi: Labdien,
-You reached: Jūs esat sazinājies ar
-We have to pleasure to send you the transcript of your discussion.: Jūsu pieprasītās sarunas teksta kopija ir redzams zemāk.
-We look forward to seeing you again on: Ar prieku Jums palīdzēsim arī turpmāk.
-Thank you for your visit: Paldies!
-videodesk team: Videodesk komanda
-transcript: Kopija.
-yours transcripts with: Your transcript with
-We can talk, you are seeing.: Varat runāt, Jūs esat redzams.
-We can talk, you are not seeing.: Varat runātm, Jūs neesat redzams.
-#REFACTOR
-type here: Rakstiet savu ziņu te...
-Do you want to close the discussion?: Vai jūs vēlaties beigt sarunu?
-Yes: Jā
-No: Nē
-send: Sūtīt
-your firstname: Vārds
-Please fill at least one of highlighted fields: Lūdzu, aizpildiet vismaz vienu no atzīmētajiem laukiem
-your lastname: Uzvārds
-your company: Uzņēmums
-your email: Epasts
-your phone: Telefons
-your message: Ziņa
-Your conversation has ended.Thank you for contacting us!: <strong>Jūsu saruna ir pabeigta.</strong><br />Paldies, par sarunu!
-Recall this operator now: Atzvanīt šim operatoram!
-give us your feedback about the conversation: Padalieties ar savu viedokli <b>feedback</b><br/>par šo sarunu.
-has this dialog been helpful: Vai šī saruna bija noderīga?
-Would you recommend this experience to your facebook friends: Vai jūs šo ieteiktu citiem?
-Any comments or suggestions: Komentāri? Ieteikumi?
-Get a reccord of this conversation by e-mail: Saņemiet sarunas kopiju savā epastā.
-Please enter your e-mail address: Lūdzu ievadiet savu epasta adresi
-Please give a valid address: Lūdzu norādiet derīgu adresi
-The record has been successfully sent: Sarunas kopija veiksmīgi nosūtīta
-your message has been successfully sent. We Will contact you soon: Jūsu ziņa ir veiksmīgi nosūtīta.<br />Mēs ar Jums sazināsimies drīz.
-Please fill email field: Lūdzu ierakstiet epastu
-Please fill phone field: Lūdzu ierakstiet telefona numuru
-Please fill message textarea: Lūdzu ierakstiet ziņu
-Please fill firstname field: Lūdzu ierakstiet Vārdu
-Please fill lastname field: Lūdzu ierakstiet Uzvārdu
-Please fill company field: Lūdzu ierakstiet uzņēmumu
-call audio: Balss zvans
-call video: Video zvans
-video suggestion: Apstiprināt balss zvanu
-audio suggestion: Apstiprināt video zvanu
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: Mēs esam šeit, lai palīdzētu!<br />Tiešsaites palīgs.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: Mēs esam šeit, lai palīdzētu!!<br />Lūdzu atstājiet ziņu.
-GIVE US YOUR FEEDBACK! THANK YOU: Atstājiet savu atsauksmi!<br />PALDIES!
-#V1.2
-required field: Obligātie lauki
-message sent: Epasts nosūtīts
-Before contacting you operator: Pirms sarunas,<br/>lūdzu, pastāstiet par ko vēlaties runāt:
-No operator is available for the moment: Neviens no operatoriem šobrīd nav pieejams.
-Please leave me a message: Lūdzu atstājiet ziņu
-Please leave a message: Lūdzu atstājiet ziņu
-Do you Want to start an audio call with me: Vai Jūs vēlaties sākt balss zvanu?
-Do you Want to start a video call with me: Vai Jūs vēlaties sākt video zvanu?
-e-mail invalid: Nederīgs epasts
-close webpage cause end of the discussion: Lapas aizvēršana izbeidza sarunu
-survey sent: Aptauja nosūtīta
-agent hangup: Pārstāvis beidza sarunu.
-agent unavailable: Šis operators nav pieejams.
-Agent dont answer call: Diemžēl operators nevar atbildēt.
-Ongoing discussion: Notiekošā saruna
-Click here to enlarge: Lai palielinātu, spied te
-Give us your feedback: Uzraksti atsauksmi
-Thank_you: Paldies!
-click here to enlarge: Lai palielinātu, spied te
-Your question: Jūsu jautājums
-click_on: Spied
-allow: atļaut
-to_start_your_microphone: Lai ieslēgtu mikrafonu
-to_start_your_webcam: Lai ieslēgtu webkameru
-terms_of_use: 'Jūs varat izlasīt lietošanas noteikumus '
-here: 'šeit'
-hangup: Hang up
-initiate_video_call: Vai Jūs vēlaties sākt video zvanu?
-initiate_audio_call: Vai Jūs vēlaties sākt balss zvanu?
-webuser_accept_audio_call: Jūs apstiprinājāt balss zvanu
-webuser_accept_video_call: Jūs apstiprinājāt video zvanu
-conversation_send: epasts nosūtīts
-# default values for new module
-grabber_advisor_1: Mēs esam šeit!
-grabber_advisor_2: Tiešsaites palīgs
-grabber_message_1: Tiešsaites palīzība
-grabber_message_2: Atstāt ziņu
-invitation_baloon: "Sveiki! Kā es Jums varu palīzēt?"
-invitation_baloon_several_agents: "Sveiki! Pārstāvis ir pieejams un gatavs atbildēt uz Jūsu jautājumiem"
-#new
-message_baloon: Sveiki, lūdzu, atstājiet ziņu un es ar Jums sazināšos!
-fall_back_window_default: Neviens pārstāvis nav pieejams, lūdzu, mēģiniet vēlāk
-back to list: Atpakaļ uz sarakstu
-denied_missed_call_msg: Atvainojiet, šobrīd nevaru pieņemt Jūsu zvanu, lūdzu, atstājiet ziņu.
-all_agent_msg_1: Atvainojiet, mūsu pārstāvji šobrīd nav pieejami!
-all_agent_msg_2: Lūdzu, atstājiet mums ziņu!
-agent-deny-call-media: 'Atvainojiet es vairs nevaru atvērt zvanu, lūdzu, turpinam čatā'
-fallback_default_msg: 'Mūsu pārstāvji šobrīd nav pieejami, lūdzu, mēģiniet vēlāk'
-#new FO v14
-hangup_mess_1: Atvainojiet, bet operators ir beidzis sarunu - šī ziņa netika nosūtīta.
-hangup_mess_2: Saruna ir pabeigta.
-your_agent_hung_up: Operators nolika
-you_hung_up: Jūs nolikāt
-give_us_your_feedback: Vai Jūs pievienosiet savu atsauksmi?
-back_to_chat: Atpakaļ uz čatu
-send_and_quit: Nosūtīt un beigt
-back_to_feedback: Atpakaļ uz atsauksmēm
-any_suggestions: Ir kādi ieteikumi?
-transcript_will_be_sent: Sarunas kopija tiks nosūtīta tiklīdz čats tiks aizvērts.
-transcript_sent: Kopija nosūtīta.
-phone_invalid: Nederīgs numurs
-shall_we_use_this_address: Vai izmantot šo adresi
-maximize: Palielināt
-reduce: Samazināt
-cobrowsing_toolbar: Notiek dalīšanās ar ekrānu
-initiate_a_cobrowsing_session: Vai Jūs vēlaties dalīties ar to, kas ir redzams Jūsu ekrānā?
-accept_cobrowsing: Dalīties
-cobrowsing_session: Dalīšanās sākta.
-deny_btn: Atcelt
-allow_btn: Atļaut
-label_grant: Vai atļausiet kontrolēt Jūsu atvērto lapu reizē ar Jums?
-control: Kontrolēt
-tooltip_help_cobrowsing: Ekrāna dalīšanas laikā pārstāvis var redzēt tikai to, kas ir lapā, ne Jūsu pārlūku, ne kādu citu atvērto cilni vai tajās esošo webadresi. Pārstāvis neko citu neredz uz Jūsu datora, kā tikai atvērto lapu.
-# new
-#V16---------------------------------------------------------------------------
-See_the_agent_webcam: Video call
-agent_txt: agent
-agents_txt: agents
-bar_txt: Live Customer Service
-welcome_balloon_txt: An agent is now available to answer your questions. Click Start video chat now to begin.
-fallback_timeout_unavailble_txt: There are no available video chat agent.
-fallback_timeout_calls_txt: There are no available video chat agent.
-The associate cant see you: The agent cannot see or hear you.
-I will be with you in just a moment. Please wait while the video chat loads: I will be with you in just a moment. Please wait while the video chat loads.
-Are you sure you want to end this conversation?: Are you sure you want to end this conversation?
-Are you sure? This will end the conversation: Are you sure? This will end the conversation.
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: Your Internet connection does not support video chat. However we can still voice or text chat.
-Before we get started,:  Before we get started,
-to enable your microphone,: to enable your microphone.
-click the Share selected device button above: click on the ‘‘Share selected device’’ button above
-click the Allow button above: click on the ‘‘Allow’’ button above
-click the Allow once button below: click on the ‘‘Allow once’’ button below
-You did not enable your microphone. I cant hear you but I can receive text messages.: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-The associate cannot see or hear you: The agent cannot see or hear you.
-Accept: Accept
-Decline: Decline 
-File accepted: File accepted
-File declined: File declined
-Can I co-browse our store with you?: Can I co-browse our store with you?
-Allow: Allow
-Deny: Deny
-Send and quit: Send and quit
-Survey sent: Survey sent.
-Click this button to turn on your microphone: Click this button to turn on your microphone.
-I turn on my microphone: I will now switch on my microphone.
-Unfortunately, the agent you called is unavailable at the moment: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
-Sorry, but the agents did not answer in time.: Sorry, no agents has responded in time.
-Sorry, an error occured and the conversation is over.: Sorry, an error occured and the conversation is over.
-Unable to connect: Unable to connect.
-not here, leave a message: I am currently not available. Please leave a message.
-Your video chat has ended: Your video chat has ended.
-Your opinion matters to us: Your opinion matters to us.
-Thanks for chatting with us today: Thanks for chatting with us today.
-Want a copy of our conversation?: Do you want a copy of our conversation?
-Please enter a valid email address: Invalid email address.
-Enter your email address: Enter your email address.
-No thanks: No thanks
-"No, thanks!": "No, thanks"
-Submit: Submit
-Transcript sent: Transcript sent
-We are unable to connect you with an associate: We are unable to connect you to an agent.
-Your email address: Your email address
-Your phone number: Your phone number
-Your message here: Your message here
-Please enter a valid email address or a telephone number: Please enter a valid email address or a telephone number.
-Message sent: Message sent
-Close: Close
-#reunification
-slogan_txt: We are here to help!
-welcome_balloon_txt1: "How can I help you?"
-welcome_balloon_txt2: "An operator is available now to answer your questions"
-The associate cannot see you but he hear you: The agent cannot see you but he is able to hear you.
-I like to share a file with you: I would like to share a file with you.
-Connecting: Connecting
-whats this: Presentation video
-My text chat conversation: My text chat conversation
-My video chat conversation: My video chat conversation
-Please find the entire conversation attached below.: ''
-files push during the conversation: Files shared during the conversation.
-videos push during the conversation: Videos shared during the conversation.
-allowed: allowed
-denied: denied
-Access: Access
-call_button_txt: Start a conversation now
-The: The
-cant see you: cannot see you.
-cannot see you but he hear you: cannot see you but he is able to hear you.
-cannot see or hear you: cannot see or hear you.
-The associate can see and hear you: The agent can see and hear you.
-"Thanks for contacting us.": "Thanks for contacting us."
-"Would you like a copy of this conversation?": "Would you like a copy of this conversation?"
-any_suggestions: Any suggestions?
-#title popin
-pdf_title: PDF Push
-video_title: Video Push
-product_webcam_title: Product camera
-agent: Agent
-Click here to expand: Spiediet šeit lai atvērtu
-No operator is available: Šobrīd neesam pieejami
-Leave us a message: Atstājiet mums ziņu
-start a chat discussion: Sākt saraksti
-start a video discussion: Sākt video sarunu
-click_on_allow_button: Click on the ‘‘Allow’’ button,
-to_turn_on_your_webcam: to turn on your webcam.
-to_turn_on_your_microphone: to turn on your microphone.
-by_clicking_allow_webcam: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_micro: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
-microphone_icon: microphone icon
-camera_icon: camera icon
-first_click_on_the: First click on the
-above: above.
-this_will_make_the_menu_appear: this will make the menu appear.
-click_share_selected_device_button: Click “Share selected device” button,
-by_clicking_share_webcam: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you. 
-by_clicking_share_micro: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
-close_video: Close video
-whats this video: Presentation video
-video_desactivate: Mute the webcam
-click_allow_once_button: Click “allow once” button
-by_clicking_allow_once_webcam: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
-by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
-I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
-Your text chat has ended: Your text chat has ended.
-Your text conversation is now over: Your text conversation is now over.
-video_activate: Webcam is on
-audio_activate: Microphone is on
-audio_desactivate: Mute the microphone
-do_you_want_to_end_discussion: Do you want to end the conversation?
-you_are_seeing: You are seeing
-you_are_not_seeing: You are not seeing
-Co-browse session has ended: Co-browse session has ended.
-we are unavailable: We are unavailable.
-#audio video access
-ask_bullet_switch_one_way: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-ask_bullet_switch_two_way: Can I activate your webcam? I will be able to see and hear you.
-audio_access_allowed: Audio access allowed
-video_access_allowed: Video access allowed
-audio_access_denied: Audio access denied
-video_access_denied: Video access denied
+fo_1: Rakstiet savu ziņu te...
+fo_2: Vai jūs vēlaties beigt sarunu?
+fo_3: Jā
+fo_4: Nē
+fo_5: Sūtīt
+fo_6: Vārds
+fo_7: Uzvārds
+fo_8: Uzņēmums
+fo_9: Epasts
+fo_10: Telefons
+fo_11: Ziņa
+fo_12: Padalieties ar savu viedokli <b>feedback</b><br/>par šo sarunu.
+fo_13: Vai jūs šo ieteiktu citiem?
+fo_14: Lūdzu ievadiet savu epasta adresi
+fo_15: Sarunas kopija veiksmīgi nosūtīta
+fo_16: Notiekošā saruna
+fo_17: Lūdzu ierakstiet epastu
+fo_18: Lūdzu ierakstiet telefona numuru
+fo_19: Lūdzu ierakstiet Vārdu
+fo_20: Lūdzu ierakstiet Uzvārdu
+fo_21: Lūdzu ierakstiet uzņēmumu
+fo_22: slikti
+fo_23: viduvēji
+fo_24: vidēji
+fo_25: labi
+fo_26: lieliski
+fo_27: Kļūdains epasts
+fo_28: Obligātie lauki
+fo_29: Aptauja nosūtīta
+fo_30: Atvainojiet, šobrīd nevaru pieņemt Jūsu zvanu, lūdzu, atstājiet ziņu.
+fo_31: Atpakaļ uz sarakstu
+fo_32: Atvainojiet, mūsu pārstāvji šobrīd nav pieejami!
+fo_33: Lūdzu, atstājiet mums ziņu!
+fo_34: Nosūtīt un beigt
+fo_35: Atpakaļ uz atsauksmēm
+fo_36: Any suggestions?
+fo_37: Dalīšanās sākta.
+fo_38: Atļaut
+fo_39: Atcelt
+fo_40: Lūdzu, aizpildiet vismaz vienu no atzīmētajiem laukiem
+fo_41: I would like to share a file with you.
+fo_42: File accepted
+fo_43: File declined
+fo_44: Accept
+fo_45: Decline
+fo_46: "No, thanks"
+fo_47: "Thanks for contacting us."
+fo_48: "Would you like a copy of this conversation?"
+fo_49: Please enter a valid email address or a telephone number.
+fo_50: PDF Push
+fo_51: Video Push
+fo_52: Product camera
+fo_53: Your text conversation is now over.
+fo_54: Spiediet šeit lai atvērtu
+fo_55: Šobrīd neesam pieejami
+fo_56: Agent
+fo_57: Notiek dalīšanās ar ekrānu
+fo_58: Ekrāna dalīšanas laikā pārstāvis var redzēt tikai to, kas ir lapā, ne Jūsu pārlūku, ne kādu citu atvērto cilni vai tajās esošo webadresi. Pārstāvis neko citu neredz uz Jūsu datora, kā tikai atvērto lapu.
+fo_59: Connecting
+fo_60: Close video
+fo_61: Presentation video
+fo_62: Sākt saraksti
+fo_63: Sākt video sarunu
+fo_64: We are unavailable.
+fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
+fo_66: Can I activate your webcam? I will be able to see and hear you.
+fo_67: Audio access allowed
+fo_68: Video access allowed
+fo_69: Audio access denied
+fo_70: Video access denied
+fo_71: Allow
+fo_72: Deny
+fo_73: Can I co-browse our store with you?
+fo_74: Co-browse session has ended
+fo_75: Co-browse session has ended
+fo_76: Cobrowsing access granted
+fo_77: Cobrowsing access denied
+fo_78: Select an option to start the conversation
+fo_79: Don't worry, I will not see you
+fo_80: Video call
+fo_81: Text chat
+fo_82: Tired of typing?
+fo_83: We are also available for a video chat
+fo_84: Varat runāt, Jūs esat redzams.
+fo_85: Varat runātm, Jūs neesat redzams.
+fo_86: Rakstiet savu ziņu šeit...
+fo_87: pēc mirkļa atbildēs.
+fo_88: Jūs apstiprinājāt balss zvanu
+fo_89: Jūs apstiprinājāt video zvanu
+fo_90: Saruna ar 
+fo_91: Palielināt
+fo_92: Hang up
+fo_93: Mute the webcam
+fo_94: Webcam is on
+fo_95: Mute the microphone
+fo_96: My microphone is on
+fo_97: My microphone is muted
+fo_98: My webcam is on
+fo_99: My webcam is off
+fo_100: You are seeing
+fo_101: You are not seeing
+fo_102: Microphone is on
+fo_103: Es
+fo_104: you deny authorization bar
+fo_105: The agent cannot see or hear you.
+fo_106: I will be with you in just a moment. Please wait while the video chat loads.
+fo_107: Are you sure you want to end this conversation?
+fo_108: Are you sure? This will end the conversation.
+fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
+fo_110: You did not enable your microphone. I cannot hear you but I can receive your text messages.
+fo_111: The agent cannot see or hear you.
+fo_112: Can I co-browse our store with you?
+fo_113: Allow
+fo_114: Deny
+fo_115: Send and quit
+fo_116: Survey sent.
+fo_117: Click this button to turn on your microphone.
+fo_118: I will now switch on my microphone.
+fo_119: Sorry, no agents has responded in time.
+fo_120: Unable to connect.
+fo_121: I am currently not available. Please leave a message.
+fo_122: Your video chat has ended.
+fo_123: Your opinion matters to us.
+fo_124: Thanks for chatting with us today.
+fo_125: Invalid email address.
+fo_126: Enter your email address.
+fo_127: No thanks
+fo_128: Submit
+fo_129: Transcript sent
+fo_130: We are unable to connect you to an agent.
+fo_131: Your email address
+fo_132: Your phone number
+fo_133: Your message here
+fo_134: Message sent
+fo_135: Close
+fo_136: The agent cannot see or hear you.
+fo_137: The agent cannot see you but he is able to hear you.
+fo_138: allowed
+fo_139: denied
+fo_140: Access
+fo_141: The
+fo_142: cannot see you but he is able to hear you.
+fo_143: cannot see or hear you.
+fo_144: The agent can see and hear you.
+fo_145: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
+fo_146: Do you want a copy of our conversation?
+fo_147: Click on the ‘‘Allow’’ button,
+fo_148: to turn on your webcam.
+fo_149: to turn on your microphone.
+fo_150: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
+fo_151: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
+fo_152: microphone icon
+fo_153: camera icon
+fo_154: First click on the
+fo_155: above.
+fo_156: this will make the menu appear.
+fo_157: Click “Share selected device” button,
+fo_158: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
+fo_159: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
+fo_160: Co-browse session has ended.
+fo_161: Click “allow once” button
+fo_162: I will be with you in just a moment. Please wait while the text chat loads.
+fo_163: Your text chat has ended.
+fo_164: The agent can see you but is not able to hear you.
+fo_165: Has this conversation been helpful?
+fo_166: Would you recommend this experience to your friends?
+fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
 
-cam_on_mic_off: The agent can see you but is not able to hear you.
+
+fo_168: We're here to help #grabber_advisor_1 
+fo_169: Live sales advisors #grabber_advisor_2 
+fo_170: How can I help you? #grabber_message_1 
+fo_171: An operator is available now to answer your questions. #grabber_message_2 
+fo_172: Start a conversation now #call_button_txt
+fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
+fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
+fo_175: Leave a message
+fo_176: Your conversation transcript with
+fo_177: My text chat conversation  #My text chat conversation
+fo_178: My video chat conversation #My video chat conversation
+fo_179: Hello, #Hi
+fo_180: Your recent chat with one of our agents is attached below. #We have to pleasure to send you the transcript of your discussion.
+fo_181: Please find the entire conversation attached below. #Please find the entire conversation attached below.
+fo_182: We hope to see you again, soon! #We look forward to seeing you again on
+fo_183: Thank you for your visit, #Thank you for your visit
+fo_184: Videos shared during the conversation. #videos push during the conversation
+fo_185: Files shared during the conversation. #files push during the conversation
+fo_186: View this email in your browser # do not exist in old file
+fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file

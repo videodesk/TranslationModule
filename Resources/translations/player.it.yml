@@ -1,311 +1,189 @@
-'audio call': Vocale
-'video call': Video
-'information help': maggiori informazioni
-'faq help': maggiori informazioni
-'Webuser is typing': sta scrivendo...
-'will answer in a few seconds': 'disponibile tra qualche secondo'
-'Phone number': 'Numero di telefono'
-'email invalide': 'E-mail non valida'
-'Discutez en video' : 'Chat video'
-'Discutez en audio' : 'Chat video'
-'Discutez en chat' : 'Chat testuale'
-'webuser': Io
-'message sent': 'Messaggio inviato'
-'Discussion with %site%': Discussione con %site%
-'Enter your question here': Digita qui il tuo messaggio...
-#survey
-bad: pessimo
-poor: mediocre
-regular: discreto
-good: buono
-gorgeous: ottimo
-#module texts
-'information help': Ora puoi conversare con i consulenti disponibili. Puoi scegliere la chat testuale, audio o video. Immediato, semplice, anonimo e gratuito.
-#--------------FLASH PANEL-----------------
-#TMP MSG
-webcam_activated: La webcam è accesa
-webcam_desactivated: La webcam è spenta
-mic_activated: Il microfono è acceso
-mic_desactivated: Il microfono è muto
-vid_resumed: Il video del consulente è di nuovo attivo
-vid_stoped: Il video del tuo consulente è spento
-#ROLL MSG
-activate_cam: Attiva la webcam
-desactivate_cam: Disattiva la webcam
-activate_mic: Attiva il microfono
-desactivate_mic: Disattiva il microfono
-stop_vid: Interrompi il video del consulente
-resume_vid: Riprendi il video del consulente
-activate_volume: Riattiva gli altoparlanti
-desactivate_volume: Disattiva gli altoparlanti
-userDenyFlash: You denied access to your webcam and to your microphone. We switch you in text chat.(#9)
-#transcript mail
-Hi: Salve,
-You reached: hai contattato
-We have to pleasure to send you the transcript of your discussion.: Siamo lieti di inviarti la trascrizione della conversazione.
-We look forward to seeing you again on: Speriamo di rivederti presto.
-Thank you for your visit: Grazie per la visita.
-videodesk team: Il team di Videodesk
-transcript: Trascrizione,
-yours transcripts with: La tua trascrizione con
-We can talk, you are seeing.: Puoi parlare, il consulente ti vede.
-We can talk, you are not seeing.: Puoi parlare, il consulente non ti vede.
-#REFACTOR
-type here: Digita qui il tuo messaggio...
-Do you want to close the discussion?: Vuoi chiudere la conversazione?
-Yes: Sì
-No: No
-send: Invia
-your firstname: Nome
-Please fill at least one of highlighted fields: Completa almeno uno dei campi sottolineati
-your lastname: Cognome
-your company: Società
-your email: E-mail
-your phone: Telefono
-your message: Messaggio
-Your conversation has ended.Thank you for contacting us!: <strong>La conversazione si è conclusa.</strong><br />Grazie di averci contattato!
-Recall this operator now: Richiama ora il tuo consulente!
-give us your feedback about the conversation: Dacci la tua <b>opinione</b><br/>sulla conversazione.
-has this dialog been helpful: Questa conversazione ti è servita?
-Would you recommend this experience to your facebook friends: Raccomanderesti questa esperienza a un amico?
-Any comments or suggestions: Commenti? Suggerimenti?
-Get a reccord of this conversation by e-mail: Ricevi una trascrizione della conversazione per e-mail.
-Please enter your e-mail address: Inserisci qui il tuo indirizzo e-mail
-Please give a valid address: Indica un indirizzo valido
-The record has been successfully sent: La registrazione è stata inviata correttamente
-your message has been successfully sent. We Will contact you soon: Il tuo messaggio è stato inviato correttamente.<br />Ti ricontatteremo presto.
-Please fill email field: Compila il campo con l'e-mail
-Please fill phone field: Compila il campo con il numero di telefono
-Please fill message textarea: Compila il campo con il messaggio di testo
-Please fill firstname field: Compila il campo con il nome
-Please fill lastname field: Compila il campo con il cognome
-Please fill company field: Compila il campo con la società
-call audio: Vocale
-call video: Video
-video suggestion: Accetta la chiamata vocale
-audio suggestion: Accetta la videochiamata
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: SIAMO QUI PER AIUTARTI!<br />CONSULENTE DELLE VENDITE LIVE.
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: SIAMO QUI PER AIUTARTI!<br />LASCIA UN MESSAGGIO.
-GIVE US YOUR FEEDBACK! THANK YOU: DACCI LA TUA OPINIONE!<br />GRAZIE
-#V1.2
-required field: Campi obbligatori
-message sent: E-mail inviata
-Before contacting you operator: Prima di contattare il tuo consulente,<br/> dacci qualche informazione.
-No operator is available for the moment: Nessun consulente è disponibile al momento.
-Please leave me a message: Puoi lasciarmi un messaggio.
-Please leave a message: Puoi lasciarmi un messaggio.
-Do you Want to start an audio call with me: Vuoi chiamarmi?
-Do you Want to start a video call with me: Vuoi videochiamarmi?
-e-mail invalid: E-mail non valida
-close webpage cause end of the discussion: Chiudi la pagina web per mettere fine alla conversazione
-survey sent: Messaggio inviato
-agent hangup: Il consulente ha messo fine alla conversazione.
-agent unavailable: Il consulente non è disponibile.
-Agent dont answer call: Purtroppo il consulente non ha potuto rispondere.
-Ongoing discussion: Conversazione in corso
-Click here to enlarge: Clicca qui per allargare
-Give us your feedback: Dacci la tua opinione
-Thank_you: Grazie
-click here to enlarge: Clicca qui per allargare 
-Your question: La tua domanda
-click_on: Clicca su
-allow: acconsenti
-to_start_your_microphone: Per avviare il microfono
-to_start_your_webcam: Per avviare la webcam
-terms_of_use: 'Puoi leggere i termini e le condizioni di utilizzo '
-here: 'qui'
-hangup: Hang up
-initiate_video_call: Vuoi videochiamarmi?
-initiate_audio_call: Vuoi chiamarmi?
-webuser_accept_audio_call: Hai accettato la chiamata vocale
-webuser_accept_video_call: Hai accettato la videochiamata
-conversation_send: e-mail inviata
-# default values for new module
-grabber_advisor_1: Siamo qui per aiutarti!
-grabber_advisor_2: Consulenti di vendita
-grabber_message_1: Assistenza online
-grabber_message_2: Lascia un messaggio
-invitation_baloon: " Salve! Cosa posso fare per te?"
-invitation_baloon_several_agents: " Salve! Un consulente è ora disponibile per rispondere alle tue domande"
-#new
-message_baloon: Ciao, mi lasciate un messaggio e vi contatterà!
-fall_back_window_default: Il nostro agente non è disponibile in questo momento, riprova piu tardi
-back to list: Torna alla lista
-denied_missed_call_msg: Mi dispiace, non posso prendere la chiamata. Mi lasciate un messaggio!
-all_agent_msg_1: Spiacente i nostri agenti non sono disponibili.
-all_agent_msg_2: Lasciare un messaggio per favore!
-agent-deny-call-media: 'Spiacente, non posso aprire un audio o video chiamare più, vi prego di continuare via chat di testo'
-fallback_default_msg: 'Il nostro agente non sono disponibili in questo momento, riprova più tardi'
-#new FO v14
-hangup_mess_1: Spiacente, l’operatore ha riagganciato. Il tuo messaggio potrebbe non essere stato inviato.
-hangup_mess_2: La conversazione è terminata
-your_agent_hung_up: Il tuo operatore ha riagganciato.
-you_hung_up: Hai riagganciato
-give_us_your_feedback: Ti va di fornirci la tua opinione?
-back_to_chat: Torna alla chat
-send_and_quit: Invia ed esci
-back_to_feedback: Torna al feedback
-any_suggestions: Suggerimenti?
-transcript_will_be_sent: Una volta terminata la chat ti invieremo la trascrizione della conversazione.
-transcript_sent: La conversazione è stata inviata.
-phone_invalid: Telefono non valido
-shall_we_use_this_address: Dobbiamo usare questo indirizzo
-maximize: Ingrandisci
-reduce: Riduci
-cobrowsing_toolbar: Sessione navigazione assistita in corso
-initiate_a_cobrowsing_session: Vuoi accettare una sessione di navigazione assistita?
-accept_cobrowsing: Accetta navigazione assistita
-cobrowsing_session: Ho aperto una sessione di navigazione assistita.
-deny_btn: Nega
-allow_btn: Consenti
-label_grant: Posso controllare insieme a te la tua pagina web?
-control: Controlla
-tooltip_help_cobrowsing: Durante la navigazione assistita, il nostro operatore può vedere solo il contenuto della pagina web attiva, non il contenuto del tuo browser, né ogni altra scheda con i siti che stai visitando. L’agente non vedrà mai alcun contenuto del tuo computer.
-# new
-#V16---------------------------------------------------------------------------
-See_the_agent_webcam: Video chiamata
-agent_txt: operatore
-agents_txt: agenti
-bar_txt: Servizio Clienti Live
-welcome_balloon_txt: Un operatore è ora disponibile per fornirti assistenza. Clicca Avvia videochat ora per iniziare.
-fallback_timeout_unavailble_txt: Nessun operatore videochat disponibile.
-fallback_timeout_calls_txt: Nessun operatore videochat disponibile.
-The associate cant see you: L’operatore non può vederti o sentirti.
-I will be with you in just a moment. Please wait while the video chat loads: Saremo da te in un istante. Per favore attendi il caricamento della videochat.
-Are you sure you want to end this conversation?: Sei sicuro di voler terminare questa conversazione?
-Are you sure? This will end the conversation: Sei sicuro? Questo terminerà la conversazione.
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: La velocità della tua connessione non consente di effettuare una chat video. E’ comunque possibile continuare con una chat di testo o vocale.
-Before we get started,:  Prima di iniziare,
-to enable your microphone,: per abilitare il tuo microfono.
-click the Share selected device button above: clicca sul tasto qui sopra ‘‘Condividi il dispositivo selezionato’’.
-click the Allow button above: clicca sul tasto ‘‘Consenti’’ qui sopra
-click the Allow once button below: clicca sul tasto ‘‘Consenti una volta’’ qui sotto
-You did not enable your microphone. I cant hear you but I can receive text messages.: Non hai attivato il tuo microfono. Non posso sentirti ma posso ricevere i tuoi messaggi di testo.
-The associate cannot see or hear you: L’agente non può vederti né sentirti.
-Accept: Accetta
-Decline: Rifiuta 
-File accepted: File accettato
-File declined: File rifiutato
-Can I co-browse our store with you?: Posso assisterti durante la navigazione del nostro store?
-Allow: Consenti
-Deny: Nega
-Send and quit: Invia ed esci
-Survey sent: Sondaggio inviato.
-Click this button to turn on your microphone: Clicca questo tasto per attivare il tuo microfono.
-I turn on my microphone: Attiverò ora il mio microfono.
-Unfortunately, the agent you called is unavailable at the moment: Siamo spiacenti. Purtroppo l’operatore che hai chiamato non è al momento disponibile.
-Sorry, but the agents did not answer in time.: Spiacente, l’agente non ha risposto in tempo.
-Sorry, an error occured and the conversation is over.: Spiacente, la conversazione è stata interrotta per un errore imprevisto.
-Unable to connect: Impossibile stabilire la connessione.
-not here, leave a message: Non sono al momento disponibile. Per favore lascia un messaggio.
-Your video chat has ended: La tua videochat è terminata.
-Your opinion matters to us: La tua opinione per noi è importante.
-Thanks for chatting with us today: Grazie per aver chattato con noi oggi. 
-Want a copy of our conversation?: Vuoi ricevere una copia della nostra conversazione?
-Please enter a valid email address: Indirizzo email non valido.
-Enter your email address: Inserisci il tuo indirizzo email.
-No thanks: No grazie
-"No, thanks!": "No, grazie"
-Submit: Invia
-Transcript sent: Trascrizione inviata
-We are unable to connect you with an associate: Non riusciamo a metterti in contatto con un agente.
-Your email address: Tuo indirizzo email
-Your phone number: Tuo numero di telefono
-Your message here: Tuo messaggio qui
-Please enter a valid email address or a telephone number: Per favore inserisci un indirizzo email valido oppure un numero di telefono.
-Message sent: Messaggio inviato
-Close: Chiudi
-#reunification
-slogan_txt: Siamo qui per aiutarti!
-welcome_balloon_txt1: "Come posso aiutarti?"
-welcome_balloon_txt2: "Un operatore è ora disponibile per rispondere alle tue domande"
-The associate cannot see you but he hear you: L’operatore non può vederti ma può sentirti.
-I like to share a file with you: Vorrei condividere un file con te.
-Connecting: Connessione in corso
-whats this: Video di presentazione
-My text chat conversation: La mia chat
-My video chat conversation: La mia video chat
-Please find the entire conversation attached below.: ''
-files push during the conversation: File condivisi durante la conversazione.
-videos push during the conversation: Video condivisi durante la conversazione.
-allowed: consentito
-denied: negato
-Access: Accesso
-call_button_txt: Avvia la chat
-The: Il
-cant see you: non può vederti.
-cannot see you but he hear you: non può vederti ma può sentirti.
-cannot see or hear you: non può vederti né sentirti.
-The associate can see and hear you: L’operatore può vederti e sentirti.
-"Thanks for contacting us.": "Grazie per averci contattato."
-"Would you like a copy of this conversation?": "Desideri ricevere una copia di questa conversazione?"
-any_suggestions: Suggerimenti?
-#title popin
-pdf_title: PDF Push
-video_title: Video Push
-product_webcam_title: Product camera
-agent: Operatore
-Click here to expand: Clicca qui per espandere
-No operator is available: Nessun operatore disponibile
-Leave us a message: Lascia un messaggio
-start a chat discussion: Avvia la chat
-start a video discussion: Avvia una video chat
-click_on_allow_button: Clicca sul tasto ‘‘Consenti’’,
-to_turn_on_your_webcam: per accendere la tua webcam.
-to_turn_on_your_microphone: accendere il tuo microfono.
-by_clicking_allow_webcam: Cliccando su “Consenti”, l’operatore sarà in grado di vederti e di sentirti.
-by_clicking_allow_micro: Cliccando su “Consenti”, l’operatore sarà in grado di sentirti.
-microphone_icon: icona microfono
-camera_icon: icona webcam
-first_click_on_the: Per prima cosa clicca sul
-above: sopra.
-this_will_make_the_menu_appear: questo farà apparire il menù.
-click_share_selected_device_button: Clicca su “Condividi il dispositivo selezionato”,
-by_clicking_share_webcam: Cliccando su “Condividi il dispositivo selezionato”, l’operatore sarà in grado di vederti e sentirti.  
-by_clicking_share_micro: Cliccando su “Condividi il dispositivo selezionato”, l’operatore sarà in grado di sentirti.
-close_video: Chiudi video
-whats this video: Video di presentazione
-video_desactivate: Spegni webcam
-click_allow_once_button: Clicca su “consenti una volta”
-by_clicking_allow_once_webcam: Cliccando su “Consenti una volta”, l’operatore sarà in grado di vederti e sentirti.
-by_clicking_allow_once_micro: Cliccando su “Consenti una volta”, l’operatore sarà in grado di sentirti.
-I will be with you in just a moment. Please wait while the text chat loads: Sarò a tua disposizione tra un attimo. Per favore attendi mentre la chat viene caricata.
-Your text chat has ended: La tua chat è terminata.
-Your text conversation is now over: La tua conversazione è ora conclusa.
-video_activate: La webcam è accesa
-audio_activate: Il microfono è acceso
-audio_desactivate: Spegni il microfono
-do_you_want_to_end_discussion: Vuoi terminare la conversazione?
-you_are_seeing: Stai vedendo
-you_are_not_seeing: Non stai vedendo
-Co-browse session has ended: La sessione di navigazione assistita è terminata.
-we are unavailable: Nessun operatore disponibile.
-#audio video access
-ask_bullet_switch_one_way: Posso attivare il tuo microfono? Tu potrai vedermi e sentirmi, io non potrò vederti.
-ask_bullet_switch_two_way: Posso attivare la tua webcam? Potrò vederti e sentirti.
-audio_access_allowed: Accesso audio consentito
-video_access_allowed: Accesso video consentito
-audio_access_denied: Accesso audio negato
-video_access_denied: Accesso video negato
-cam_on_mic_off: L’operatore può vederti ma non può sentirti.
+fo_1: Digita qui il tuo messaggio...
+fo_2: Vuoi chiudere la conversazione?
+fo_3: Sì
+fo_4: No
+fo_5: Invia
+fo_6: Nome
+fo_7: Cognome
+fo_8: Società
+fo_9: E-mail
+fo_10: Telefono
+fo_11: Messaggio
+fo_12: Dacci la tua <b>opinione</b><br/>sulla conversazione.
+fo_13: Raccomanderesti questa esperienza a un amico?
+fo_14: Inserisci qui il tuo indirizzo e-mail
+fo_15: La registrazione è stata inviata correttamente
+fo_16: Conversazione in corso
+fo_17: Compila il campo con l'e-mail
+fo_18: Compila il campo con il numero di telefono
+fo_19: Compila il campo con il nome
+fo_20: Compila il campo con il cognome
+fo_21: Compila il campo con la società
+fo_22: pessimo
+fo_23: mediocre
+fo_24: discreto
+fo_25: buono
+fo_26: ottimo
+fo_27: 'E-mail non valida'
+fo_28: Campi obbligatori
+fo_29: Messaggio inviato
+fo_30: Mi dispiace, non posso prendere la chiamata. Mi lasciate un messaggio!
+fo_31: Torna alla lista
+fo_32: Spiacente i nostri agenti non sono disponibili.
+fo_33: Lasciare un messaggio per favore!
+fo_34: Invia ed esci
+fo_35: Torna al feedback
+fo_36: Suggerimenti?
+fo_37: Ho aperto una sessione di navigazione assistita.
+fo_38: Consenti
+fo_39: Nega
+fo_40: Completa almeno uno dei campi sottolineati
+fo_41: Vorrei condividere un file con te.
+fo_42: File accettato
+fo_43: File rifiutato
+fo_44: Accetta
+fo_45: Rifiuta
+fo_46: "No, grazie"
+fo_47: "Grazie per averci contattato."
+fo_48: "Desideri ricevere una copia di questa conversazione?"
+fo_49: Per favore inserisci un indirizzo email valido oppure un numero di telefono.
+fo_50: PDF Push
+fo_51: Video Push
+fo_52: Prodotto webcam
+fo_53: La tua conversazione è ora conclusa.
+fo_54: Clicca qui per espandere
+fo_55: Nessun operatore disponibile
+fo_56: Operatore
+fo_57: Sessione navigazione assistita in corso
+fo_58: Durante la navigazione assistita, il nostro operatore può vedere solo il contenuto della pagina web attiva, non il contenuto del tuo browser, né ogni altra scheda con i siti che stai visitando. L’agente non vedrà mai alcun contenuto del tuo computer.
+fo_59: Connessione in corso
+fo_60: Chiudi video
+fo_61: Video di presentazione
+fo_62: Avvia la chat
+fo_63: Avvia una video chat
+fo_64: Nessun operatore disponibile.
+fo_65: Posso attivare il tuo microfono? Tu potrai vedermi e sentirmi, io non potrò vederti.
+fo_66: Posso attivare la tua webcam? Potrò vederti e sentirti.
+fo_67: Accesso audio consentito
+fo_68: Accesso video consentito
+fo_69: Accesso audio negato
+fo_70: Accesso video negato
+fo_71: Consenti
+fo_72: Nega
+fo_73: Posso assisterti durante la navigazione del nostro store?
+fo_74: Sessione di navigazione assistita terminata
+fo_75: Sessione di navigazione assistita terminata
+fo_76: accesso alla navigazione assistita consentito
+fo_77: accesso alla navigazione assistita negato
+fo_78: Scegli un'opzione per iniziare la conversazione
+fo_79: Non preoccuparti, io non ti vedrò.
+fo_80: Video chiamata
+fo_81: Chat
+fo_82: Stanco di scrivere?
+fo_83: Siamo disponibili anche per una video chiamata.
+fo_84: Puoi parlare, il consulente ti vede.
+fo_85: Puoi parlare, il consulente non ti vede.
+fo_86: Digita qui il tuo messaggio...
+fo_87: 'disponibile tra qualche secondo'
+fo_88: Hai accettato la chiamata vocale
+fo_89: Hai accettato la videochiamata
+fo_90: iscussione con 
+fo_91: Ingrandisci
+fo_92: Riagganciare
+fo_93: Spegni webcam
+fo_94: La webcam è accesa
+fo_95: Spegni il microfono
+fo_96: Il microfono è acceso
+fo_97: Il microfono è muto
+fo_98: La webcam è accesa
+fo_99: La webcam è spenta
+fo_100: Stai vedendo
+fo_101: Non stai vedendo
+fo_102: Il microfono è acceso
+fo_103: Io
+fo_104: Barra di autorizzazione negata
+fo_105: L’operatore non può vederti o sentirti.
+fo_106: Saremo da te in un istante. Per favore attendi il caricamento della videochat.
+fo_107: Sei sicuro di voler terminare questa conversazione?
+fo_108: Sei sicuro? Questo terminerà la conversazione.
+fo_109: La velocità della tua connessione non consente di effettuare una chat video. E’ comunque possibile continuare con una chat di testo o vocale.
+fo_110: Non hai attivato il tuo microfono. Non posso sentirti ma posso ricevere i tuoi messaggi di testo.
+fo_111: L’operatore non può vederti o sentirti.
+fo_112: Posso assisterti durante la navigazione del nostro store?
+fo_113: Consenti
+fo_114: Nega
+fo_115: Invia ed esci
+fo_116: Sondaggio inviato.
+fo_117: Clicca questo tasto per attivare il tuo microfono.
+fo_118: Attiverò ora il mio microfono.
+fo_119: Spiacente, l’agente non ha risposto in tempo.
+fo_120: Impossibile stabilire la connessione.
+fo_121: Non sono al momento disponibile. Per favore lascia un messaggio.
+fo_122: La tua videochat è terminata.
+fo_123: La tua opinione per noi è importante.
+fo_124: Grazie per aver chattato con noi oggi.
+fo_125: Indirizzo email non valido.
+fo_126: Inserisci il tuo indirizzo email.
+fo_127: No grazie
+fo_128: Invia
+fo_129: Trascrizione inviata
+fo_130: Non riusciamo a metterti in contatto con un agente.
+fo_131: Tuo indirizzo email
+fo_132: Tuo numero di telefono
+fo_133: Tuo messaggio qui
+fo_134: Messaggio inviato
+fo_135: Chiudi
+fo_136: L’agente non può vederti né sentirti.
+fo_137: L’operatore non può vederti ma può sentirti.
+fo_138: consentito
+fo_139: negato
+fo_140: Accesso
+fo_141: Il
+fo_142: non può vederti ma può sentirti.
+fo_143: non può vederti né sentirti.
+fo_144: L’operatore può vederti e sentirti.
+fo_145: Siamo spiacenti. Purtroppo l’operatore che hai chiamato non è al momento disponibile.
+fo_146: Vuoi ricevere una copia della nostra conversazione?
+fo_147: Clicca sul tasto ‘‘Consenti’’,
+fo_148: per accendere la tua webcam.
+fo_149: accendere il tuo microfono.
+fo_150: Cliccando su “Consenti”, l’operatore sarà in grado di vederti e di sentirti.
+fo_151: Cliccando su “Consenti”, l’operatore sarà in grado di sentirti.
+fo_152: icona microfono
+fo_153: icona webcam
+fo_154: Per prima cosa clicca sul
+fo_155: sopra.
+fo_156: questo farà apparire il menù.
+fo_157: Clicca su “Condividi il dispositivo selezionato”,
+fo_158: Cliccando su “Consenti una volta”, l’operatore sarà in grado di vederti e sentirti.
+fo_159: Cliccando su “Consenti una volta”, l’operatore sarà in grado di sentirti.
+fo_160: La sessione di navigazione assistita è terminata.
+fo_161: Clicca su “consenti una volta”
+fo_162: Sarò a tua disposizione tra un attimo. Per favore attendi mentre la chat viene caricata.
+fo_163: La tua chat è terminata.
+fo_164: L’operatore può vederti ma non può sentirti.
+fo_165: Questa conversazione ti è servita?
+fo_166: Raccomanderesti questa esperienza a un amico?
+fo_167: La velocità della tua connessione non consente di effettuare una chat video. E’ comunque possibile continuare con una chat di testo.
 
-grant: Consenti
-deny: Nega
-The agent is requesting to control your webpage alongside you: Posso assisterti durante la navigazione del nostro store?
-You closed the co-browse session: Sessione di navigazione assistita terminata
-I have now closed the co-browse session: Sessione di navigazione assistita terminata
 
-you deny authorization bar: Barra di autorizzazione negata
-cobrowsing access granted: accesso alla navigazione assistita consentito
-cobrowsing access denied: accesso alla navigazione assistita negato
-
-The webuser close product webcam: User has closed the product webcam.
-The_webuser_close_push_file: L’utente ha terminato la condivisione dei file.
-The webuser close lighbox: L’utente ha chiuso la lightbox.
-
-Select an option to start the conversation: Scegli un'opzione per iniziare la conversazione
-Dont worry, I will not see you: Non preoccuparti, io non ti vedrò.
-Video call: Video chiamata
-Text chat: Chat
-Tired of typing?: Stanco di scrivere?
-We are also available for a video chat: Siamo disponibili anche per una video chiamata.
+fo_168: Siamo qui per aiutarti!
+fo_169: Consulenti di vendita
+fo_170: Assistenza online 
+fo_171: Lascia un messaggio
+fo_172: Avvia la chat #call_button_txt
+fo_173: Nessun operatore videochat disponibile. #fallback_timeout_calls_txt
+fo_174: Nessun operatore videochat disponibile. #fallback_timeout_unavailble_txt
+fo_175: Lasciarmi un messaggio
+fo_176: La tua trascrizione con
+fo_177: La mia chat  #My text chat conversation
+fo_178: La mia video chat #My video chat conversation
+fo_179: Salve, #Hi
+fo_180: Siamo lieti di inviarti la trascrizione della conversazione. #We have to pleasure to send you the transcript of your discussion.
+fo_181: '' #Please find the entire conversation attached below.
+fo_182: Speriamo di rivederti presto. #We look forward to seeing you again on
+fo_183: Grazie per la visita. #Thank you for your visit
+fo_184: Video condivisi durante la conversazione. #videos push during the conversation
+fo_185: File condivisi durante la conversazione. #files push during the conversation
+fo_186: View this email in your browser # do not exist in old file
+fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file

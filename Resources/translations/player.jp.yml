@@ -1,311 +1,189 @@
-'audio call': 音声通話
-'video call': ビデオ通話
-'information help': 詳細
-'faq help': 詳細
-'Webuser is typing': タイプ中…
-'will answer in a few seconds': 間もなく対応可能になります。
-'Phone number': 電話番号
-'email invalide': メールアドレスが無効です
-'Discutez en video' : ビデオチャット
-'Discutez en audio' : 音声チャット
-'Discutez en chat' : テキストチャット
-'webuser': 私
-'message sent': メッセージ送信済み
-'Discussion with %site%': %site%と会話
-'Enter your question here': ここにメッセージを書き込む…
-#survey
-bad: 悪い
-poor: あまりよくない
-regular: レギュラー
-good: 良い
-gorgeous: 素晴らしい
-#module texts
-'information help':   対応可能なお客様サポート担当者とのチャットができます。ビデオ、音声又はテキストチャットが選択できます。即時可能、シンプル、匿名、そして無料。
-#--------------FLASH PANEL-----------------
-#TMP MSG
-webcam_activated: ウェブカメラがオンです
-webcam_desactivated: ウェブカメラがオフです
-mic_activated: マイクがオンです
-mic_desactivated: マイクがミュートされています
-vid_resumed: お客様サポート担当者のビデオが再開中です
-vid_stoped: お客様サポート担当者のビデオがオフです
-#ROLL MSG
-activate_cam: ウェブカメラを有効にする
-desactivate_cam: ウェブカメラを無効にする
-activate_mic: マイクを有効にする
-desactivate_mic: マイクをミュートする
-stop_vid: お客様サポート担当者のビデオを停止する
-resume_vid: お客様サポート担当者のビデオを再開する
-activate_volume: スピーカーのミュートを解除する
-desactivate_volume: スピーカーをミュートする
-userDenyFlash: ウェブカメラ及びマイクへのアクセスを拒否しました。テキストチャットに移行します。(#9)
-#transcript mail
-Hi: こんにちは、
-You reached: 連絡しました
-We have to pleasure to send you the transcript of your discussion.: お客様サポート担当者との最近のチャットが下記に添付されています。
-We look forward to seeing you again on: また是非お越しください！
-Thank you for your visit: ご訪問ありがとうございました、
-videodesk team: VideoDeskチーム
-transcript: 記録
-yours transcripts with: との記録
-We can talk, you are seeing.: 通話可能です。お客様サポート担当者に映像が届いています。
-We can talk, you are not seeing.: 通話可能です。お客様サポート担当者に映像は届いていません。
-#REFACTOR
-type here: ここにメッセージを書き込む…
-Do you want to close the discussion?: 会話を閉じますか？
-Yes: はい
-No: いいえ
-send: 送信
-your firstname: 名前
-Please fill at least one of highlighted fields: ハイライトされている項目を少なくとも１つはご入力ください。
-your lastname: 姓
-your company: 会社名
-your email: メールアドレス
-your phone: 電話番号
-your message: メッセージ
-Your conversation has ended.Thank you for contacting us!: <strong>会話が終了しました。</strong><br />ご連絡ありがとうございました！
-Recall this operator now: オペレーターに今すぐ掛け直す！
-give us your feedback about the conversation: <b>フィードバック</b>をお聞かせください。
-has this dialog been helpful: この会話は参考になりましたか？
-Would you recommend this experience to your facebook friends: このサービスを知り合いにお勧めしますか？
-Any comments or suggestions: コメントはございますか？ご提案などはございますか？
-Get a reccord of this conversation by e-mail: メールで会話の記録を受け取る。
-Please enter your e-mail address: メールアドレスをご入力ください
-Please give a valid address: 有効なメールアドレスをご入力ください
-The record has been successfully sent: 記録が送信されました
-your message has been successfully sent. We Will contact you soon: メッセージが送信されました。<br />またご連絡いたします。
-Please fill email field: メールアドレス欄にご入力ください
-Please fill phone field: 電話番号欄にご入力ください
-Please fill message textarea: メッセージ書き込み欄にご入力ください
-Please fill firstname field: 名前欄にご入力ください
-Please fill lastname field: 姓欄にご入力ください
-Please fill company field: 会社名欄にご入力ください
-call audio: 音声通話
-call video: ビデオ通話
-video suggestion: 音声通話を許可する
-audio suggestion: ビデオ通話を許可する
-WE ARE HERE TO HELP! LIVE SALES ADVISOR: お手伝いします！<br />ライブセールスアドバイザー。
-WE ARE HERE TO HELP! PLEASE LEAVE A MESSAGE: お手伝いします！<br />メッセージを残してください。
-GIVE US YOUR FEEDBACK! THANK YOU: <b>フィードバック</b>をお聞かせください。
-#V1.2
-required field: 入力必須項目
-message sent: メール送信済み
-Before contacting you operator: オペレーターへのご連絡前に、<br/>ご回答お願いします：
-No operator is available for the moment: 現在対応可能のオペレーターがいません。
-Please leave me a message: メッセージを残してください
-Please leave a message: メッセージを残してください
-Do you Want to start an audio call with me: 音声通話を開始しますか？
-Do you Want to start a video call with me: ビデオ通話を開始しますか？
-e-mail invalid: メールアドレスが無効です
-close webpage cause end of the discussion: ウェブページを閉じると会話が終了します
-survey sent: アンケート送信済み
-agent hangup: オペレーターが会話を終了しました。
-agent unavailable: オペレーターは対応不可です。
-Agent dont answer call: 申し訳ございませんがオペレーターが対応できませんでした。
-Ongoing discussion: 継続中の会話
-Click here to enlarge: ここをクリックして拡大
-Give us your feedback: <b>フィードバック</b>をお聞かせください。
-Thank_you: ありがとうございます
-click here to enlarge: クリックして拡大
-Your question: ご質問
-click_on: をクリックする
-allow: 許可する
-to_start_your_microphone: マイクを有効にするには
-to_start_your_webcam: ウェブカメラを有効にするには
-terms_of_use: '利用規約が読めます'
-here: 'ここ'
-hangup: 切る
-initiate_video_call: ビデオ通話を開始しますか？
-initiate_audio_call: 音声通話を開始しますか？
-webuser_accept_audio_call: 音声会話を許可しました
-webuser_accept_video_call: ビデオ会話を許可しました
-conversation_send: メール送信済み
-# default values for new module
-grabber_advisor_1: お手伝いします！
-grabber_advisor_2: ライブセールスアドバイザー
-grabber_message_1: ご用件をお伺いしましょうか？
-grabber_message_2: ご質問に対応できるオペレーターがいます。
-invitation_baloon: "こんにちは！\n ご用件をお伺いしましょうか？"
-invitation_baloon_several_agents: "こんにちは！\nご質問に対応できるオペレーターがいます。"
-#new
-message_baloon: こんにちは。メッセージを残してくだされば、後ほどご連絡いたします。
-fall_back_window_default: 現在お客様サポート担当者が対応不可です。しばらくしてやり直してください
-back to list: リストに戻る
-denied_missed_call_msg: 申し訳ございませんが、対応できません。メッセージを残してください！
-all_agent_msg_1: 申し訳ございませんが、お客様サポート担当者が対応不可です。
-all_agent_msg_2: メッセージを残してください！
-agent-deny-call-media: '申し訳ございませんが、これ以上音声又はビデオ通話を開けません。テキストチャットで続けてください'
-fallback_default_msg: '現在対応可能のお客様サポート担当者がいません。しばらくたってから、もう一度やり直してください。'
-#new FO v14
-hangup_mess_1: 申し訳ございませんが、お客様サポート担当者が通話を切りました。メッセージを送信できませんでした。
-hangup_mess_2: 会話が終了しました。
-your_agent_hung_up: お客様サポート担当者が通話を切りました
-you_hung_up: 通話を終了しました
-give_us_your_feedback: フィードバックをお聞かせいただけますでしょうか？
-back_to_chat: チャットに戻る
-send_and_quit: 送信して閉じる
-back_to_feedback: フィードバックに戻る
-any_suggestions: ご提案などはございますか？
-transcript_will_be_sent: チャット終了後に記録が送信されます。
-transcript_sent: 会話記録を送信しました。
-phone_invalid: 電話番号が無効です
-shall_we_use_this_address: 以下のメールアドレスをご利用になりますか
-maximize: 最大化
-reduce: 最小化
-cobrowsing_toolbar: 現在の同期ブラウズセッション
-initiate_a_cobrowsing_session: 同期ブラウズセッションを許可しますか？
-accept_cobrowsing: 同期ブラウズを許可する
-cobrowsing_session: 同期ブラウズセッションを開きました。
-deny_btn: 拒否する
-allow_btn: 許可する
-label_grant: 同時にウェブページを操作してもよろしいでしょうか？
-control: 操作する
-tooltip_help_cobrowsing: 同期ブラウズ中、お客様サポート担当者はウェブページの内容しか閲覧できません。お使いのブラウザ及び他のウェブサイト上のタブで開かれているページは見えません。お客様サポート担当者は、お使いのPC上の他の要素は一切閲覧できません。
-# new
-#V16---------------------------------------------------------------------------
-See_the_agent_webcam: ビデオ通話
-agent_txt: お客様サポート担当者
-agents_txt: お客様サポート担当者
-bar_txt: ライブカスタマーサービス
-welcome_balloon_txt: ご質問に対応できるお客様サポート担当者がいます。ビデオチャットを今すぐ開始するをクリックしてスタートしてください。
-fallback_timeout_unavailble_txt: 対応可能なビデオチャットお客様サポート担当者がいません。
-fallback_timeout_calls_txt: 対応可能なビデオチャットお客様サポート担当者がいません。
-The associate cant see you: お客様サポート担当者には映像も音声も届いていません。
-I will be with you in just a moment. Please wait while the video chat loads: 間もなくして対応いたします。ビデオチャットのロード中です。しばらくお待ちください。
-Are you sure you want to end this conversation?: この会話を本当に終了しますか？
-Are you sure? This will end the conversation: よろしいですか？会話を終了することになります。
-There s a problem with your Internet connection and video chat cant be supported, however we are still able to talk and text.: ご利用のネット接続はビデオチャットに適応していません。しかし音声またはテキストチャットは可能です。
-Before we get started,:  始める前に、
-to enable your microphone,: マイクを有効にするには
-click the Share selected device button above: 上の“選択したデバイスを共有する”ボタンをクリックしてください
-click the Allow button above: 上の“許可する”ボタンをクリックしてください
-click the Allow once button below: 下の“一度だけ許可する”ボタンをクリックしてください
-You did not enable your microphone. I cant hear you but I can receive text messages.: マイクが有効になっていません音声は届いていませんが、テキストメッセージを受信することは可能です。
-The associate cannot see or hear you: お客様サポート担当者には映像も音声も届いていません。
-Accept: 許可する
-Decline: 拒否する
-File accepted: ファイルが許可されました
-File declined: ファイルは拒否されました
-Can I co-browse our store with you?: ストアを一緒に同期ブラウズしてもよろしいですか？
-Allow: 許可する
-Deny: 拒否する
-Send and quit: 送信して閉じる
-Survey sent: アンケートが送信されました。
-Click this button to turn on your microphone: マイクをオンにするにはこのボタンをクリックしてください。
-I turn on my microphone: これからマイクをオンにします。
-Unfortunately, the agent you called is unavailable at the moment: 申し訳ございません。申し訳ございませんが、要請されたお客様サポート担当者 は現在対応不可です。
-Sorry, but the agents did not answer in time.: 申し訳ございません。現在、通話に対応できるお客様サポート担当者がいません。
-Sorry, an error occured and the conversation is over.: 申し訳ございません。エラーが発生し、会話が終了してしまいました。
-Unable to connect: 接続できません。
-not here, leave a message: 現在対応できません。メッセージを残してください。
-Your video chat has ended: ビデオチャットが終了しました。
-Your opinion matters to us: <b>フィードバック</b>をお聞かせください。
-Thanks for chatting with us today: 本日はチャットセッションありがとうございました。
-Want a copy of our conversation?: 会話の記録を希望しますか？
-Please enter a valid email address: メールアドレスが無効です。
-Enter your email address: メールアドレスをご入力ください。
-No thanks: いいえ
-"No, thanks!": "いいえ"
-Submit: 投稿する
-Transcript sent: 記録を送信しました
-We are unable to connect you with an associate: お客様サポート担当者にお繋ぎできません。
-Your email address: メールアドレス
-Your phone number: 電話番号
-Your message here: ここにメッセージを書き込んでください
-Please enter a valid email address or a telephone number: 有効なメールアドレス又は電話番号をご入力ください。
-Message sent: メッセージ送信済み
-Close: 閉じる
-#reunification
-slogan_txt: お手伝いします！
-welcome_balloon_txt1: "ご用件をお伺いしましょうか？"
-welcome_balloon_txt2: "現在ご質問に対応できるオペレーターがいます"
-The associate cannot see you but he hear you: お客様サポート担当者に映像は届いていませんが、音声は届いています。
-I like to share a file with you: ファイル共有を希望
-Connecting: 接続中
-whats this: ビデオプレゼンテーション
-My text chat conversation: テキストチャット会話内容
-My video chat conversation: ビデオチャット会話内容
-Please find the entire conversation attached below.: ''
-files push during the conversation: 会話中に共有したファイル。
-videos push during the conversation: 会話中に共有したビデオ。
-allowed: 許可しました
-denied: 拒否しました
-Access: アクセス
-call_button_txt: 今すぐ会話を開始する
-'The': ''
-cant see you: 映像は届いていません。
-cannot see you but he hear you: 映像は届いていませんが、音声は届いています。
-cannot see or hear you: 映像も音声も届いていません。
-The associate can see and hear you: お客様サポート担当者に映像も音声も届いています。
-"Thanks for contacting us.": "ご連絡ありがとうございました。"
-"Would you like a copy of this conversation?": "この会話の記録を希望しますか？"
-any_suggestions: ご提案などはございますか？
-#title popin
-pdf_title: PDFプッシュ
-video_title: ビデオプッシュ
-product_webcam_title: 製品カメラ
-agent: お客様サポート担当者
-Click here to expand: ここをクリックして拡張
-No operator is available: お客様サポート担当者が対応不可です
-Leave us a message: メッセージを残してください
-start a chat discussion: テキスト会話を開始する
-start a video discussion: ビデオ会話を開始する
-click_on_allow_button: ‘‘許可する’’ ボタンをクリックして、
-to_turn_on_your_webcam: ウェブカメラをオンにしてください。
-to_turn_on_your_microphone: マイクをオンにしてください。
-by_clicking_allow_webcam: “許可する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に映像も音声も届きます。
-by_clicking_allow_micro: “許可する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に音声が届きます。
-microphone_icon: マイクアイコン
-camera_icon: カメラアイコン
-first_click_on_the: まず
-above: 上のボタンをクリックしてください。
-this_will_make_the_menu_appear: メニューを表示できます。
-click_share_selected_device_button: “選択したデバイスを共有する”ボタンをクリックしてください、
-by_clicking_share_webcam: “選択したデバイスを共有する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に映像も音声も届きます。
-by_clicking_share_micro: “選択したデバイスを共有する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に音声が届きます。
-close_video: ビデオを閉じる
-whats this video: ビデオプレゼンテーション
-video_desactivate: ウェブカメラをミュートする
-click_allow_once_button: “一度だけ許可する”ボタンをクリックしてください
-by_clicking_allow_once_webcam: “一度だけ許可する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に映像も音声も届きます。
-by_clicking_allow_once_micro: “一度だけ許可する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に音声が届きます。
-I will be with you in just a moment. Please wait while the text chat loads: 間もなくして対応いたします。テキストチャットのロード中です。しばらくお待ちください。
-Your text chat has ended: テキストチャットが終了しました。
-Your text conversation is now over: テキスト会話がただ今終了しました。
-video_activate: ウェブカメラが有効です
-audio_activate: マイクロが有効です
-audio_desactivate: マイクをミュートする
-do_you_want_to_end_discussion: 会話を終了しますか？
-you_are_seeing: 閲覧できます
-you_are_not_seeing: 閲覧できません
-Co-browse session has ended: 同期ブラウズセッションが終了しました。
-we are unavailable: 対応不可です。
-#audio video access
-ask_bullet_switch_one_way: マイクを有効にしてもよろしいですか？こちらの映像と音声は届きますが、そちらからの映像はございません。
-ask_bullet_switch_two_way: ウェブカメラを有効にしてもよろしいですか？映像と音声が届くようになります。
-audio_access_allowed: 音声アクセスが許可されました
-video_access_allowed: ビデオアクセスが許可されました
-audio_access_denied: 音声アクセスが拒否されました
-video_access_denied: ビデオアクセスが拒否されました
-cam_on_mic_off: このお客様サポート担当者には映像は届いていますが、音声は届いていません。
+fo_1: ここにメッセージを書き込む…
+fo_2: 会話を閉じますか？
+fo_3: はい
+fo_4: いいえ
+fo_5: 送信
+fo_6: 名前
+fo_7: 姓
+fo_8: 会社名
+fo_9: メールアドレス
+fo_10: 電話番号
+fo_11: メッセージ
+fo_12: <b>フィードバック</b>をお聞かせください。
+fo_13: このサービスを知り合いにお勧めしますか？
+fo_14: メールアドレスをご入力ください
+fo_15: 記録が送信されました
+fo_16: 継続中の会話
+fo_17: メールアドレス欄にご入力ください
+fo_18: 電話番号欄にご入力ください
+fo_19: 名前欄にご入力ください
+fo_20: 姓欄にご入力ください
+fo_21: 会社名欄にご入力ください
+fo_22: 悪い
+fo_23: あまりよくない
+fo_24: レギュラー
+fo_25: 良い
+fo_26: 素晴らしい
+fo_27: メールアドレスが無効です
+fo_28: 入力必須項目
+fo_29: アンケート送信済み
+fo_30: 申し訳ございませんが、対応できません。メッセージを残してください！
+fo_31: リストに戻る
+fo_32: 申し訳ございませんが、お客様サポート担当者が対応不可です。
+fo_33: メッセージを残してください！
+fo_34: 送信して閉じる
+fo_35: フィードバックに戻る
+fo_36: ご提案などはございますか？
+fo_37: 同期ブラウズセッションを開きました。
+fo_38: 許可する
+fo_39: 拒否する
+fo_40: ハイライトされている項目を少なくとも１つはご入力ください。
+fo_41: ファイル共有を希望
+fo_42: ファイルが許可されました
+fo_43: ファイルは拒否されました
+fo_44: 許可する
+fo_45: 拒否する
+fo_46: "いいえ"
+fo_47: "ご連絡ありがとうございました。"
+fo_48: "この会話の記録を希望しますか？"
+fo_49: 有効なメールアドレス又は電話番号をご入力ください。
+fo_50: PDFプッシュ
+fo_51: ビデオプッシュ
+fo_52: 製品カメラ
+fo_53: テキスト会話がただ今終了しました。
+fo_54: ここをクリックして拡張
+fo_55: お客様サポート担当者が対応不可です
+fo_56: お客様サポート担当者
+fo_57: 現在の同期ブラウズセッション
+fo_58: 同期ブラウズ中、お客様サポート担当者はウェブページの内容しか閲覧できません。お使いのブラウザ及び他のウェブサイト上のタブで開かれているページは見えません。お客様サポート担当者は、お使いのPC上の他の要素は一切閲覧できません。
+fo_59: 接続中
+fo_60: ビデオを閉じる
+fo_61: ビデオプレゼンテーション
+fo_62: テキスト会話を開始する
+fo_63: ビデオ会話を開始する
+fo_64: 対応不可です。
+fo_65: マイクを有効にしてもよろしいですか？こちらの映像と音声は届きますが、そちらからの映像はございません。
+fo_66: ウェブカメラを有効にしてもよろしいですか？映像と音声が届くようになります。
+fo_67: 音声アクセスが許可されました
+fo_68: ビデオアクセスが許可されました
+fo_69: 音声アクセスが拒否されました
+fo_70: ビデオアクセスが拒否されました
+fo_71: 許可
+fo_72: 拒否
+fo_73: 一緒に私達のストアを見て回ってもいい？
+fo_74: ストアを見るセッションが終了しました。
+fo_75: ストアを見るセッションが終了しました。
+fo_76: 同期ブラウズへのアクセスが許可されました
+fo_77: 同期ブラウズへのアクセスが拒否されました
+fo_78: 会話を始めるにはオプションを選択してください。
+fo_79: ご安心ください。こちらに映像は届いていません
+fo_80: ビデオ通話
+fo_81: テキストチャット
+fo_82: キーボード入力に疲れましたか？
+fo_83: ビデオチャットも可能です
+fo_84: 通話可能です。お客様サポート担当者に映像が届いています。
+fo_85: 通話可能です。お客様サポート担当者に映像は届いていません。
+fo_86: ここにメッセージを書き込む…
+fo_87: 間もなく対応可能になります。
+fo_88: 音声会話を許可しました
+fo_89: ビデオ会話を許可しました
+fo_90: と会話 
+fo_91: 最大化
+fo_92: 切る
+fo_93: ウェブカメラをミュートする
+fo_94: ウェブカメラが有効です
+fo_95: マイクをミュートする
+fo_96: マイクがオンです
+fo_97: マイクがミュートされています
+fo_98: ウェブカメラがオンです
+fo_99: ウェブカメラがオフです
+fo_100: 閲覧できます
+fo_101: 閲覧できません
+fo_102: マイクロが有効です
+fo_103: 私
+fo_104: 許可を拒否しましたバー
+fo_105: お客様サポート担当者には映像も音声も届いていません。
+fo_106: 間もなくして対応いたします。ビデオチャットのロード中です。しばらくお待ちください。
+fo_107: この会話を本当に終了しますか？
+fo_108: よろしいですか？会話を終了することになります。
+fo_109: ご利用のネット接続はビデオチャットに適応していません。しかし音声またはテキストチャットは可能です。
+fo_110: マイクが有効になっていません音声は届いていませんが、テキストメッセージを受信することは可能です。
+fo_111: お客様サポート担当者には映像も音声も届いていません。
+fo_112: ストアを一緒に同期ブラウズしてもよろしいですか？
+fo_113: 許可する
+fo_114: 拒否する
+fo_115: 送信して閉じる
+fo_116: アンケートが送信されました。
+fo_117: マイクをオンにするにはこのボタンをクリックしてください。
+fo_118: これからマイクをオンにします。
+fo_119: 申し訳ございません。現在、通話に対応できるお客様サポート担当者がいません。
+fo_120: 接続できません。
+fo_121: 現在対応できません。メッセージを残してください。
+fo_122: ビデオチャットが終了しました。
+fo_123: <b>フィードバック</b>をお聞かせください。
+fo_124: 本日はチャットセッションありがとうございました。
+fo_125: メールアドレスが無効です。
+fo_126: メールアドレスをご入力ください。
+fo_127: いいえ
+fo_128: 投稿する
+fo_129: 記録を送信しました
+fo_130: お客様サポート担当者にお繋ぎできません。
+fo_131: メールアドレス
+fo_132: 電話番号
+fo_133: ここにメッセージを書き込んでください
+fo_134: メッセージ送信済み
+fo_135: 閉じる
+fo_136: お客様サポート担当者には映像も音声も届いていません。
+fo_137: お客様サポート担当者に映像は届いていませんが、音声は届いています。
+fo_138: 許可しました
+fo_139: 拒否しました
+fo_140: アクセス
+fo_141: ''
+fo_142: 映像は届いていませんが、音声は届いています。
+fo_143: 映像も音声も届いていません。
+fo_144: お客様サポート担当者に映像も音声も届いています。
+fo_145: 申し訳ございません。申し訳ございませんが、要請されたお客様サポート担当者 は現在対応不可です。
+fo_146: 会話の記録を希望しますか？
+fo_147: ‘‘許可する’’ ボタンをクリックして、
+fo_148: ウェブカメラをオンにしてください。
+fo_149: マイクをオンにしてください。
+fo_150: “許可する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に映像も音声も届きます。
+fo_151: “許可する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に音声が届きます。
+fo_152: マイクアイコン
+fo_153: カメラアイコン
+fo_154: まず
+fo_155: 上のボタンをクリックしてください。
+fo_156: メニューを表示できます。
+fo_157: “選択したデバイスを共有する”ボタンをクリックしてください、
+fo_158: “一度だけ許可する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に映像も音声も届きます。
+fo_159: “一度だけ許可する”をクリックすることで、現在ブラウズ中のウェブサイトのサポート担当者に音声が届きます。
+fo_160: 同期ブラウズセッションが終了しました。
+fo_161: “一度だけ許可する”ボタンをクリックしてください
+fo_162: 間もなくして対応いたします。テキストチャットのロード中です。しばらくお待ちください。
+fo_163: テキストチャットが終了しました。
+fo_164: このお客様サポート担当者には映像は届いていますが、音声は届いていません。
+fo_165: この会話は参考になりましたか？
+fo_166: このサービスを知り合いにお勧めしますか？
+fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
 
-grant: Allow
-deny: Deny
-The agent is requesting to control your webpage alongside you: Can I co-browse our store with you?
-You closed the co-browse session: Co-browse session has ended
-I have now closed the co-browse session: Co-browse session has ended
 
-you deny authorization bar: 許可を拒否しましたバー
-cobrowsing access granted: 同期ブラウズへのアクセスが許可されました
-cobrowsing access denied: 同期ブラウズへのアクセスが拒否されました
-
-The webuser close product webcam: ユーザーがウェブカメラ製品を閉じました。
-The_webuser_close_push_file: ユーザーがファイル共有を閉じました。
-The webuser close lighbox: ユーザーがライトボックスを閉じました。
-
-Select an option to start the conversation: 会話を始めるにはオプションを選択してください。
-Dont worry, I will not see you: ご安心ください。こちらに映像は届いていません
-Video call: ビデオ通話
-Text chat: テキストチャット
-Tired of typing?: キーボード入力に疲れましたか？
-We are also available for a video chat: ビデオチャットも可能です
+fo_168: お手伝いします！
+fo_169: ライブセールスアドバイザー
+fo_170: ご用件をお伺いしましょうか？
+fo_171: ご質問に対応できるオペレーターがいます。
+fo_172: 今すぐ会話を開始する
+fo_173: 対応可能なビデオチャットお客様サポート担当者がいません。
+fo_174: 対応可能なビデオチャットお客様サポート担当者がいません。
+fo_175: Leave a message
+fo_176: との記録
+fo_177: テキストチャット会話内容  #My text chat conversation
+fo_178: ビデオチャット会話内容 #My video chat conversation
+fo_179: こんにちは、 #Hi
+fo_180: お客様サポート担当者との最近のチャットが下記に添付されています。 #We have to pleasure to send you the transcript of your discussion.
+fo_181: '' #Please find the entire conversation attached below.
+fo_182: また是非お越しください！#We look forward to seeing you again on
+fo_183: ご訪問ありがとうございました、 #Thank you for your visit
+fo_184: 会話中に共有したビデオ。#videos push during the conversation
+fo_185: 会話中に共有したファイル。#files push during the conversation
+fo_186: View this email in your browser # do not exist in old file
+fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
