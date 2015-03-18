@@ -1,0 +1,198 @@
+fo_1: Type your message here... #textarea where webuser enter message
+fo_2: Do you want to close the conversation? #when webuser clic on red cross img
+fo_3: Yes
+fo_4: No
+fo_5: Send
+fo_6: First name
+fo_7: Last name
+fo_8: Company
+fo_9: Email
+fo_10: Phone
+fo_11: Message
+fo_12: Give us your <b>feedback</b>.
+fo_13: Would you recommend this experience to your friends?
+fo_14: Please enter your e-mail address
+fo_15: The record has been successfully sent
+fo_16: Ongoing conversation
+fo_17: Please fill email field
+fo_18: Please fill phone field
+fo_19: Please fill firstname field
+fo_20: Please fill lastname field
+fo_21: Please fill company field
+fo_22: bad # survey feeling
+fo_23: poor # survey feeling
+fo_24: regular # survey feeling
+fo_25: good # survey feeling
+fo_26: excellent # survey feeling
+fo_27: Invalid email
+fo_28: Required field
+fo_29: Survey sent
+fo_30: Sorry, I cannot take your call. Please leave me a message!
+fo_31: Back to the list
+fo_32: Sorry our agents are unavailable.
+fo_33: Please leave us a message!
+fo_34: Send and quit
+fo_35: Back to feedback
+fo_36: Any suggestions?
+fo_37: I have opened a co-browse session.
+fo_38: Allow
+fo_39: Deny
+fo_40: Please fill at least one of highlighted fields
+fo_41: I would like to share a file with you.
+fo_42: File accepted
+fo_43: File declined
+fo_44: Accept
+fo_45: Decline
+fo_46: "No, thanks"
+fo_47: "Thanks for contacting us."
+fo_48: "Would you like a copy of this conversation?"
+fo_49: Please enter a valid email address or a telephone number.
+fo_50: PDF Push
+fo_51: Video Push
+fo_52: Product webcam
+fo_53: Your text conversation is now over.
+fo_54: Click here to expand
+fo_55: The agent is not available
+fo_56: Agent
+fo_57: Ongoing co-browse session
+fo_58: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other open tab. The agent will never see anything else on your computer. # fo_58: During co-browse, our agent can only see whats on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
+fo_59: Connecting
+fo_60: Close video
+fo_61: Video presentation
+fo_62: Start a text conversation
+fo_63: Start a video conversation
+fo_64: Customer support
+fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
+fo_66: Can I activate your webcam? I will be able to see and hear you.
+fo_67: Audio access allowed
+fo_68: Video access allowed
+fo_69: Audio access denied
+fo_70: Video access denied
+fo_71: Allow
+fo_72: Deny
+fo_73: Can I co-browse the website with you?
+fo_74: Co-browse session has ended
+fo_75: Co-browse session has ended
+fo_76: Cobrowsing access granted
+fo_77: Cobrowsing access denied
+fo_78: Select an option to start the conversation
+fo_79: Don't worry, I will not see you
+fo_80: Video call
+fo_81: Text chat
+fo_82: Tired of typing?
+fo_83: We are also available for a video chat
+fo_84: You can talk, the agent can see you.
+fo_85: You can talk, the agent can't see you.
+fo_86: Type your message here...
+fo_87: will be available in a few seconds.
+fo_88: You accepted the audio conversation
+fo_89: You accepted the video conversation
+fo_90: Conversation with 
+fo_91: Maximize
+fo_92: Hang up
+fo_93: Mute the webcam
+fo_94: Webcam is on
+fo_95: Mute the microphone
+fo_96: Your mic is on
+fo_97: Your mic is muted
+fo_98: Your webcam is on
+fo_99: Your webcam is off
+fo_100: You are seeing # not used
+fo_101: You are not seeing # not used
+fo_102: Microphone is on
+fo_103: Me
+fo_104: you deny authorization bar
+fo_105: The agent cannot see or hear you. #not used anymore
+fo_106: I will be with you in just a moment. Please wait while the video chat loads.
+fo_107: Are you sure you want to end this conversation?
+fo_108: Are you sure? This will end the conversation.
+fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
+fo_110: You have not enabled your microphone. I can't hear you but I can receive your text messages.
+fo_111: The agent cannot see or hear you.
+fo_112: Can I co-browse our store with you?
+fo_113: Allow
+fo_114: Deny
+fo_115: Send and quit
+fo_116: Survey sent.
+fo_117: Click this button to turn on your microphone.
+fo_118: I will now switch on my microphone.
+fo_119: We're sorry. Currently, none of our agents are available to take your call. #respond to your call
+fo_120: Unable to connect.
+fo_121: I am currently not available. Please leave a message.
+fo_122: Your video chat has ended.
+fo_123: Give us your <b>feedback</b>.
+fo_124: Thanks for chatting with us today.
+fo_125: Invalid email address.
+fo_126: Enter your email address.
+fo_127: No thanks
+fo_128: Submit
+fo_129: Transcript sent
+fo_130: We are unable to connect you to an agent.
+fo_131: Your email address
+fo_132: Your phone number
+fo_133: Your message here
+fo_134: Message sent
+fo_135: Close
+fo_136: The agent cannot see or hear you.
+fo_137: The agent cannot see you but is able to hear you.
+fo_138: allowed
+fo_139: denied
+fo_140: Access
+fo_141: The
+fo_142: cannot see you but is able to hear you.
+fo_143: cannot see or hear you.
+fo_144: The agent can see and hear you.
+fo_145: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
+fo_146: Do you want a copy of our conversation?
+fo_147: Click on the ‘‘Allow’’ button,
+fo_148: to turn on your webcam.
+fo_149: to turn on your microphone.
+fo_150: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
+fo_151: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
+fo_152: microphone icon
+fo_153: camera icon
+fo_154: First click on the
+fo_155: above.
+fo_156: this will make the menu appear.
+fo_157: Click “Share selected device” button,
+fo_158: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
+fo_159: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
+fo_160: Co-browse session has ended.
+fo_161: Click “allow once” button
+fo_162: I will be with you in just a moment. Please wait while the text chat loads.
+fo_163: Your text chat has ended.
+fo_164: The agent can see you but is not able to hear you.
+fo_165: Has this conversation been helpful?
+fo_166: Would you recommend this experience to your friends?
+fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+
+
+fo_168: We're here to help #grabber_advisor_1 
+fo_169: Live sales advisors #grabber_advisor_2 
+fo_170: How can I help you? #grabber_message_1 
+fo_171: An operator is available now to answer your questions. #grabber_message_2 
+fo_172: Start a conversation now #call_button_txt
+fo_173: Our agent are unavailable right now, please try later. #fallback_timeout_calls_txt
+
+fo_174: Our agent are unavailable right now, please try later. #fallback_timeout_unavailble_txt
+fo_175: Leave a message
+fo_176: Your conversation transcript with
+
+fo_177: My text chat conversation  #My text chat conversation
+fo_178: My video chat conversation #My video chat conversation
+fo_179: Hello, #Hi
+fo_180: Your recent chat with one of our agents is attached below. #We have to pleasure to send you the transcript of your discussion.
+fo_181: '' #Please find the entire conversation attached below.
+fo_182: We hope to see you again, soon! #We look forward to seeing you again on
+fo_183: Thank you for your visit, #Thank you for your visit
+fo_184: Videos shared during the conversation. #videos push during the conversation
+fo_185: Files shared during the conversation. #files push during the conversation
+fo_186: View this email in your browser # do not exist in old file
+
+fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
+
+fo_188: PDF
+fo_189: You might also be interested in:
+fo_190: has shared the following:
+fo_191: Video
+fo_192: KB
