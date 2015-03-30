@@ -33,7 +33,7 @@ fo_32: Sorry our agents are unavailable.
 fo_33: Please leave us a message!
 fo_34: Send and quit
 fo_35: Back to feedback
-fo_36: Any suggestions?
+fo_36: Comments and feedback (optional)
 fo_37: I have opened a co-browse session.
 fo_38: Allow
 fo_39: Deny
@@ -120,7 +120,7 @@ fo_119: We're sorry. Currently, none of our agents are available to take your ca
 fo_120: Unable to connect.
 fo_121: I am currently not available. Please leave a message.
 fo_122: Your video chat has ended.
-fo_123: Give us your <b>feedback</b>.
+fo_123: Please give us your <b>feedback</b>
 fo_124: Thanks for chatting with us today.
 fo_125: Invalid email address.
 fo_126: Enter your email address.
