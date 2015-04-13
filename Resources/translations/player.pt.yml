@@ -164,7 +164,7 @@ fo_163: Seu chat de texto terminou.
 fo_164: O agente pode vê-lo, mas não consegue ouvi-lo.
 fo_165: A conversa foi-lhe útil?
 fo_166: Recomendaria a experiência aos seus amigos?
-fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+fo_167: Sua conexão à Internet não suporta conversas por vídeo ou áudio. Porém, ainda podemos falar por texto. #when webuser switch to chat text
 
 
 fo_168: Estamos aqui!
@@ -174,7 +174,7 @@ fo_171: Deixe a sua mensagem
 fo_172: Começar agora uma conversa
 fo_173: Não há agentes de chat de vídeo disponíveis.
 fo_174: Não há agentes de chat de vídeo disponíveis.
-fo_175: Leave a message
+fo_175: Escrever mensagem
 fo_176: A sua transcrição com
 fo_177: Minha conversa de texto  #My text chat conversation
 fo_178: Minha conversa de vídeo #My video chat conversation
@@ -185,5 +185,5 @@ fo_182: Esperamos voltar a falar em breve. #We look forward to seeing you again 
 fo_183: Agradecemos a sua visita. #Thank you for your visit
 fo_184: Vídeos compartilhados durante a conversa. #videos push during the conversation
 fo_185: Arquivos compartilhados durante a conversa. #files push during the conversation
-fo_186: View this email in your browser # do not exist in old file
-fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
+fo_186: Veja este e-mail em seu navegador # do not exist in old file
+fo_187: Se escolher Chamada de Vídeo, poderei vê-lo. # do not exist in old file
