@@ -59,8 +59,8 @@ fo_58: During co-browse, our agent can only see what's on the web page itself, n
 fo_59: Connecting
 fo_60: Close video
 fo_61: Video presentation
-fo_62: Start a text conversation
-fo_63: Start a video conversation
+fo_62: Start a text conversationnn
+fo_63: Start a video conversationnnnnnn
 fo_64: Customer support
 fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
 fo_66: Can I activate your webcam? I will be able to see and hear you.
@@ -167,7 +167,7 @@ fo_166: Would you recommend this experience to your friends?
 fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
 
 
-fo_168: We are here to help #grabber_advisor_1 
+fo_168: We're here to help #grabber_advisor_1 
 fo_169: Live sales advisors #grabber_advisor_2 
 fo_170: How can I help you? #grabber_message_1 
 fo_171: An operator is available now to answer your questions. #grabber_message_2 
