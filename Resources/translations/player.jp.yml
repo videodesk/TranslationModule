@@ -164,7 +164,7 @@ fo_163: テキストチャットが終了しました。
 fo_164: このお客様サポート担当者には映像は届いていますが、音声は届いていません。
 fo_165: この会話は参考になりましたか？
 fo_166: このサービスを知り合いにお勧めしますか？
-fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+fo_167: インターネット接続がビデオやオーディオチャットをサポートしていません。テキストチャットは可能です。 #when webuser switch to chat text
 
 
 fo_168: お手伝いします！
@@ -174,7 +174,7 @@ fo_171: ご質問に対応できるオペレーターがいます。
 fo_172: 今すぐ会話を開始する
 fo_173: 対応可能なビデオチャットお客様サポート担当者がいません。
 fo_174: 対応可能なビデオチャットお客様サポート担当者がいません。
-fo_175: Leave a message
+fo_175: メッセージを残す
 fo_176: との記録
 fo_177: テキストチャット会話内容  #My text chat conversation
 fo_178: ビデオチャット会話内容 #My video chat conversation
@@ -185,20 +185,20 @@ fo_182: また是非お越しください！
 fo_183: ご訪問ありがとうございました、 #Thank you for your visit
 fo_184: 会話中に共有したビデオ。
 fo_185: 会話中に共有したファイル。
-fo_186: View this email in your browser # do not exist in old file
-fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
+fo_186: このメールをブラウザで見る # do not exist in old file
+fo_187: ビデオ通話を選択した場合、そちらの映像を見ることができます。 # do not exist in old file
 
 fo_188: PDF
-fo_189: You might also be interested in:
-fo_190: has shared the following:
-fo_191: Video
+fo_189: 次に興味をお持ちですか:
+fo_190: 次をシェアしました:
+fo_191: ビデオ
 fo_192: KB
 
 
-fo_193: PDF document shared by
-fo_194: Video shared by
+fo_193: シェアされたPDFドキュメント
+fo_194: シェアされたビデオ
 
-fo_195: The agent cannot see you 
-fo_196: but is able to hear you.
+fo_195: お客様サポート担当者は、そちらの映像を見ることができませんが 
+fo_196: 話はできます。
 
-fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
+fo_197: マイクを作動させてもいいですか? 互いに話ができ聞くことができます。私にはそちらの映像が見えません。
