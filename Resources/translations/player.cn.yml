@@ -164,7 +164,7 @@ fo_163: 您的文字聊天已结束。
 fo_164: 客服专员可以看到您，但是听不到您。
 fo_165: 这个对话有帮助吗？
 fo_166: 您愿意把该体验介绍给您的朋友吗？
-fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+fo_167: 您的互联网连接不支持视频或语音聊天。但是我们仍然能进行文字聊天。 #when webuser switch to chat text
 fo_168: 我们可以帮助您！ #grabber_advisor_1 
 fo_169: 实时销售顾问 #grabber_advisor_2 
 fo_170: 有什么可以帮助您的？ #grabber_message_1 
@@ -172,7 +172,7 @@ fo_171: 接线员现在可以回答您的问题。 #grabber_message_2
 fo_172: 立即开始对话 #call_button_txt
 fo_173: 没有可用的视频聊天客服专员。 #fallback_timeout_calls_txt
 fo_174: 没有可用的视频聊天客服专员。 #fallback_timeout_unavailble_txt
-fo_175: Leave a message
+fo_175: 留下信息
 fo_176: 您的副本
 fo_177: 我的文字聊天对话  #My text chat conversation
 fo_178: 我的视频聊天对话 #My video chat conversation
@@ -183,19 +183,19 @@ fo_182: 希望以后能够再见到您！#We look forward to seeing you again on
 fo_183: 感谢您的访问，#Thank you for your visit
 fo_184: 对话时的共享视频。#videos push during the conversation
 fo_185: 对话时的共享文件。 #files push during the conversation
-fo_186: View this email in your browser # do not exist in old file
-fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
+fo_186: 在您的浏览器中查看本邮件 # do not exist in old file
+fo_187: 如果您选择视频呼叫我将能看见您。 # do not exist in old file
 fo_188: PDF
-fo_189: You might also be interested in:
-fo_190: has shared the following:
-fo_191: Video
+fo_189: 您可能也对以下内容感兴趣:
+fo_190: 已分享以下内容:
+fo_191: 视频
 fo_192: KB
 
 
-fo_193: PDF document shared by
-fo_194: Video shared by
+fo_193: PDF文件分享者
+fo_194: 视频分享者
 
-fo_195: The agent cannot see you 
-fo_196: but is able to hear you.
+fo_195: 客服人员无法看见您
+fo_196: 但能听到您的声音。
 
-fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
+fo_197: 我能激活您的麦克风吗?我们将能谈话。我看不见您。
