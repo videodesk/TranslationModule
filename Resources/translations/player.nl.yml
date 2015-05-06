@@ -112,7 +112,7 @@ fo_111: The agent cannot see or hear you.
 fo_112: Can I co-browse our store with you?
 fo_113: Allow
 fo_114: Deny
-fo_115: Send and quit
+fo_115: Verzend en stop
 fo_116: Survey sent.
 fo_117: Click this button to turn on your microphone.
 fo_118: I will now switch on my microphone.
@@ -121,11 +121,11 @@ fo_120: Unable to connect.
 fo_121: I am currently not available. Please leave a message.
 fo_122: Your video chat has ended.
 fo_123: Your opinion matters to us.
-fo_124: Thanks for chatting with us today.
+fo_124: Bedankt om met ons te chatten vandaag.
 fo_125: Invalid email address.
 fo_126: Enter your email address.
-fo_127: No thanks
-fo_128: Submit
+fo_127: Neen
+fo_128: Leg voor
 fo_129: Transcript sent
 fo_130: We are unable to connect you to an agent.
 fo_131: Your email address
@@ -143,7 +143,7 @@ fo_142: cannot see you but he is able to hear you.
 fo_143: cannot see or hear you.
 fo_144: The agent can see and hear you.
 fo_145: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
-fo_146: Do you want a copy of our conversation?
+fo_146: Wilt u graag een kopie van ons gesprek?
 fo_147: Click on the ‘‘Allow’’ button,
 fo_148: to turn on your webcam.
 fo_149: to turn on your microphone.
@@ -160,7 +160,7 @@ fo_159: By clicking “Allow once”, the support agent on the website you are b
 fo_160: Co-browse session has ended.
 fo_161: Click “allow once” button
 fo_162: Ik kom zo dadelijk bij u. Het chatvenster is aan het openen, een ogenblikje alstublieft.
-fo_163: Your text chat has ended.
+fo_163: Uw chat is afgelopen.
 fo_164: The agent can see you but is not able to hear you.
 fo_165: Has this conversation been helpful?
 fo_166: Would you recommend this experience to your friends?
