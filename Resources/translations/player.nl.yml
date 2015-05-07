@@ -33,7 +33,7 @@ fo_32: Sorry, momenteel zijn we niet beschikbaar.
 fo_33: Laat hier een bericht achter!
 fo_34: Verzenden en stoppen
 fo_35: Terug naar feedback
-fo_36: Any suggestions?
+fo_36: Eventuele suggesties?
 fo_37: I have opened a co-browse session.
 fo_38: Allow
 fo_39: Deny
@@ -59,7 +59,7 @@ fo_58: Tijdens een co-browse sessie kan de productadviseur alleen zien wat op de
 fo_59: Connecting
 fo_60: Close video
 fo_61: Presentation video
-fo_62: Start a text conversation
+fo_62: Start een tekst gesprek
 fo_63: Start a video conversation
 fo_64: Medewerker niet beschikbaar.
 fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
@@ -120,10 +120,10 @@ fo_119: Sorry, no agents has responded in time.
 fo_120: Unable to connect.
 fo_121: I am currently not available. Please leave a message.
 fo_122: Your video chat has ended.
-fo_123: Your opinion matters to us.
+fo_123: Uw mening telt voor ons.
 fo_124: Bedankt om met ons te chatten vandaag.
 fo_125: Invalid email address.
-fo_126: Enter your email address.
+fo_126: Vul je e-mail adres in.
 fo_127: Neen
 fo_128: Leg voor
 fo_129: Transcript sent
@@ -162,8 +162,8 @@ fo_161: Click “allow once” button
 fo_162: Ik kom zo dadelijk bij u. Het chatvenster is aan het openen, een ogenblikje alstublieft.
 fo_163: Uw chat is afgelopen.
 fo_164: The agent can see you but is not able to hear you.
-fo_165: Has this conversation been helpful?
-fo_166: Would you recommend this experience to your friends?
+fo_165: Heeft dit gesprek geweest nuttig?
+fo_166: Zou u deze ervaring aan je vrienden aanbevelen?
 fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
 
 
