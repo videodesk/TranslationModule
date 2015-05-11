@@ -33,54 +33,54 @@ fo_32: Przepraszamy, nasi konsultanci są niedostępni
 fo_33: Proszę zostawić wiadomość
 fo_34: Wyślij i zamknij
 fo_35: Wróć do opinii
-fo_36: Any suggestions?
+fo_36: Czy masz jakieś sugestie?
 fo_37: Sesja współpracy otwarta
 fo_38: Zezwól
 fo_39: Odmów
 fo_40: Proszę wypełnić przynajmniej jedno z wyróżnionych pól.
-fo_41: I would like to share a file with you.
-fo_42: File accepted
-fo_43: File declined
-fo_44: Accept
-fo_45: Decline
-fo_46: "No, thanks"
-fo_47: "Thanks for contacting us."
-fo_48: "Would you like a copy of this conversation?"
-fo_49: Please enter a valid email address or a telephone number.
-fo_50: PDF Push
-fo_51: Video Push
-fo_52: Product camera
-fo_53: Your text conversation is now over.
-fo_54: Click here to expand
-fo_55: The agent is not available
-fo_56: Agent
+fo_41: Chciałbym przesłać Ci plik.
+fo_42: Plik zaakceptowano
+fo_43: Plik odrzucono
+fo_44: Zaakceptuj
+fo_45: Odmów
+fo_46: "Nie,dziekuję"
+fo_47: "Dziękujemy za kontakt."
+fo_48: "Czy chcesz zapis tej rozmowy?"
+fo_49: Wpisz proszę swój adres email lub numer telefonu.
+fo_50: Plik PDF
+fo_51: Plik Video
+fo_52: Kamera
+fo_53: Twój chat się zakończył.
+fo_54: Kliknij aby rozszerzyć.
+fo_55: Doradca jest niedostępny
+fo_56: Doradca
 fo_57: Przebieg sesji współpracy
 fo_58: Podczas jednoczesnego przeglądania, nasz konsultant widzi tylko to, co znajduje się na stronie internetowej. Konsultant nie widzi żadnych innych zakładek, stron oraz innych danych.
-fo_59: Connecting
-fo_60: Close video
-fo_61: Presentation video
-fo_62: Start a text conversation
-fo_63: Start a video conversation
-fo_64: We are unavailable.
-fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-fo_66: Can I activate your webcam? I will be able to see and hear you.
-fo_67: Audio access allowed
-fo_68: Video access allowed
-fo_69: Audio access denied
-fo_70: Video access denied
-fo_71: Allow
-fo_72: Deny
-fo_73: Can I co-browse our store with you?
-fo_74: Co-browse session has ended
-fo_75: Co-browse session has ended
-fo_76: Cobrowsing access granted
-fo_77: Cobrowsing access denied
-fo_78: Select an option to start the conversation
-fo_79: Don't worry, I will not see you
-fo_80: Video call
-fo_81: Text chat
-fo_82: Tired of typing?
-fo_83: We are also available for a video chat
+fo_59: Łączę
+fo_60: Zamknij video
+fo_61: Prezentacja video
+fo_62: Rozpocznij chat
+fo_63: Rozpocznij połączenie video
+fo_64: Jesteśmy obecnie niedostępni.
+fo_65: Czy mogę aktywować Twój mikrofon? Będziesz mnie widzieć i słyszć ale ja nie będę Cię widział.
+fo_66: Czy mogę aktywować Twoją kamerę? Dzięki temu będziemy się widzieć i słyszeć.
+fo_67: Dostęp audio
+fo_68: Dostęp video
+fo_69: Odrzucono dostęp audio
+fo_70: Odrzucono dostęp video
+fo_71: Zezwól
+fo_72: Odmów
+fo_73: Uruchomić wspólne przegladanie?
+fo_74: Rozpoczęła się sesja wspólnego przeglądania
+fo_75: Zakończyła się sesja wspólnego przeglądania
+fo_76: Pozwolono na wspólne przeglądanie
+fo_77: Odmówiono wspólnego przeglądania
+fo_78: Wybierz opcję kontaktu
+fo_79: Nie martw się, nie będę Cię widział
+fo_80: Połączenie video
+fo_81: Chat
+fo_82: Zmęczony klikaniem?
+fo_83: Możemy również nawiązać połączenie video
 fo_84: Można mówić, jesteś widoczny
 fo_85: Można mówić, jesteś niewidoczny
 fo_86: Wpisz swoją wiadomość tutaj...
@@ -89,108 +89,108 @@ fo_88: Rozmowa audio zaakceptowana.
 fo_89: Rozmowa video zaakceptowana.
 fo_90: Rozmowa z 
 fo_91: Maksymalizuj
-fo_92: Hang up
-fo_93: Mute the webcam
-fo_94: Webcam is on
-fo_95: Mute the microphone
+fo_92: Rozłącz się
+fo_93: Wyłącz kamerę
+fo_94: Kamera jest włączona
+fo_95: Wyłącz mikrofon
 fo_96: Mój mikrofon jest włączony
 fo_97: Mój mikrofon jest wyłączony
 fo_98: Moja kamera jest włączona
 fo_99: Moja kamera jest wyłączona
-fo_100: You are seeing
-fo_101: You are not seeing
-fo_102: Microphone is on
+fo_100: Widzisz
+fo_101: Nie widzisz
+fo_102: Mikrofon jest włączony
 fo_103: Ja
-fo_104: you deny authorization bar
-fo_105: The agent cannot see or hear you.
-fo_106: I will be with you in just a moment. Please wait while the video chat loads.
-fo_107: Are you sure you want to end this conversation?
-fo_108: Are you sure? This will end the conversation.
-fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
-fo_110: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-fo_111: The agent cannot see or hear you.
-fo_112: Can I co-browse our store with you?
-fo_113: Allow
-fo_114: Deny
-fo_115: Send and quit
-fo_116: Survey sent.
-fo_117: Click this button to turn on your microphone.
-fo_118: I will now switch on my microphone.
-fo_119: Sorry, no agents has responded in time.
-fo_120: Unable to connect.
-fo_121: I am currently not available. Please leave a message.
-fo_122: Your video chat has ended.
-fo_123: Your opinion matters to us.
-fo_124: Thanks for chatting with us today.
-fo_125: Invalid email address.
-fo_126: Enter your email address.
-fo_127: No thanks
-fo_128: Submit
-fo_129: Transcript sent
-fo_130: We are unable to connect you to an agent.
-fo_131: Your email address
-fo_132: Your phone number
-fo_133: Your message here
-fo_134: Message sent
-fo_135: Close
-fo_136: The agent cannot see or hear you.
-fo_137: The agent cannot see you but he is able to hear you.
-fo_138: allowed
-fo_139: denied
-fo_140: Access
-fo_141: The
-fo_142: cannot see you but he is able to hear you.
-fo_143: cannot see or hear you.
-fo_144: The agent can see and hear you.
-fo_145: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
-fo_146: Do you want a copy of our conversation?
-fo_147: Click on the ‘‘Allow’’ button,
-fo_148: to turn on your webcam.
-fo_149: to turn on your microphone.
-fo_150: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
-fo_151: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
-fo_152: microphone icon
-fo_153: camera icon
-fo_154: First click on the
-fo_155: above.
-fo_156: this will make the menu appear.
-fo_157: Click “Share selected device” button,
-fo_158: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
-fo_159: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
-fo_160: Co-browse session has ended.
-fo_161: Click “allow once” button
-fo_162: I will be with you in just a moment. Please wait while the text chat loads.
-fo_163: Your text chat has ended.
-fo_164: The agent can see you but is not able to hear you.
-fo_165: Has this conversation been helpful?
-fo_166: Would you recommend this experience to your friends?
-fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+fo_104: Odmówiłeś autoryzacji
+fo_105: Doradca nie widzi Cię ani nie słyszy.
+fo_106: Za chwilkę będę dostępny. Poczekaj aż video chat się załaduje.
+fo_107: Czy na pewno chcesz zakończyć rozmowę?
+fo_108: Na pewno? To zakończy rozmowę.
+fo_109: Twoje połączenie internetowe nie obsługuje video. Możemy jednak porozmawiać przez chat.
+fo_110: Nie włączono mikrofonu. Nie słyszę Cię ale możesz do mnie napisać.
+fo_111: Doradca nie widzi Cię ani nie słyszy.
+fo_112: Uruchomić wspólne przegladanie?
+fo_113: Pozwól
+fo_114: Odmów
+fo_115: Wyślij i wyjdź
+fo_116: Ankieta wysłana.
+fo_117: Kliknij tu aby włączyć mikrofon.
+fo_118: Włączę teraz swój mikrofon.
+fo_119: Przepraszamy, doradcy są obecnie zajęci.
+fo_120: Nie można się połączyć.
+fo_121: Jestem obecnie niedostępny. Proszę, zostaw wiadomość.
+fo_122: Połączenie video się zakończyło.
+fo_123: Twoja opinia ma dla nas znaczenie.
+fo_124: Dziękujemy za chat.
+fo_125: Niepoprawny adres email.
+fo_126: Wprowadź swój adres email.
+fo_127: Nie, dziękuję.
+fo_128: Akceptuj
+fo_129: Zapis wysłany
+fo_130: Nie możemy połączyć Cię teraz z Doradcą.
+fo_131: Twój adres email
+fo_132: Twój numer telefonu
+fo_133: Twoja wiadomość
+fo_134: Wiadomość wysłana
+fo_135: Zamknij
+fo_136: Doradca nie widzi Cię ani nie słyszy.
+fo_137: Doradca nie widzi Cię ale może Cię usłyszeć.
+fo_138: Pozwolono
+fo_139: Odmówiono
+fo_140: Dostęp
+fo_141: ''
+fo_142: nie widzi Cię ale może Cię usłyszeć.
+fo_143: nie widzi Cię ani nie słyszy.
+fo_144: Doradca widzi Cię i słyszy.
+fo_145: Przepraszamy. Doradca, z którym próbowano się połączyć jest aktualnie niedostępny.
+fo_146: Czy chcesz kopię konwersacji?
+fo_147: Klikni w przycisk ‘‘Akceptuj’’,
+fo_148: aby włączyć kamerę.
+fo_149: aby włączyć mikrofon.
+fo_150: Klikając “Akceptuj”, doradca będzie mógł Cię zobaczyć i usłyszeć.
+fo_151: Klikając “Akceptuj”, doradca będzie mógł Cię usłyszeć.
+fo_152: ikona mikrofonu
+fo_153: ikona kamery
+fo_154: Najpierw kliknij
+fo_155: powyżej.
+fo_156: dzięki temu zobaczysz menu.
+fo_157: Kliknij “Udostępnij wybrane urządzenie”,
+fo_158: Klikając “Pozwól”, doradca będzie mógł Cię zobaczyć i usłyszeć.
+fo_159: Klikając “Pozwól”, doradca będzie mógł Cię usłyszeć.
+fo_160: Zakończyła się sesja wspólnego przeglądania.
+fo_161: Kliknij “Pozwól”
+fo_162: Będę dostępny za chwilkę. Poczekaj prosze aż uruchomi się chat.
+fo_163: Twój chat się zakończył.
+fo_164: Doradca Cię widzi ale nie może Cię usłyszeć.
+fo_165: Czy ta rozmowa była pomocna?
+fo_166: Czy poleciłbyś taki kontakt Twoim znajomym?
+fo_167: Twoje połączenie internetowe nie umożliwia rozmowy audio/video ale nadal możemy porozmawiać przez chat. #when webuser switch to chat text
 
 
-fo_168: We're here to help #grabber_advisor_1 
-fo_169: Live sales advisors #grabber_advisor_2 
-fo_170: How can I help you? #grabber_message_1 
-fo_171: An operator is available now to answer your questions. #grabber_message_2 
-fo_172: Start a conversation now #call_button_txt
-fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
-fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
-fo_175: Leave a message
-fo_176: Your conversation transcript with
-fo_177: My text chat conversation  #My text chat conversation
-fo_178: My video chat conversation #My video chat conversation
-fo_179: Hello, #Hi
-fo_180: Your recent chat with one of our agents is attached below. #We have to pleasure to send you the transcript of your discussion.
-fo_181: Please find the entire conversation attached below. #Please find the entire conversation attached below.
-fo_182: We hope to see you again, soon! #We look forward to seeing you again on
-fo_183: Thank you for your visit, #Thank you for your visit
-fo_184: Videos shared during the conversation. #videos push during the conversation
-fo_185: Files shared during the conversation. #files push during the conversation
-fo_186: View this email in your browser # do not exist in old file
-fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
+fo_168: Jesteśmy tu aby pomóc #grabber_advisor_1 
+fo_169: Doradcy na żywo #grabber_advisor_2 
+fo_170: W czym mogę pomóc? #grabber_message_1 
+fo_171: Doradca jest dostępny. #grabber_message_2 
+fo_172: Rozpocznij rozmowę teraz! #call_button_txt
+fo_173: Doradcy są obecnie niedostępni. #fallback_timeout_calls_txt
+fo_174: Doradcy są obecnie niedostępni. #fallback_timeout_unavailble_txt
+fo_175: Zostaw wiadomość
+fo_176: Zapis Twojej rozmowy z
+fo_177: Zapis rozmowy chat  #My text chat conversation
+fo_178: Zapis rozmowy video #My video chat conversation
+fo_179: Cześć, #Hi
+fo_180: Zapis chatu z jednym z naszych doradców jest załączony poniżej. #We have to pleasure to send you the transcript of your discussion.
+fo_181: Zapis całej konwersacji znajdziesz poniżej. #Please find the entire conversation attached below.
+fo_182: Mam nadzieję, że niedługo ponownie porozmawiamy. #We look forward to seeing you again on
+fo_183: Dziękujemy że nas odwiedziłeś, #Thank you for your visit
+fo_184: Udostępnianie video podczas konwersacji. #videos push during the conversation
+fo_185: Udostępnianie plików podczas konwersacji. #files push during the conversation
+fo_186: Odczytaj ten email w Twojej przeglądarce. # do not exist in old file
+fo_187: Jeśli wybierzesz Połączenie video to będziemy się widzieć. # do not exist in old file
 
 fo_188: PDF
-fo_189: You might also be interested in:
-fo_190: has shared the following:
+fo_189: Może Cię również zainteresować:
+fo_190: udostępnił:
 fo_191: Video
 fo_192: KB
 
@@ -198,7 +198,9 @@ fo_192: KB
 fo_193: PDF document shared by
 fo_194: Video shared by
 
-fo_195: The agent cannot see you 
-fo_196: but is able to hear you.
+fo_195: Doradca Cię nie widzi.
+fo_196: ale Cię słyszy.
 
-fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
+fo_197: Czy mogę uruchomić Twój mikrofon? Będziemy mogli rozmawiać i słyszeć się nawzajem. Ja nie będę Cię widzieć.
+fo_198: Klikając “Udostępnij” doradca będzie mógł Cię zobaczyć i usłyszeć.
+fo_199: Klikając “Udostępnij” doradca będzie mógł Cię usłyszeć.
