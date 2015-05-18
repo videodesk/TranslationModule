@@ -397,3 +397,7 @@ by_clicking_allow_once_micro: By clicking “Allow once”, the support agent on
 I will be with you in just a moment. Please wait while the text chat loads: I will be with you in just a moment. Please wait while the text chat loads.
 Your text chat has ended: Your text chat has ended.
 Your text conversation is now over: Your text conversation is now over.
+
+fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
+fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. 
+
