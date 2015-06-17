@@ -9,7 +9,7 @@ fo_8: Company
 fo_9: Email
 fo_10: Phone
 fo_11: Message
-fo_12: Give us your <b>feedback</b>
+fo_12: Give us your feedback
 fo_13: Would you recommend this experience to your friends?
 fo_14: Please enter your e-mail address
 fo_15: The record has been successfully sent
@@ -118,9 +118,9 @@ fo_117: Click this button to turn on your microphone.
 fo_118: I will now switch on my microphone.
 fo_119: We're sorry. Currently, none of our agents are available to take your call. #respond to your call
 fo_120: Unable to connect.
-fo_121: I am currently not available. Please leave a message.
+fo_121: I am currently not available.</br>Please leave a message.
 fo_122: Your video chat has ended
-fo_123: Please give us your <b>feedback</b>
+fo_123: Please give us your feedback
 fo_124: Thanks for chatting with us today.
 fo_125: Invalid email address.
 fo_126: Enter your email address.
