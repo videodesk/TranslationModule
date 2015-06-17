@@ -9,7 +9,7 @@ fo_8: Company
 fo_9: Email
 fo_10: Phone
 fo_11: Message
-fo_12: Give us your <b>feedback</b>.
+fo_12: Give us your <b>feedback</b>
 fo_13: Would you recommend this experience to your friends?
 fo_14: Please enter your e-mail address
 fo_15: The record has been successfully sent
@@ -50,7 +50,7 @@ fo_49: Please enter a valid email address or a telephone number.
 fo_50: PDF Push
 fo_51: Video Push
 fo_52: Product webcam
-fo_53: Your text conversation is now over.
+fo_53: Your text conversation has ended
 fo_54: Click here to expand
 fo_55: The agent is not available
 fo_56: Agent
@@ -119,7 +119,7 @@ fo_118: I will now switch on my microphone.
 fo_119: We're sorry. Currently, none of our agents are available to take your call. #respond to your call
 fo_120: Unable to connect.
 fo_121: I am currently not available. Please leave a message.
-fo_122: Your video chat has ended.
+fo_122: Your video chat has ended
 fo_123: Please give us your <b>feedback</b>
 fo_124: Thanks for chatting with us today.
 fo_125: Invalid email address.
