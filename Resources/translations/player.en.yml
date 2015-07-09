@@ -62,8 +62,8 @@ fo_61: Video presentation
 fo_62: Start a text conversation
 fo_63: Start a video conversation
 fo_64: Customer support
-fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-fo_66: Can I activate your webcam? I will be able to see and hear you.
+fo_65: Can we start talking? <br> You will be able to to see and hear me, I will not see you.
+fo_66: Can start talking? <br> You will be able to to see and hear me, I will see you.
 fo_67: Audio access allowed
 fo_68: Video access allowed
 fo_69: Audio access denied
@@ -216,3 +216,5 @@ fo_200: I can't hear you but I can receive your text messages.
 fo_201: URL window shared by
 fo_202: Product webcam shared by
 fo_203: Screen shared by
+
+fo_204: Let's talk!
