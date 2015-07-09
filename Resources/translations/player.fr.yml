@@ -62,8 +62,8 @@ fo_61: Comment ça marche ?
 fo_62: Conversation texte
 fo_63: Conversation vidéo
 fo_64: Service client
-fo_65: Puis-je activer votre microphone ? Vous pourrez me voir et m'entendre, je ne pourrai pas vous voir.
-fo_66: Puis-je activer votre webcam ? Je pourrai vous voir et vous entendre.
+fo_65: Souhaitez-vous démarrer une conversation audio ? Vous pourrez me voir et m'entendre, je ne pourrai pas vous voir.
+fo_66: Souhaitez-vous démarrer une conversation vidéo ? Je pourrai vous voir et vous entendre.
 fo_67: Accès audio autorisé
 fo_68: Accès vidéo autorisé
 fo_69: Accès audio refusé
@@ -207,3 +207,8 @@ fo_200: Je ne peux pas vous entendre mais je reçois vos messages écrits.
 fo_201: URL partagée par
 fo_202: Flux vidéo partagé par
 fo_203: Ecran partagé par
+
+fo_204: Démarrer le chat audio !
+fo_205: Démarrer le chat vidéo !
+
+fo_206: Ça m'intéresse !
