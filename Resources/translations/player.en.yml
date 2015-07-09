@@ -2,7 +2,6 @@
 'chat call': Chat call
 'audio call': Audio call
 'video call': Video call
-'information help': more information
 'faq help': more information
 'Your discussion has ended': Your conversation has ended.<br />Thank you for contacting us.
 'Please, rate this discussion': Give us your <b>feedback</b>.
@@ -22,7 +21,6 @@
 'Please type your message here': Please type your message here
 'message field required': Message required
 'email or phone field required': Email or phone required
-'send': Send
 'not ready to switch': not ready to switch
 'will answer in a few seconds': will be available in a few seconds.
 'Email adress': Email address
@@ -37,12 +35,10 @@
 'agent indisponible. redirection vers message': Your agent is unavailable, you can leave a message
 'webuser': Me
 'user flash crash': Your video software has a problem, please use text chat
-'message sent': Message sent
 'cgv': By using this service means you agree to the <a href="http://www.videodesk.com/terms" target="_blank">Terms and conditions</a> of Videodesk inc and your continued use of this service means you are consenting to any updates. If you disagree with these Terms and conditions, please do not use this service.
 'You will can enter your text here': You will be able to enter your text here
 'Discussion with %site%': Conversation with %site%
 'hello': Hello
-'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
 'new message from': New message on website
 'message from videodesk module': New message from videodesk module
 'message originally intended to': Message sent to:
@@ -55,7 +51,6 @@ lastname: Last name
 email: Email
 phone: Phone number
 company: Company
-send: Send
 firstname required: Firstname required
 lastname required: Lastname required
 email required: Email required
@@ -187,7 +182,6 @@ Do you Want to start a video call with me: Do you want to start a video call wit
 e-mail invalid: Invalid Email
 close webpage cause end of the discussion: Close webpage cause end of the conversation
 survey sent: Survey sent
-Survey sent: Survey sent
 agent hangup: Your operator ended the conversation.
 agent unavailable: Your operator is unavailable.
 Agent deny call: Your operator unfortunately had to refuse the call.
@@ -252,7 +246,6 @@ give_us_your_feedback: Would you like to give us your feedback?
 back_to_chat: Back to chat
 send_and_quit: Send and quit
 back_to_feedback: Back to feedback
-any_suggestions: Any suggestions?
 transcript_will_be_sent: A transcript will be sent once the chat is over.
 transcript_sent: Conversation has been sent.
 phone_invalid: Phone invalid
