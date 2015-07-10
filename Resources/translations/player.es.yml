@@ -62,8 +62,8 @@ fo_61: Vídeo de presentación
 fo_62: Empezar una conversación de chat texto
 fo_63: Empezar una conversación vídeo
 fo_64: No estamos disponibles.
-fo_65: ¿Puedo activar tu micrófono? Podrás verme y oírme, yo no podré verte.
-fo_66: ¿Puedo activar tu webcam? Podré verte y oírte.
+fo_65: ¿Puedes cambiar a chat de voz? Podrás verme y oírme, pero yo no te veré.
+fo_66: ¿Puedes cambiar a chat de vídeo? Podrás verme y oírme, y yo te veré y oiré.
 fo_67: Acceso al audio permitido
 fo_68: Acceso al vídeo permitido
 fo_69: Acceso al audio no permitido
@@ -202,3 +202,17 @@ fo_195: El asesor no te puede ver
 fo_196: pero sí te puede escuchar.
 
 fo_197: ¿Me permites activar tu micrófono?	Podremos hablar y escucharnos el uno al otro, pero no podré verte en ningún momento.
+
+fo_198: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you.
+fo_199: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
+
+fo_200: I can't hear you but I can receive your text messages.
+
+fo_201: URL window shared by
+fo_202: Product webcam shared by
+fo_203: Screen shared by
+
+fo_204: Let's voice chat!
+fo_205: Let's video chat!
+
+fo_206: ¡Suena bien!
