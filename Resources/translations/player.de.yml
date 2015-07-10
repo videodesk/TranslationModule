@@ -62,8 +62,8 @@ fo_61: Präsentations-Video
 fo_62: Text-Gespräch beginnen
 fo_63: Video-Gespräch beginnen
 fo_64: Wir sind nicht erreichbar
-fo_65: Kann ich Ihr Mikrofon aktivieren? Sie können mich sehen und hören, ich kann Sie nicht sehen.
-fo_66: Kann ich Ihre Webcam aktivieren? Ich kann Sie sehen und hören.
+fo_65: Können wir zum Sprach-Chat wechseln? Sie werden mich dann sehen und hören können, aber ich kann Sie nicht sehen.
+fo_66: Können wir zum Video-Chat wechseln? Sie werden mich dann sehen und hören können und ich werde Sie sehen und hören.
 fo_67: Audiozugriff gestattet
 fo_68: Videozugriff gestattet
 fo_69: Audiozugriff verweigert
@@ -203,3 +203,16 @@ fo_196: aber er kann Sie hören.
 
 fo_197: Darf ich Ihr Mikrofon aktivieren? Wir können uns dann miteinander unterhalten. Ich werde Sie nicht sehen können.
 
+fo_198: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you.
+fo_199: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
+
+fo_200: I can't hear you but I can receive your text messages.
+
+fo_201: URL window shared by
+fo_202: Product webcam shared by
+fo_203: Screen shared by
+
+fo_204: Let's voice chat!
+fo_205: Let's video chat!
+
+fo_206: Klingt gut!
