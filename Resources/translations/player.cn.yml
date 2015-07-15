@@ -62,8 +62,8 @@ fo_61: 视频显示
 fo_62: 开始文字对话
 fo_63: 开始视频对话
 fo_64: 我们正在忙碌中，因此不能为您服务。
-fo_65: 我能激活您的麦克风吗？你可以看到并听到我，但是我看不到你。
-fo_66: 我能激活您的网络摄像头吗？我可以看到并听到您。
+fo_65: 我们能切换到语音聊天吗？你将能看到我并听到我说话，我不会看到你。
+fo_66: 我们能切换到视频聊天吗？你将能看到我并听到我说话，我也会看到你并听到你说话。
 fo_67: 允许使用音频
 fo_68: 允许使用视频
 fo_69: 拒绝使用音频
@@ -199,3 +199,17 @@ fo_195: 客服人员无法看见您
 fo_196: 但能听到您的声音。
 
 fo_197: 我能激活您的麦克风吗?我们将能谈话。我看不见您。
+
+fo_198: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you.
+fo_199: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
+
+fo_200: I can't hear you but I can receive your text messages.
+
+fo_201: URL window shared by
+fo_202: Product webcam shared by
+fo_203: Screen shared by
+
+fo_204: 我们语音聊天吧！
+fo_205: 我们视频聊天吧！
+
+fo_206: 听起来不错！
