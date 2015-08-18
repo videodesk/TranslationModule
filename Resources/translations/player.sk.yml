@@ -33,54 +33,54 @@ fo_32: Ľutujeme, naši agenti sú zaneprázdnení.
 fo_33: Prosíme zanechajte odkaz!
 fo_34: Poslať a odísť
 fo_35: Späť k názoru
-fo_36: Any suggestions?
-fo_37: I have opened a co-browse session.
-fo_38: Allow
-fo_39: Deny
+fo_36: Pripomienky?
+fo_37: Otvoril som súčasné prezeranie.
+fo_38: Povoliť
+fo_39: Odmietnuť
 fo_40: Prosíme vyplňte aspoň jedno zo zvýraznených polí
 fo_41: Chcel by som zdielať súbor s vami.
 fo_42: Súbor akceptovaný
 fo_43: Súbor odmietnutý
 fo_44: Akceptovať
 fo_45: Odmietnuť
-fo_46: "No, thanks"
-fo_47: "Thanks for contacting us."
-fo_48: "Would you like a copy of this conversation?"
+fo_46: "Nie, ďakujem"
+fo_47: "Ďakujeme za kontaktovanie."
+fo_48: "Chceli by ste kópiu tohto rozhovoru?"
 fo_49: Prosíme zadajte platnú e-mailovú adresu alebo telefónne číslo.
 fo_50: PDF Push
 fo_51: Video Push
-fo_52: Product camera
-fo_53: Your text conversation is now over.
-fo_54: Click here to expand
-fo_55: The agent is not available
+fo_52: Produktová kamera
+fo_53: Vaša textová konverzácia sa skončila.
+fo_54: Kliknite tu pre rozbalenie
+fo_55: Agent nie je dostupný
 fo_56: Agent
-fo_57: Ongoing co-browse session
+fo_57: Prebiehajúce súčasné prehľadávanie
 fo_58: Počas spoločného prehľadávania, náš agent môže vidieť čo je na webovej stránke, nie váš prehliadač, ani žiadne iné okno s otvorenou webovou stránkou. Agent nikdy nevidí nič iné na vašom počítači.
 fo_59: Pripájanie
-fo_60: Close video
-fo_61: Presentation video
-fo_62: Start a text conversation
-fo_63: Start a video conversation
+fo_60: Zatvoriť video
+fo_61: Prezentačné video
+fo_62: Začať textovú konverzáciu
+fo_63: Začať textovú a video konverzáciu
 fo_64: Radi Vám odpovieme na Váš email
-fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-fo_66: Can I activate your webcam? I will be able to see and hear you.
-fo_67: Audio access allowed
-fo_68: Video access allowed
-fo_69: Audio access denied
-fo_70: Video access denied
-fo_71: Allow
-fo_72: Deny
-fo_73: Can I co-browse our store with you?
-fo_74: Co-browse session has ended
-fo_75: Co-browse session has ended
-fo_76: Cobrowsing access granted
-fo_77: Cobrowsing access denied
-fo_78: Select an option to start the conversation
-fo_79: Don't worry, I will not see you
-fo_80: Video call
-fo_81: Text chat
-fo_82: Tired of typing?
-fo_83: We are also available for a video chat
+fo_65: Môžem aktivovať váš mikrofón? Budete môcť vidieť a počuť ma, ja vás nebudem vidieť.
+fo_66: Môžem aktivovať vašu webkameru? Budem môcť vidieť a počuť vás.
+fo_67: Audio prístup povolený
+fo_68: Video prístup povolený
+fo_69: Audio prístup odmietnutý
+fo_70: Video prístup odmietnutý
+fo_71: Povoliť
+fo_72: Odmietnuť
+fo_73: Môžem súčasne prezerať náš obchod s vami?
+fo_74: Súčasné prezeranie bolo ukončené
+fo_75: Súčasné prezeranie bolo ukončené
+fo_76: Prístup pre súčasné prezeranie povolené
+fo_77: Prístup pre súčasné prezeranie zamietnuté
+fo_78: Vyberte možnosť začať konverzáciu
+fo_79: Nebojte sa, nebudem vás vidieť
+fo_80: Video volanie
+fo_81: Textový chat
+fo_82: Unavený z písania?
+fo_83: Sme tiež k dispozícii pre videochat
 fo_84: Môžete hovoriť, agent vidí vás.
 fo_85: Môžete hovoriť, agent nevidí vás.
 fo_86: Vašu správu napíšte sem...
@@ -88,20 +88,20 @@ fo_87: bude dostupný za chvíľu.
 fo_88: Prijali ste audio konverzáciu
 fo_89: Prijali ste video konverzáciu
 fo_90: Konverzácia s 
-fo_91: Maximize
+fo_91: Maximalizovať
 fo_92: Zavesiť
-fo_93: Mute the webcam
-fo_94: Webcam is on
-fo_95: Mute the microphone
+fo_93: Vypnúť webkameru
+fo_94: Webkamera je zapnutá
+fo_95: Vypnúť mikrofón
 fo_96: Môj mikrofón je zapnutý
 fo_97: Môj mikrofón je vypnutý
 fo_98: Moja webkamera je zapnutá
 fo_99: Moja webkamera je vypnutá
-fo_100: You are seeing
-fo_101: You are not seeing
-fo_102: Microphone is on
+fo_100: Vidíte
+fo_101: Nevidíte
+fo_102: Mikrofón je zapnutý
 fo_103: Ja
-fo_104: you deny authorization bar
+fo_104: popierate povolenie
 fo_105: Tento agent nevidí a nepočuje vás.
 fo_106: Budem pri vás o chvíľu. Prosím čakajte pokiaľ sa video chat natiahne.
 fo_107: Ste si istý, že chcete ukončiť konverzáciu?
@@ -135,60 +135,60 @@ fo_134: Správa odoslaná
 fo_135: Zatvoriť
 fo_136: Agent vás nevidí a nepočuje.
 fo_137: Agent vás nevidí, ale počuje vás.
-fo_138: allowed
-fo_139: denied
-fo_140: Access
-fo_141: The
-fo_142: cannot see you but he is able to hear you.
-fo_143: cannot see or hear you.
-fo_144: The agent can see and hear you.
-fo_145: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
+fo_138: povolený
+fo_139: odmietnutý
+fo_140: Prístup
+fo_141: ''
+fo_142: nevidím vás ale počujem vás.
+fo_143: nevidím a nepočujem vás.
+fo_144: Agent vás vidí a počuje.
+fo_145: Ľutujeme, žiaľ agent ktorému ste volali je momentálne nedostupný.
 fo_146: Chcete dostať kópiu konverzácie?
-fo_147: Click on the ‘‘Allow’’ button,
-fo_148: to turn on your webcam.
-fo_149: to turn on your microphone.
-fo_150: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
-fo_151: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
-fo_152: microphone icon
-fo_153: camera icon
-fo_154: First click on the
-fo_155: above.
-fo_156: this will make the menu appear.
-fo_157: Click “Share selected device” button,
-fo_158: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
-fo_159: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
-fo_160: Co-browse session has ended.
-fo_161: Click “allow once” button
-fo_162: I will be with you in just a moment. Please wait while the text chat loads.
-fo_163: Your text chat has ended.
-fo_164: The agent can see you but is not able to hear you.
-fo_165: Has this conversation been helpful?
-fo_166: Would you recommend this experience to your friends?
-fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+fo_147: Kliknite na  ‘‘Povoliť’’ butón,
+fo_148: zapnite webkameru.
+fo_149: zapnite mikrofón.
+fo_150: Kliknutím na “Povoliť”, agent na stránke ktorú prezeráte bude môcť vás vidieť a počuť.
+fo_151: Kliknutím na “Povoliť”, agent na stránke ktorú prezeráte bude môcť vás počuť.
+fo_152: ikonu mikrofónu
+fo_153: ikonu kamery
+fo_154: Najprv kliknite na
+fo_155: vyššie.
+fo_156: to umožní aby sa objavilo menu.
+fo_157: Kliknite na tlačidlo “Zdielať vybrané zariadenia”,
+fo_158: Kliknutím “Povoliť raz”, agent na stránke ktorú prezeráte bude môcť vás vidieť a počuť.
+fo_159: Kliknutím “Povoliť raz”, agent na stránke ktorú prezeráte bude môcť vás počuť.
+fo_160: Súčasné prezeranie sa ukončilo.
+fo_161: Kliknite na “liť raz” butón
+fo_162: Budem pri vás o chvíľu. Prosím počkajte kým sa textový chat natiahne.
+fo_163: Váš textový chat sa skončil.
+fo_164: Agent vás vidí, ale nepočuje.
+fo_165: Bola táto konverzácia nápomocná?
+fo_166: Odporučili by ste tento poznatok vášmu známemu?
+fo_167: Vaše internetové pripojenie nepodporuje video a audio chat. Avšak môžeme chatovať.  #when webuser switch to chat text
 
 
-fo_168: We're here to help #grabber_advisor_1 
-fo_169: Live sales advisors #grabber_advisor_2 
-fo_170: How can I help you? #grabber_message_1 
-fo_171: An operator is available now to answer your questions. #grabber_message_2 
-fo_172: Start a conversation now #call_button_txt
-fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
-fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
-fo_175: Leave a message
-fo_176: Your conversation transcript with
-fo_177: My text chat conversation  #My text chat conversation
-fo_178: My video chat conversation #My video chat conversation
-fo_179: Hello, #Hi
-fo_180: Your recent chat with one of our agents is attached below. #We have to pleasure to send you the transcript of your discussion.
-fo_181: Please find the entire conversation attached below. #Please find the entire conversation attached below.
-fo_182: We hope to see you again, soon! #We look forward to seeing you again on
-fo_183: Thank you for your visit, #Thank you for your visit
-fo_184: Videos shared during the conversation. #videos push during the conversation
-fo_185: Files shared during the conversation. #files push during the conversation
-fo_186: View this email in your browser # do not exist in old file
-fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
+fo_168: Sme tu pre pomoc #grabber_advisor_1 
+fo_169: Online poradcovia #grabber_advisor_2 
+fo_170: Poradím vám? #grabber_message_1 
+fo_171: Agent je dostupný aby odpovedal na vaše otázky. #grabber_message_2 
+fo_172: Začnite konverzáciu teraz #call_button_txt
+fo_173: Nie je dostupný agent pre video chat. #fallback_timeout_calls_txt
+fo_174: Nie je dostupný agent pre video chat. #fallback_timeout_unavailble_txt
+fo_175: Zanechajte odkaz
+fo_176: Prepis vášho rozhovoru s
+fo_177: Moja textová konverzácia  #My text chat conversation
+fo_178: Moja video chat konverzácia #My video chat conversation
+fo_179: Dobrý deň, #Hi
+fo_180: Váš nedávny rozhovor s jedným z našich agentov je pripojený nižšie. #We have to pleasure to send you the transcript of your discussion.
+fo_181: Celú konverzáciu nájdete priložene nižšie. #Please find the entire conversation attached below.
+fo_182: Dúfame, že sa čoskoro opäť uvidíme. #We look forward to seeing you again on
+fo_183: Ďakujeme za návštevu, #Thank you for your visit
+fo_184: Videá zdieľané počas hovoru. #videos push during the conversation
+fo_185: Súbory zdieľané počas hovoru. #files push during the conversation
+fo_186: Pozrite si tento e-mail vo svojom prehliadači # do not exist in old file
+fo_187: Ak zvolíte videohovor, budem mať možnosť vidieť vás. # do not exist in old file
 fo_188: PDF
-fo_189: You might also be interested in:
-fo_190: has shared the following:
+fo_189: Mohlo by vás tiež zaujímať:
+fo_190: zdieľa nasledujúce:
 fo_191: Video
 fo_192: KB
