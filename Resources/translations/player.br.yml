@@ -164,7 +164,7 @@ fo_163: Seu chat de texto terminou.
 fo_164: O agente pode vê-lo, mas não consegue ouvi-lo.
 fo_165: A conversa foi-lhe útil?
 fo_166: Recomendaria a experiência aos seus amigos?
-fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+fo_167: Sua conexão à Internet não suporta conversas por vídeo ou áudio. Porém, ainda podemos falar por texto. #when webuser switch to chat text
 
 
 fo_168: Estamos aqui!
@@ -174,7 +174,7 @@ fo_171: Deixe a sua mensagem
 fo_172: Começar agora uma conversa
 fo_173: Não há agentes de chat de vídeo disponíveis.
 fo_174: Não há agentes de chat de vídeo disponíveis.
-fo_175: Leave a message
+fo_175: Escrever mensagem
 fo_176: A sua transcrição com
 fo_177: Minha conversa de texto  #My text chat conversation
 fo_178: Minha conversa de vídeo #My video chat conversation
@@ -185,19 +185,33 @@ fo_182: Esperamos voltar a falar em breve. #We look forward to seeing you again 
 fo_183: Agradecemos a sua visita. #Thank you for your visit
 fo_184: Vídeos compartilhados durante a conversa. #videos push during the conversation
 fo_185: Arquivos compartilhados durante a conversa. #files push during the conversation
-fo_186: View this email in your browser # do not exist in old file
-fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
+fo_186: Veja este e-mail em seu navegador # do not exist in old file
+fo_187: Se escolher Chamada de Vídeo, poderei vê-lo. # do not exist in old file
 fo_188: PDF
-fo_189: You might also be interested in:
-fo_190: has shared the following:
-fo_191: Video
+fo_189: Você também pode curtir:
+fo_190: compartilhou o seguinte:
+fo_191: Vídeo
 fo_192: KB
 
 
-fo_193: PDF document shared by
-fo_194: Video shared by
+fo_193: Documento PDF compartilhado por
+fo_194: Vídeo compartilhado por
 
-fo_195: The agent cannot see you 
-fo_196: but is able to hear you.
+fo_195: O agente não pode vê-lo(a) 
+fo_196: mas pode ouvi-lo(a).
 
-fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
+fo_197: Posso ativar o seu microfone? Nós poderemos conversar e ouvir um ao outro. Porém, eu não poderei ver você.
+
+fo_198: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you.
+fo_199: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
+
+fo_200: I can't hear you but I can receive your text messages.
+
+fo_201: URL window shared by
+fo_202: Product webcam shared by
+fo_203: Screen shared by
+
+fo_204: Let's voice chat!
+fo_205: Let's video chat!
+
+fo_206: Parece bom!
