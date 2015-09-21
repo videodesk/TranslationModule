@@ -185,20 +185,36 @@ fo_182: Speriamo di rivederti presto. #We look forward to seeing you again on
 fo_183: Grazie per la visita. #Thank you for your visit
 fo_184: Video condivisi durante la conversazione. #videos push during the conversation
 fo_185: File condivisi durante la conversazione. #files push during the conversation
-fo_186: View this email in your browser # do not exist in old file
-fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
+fo_186: Visualizza questa e-mail nel tuo browser # do not exist in old file
+fo_187: Se selezioni Chiamata video, sarò in grado di vederti. # do not exist in old file
 
 fo_188: PDF
-fo_189: You might also be interested in:
-fo_190: has shared the following:
+fo_189: Potrebbe interessarti anche:
+fo_190: ha condiviso ciò che segue:
 fo_191: Video
 fo_192: KB
 
 
-fo_193: PDF document shared by
-fo_194: Video shared by
+fo_193: Documento PDF condiviso da
+fo_194: Video condiviso da
 
-fo_195: The agent cannot see you 
-fo_196: but is able to hear you.
+fo_195: L'agente non può vederti
+fo_196: ma è in grado di sentirti.
 
-fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
+fo_197: Posso attivare il tuo microfono? Potremo parlare e ascoltarci, ma non potrò vederti.
+fo_198: Facendo clic su “Condividi il dispositivo selezionato”, l'agente di supporto sul sito web in cui stai navigando sarà in grado di vederti e sentirti.
+fo_199: Facendo clic su “Condividi il dispositivo selezionato”, l'agente di supporto sul sito web in cui stai navigando sarà in grado di sentirti.
+
+fo_200: Non posso sentirti, ma posso ricevere i tuoi messaggi di testo.
+
+fo_201: Finestra URL condivisa da
+fo_202: Webcam prodotto condivisa da
+fo_203: Schermo condiviso da
+
+fo_204: Avviamo una chat vocale!
+fo_205: Avviamo una chat video!
+
+fo_206: Fantastico!
+
+fo_207: La tua video-conversazione è terminata
+fo_208: Qualcosa non ha funzionato correttamente
