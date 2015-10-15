@@ -238,12 +238,10 @@ fo_216: Launch the audio
 fo_217: Click Allow to validate
 fo_218: Don't worry, we will not see you unless you specifically authorize it!
 
-fo_219: To enable voice chat
-fo_220: To enable video chat
+fo_219: To enable voice chat, simply click the
+fo_220: To enable video chat, simply click the
 
-fo_221: simply click the
+fo_221: “Allow”
+fo_222: “Share selected devices”
 
-fo_222: “Allow”
-fo_223: “Share selected devices”
-
-fo_224: button when prompted by your browser.
+fo_223: button when prompted by your browser.
