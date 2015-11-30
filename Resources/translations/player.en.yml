@@ -255,3 +255,12 @@ fo_227: Mic muted
 fo_228: Allow access
 fo_229: For the moment I cannot hear you. If you want to speak to me, please activate your microphone.
 
+fo_230: cobrowse terminated with success
+fo_231: cobrowse terminated failed
+fo_232: cobrowse api not ready at the moment.
+fo_233: closing...
+fo_234: already closing...
+fo_235: Agent has ended co-browse
+fo_236: Webuser has ended co-browse
+
+
