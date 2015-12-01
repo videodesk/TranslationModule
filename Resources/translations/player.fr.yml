@@ -237,3 +237,18 @@ fo_222: “Partager le périphérique sélectionné”
 
 fo_223: lorsque cela vous est proposé par votre navigateur.
 fo_224: Envoi en cours
+
+fo_225: Co-navigation acceptée
+fo_226: Co-navigation refusée
+
+fo_227: Microphone coupé
+fo_228: Autoriser l'accès
+fo_229: Je ne vous entends pas. Si vous souhaitez me parler, veuillez activer votre microphone.
+
+fo_230: Fin de la co-navigation.
+fo_231: Echec de la fermeture de la co-navigation.
+fo_232: API co-navigation pas encore prête.
+fo_233: fermeture...
+fo_234: fermeture en cours...
+fo_235: Le conseiller a mis fin à la co-navigation
+fo_236: L'internaute a mis fin à la co-navigation
