@@ -6,15 +6,15 @@ fo_5: verzenden
 fo_6: Voornaam
 fo_7: Achternaam
 fo_8: Bedrijfsnaam
-fo_9: Email adres
+fo_9: E-mailadres
 fo_10: Telefoonnummer
 fo_11: Bericht
-fo_12: Geef ons uw <strong>mening</strong><br/>over dit gesprek.
+fo_12: Wij ontvangen graag uw mening over deze chat-functie.
 fo_13: Zou u ons aanraden bij uw Facebook vrienden?
-fo_14: SVP uw email adres opgeven
+fo_14: SVP uw e-mailadres invullen
 fo_15: Dit gesprek is verzonden
 fo_16: Lopend gesprek
-fo_17: SVP email veld invullen
+fo_17: SVP e-mail veld invullen
 fo_18: SVP telefoonnummer veld invullen
 fo_19: SVP het voornaam veld invullen
 fo_20: SVP het achternaam veld invullen
@@ -24,7 +24,7 @@ fo_23: Zeer slecht
 fo_24: Neutraal
 fo_25: Goed
 fo_26: Geweldig
-fo_27: 'ongeldig emailadres'
+fo_27: 'ongeldig e-mailadres'
 fo_28: verplicht veld
 fo_29: Boodschap verstuurd
 fo_30: Sorry, ik kan momenteel uw vraag niet beantwoorden. Laat alstublieft een bericht achter.
@@ -34,24 +34,24 @@ fo_33: Laat hier een bericht achter!
 fo_34: Verzenden en stoppen
 fo_35: Terug naar feedback
 fo_36: Eventuele suggesties?
-fo_37: I have opened a co-browse session.
-fo_38: Allow
-fo_39: Deny
+fo_37: Ik heb een co-browse sessie geopend.
+fo_38: Toestaan
+fo_39: Afwijzen
 fo_40: Verplicht veld.
-fo_41: I would like to share a file with you.
-fo_42: File accepted
-fo_43: File declined
-fo_44: Accept
-fo_45: Decline
-fo_46: "No, thanks"
-fo_47: "Thanks for contacting us."
-fo_48: "Would you like a copy of this conversation?"
-fo_49: Please enter a valid email address or a telephone number.
+fo_41: Ik wil een file met u delen.
+fo_42: File geaccepteerd
+fo_43: File afgewezen
+fo_44: Accepteren
+fo_45: Afwijzen
+fo_46: "Nee, dank u"
+fo_47: "Hartelijk dank voor deze chat-sessie. Wij hopen dat al uw vragen beantwoord zijn."
+fo_48: "Wilt u een kopie van deze chat ontvangen?"
+fo_49: Graag een geldig e-mailadres of telefoonnummer invoeren.
 fo_50: PDF Push
 fo_51: Video Push
 fo_52: Product camera
-fo_53: Your text conversation is now over.
-fo_54: Click here to expand
+fo_53: Deze chat-sessie is nu beëindigd.
+fo_54: Klik hier voor vergroten.
 fo_55: Onze adviseurs zijn niet beschikbaar
 fo_56: Agent
 fo_57: Ongoing co-browse session
@@ -81,68 +81,68 @@ fo_80: Video call
 fo_81: Text chat
 fo_82: Tired of typing?
 fo_83: We are also available for a video chat
-fo_84: We kunnen praten, je ziet.
-fo_85: We kunnen praten, je bent niet te zien.
+fo_84: We kunnen praten, u bent te zien.
+fo_85: We kunnen praten, u bent niet te zien.
 fo_86: Typ hier uw bericht...
 fo_87: 'zal over enkele ogenblikken antwoorden.'
 fo_88: U heeft dit audio gesprek geaccepteerd
 fo_89: U heeft dit video gesprek geaccepteerd
 fo_90: Gesprek met 
-fo_91: Maximize
-fo_92: Hang up
-fo_93: Mute the webcam
-fo_94: Webcam is on
-fo_95: Mute the microphone
+fo_91: Maximaliseren
+fo_92: Neerleggen
+fo_93: Webcam uitzetten
+fo_94: Webcam staat aan
+fo_95: Microfoon uitzetten
 fo_96: Mijn microfoon is ingeschakeld
 fo_97: Mijn microfoon is uitgeschakeld
 fo_98: Mijn webcam is ingeschakeld
 fo_99: Mijn webcam is uitgeschakeld
-fo_100: You are seeing
-fo_101: You are not seeing
-fo_102: Microphone is on
+fo_100: U bent te zien
+fo_101: U bent niet te zien
+fo_102: Microfoon staat aan
 fo_103: ik
-fo_104: you deny authorization bar
-fo_105: The agent cannot see or hear you.
-fo_106: I will be with you in just a moment. Please wait while the video chat loads.
-fo_107: Bent u zeker dat u het gesprek wil beëindigen?
-fo_108: Are you sure? This will end the conversation.
-fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
-fo_110: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-fo_111: The agent cannot see or hear you.
-fo_112: Can I co-browse our store with you?
-fo_113: Allow
-fo_114: Deny
-fo_115: Verzend en stop
+fo_104: U wijst de authorisatiebalk af.
+fo_105: De medewerker kan u niet zien of horen.
+fo_106: Ik ben dadelijk bij u. Een moment geduld aub, de video-chat is aan het laden.
+fo_107: Weet u zeker dat u het gesprek wilt beëindigen?
+fo_108: Weet u het zeker? Dit zal deze chat-sessie beëindigen. 
+fo_109: Uw internetverbinding staat video-chat niet toe. Gesproken chat of tekst-chat is wel mogelijk.
+fo_110: Uw microfoon staat niet ingeschakeld. Ik kan u niet horen; ik kan wel uw tekst-chat ontvangen.
+fo_111: De medewerker kan u niet zien of horen.
+fo_112: Kan ik u onze webshop laten zien? 
+fo_113: Toestaan
+fo_114: Afwijzen
+fo_115: Verzenden en stoppen
 fo_116: Survey sent.
-fo_117: Click this button to turn on your microphone.
-fo_118: I will now switch on my microphone.
-fo_119: Sorry, no agents has responded in time.
-fo_120: Unable to connect.
-fo_121: I am currently not available. Please leave a message.
-fo_122: Your video chat has ended.
+fo_117: Klik op deze knop om de microfoon aan te zetten.
+fo_118: Ik zet nu mijn microfoon aan.
+fo_119: Excuses, de medewerker heeft niet op tijd gereageerd.
+fo_120: Geen verbinding mogelijk.
+fo_121: Op dit moment ben ik niet beschikbaar, laat een boodschap achter.
+fo_122: Deze video-chat is beëindigd.
 fo_123: Uw mening telt voor ons.
-fo_124: Bedankt om met ons te chatten vandaag.
-fo_125: Invalid email address.
+fo_124: Wij dank u voor deze chat-sessie.
+fo_125: Ongeldig e-mail adres
 fo_126: Vul je e-mail adres in.
 fo_127: Neen
 fo_128: Leg voor
 fo_129: Transcript sent
-fo_130: We are unable to connect you to an agent.
-fo_131: Your email address
-fo_132: Your phone number
-fo_133: Your message here
-fo_134: Message sent
-fo_135: Close
-fo_136: The agent cannot see or hear you.
-fo_137: The agent cannot see you but he is able to hear you.
-fo_138: allowed
-fo_139: denied
-fo_140: Access
-fo_141: The
-fo_142: cannot see you but he is able to hear you.
-fo_143: cannot see or hear you.
-fo_144: The agent can see and hear you.
-fo_145: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
+fo_130: Wij kunnen u niet verbinden met een medewerker. 
+fo_131: Uw e-mailadres
+fo_132: Uw telefoonnummer
+fo_133: Uw bericht
+fo_134: Bericht verstuurd
+fo_135: Sluiten
+fo_136: De medewerker kan u niet zien of horen.
+fo_137: De medewerker kan u niet zien, maar wel horen.
+fo_138: Toestaan
+fo_139: Afwijzen
+fo_140: Toegang
+fo_141: De
+fo_142: kan u niet zien, maar wel horen.
+fo_143: kan u niet zien of horen.
+fo_144: De medewerker kan u zien en horen.
+fo_145: Onze excuses. De medewerker die u wilt spreken is op dit moment niet beschikbaar.
 fo_146: Wilt u graag een kopie van ons gesprek?
 fo_147: Click on the ‘‘Allow’’ button,
 fo_148: to turn on your webcam.
@@ -161,14 +161,14 @@ fo_160: Co-browse session has ended.
 fo_161: Click “allow once” button
 fo_162: Ik kom zo dadelijk bij u. Het chatvenster is aan het openen, een ogenblikje alstublieft.
 fo_163: Uw chat is afgelopen.
-fo_164: The agent can see you but is not able to hear you.
-fo_165: Heeft dit gesprek geweest nuttig?
-fo_166: Zou u deze ervaring aan je vrienden aanbevelen?
-fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
+fo_164: De medewerker kan u zien, maar niet horen. 
+fo_165: Heeft deze chat u geholpen?
+fo_166: Zou u deze functie bij collega's aanbevelen?
+fo_167: Uw internetverbinding staat video-chat of gesproken chat niet toe. Tekst-chat is wel mogelijk. #when webuser switch to chat text
 
 
-fo_168: We're here to help #grabber_advisor_1 
-fo_169: Live sales advisors #grabber_advisor_2 
+fo_168: Wij kunnen u van dienst zijn. #grabber_advisor_1 
+fo_169: Live verkoopmedewerkers #grabber_advisor_2 
 fo_170: How can I help you? #grabber_message_1 
 fo_171: An operator is available now to answer your questions. #grabber_message_2 
 fo_172: Start a conversation now #call_button_txt
@@ -176,13 +176,13 @@ fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
 fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
 fo_175: Leave a message
 fo_176: Your conversation transcript with
-fo_177: My text chat conversation  #My text chat conversation
-fo_178: My video chat conversation #My video chat conversation
-fo_179: Hello, #Hi
-fo_180: Your recent chat with one of our agents is attached below. #We have to pleasure to send you the transcript of your discussion.
-fo_181: Please find the entire conversation attached below. #Please find the entire conversation attached below.
-fo_182: We hope to see you again, soon! #We look forward to seeing you again on
-fo_183: Thank you for your visit, #Thank you for your visit
+fo_177: Mijn chat met hoffmann  #My text chat conversation
+fo_178: Mijn video-chat met hoffmann #My video chat conversation
+fo_179: Goedendag, #Hi
+fo_180: U heeft zojuist een chat-sessie gehad met één van onze medewerkers. Wij hopen u van dienst te zijn geweest en dat uw vragen zijn beantwoord. #We have to pleasure to send you the transcript of your discussion.
+fo_181: U heeft aangegeven de chat per e-mail te willen ontvangen. Hieronder vindt u de gehele chat. #Please find the entire conversation attached below.
+fo_182: Wij danken u hartelijk en graag tot een volgende keer! #We look forward to seeing you again on
+fo_183: Wij danken u voor uw bezoek. #Thank you for your visit
 fo_184: Videos shared during the conversation. #videos push during the conversation
 fo_185: Files shared during the conversation. #files push during the conversation
 fo_186: View this email in your browser # do not exist in old file
@@ -198,7 +198,7 @@ fo_192: KB
 fo_193: PDF document shared by
 fo_194: Video shared by
 
-fo_195: The agent cannot see you 
-fo_196: but is able to hear you.
+fo_195: De medewerker kan u niet zien,
+fo_196: maar wel horen.
 
-fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
+fo_197: Kan ik uw microfoon aanzetten? We kunnen elkaar horen, maar niet zien. 
