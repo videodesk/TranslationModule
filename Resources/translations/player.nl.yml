@@ -202,3 +202,60 @@ fo_195: De medewerker kan u niet zien,
 fo_196: maar wel horen.
 
 fo_197: Kan ik uw microfoon aanzetten? We kunnen elkaar horen, maar niet zien. 
+
+fo_198: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you.
+fo_199: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
+
+fo_200: I can't hear you but I can receive your text messages.
+
+fo_201: URL window shared by
+fo_202: Product webcam shared by
+fo_203: Screen shared by
+
+fo_204: Let's voice chat!
+fo_205: Let's video chat!
+
+fo_206: Sounds good!
+
+fo_207: Your video conversation has ended
+fo_208: Helaas, er ging iets mis 
+
+fo_209: Can I co-browse the website with you?
+
+fo_210: Connection too slow.
+fo_211: Only voice chat is possible for the moment.
+fo_212: Only text chat is possible for the moment.
+
+fo_213: Step
+fo_214: To enable voice chat, please follow<br>the on-screen instructions
+fo_215: Allow access to your microphone
+fo_216: Launch the audio
+fo_217: Click Allow to validate
+fo_218: Don't worry, we will not see you unless you specifically authorize it!
+
+fo_219: To enable voice chat, simply click the
+fo_220: To enable video chat, simply click the
+
+fo_221: “Allow”
+fo_222: “Share selected devices”
+
+fo_223: button when prompted by your browser.
+fo_224: Sending
+
+
+fo_225: Co-browse accepted
+fo_226: Co-browse denied
+
+fo_227: Mic muted
+fo_228: Allow access
+fo_229: For the moment I cannot hear you. If you want to speak to me, please activate your microphone.
+
+fo_230: Co-browse successfully closed
+fo_231: Failed closing co-browse
+fo_232: Co-browse API not ready.
+fo_233: closing...
+fo_234: already closing...
+fo_235: Agent has ended co-browse
+fo_236: Webuser has ended co-browse
+
+fo_237: Don't worry, the agent cannot control your computer
