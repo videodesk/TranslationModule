@@ -44,7 +44,7 @@ fo_43: File afgewezen
 fo_44: Accepteren
 fo_45: Afwijzen
 fo_46: "Nee, dank u"
-fo_47: "Hartelijk dank voor deze chat-sessie. Wij hopen dat al uw vragen beantwoord zijn."
+fo_47: "Hartelijk dank voor deze chat-sessie."
 fo_48: "Wilt u een kopie van deze chat ontvangen?"
 fo_49: Graag een geldig e-mailadres of telefoonnummer invoeren.
 fo_50: PDF Push
@@ -176,8 +176,8 @@ fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
 fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
 fo_175: Leave a message
 fo_176: Your conversation transcript with
-fo_177: Mijn chat met hoffmann  #My text chat conversation
-fo_178: Mijn video-chat met hoffmann #My video chat conversation
+fo_177: Mijn chat  #My text chat conversation
+fo_178: Mijn video-chat #My video chat conversation
 fo_179: Goedendag, #Hi
 fo_180: U heeft zojuist een chat-sessie gehad met één van onze medewerkers. Wij hopen u van dienst te zijn geweest en dat uw vragen zijn beantwoord. #We have to pleasure to send you the transcript of your discussion.
 fo_181: U heeft aangegeven de chat per e-mail te willen ontvangen. Hieronder vindt u de gehele chat. #Please find the entire conversation attached below.
