@@ -230,6 +230,51 @@ fo_215: Consenti l'accesso al microfono
 fo_216: Avvia l'audio
 fo_217: Fare clic su Consenti per convalidare
 fo_218: Non ti preoccupare, non potremo vederti se non dietro tua espressa autorizzazione!
+fo_219: Per attivare la chat vocale, è sufficiente fare clic su
+fo_220: Per attivare la chat video, è sufficiente fare clic sul pulsante
+
+fo_221: “Consenti”
+fo_222: “Condividi dispositivi selezionati”
+
+fo_223: quando richiesto dal browser in uso.
+fo_224: Invio in corso
 
 
-fo_224: sto inviando
+fo_225: Navigazione condivisa accettata
+fo_226: Navigazione condivisa negata
+
+fo_227: Mic. muto
+fo_228: Consenti accesso
+fo_229: Al momento non posso sentirti. Se desideri parlarmi, attiva il tuo microfono.
+
+fo_230: Navigazione condivisa chiusa correttamente
+fo_231: Impossibile chiudere la navigazione condivisa
+fo_232: API navigazione condivisa non pronta.
+fo_233: chiusura in corso...
+fo_234: chiusura già in corso...
+fo_235: L'agente ha terminato la navigazione condivisa
+fo_236: L'utente Web ha terminato la navigazione condivisa
+
+fo_237: Non preoccuparti, l'agente non può controllare il tuo computer
+
+
+
+
+fo_238: <p>Per attivare la chat vocale, è sufficiente fare clic</p><p>sul pulsante <span>"consenti"</span> </p><p>quando richiesto dal browser in uso.</p>
+fo_239: Grazie!
+fo_240: Ora puoi parlare con l'agente che hai chiamato.
+fo_241: Non chiudere questa finestra.
+fo_242: Fare clic qui per ridurre questa finestra
+fo_243: Non preoccuparti, non ti vedremo!
+fo_244: o l'agente non sarà in grado di sentirti.
+
+fo_245: Webcam disattivata
+fo_246: Non preoccuparti, puoi disattivare in qualsiasi momento la tua webcam e/o il tuo microfono
+fo_247: <p>Per attivare la chat video, è sufficiente fare clic</p><p>sul pulsante <span>"consenti"</span> </p><p>quando richiesto dal browser in uso.</p>
+fo_248: Ora puoi parlare con l'agente che hai chiamato. L'agente può vederti.
+fo_249: Fare clic qui per risolvere quel problema
+fo_250: Si è verificato un errore con l'autorizzazione del microfono e della webcam
+fo_251: Non sono attualmente in grado di sentirti o vederti. Se vuoi parlare con me ed essere visto, attiva la tua webcam
+fo_252: o l'agente non sarà in grado di vederti o sentirti.
+fo_253: Non sarai più sentito dall'agente
+fo_254: Non sarai più visto e sentito dall'agente
