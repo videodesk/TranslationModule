@@ -230,6 +230,51 @@ fo_215: Permitir acceso a tu micrófono
 fo_216: Iniciar el audio
 fo_217: Hacer clic en Permitir para confirmar
 fo_218: No se preocupe, no le veremos a menos que lo autorice expresamente. 
+fo_219: Para activar la llamada, haz clic en el
+fo_220: Para activar la videollamada, haz clic en el botón de
+
+fo_221: “Permitir”
+fo_222: “Compartir dispositivos seleccionados”
+
+fo_223: cuando te lo pida el navegador.
+fo_224: Enviando
 
 
-fo_224: enviando
+fo_225: Conavegación aceptada
+fo_226: Conavegación rechazada
+
+fo_227: Micrófono en silencio
+fo_228: Permitir acceso
+fo_229: En estos momentos no puedo escucharte. Si deseas hablar conmigo, activa tu micrófono.
+
+fo_230: Se ha cerrado la conavegación con éxito
+fo_231: Se ha producido un fallo al cerrar la conavegación
+fo_232: La API de conavegación no está lista.
+fo_233: cerrando...
+fo_234: cierre en proceso...
+fo_235: El asesor ha terminado la conavegación
+fo_236: El usuario ha terminado la conavegación
+
+fo_237: No te preocupes, el asesor no puede controlar tu ordenador
+
+
+
+
+fo_238: <p>Para activar la llamada, haz clic </p><p>en el botón <span>"permitir"</span> </p><p>cuando te lo pida el navegador.</p>
+fo_239: ¡Gracias!
+fo_240: Ya puedes hablar con el asesor al que has llamado.
+fo_241: No cierres esta ventana.
+fo_242: Haz clic aquí para reducir el tamaño de esta ventana
+fo_243: No te preocupes. ¡No te podremos ver!
+fo_244: ni el asesor podrá escucharte.
+
+fo_245: Cámara desactivada
+fo_246: No te preocupes, puedes desactivar la cámara o el micrófono cuando quieras
+fo_247: <p>Para activar la videollamada, haz clic </p><p>en el botón <span>"permitir"</span> </p><p>cuando te lo pida el navegador.</p>
+fo_248: Ya puedes hablar con el asesor al que has llamado. El asesor te puede ver.
+fo_249: Haz clic aquí para arreglar el problema
+fo_250: Se ha producido un error en la autorización del micrófono y de la cámara
+fo_251: En estos momentos no te puedo ver ni escuchar. Si deseas hablar conmigo y que te vea, activa la cámara web
+fo_252: o el asesor no podrá verte ni escucharte.
+fo_253: El asesor ya no podrá escucharte.
+fo_254: El asesor ya no podrá escucharte o verte.
