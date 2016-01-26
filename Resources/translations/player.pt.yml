@@ -230,5 +230,51 @@ fo_215: Permitir acesso ao seu microfone
 fo_216: Executar áudio
 fo_217: Clique em Permitir para validar
 fo_218: Não se preocupe, não veremos você a não ser que autorize!
+fo_219: Para ativar o chat de voz, simplesmente clique
+fo_220: Para ativar o chat de vídeo, simplesmente clique
 
-fo_224: enviando
+fo_221: “Permitir”
+fo_222: “Compartilhar dispositivos selecionados”
+
+fo_223: quando indicado por seu browser.
+fo_224: Enviando
+
+
+fo_225: Co-browse aceito
+fo_226: Co-browse recusado
+
+fo_227: Microfone silenciado
+fo_228: Permitir acesso
+fo_229: No momento não o(a). consigo ouvir. Se quiser falar comigo, por favor, ative seu microfone.
+
+fo_230: Co-browse encerrado com sucesso
+fo_231: Falha no encerramento do co-browse
+fo_232: O Co-browse API não está pronto.
+fo_233: encerrando...
+fo_234: ainda a encerrar...
+fo_235: O Agente terminou o co-browse
+fo_236: O webuser terminou o co-browse
+
+fo_237: Não se preocupe, o agente não consegue controlar seu computador
+
+
+
+
+fo_238: <p>Para permitir o chat de voz, simplesmente clique </p><p>no<span>"botão"</span> button</p><p>quando indicado por seu browser.</p>
+fo_239: Obrigado!
+fo_240: Agora pode falar com o agente.
+fo_241: Não feche esta janela.
+fo_242: Clique aqui para minimizar esta janela
+fo_243: Não se preocupe, não o (a) vemos!
+fo_244: ou o agente não o (a) conseguirá ouvir.
+
+fo_245: Câmera desativada
+fo_246: Não se preocupe, pode desativar sua câmara e/ou microfone em qualquer momento
+fo_247: <p>Para permitir o chat de vídeo, simplesmente clique</p><p>em <span>"permitir"</span> button</p><p>quando indicado por seu browser.</p>
+fo_248: Agora	pode falar com o agente. O agente consegue vê-lo (a).
+fo_249: Clique aqui para resolver o problema
+fo_250: Houve um erro na autorização do microfone e da câmera
+fo_251: No momento, não o(a) consigo ouvir ou ver. Se gostaria de falar comigo e que o (a) veja, por favor, ative sua webcam
+fo_252: ou o agente não o(a) conseguirá ver ou ouvir.
+fo_253: O agente não o(a) ouvirá mais
+fo_254: O agente não o(a) verá ou ouvirá mais
