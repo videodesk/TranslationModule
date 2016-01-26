@@ -232,7 +232,51 @@ fo_216: Audio starten
 fo_217: Klicken Sie zum Bestätigen auf Erlauben
 fo_218: Machen Sie sich keine Sorgen, solange Sie uns nicht Ihre Erlaubnis geben, können wir Sie nicht sehen!
 
+fo_219: Zur Aktivierung des Voice-Chats klicken Sie einfach auf die Schaltfläche
+fo_220: Zur Aktivierung des Video-Chats klicken Sie einfach auf die Schaltfläche
+
+fo_221: “Erlauben”
+fo_222: “Ausgewählte Geräte teilen”
+
+fo_223: sobald Sie Ihr Browser dazu auffordert.
+fo_224: Wird gesendet
+
+
+fo_225: Co-Browsing akzeptiert
+fo_226: Co-Browsing verweigert
+
+fo_227: Mikrofon stumm
+fo_228: Zugriff erlauben
+fo_229: Ich kann Sie im Moment nicht hören. Wenn Sie mit mir sprechen möchten, aktivieren Sie bitte Ihr Mikrofon.
+
+fo_230: Co-Browsing erfolgreich geschlossen
+fo_231: Schließen des Co-Browsings fehlgeschlagen
+fo_232: API zum Co-Browsing nicht bereit.
+fo_233: wird geschlossen...
+fo_234: wird bereits geschlossen...
+fo_235: Der Berater hat das Co-Browsing beendet
+fo_236: Der Internet-Benutzer hat das Co-Browsing beendet
+
+fo_237: Keine Sorge, der Berater hat keine Kontrolle über Ihren Computer
 
 
 
-fo_224: sendet
+
+fo_238: <p>Um den Voice-Chat zu aktivieren, klicken Sie einfach</p><p>auf die Schaltfläche <span>"Erlauben"</span>,</p><p> sobald Sie von Ihrem Browser dazu aufgefordert werden.</p>
+fo_239: Danke!
+fo_240: Sie können jetzt mit dem angerufenen Berater sprechen.
+fo_241: Bitte lassen Sie dieses Fenster geöffnet.
+fo_242: Klicken Sie hier, um dieses Fenster zu minimieren.
+fo_243: Keine Sorge, wir können Sie nicht sehen!
+fo_244: ansonsten kann Sie der Berater nicht hören.
+
+fo_245: Kamera deaktiviert
+fo_246: Keine Sorge, Sie können Ihre Kamera und/oder Ihr Mikrofon jederzeit deaktivieren
+fo_247: <p>Um den Video-Chat zu aktivieren, klicken Sie einfach</p><p>auf die Schaltfläche<span>"Erlauben"</span>,</p><p>sobald Sie von Ihrem Browser dazu aufgefordert werden.</p>
+fo_248: Sie können jetzt mit dem angerufenen Berater sprechen. Der Berater kann Sie sehen.
+fo_249: Klicken Sie hier, um dieses Problem zu beheben.
+fo_250: Bei der Genehmigung für die Kamera und das Mikrofon ist etwas schiefgelaufen
+fo_251: Ich kann Sie gerade weder sehen noch hören. Wenn Sie mit mir sprechen und gesehen werden möchten, aktivieren Sie bitte Ihre Webcam
+fo_252: ansonsten kann Sie der Berater nicht hören oder sehen.
+fo_253: Der Berater kann Sie nicht mehr hören
+fo_254: Der Berater kann Sie nicht mehr hören oder sehen
