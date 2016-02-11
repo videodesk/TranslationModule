@@ -286,3 +286,6 @@ fo_251: I am currently unable to hear or see you. If you would like to speak to 
 fo_252: or the agent won't be able to see or hear you.
 fo_253: You will no longer be heard by the agent
 fo_254: You will no longer be seen or heard by the agent
+fo_255: The agent has switched to video chat
+fo_256: The agent has switched to audio chat
+fo_257: The agent has switched to text chat
