@@ -87,7 +87,7 @@ fo_86: Type your message here...
 fo_87: will be available in a few seconds.
 fo_88: You accepted the audio conversation
 fo_89: You accepted the video conversation
-fo_90: Conversation with 
+fo_90: Conversation with
 fo_91: Maximize
 fo_92: Hang up
 fo_93: Mute the webcam
@@ -167,10 +167,10 @@ fo_166: Would you recommend this experience to your friends?
 fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
 
 
-fo_168: We're here to help #grabber_advisor_1 
-fo_169: Live sales advisors #grabber_advisor_2 
-fo_170: How can I help you? #grabber_message_1 
-fo_171: An operator is available now to answer your questions. #grabber_message_2 
+fo_168: We're here to help #grabber_advisor_1
+fo_169: Live sales advisors #grabber_advisor_2
+fo_170: How can I help you? #grabber_message_1
+fo_171: An operator is available now to answer your questions. #grabber_message_2
 fo_172: Start a conversation now #call_button_txt
 fo_173: Our agent are unavailable right now, please try later. #fallback_timeout_calls_txt
 
@@ -201,7 +201,7 @@ fo_192: KB
 fo_193: PDF document shared by
 fo_194: Video shared by
 
-fo_195: The agent cannot see you 
+fo_195: The agent cannot see you
 fo_196: but is able to hear you.
 
 fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
@@ -289,3 +289,5 @@ fo_254: You will no longer be seen or heard by the agent
 fo_255: The agent has switched to video chat
 fo_256: The agent has switched to voice chat
 fo_257: The agent has switched to text chat
+fo_258: File downloaded
+fo_259: Sometthing went wrong
