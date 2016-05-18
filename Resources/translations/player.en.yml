@@ -293,8 +293,12 @@ fo_257: The agent has switched to text chat
 #live file sharing
 fo_258: File downloaded
 fo_259: Something went wrong
-fo_260: Upload a file
-fo_261: Upload complete
+
+#audio chat
+fo_260: Start a audio conversation
+fo_261: Audio chat
+
+#live file sharing
 fo_262: User is browsing the file through its device
 fo_263: File too big (max 5MB) !
 fo_264: Wrong file format !
@@ -302,3 +306,7 @@ fo_265: Upload in progress
 fo_266: File upload complete
 fo_267: Something went wrong during the upload of the file
 fo_268: Upload canceled !
+fo_269: Upload a file
+fo_270: Upload complete
+
+
