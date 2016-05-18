@@ -289,5 +289,16 @@ fo_254: You will no longer be seen or heard by the agent
 fo_255: The agent has switched to video chat
 fo_256: The agent has switched to voice chat
 fo_257: The agent has switched to text chat
+
+#live file sharing
 fo_258: File downloaded
 fo_259: Something went wrong
+fo_260: Upload a file
+fo_261: Upload complete
+fo_262: User is browsing the file through its device
+fo_263: File too big (max 5MB) !
+fo_264: Wrong file format !
+fo_265: Upload in progress
+fo_266: File upload complete
+fo_267: Something went wrong during the upload of the file
+fo_268: Upload canceled !
