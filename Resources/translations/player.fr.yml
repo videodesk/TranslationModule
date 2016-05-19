@@ -278,3 +278,21 @@ fo_256: Le conseiller est passé en conversation audio.
 fo_257: Le conseiller est passé en conversation texte.
 fo_258: Fichier téléchargé
 fo_259: Une erreur est survenue.
+
+#audio chat
+fo_260: Démarrer une conversatio audio
+fo_261: Conversation audio
+
+#live file sharing
+fo_262: L'internaute parcours le fichier.
+fo_263: Fichier est trop volumineux (5MB max.)
+fo_264: Format de fichier non accepté.
+fo_265: Envoi en cours.
+fo_266: Envoi du fichier terminé.
+fo_267: Une erreur est survenue lors de l'envoi du fichier.
+fo_268: Envoi annulé !
+fo_269: Envoyer un fichier.
+fo_270: Envoi terminé.
+
+#audio chat
+fo_271: Souhaitez-vous démarrer une conversation audio ? Vous pourrez me voir et m'entendre, je ne pourrai pas vous voir.
