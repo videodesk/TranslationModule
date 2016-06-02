@@ -84,10 +84,10 @@ fo_83: Passez en mode vidéo.
 fo_84: Vous pouvez parler, le conseiller vous voit.
 fo_85: Vous pouvez parler, le conseiller ne vous voit pas # vous n'êtes pas vu
 fo_86: Tapez votre message ici...
-fo_87: sera disponible dans quelques secondes. 
+fo_87: sera disponible dans quelques secondes.
 fo_88: Vous avez accepté la conversation audio
 fo_89: Vous avez accepté la conversation vidéo
-fo_90: Discussion avec 
+fo_90: Discussion avec
 fo_91: Agrandir
 fo_92: Raccrocher
 fo_93: Couper la caméra
@@ -169,7 +169,7 @@ fo_167: Nous avons détecté un problème avec votre connexion internet, la conv
 fo_168: Nous sommes là !
 fo_169: Conseillers disponibles
 fo_170: Comment puis-je vous aider ?
-fo_171: Un conseiller est disponible pour répondre à vos questions. 
+fo_171: Un conseiller est disponible pour répondre à vos questions.
 fo_172: Démarrer une conversation
 fo_173: Nos conseillers sont indisponibles pour l'instant, merci de bien vouloir nous contacter ultérieurement.
 fo_174: Nos conseillers sont indisponibles pour l'instant, merci de bien vouloir nous contacter ultérieurement.
@@ -200,7 +200,7 @@ fo_194: Vidéo partagée par
 fo_195: Le conseiller ne peut pas vous voir
 fo_196: mais vous entend.
 
-fo_197: Puis-je activer votre micro ? Nous pourrons communiquer de vive voix et nous entendre. Je ne pourrai pas vous voir. 
+fo_197: Puis-je activer votre micro ? Nous pourrons communiquer de vive voix et nous entendre. Je ne pourrai pas vous voir.
 
 fo_200: Je ne peux pas vous entendre mais je reçois vos messages écrits.
 
@@ -295,4 +295,4 @@ fo_269: Envoyer un fichier.
 fo_270: Envoi terminé.
 
 #audio chat
-fo_271: Souhaitez-vous démarrer une conversation audio ? Vous pourrez me voir et m'entendre, je ne pourrai pas vous voir.
+fo_271: Souhaitez-vous démarrer une conversation audio ?
