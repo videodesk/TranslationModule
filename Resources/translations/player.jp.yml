@@ -280,3 +280,26 @@ fo_254: お客様サポート担当者に,あなたが見えなくなる,もし�
 fo_255: エージェントがビデオチャットに切り替えました。
 fo_256: エージェントがボイスチャットに切り替えました。
 fo_257: エージェントがテキストチャットに切り替えました。
+
+#live file sharing
+fo_258: File downloaded
+fo_259: Something went wrong
+
+#audio chat
+fo_260: Start an audio conversation
+fo_261: 音声通話
+
+#live file sharing
+fo_262: User is browsing the file through its device
+fo_263: File too big (max 5MB) !
+fo_264: Wrong file format !
+fo_265: Upload in progress
+fo_266: File upload complete
+fo_267: Something went wrong during the upload of the file
+fo_268: Upload canceled !
+fo_269: Upload a file
+fo_270: Upload complete
+
+#audio chat
+fo_271: Can we switch to voice chat? <br> You will be able to hear me, I will not see you.
+fo_272: My voice chat conversation  #My voice chat conversation
