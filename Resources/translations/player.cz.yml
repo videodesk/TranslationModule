@@ -47,15 +47,15 @@ fo_46: "Ne, děkuji"
 fo_47: "Děkujeme, že jste nás kontaktovali."
 fo_48: "Přejete si zaslat kopii této konverzace?"
 fo_49: Zadejte platné telefonní číslo, nebo e-mail.
-fo_50: PDF 
-fo_51: Video 
+fo_50: PDF
+fo_51: Video
 fo_52: Produktová kamera
 fo_53: Náš chat je nyní ukončen.
 fo_54: Klikněte zde pro rozšíření
 fo_55: Operátor není dostupný.
 fo_56: Operátor
 fo_57: Probíhající prohlížení webu
-fo_58: Během prohlížení webu nemůže náš operátor vidět Váš prohlížeč, ani žádný obsah Vašeho počítače. 
+fo_58: Během prohlížení webu nemůže náš operátor vidět Váš prohlížeč, ani žádný obsah Vašeho počítače.
 fo_59: Připojování
 fo_60: Zavřít video
 fo_61: Video
@@ -78,7 +78,7 @@ fo_77: Společné prohlížení webu ukončeno
 fo_78: Proveďte výběr pro začátek konverzace
 fo_79: Neobávejte se, neuvidím Vás
 fo_80: Videohovor
-fo_81: Text chat
+fo_81: Psaný chat
 fo_82: Jste již unaven/a psaním?
 fo_83: Jsme také k dispozici na videohovor
 fo_84: Můžete mluvit, uvidím Vás.
@@ -138,7 +138,7 @@ fo_137: Operátor Vás nemůže vidět, ale slyší Vás.
 fo_138: povoleno
 fo_139: zakázáno
 fo_140: Přístup
-fo_141: 
+fo_141:
 fo_142: nemůžeme Vás vidět, ale slyšíme Vás.
 fo_143: nemůžeme Vás vidět ani slyšet.
 fo_144: Operátor Vás může vidět a slyšet.
@@ -164,13 +164,11 @@ fo_163: Váš chat byl ukončen.
 fo_164: Vás operátor může vidět, ale neslyší.
 fo_165: Byla naše konverzace nápomocná?
 fo_166: Doporučili byste nás přátelům?
-fo_167: Vaše internetové připojení nepodporuje videohovor. Nicméně můžeme chatovat. #when webuser switch to chat text
-
-
-fo_168: Můžeme Vám pomoci #grabber_advisor_1 
-fo_169: Online rádce #grabber_advisor_2 
-fo_170: Jak Vám mohu poradit? #grabber_message_1 
-fo_171: Operátor je připraven odpovědět na Vaše dotazy. #grabber_message_2 
+fo_167: Vaše internetové připojení nepodporuje videohovor. Nicméně můžeme chatovat.
+fo_168: Můžeme Vám pomoci #grabber_advisor_1
+fo_169: Online rádce #grabber_advisor_2
+fo_170: Jak Vám mohu poradit? #grabber_message_1
+fo_171: Operátor je připraven odpovědět na Vaše dotazy. #grabber_message_2
 fo_172: Začněte konverzaci #call_button_txt
 fo_173: Žádní video operátoři nejsou přítomni. #fallback_timeout_calls_txt
 fo_174: Žádní video operátoři nejsou přítomni. #fallback_timeout_unavailble_txt
@@ -192,12 +190,8 @@ fo_189: Mohlo by Vás zajímat:
 fo_190: sdílené:
 fo_191: Video
 fo_192: KB
-
-
 fo_193: sdílený PDF dokument
 fo_194: sdílené video
-
 fo_195: Operátor Vás nemůže vidět
 fo_196: ale slyší Vás.
-
 fo_197: Můžeme aktivovat Váš mikrofon?	Uslyšíme jeden druhého, neuvidím Vás.
