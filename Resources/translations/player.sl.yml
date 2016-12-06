@@ -1,10 +1,10 @@
-fo_1: Type your message here... #textarea where webuser enter message
-fo_2: Do you want to close the conversation? #when webuser clic on red cross img
-fo_3: Yes
-fo_4: No
-fo_5: Send
-fo_6: First name
-fo_7: Last name
+fo_1: Vnesite vaše besedilo...
+fo_2: Želite zapreti pogovorno okno?
+fo_3: Da
+fo_4: Ne
+fo_5: Pošlji
+fo_6: Ime
+fo_7: Priimek
 fo_8: Company
 fo_9: Email
 fo_10: Phone
