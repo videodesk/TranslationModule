@@ -1,39 +1,39 @@
-fo_1: Type your message here... #textarea where webuser enter message
-fo_2: Do you want to close the conversation? #when webuser clic on red cross img
-fo_3: Yes
-fo_4: No
-fo_5: Send
-fo_6: First name
-fo_7: Last name
-fo_8: Company
-fo_9: Email
-fo_10: Phone
-fo_11: Message
-fo_12: Please give us your feedback
-fo_13: Would you recommend this experience to your friends?
-fo_14: Please enter your e-mail address
-fo_15: The record has been successfully sent
-fo_16: Ongoing conversation
-fo_17: Please fill email field
-fo_18: Please fill phone field
-fo_19: Please fill firstname field
-fo_20: Please fill lastname field
-fo_21: Please fill company field
-fo_22: bad # survey feeling
-fo_23: poor # survey feeling
-fo_24: regular # survey feeling
-fo_25: good # survey feeling
-fo_26: excellent # survey feeling
-fo_27: Invalid email
-fo_28: Required field
-fo_29: Survey sent
-fo_30: Sorry, I cannot take your call. Please leave me a message!
-fo_31: Back to the list
-fo_32: Sorry our agents are unavailable.
-fo_33: Please leave us a message!
-fo_34: Send and quit
-fo_35: Back to feedback
-fo_36: Comments and feedback (optional)
+fo_1: Vnesite vaše besedilo tukaj
+fo_2: Želite zaključiti pogovor?
+fo_3: Da
+fo_4: Ne
+fo_5: Pošlji
+fo_6: Ime
+fo_7: Priimek
+fo_8: Podjetje
+fo_9: Elektronska pošta
+fo_10: Telefon
+fo_11: Sporočilo
+fo_12: Prosim podajte nam vaše mnenje o pogovoru
+fo_13: Bi priporočili to storitev vašim prijateljem?
+fo_14: Prosim vnesite vaš elektronski naslov
+fo_15: Vaš vnos je bil uspešno poslan
+fo_16: Pogovor v teku
+fo_17: Prosim vnesite vaš elektronski naslov
+fo_18: Prosim vnesite vašo telefonsko številko
+fo_19: Prosim vnesite vaše ime
+fo_20: Prosim vnesite vaš priimek
+fo_21: Prosim vnesite ime vašega podjetja
+fo_22: Slabo
+fo_23: Pomankljivo
+fo_24: Sprejemljivo
+fo_25: Dobro
+fo_26: Odlično
+fo_27: Neveljaven elektronski naslov
+fo_28: Zahtevano okno
+fo_29: Vprašanje poslano
+fo_30: Oprostite, ne morem prevzeti vašega klica. Prosim pustite sporočilo!
+fo_31: Nazaj k seznamu
+fo_32: Oprostite naš prodajalec ni na voljo.
+fo_33: Prosim pustite sporočilo!
+fo_34: Pošlji in zaključi
+fo_35: Nazaj k oceni
+fo_36: Komentarji in ocena (opcijsko)
 fo_37: I have opened a co-browse session.
 fo_38: Allow
 fo_39: Deny
