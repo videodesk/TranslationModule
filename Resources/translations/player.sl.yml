@@ -34,42 +34,42 @@ fo_33: Prosim pustite sporočilo!
 fo_34: Pošlji in zaključi
 fo_35: Nazaj k oceni
 fo_36: Komentarji in ocena (opcijsko)
-fo_37: I have opened a co-browse session.
-fo_38: Allow
-fo_39: Deny
-fo_40: Please fill at least one of highlighted fields
-fo_41: I would like to share a file with you.
-fo_42: File accepted
-fo_43: File declined
-fo_44: Accept
-fo_45: Decline
-fo_46: "No, thanks"
-fo_47: "Thanks for contacting us."
-fo_48: "Can we send you an email summary of our session today?"
-fo_49: Please enter a valid email address or a telephone number.
-fo_50: PDF Push
-fo_51: Video Push
-fo_52: Product webcam
-fo_53: Your text conversation has ended
-fo_54: Click here to expand
-fo_55: The agent is not available
-fo_56: Agent
-fo_57: Ongoing co-browse session
-fo_58: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other open tab. The agent will never see anything else on your computer. # fo_58: During co-browse, our agent can only see whats on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
-fo_59: Connecting
-fo_60: Close video
-fo_61: Video presentation
-fo_62: Start a text conversation
-fo_63: Start a video conversation
-fo_64: Customer support
-fo_65: Can we switch to voice chat? <br> You will be able to see and hear me, I will not see you.
-fo_66: Can we switch to video chat? <br> You will be able to see and hear me, I will see and hear you.
-fo_67: Audio access allowed
-fo_68: Video access allowed
-fo_69: Audio access denied
-fo_70: Video access denied
-fo_71: Allow
-fo_72: Deny
+fo_37: Odprli smo dodatni zavihek
+fo_38: Dovoli
+fo_39: Zavrni
+fo_40: Prosim izpolnite vsaj eno izmed označenih polj
+fo_41: Z vami želim deliti datoteko
+fo_42: Datoteka sprejeta
+fo_43: Datoteka zavrnjena
+fo_44: Sprejmi
+fo_45: Zavrni
+fo_46: "Ne, hvala"
+fo_47: "Hvala, da ste stopili v stik z nami"
+fo_48: Ali vam lahko pošljemo elektronsko pošto s povzetkom današnjega pogovora?
+fo_49: Prosim vnesite veljavno elektronsko pošto ali telefonsko številko.
+fo_50: Pripni PDF
+fo_51: Pripni Video posnetek
+fo_52: Prikaz produkta
+fo_53: Vaš pogovor se je zaključil
+fo_54: Klikni, za razširitev
+fo_55: Svetovalec ni na voljo
+fo_56: Svetovalec
+fo_57: Vzporedno brskanje v teku
+fo_58: V času pogovora naš svetovalec vidi le pogovorno okno in ne vašega brskalnika.
+fo_59: Vzpostavljam povezavo
+fo_60: Zapri video posnetek
+fo_61: Video predstavitev
+fo_62: Začni pogovor
+fo_63: Začni video pogovor
+fo_64: Podpora strankam
+fo_65: Ali lahko vzpostavimo glasovno povezavo? Lahko me boste videli in slišali, jaz pri tem ne bom videl vas.
+fo_66: Ali lahko vzpostavimo video povezavo? Lahko me boste videli in slišali, prav tako pa bom jaz videl in slišal vas.
+fo_67: Glasovni dostop dovoljen
+fo_68: Video dostop dovoljen
+fo_69: Glasovni dostop zavrnjen
+fo_70: Video dostop zavrnjen
+fo_71: Dovoli
+fo_72: Zavrni
 fo_73: Can I co-browse the website with you?
 fo_74: Co-browse session has ended
 fo_75: Co-browse session has ended
