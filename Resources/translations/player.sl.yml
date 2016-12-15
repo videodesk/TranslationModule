@@ -70,45 +70,45 @@ fo_69: Glasovni dostop zavrnjen
 fo_70: Video dostop zavrnjen
 fo_71: Dovoli
 fo_72: Zavrni
-fo_73: Can I co-browse the website with you?
-fo_74: Co-browse session has ended
-fo_75: Co-browse session has ended
-fo_76: Cobrowsing access granted
-fo_77: Cobrowsing access denied
-fo_78: Select an option to start the conversation
-fo_79: Don't worry, I will not see you
-fo_80: Video chat
-fo_81: Text chat
-fo_82: Tired of typing?
-fo_83: We are also available for a video chat
-fo_84: You can talk, the agent can see you.
-fo_85: You can talk, the agent can't see you.
-fo_86: Type your message here...
-fo_87: will be available in a few seconds.
-fo_88: You accepted the audio conversation
-fo_89: You accepted the video conversation
-fo_90: Conversation with
-fo_91: Maximize
-fo_92: Hang up
-fo_93: Deactivate the video
-fo_94: Webcam is on
-fo_95: Mute the microphone
-fo_96: Your mic is on
-fo_97: Your mic is muted
-fo_98: Your webcam is on
-fo_99: Your webcam is off
+fo_73: Ali se vam lahko pridružim pri iskanju na naši spletni strani?
+fo_74: Skupna seja se je zaključila
+fo_75: Skupna seja se je zaključila
+fo_76: Skupno iskanje dovoljeno
+fo_77: Skupno iskanje zavrnjeno
+fo_78: Izberite način za začetek pogovora
+fo_79: Ne skrbite, ne bom vas videl
+fo_80: Video pogovor
+fo_81: Besedilni pogovor
+fo_82: Naveličani tipkanja?
+fo_83: Na voljo smo vam tudi preko video pogovora.
+fo_84: Lahko govorite, svetovalec vas vidi.
+fo_85: Lahko govorite, svetovalec vas ne vidi.
+fo_86: Tukaj vensite vaše besedilo
+fo_87: Trenutek, takoj vam bom na voljo
+fo_88: Sprejeli ste glasovni pogovor
+fo_89: Sprejeli ste video pogovor
+fo_90: Conversation with Pogovor z
+fo_91: Maximize Povečaj
+fo_92: Hang up Odloži
+fo_93: Deactivate the video Izključi video
+fo_94: Webcam is on Spletna kamera je vključena
+fo_95: Mute the microphone Izključi mikrofon
+fo_96: Your mic is on Vaš mikrofon je vključen
+fo_97: Your mic is muted Vaš mikrofon je izključen
+fo_98: Your webcam is on Vaša spletna kamera je vključena
+fo_99: Your webcam is off Vaša spletna kamera je izključena
 fo_100: You are seeing # not used
 fo_101: You are not seeing # not used
-fo_102: Microphone is on
-fo_103: Me
+fo_102: Microphone is on Mikrofon je vključen
+fo_103: Me Jaz
 fo_104: you deny authorization bar
-fo_105: The agent cannot see or hear you. #not used anymore
-fo_106: I will be with you in just a moment. Please wait while the video chat loads.
-fo_107: Are you sure you want to end this conversation?
-fo_108: Are you sure? This will end the conversation.
-fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
-fo_110: You have not enabled your microphone. I can't hear you but I can receive your text messages.
-fo_111: The agent cannot see or hear you.
+fo_105: The agent cannot see or hear you. Svetovalec vas ne vidi ali sliši
+fo_106: I will be with you in just a moment. Please wait while the video chat loads. Takoj bom z vami. Prosim počakajte trenutek, da se vzpostavi povezava z videam
+fo_107: Are you sure you want to end this conversation? Ali ste prepričani, da želite zaključiti pogovor?
+fo_108: Are you sure? This will end the conversation. Ali ste prepričani? To bo zaključilo pogovor.
+fo_109: Your Internet connection does not support video chat. However we can still voice or text chat. Vaša internetna povezava ne podpira video pogovora. Kakorkoli še vedno lahko komunicirava preko glasovnega ali besedilnega pogovora.
+fo_110: You have not enabled your microphone. I can't hear you but I can receive your text messages. Vaš mikrofon ni vključen. Ne morem vas slišati, vseeno prejemam besedilno sporočilo.
+fo_111: The agent cannot see or hear you. Svetovalec vas ne vidi ali sliši.
 fo_112: Can I co-browse our store with you?
 fo_113: Allow
 fo_114: Deny
