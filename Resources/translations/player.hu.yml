@@ -104,7 +104,7 @@ fo_103: Nekem
 fo_104: you deny authorization bar
 fo_105: The agent cannot see or hear you.
 fo_106: I will be with you in just a moment. Please wait while the video chat loads.
-fo_107: Are you sure you want to end this conversation?
+fo_107: Biztosan be akarja fejezni ezt a csevegő folyamatot?
 fo_108: Are you sure? This will end the conversation.
 fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
 fo_110: You did not enable your microphone. I cannot hear you but I can receive your text messages.
@@ -159,7 +159,7 @@ fo_158: By clicking “Allow once”, the support agent on the website you are b
 fo_159: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
 fo_160: Co-browse session has ended.
 fo_161: Click “allow once” button
-fo_162: I will be with you in just a moment. Please wait while the text chat loads.
+fo_162: Türelmét kérjük, rögtön válaszolunk. Kérjük várjon amíg a szöveg letöltődik.
 fo_163: Your text chat has ended.
 fo_164: The agent can see you but is not able to hear you.
 fo_165: Has this conversation been helpful?
@@ -202,3 +202,20 @@ fo_195: The agent cannot see you
 fo_196: but is able to hear you.
 
 fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
+
+fo_198: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you.
+fo_199: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
+
+fo_200: I can't hear you but I can receive your text messages.
+
+fo_201: URL window shared by
+fo_202: Product webcam shared by
+fo_203: Screen shared by
+
+fo_204: Let's voice chat!
+fo_205: Let's video chat!
+
+fo_206: Sounds good!
+
+fo_207: Your video conversation has ended
+fo_208: Hiba az oldalon.
