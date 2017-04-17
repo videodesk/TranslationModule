@@ -1,8 +1,8 @@
-fo_1: Пожалуйста, введите ваше сообщение здесь
-fo_2: Вы хотите закрыть диалог?
+fo_1: Введите ваше сообщение здесь... #textarea where webuser enter message
+fo_2: Вы хотите закрыть диалог? #when webuser clic on red cross img
 fo_3: Да
 fo_4: Нет
-fo_5: Отправить
+fo_5: >
 fo_6: Ваше имя
 fo_7: Ваша фамилия
 fo_8: Компания
@@ -10,195 +10,268 @@ fo_9: E-mail
 fo_10: Телефон
 fo_11: Сообщение
 fo_12: Оцените, пожалуйста, этот диалог
-fo_13: Вы бы рекомендовали подобный опыт своим друзьям на Facebook ?
-fo_14: пожалуйста, введите свой e-mail адрес
+fo_13: Вы бы рекомендовали подобный опыт своим друзьям  ?
+fo_14: Пожалуйста, введите свой e-mail адрес
 fo_15: Запись была успешно отправлена
-fo_16: текущий диалог
-fo_17: Пожалуйста, заполните поле "e-mail"
-fo_18: Пожалуйста, заполните поле "телефон"
-fo_19: Пожалуйста, заполните поле "Имя"
-fo_20: Пожалуйста, заполните поле " Фамилия"
-fo_21: Пожалуйста, заполните поле "Компания"
-fo_22: Плохой
-fo_23: Бедный
-fo_24: Обычный
-fo_25: Хороший
-fo_26: Отличный
-fo_27: Неправильный e-mail адрес
+fo_16: Текущий диалог
+fo_17: Заполните поле "e-mail"
+fo_18: Заполните поле "телефон"
+fo_19: Заполните поле "Имя"
+fo_20: Заполните поле " Фамилия"
+fo_21: Заполните поле "Компания"
+fo_22: Плохо # survey feeling
+fo_23: Посредственно # survey feeling
+fo_24: Нормально # survey feeling
+fo_25: Хорошо # survey feeling
+fo_26: Отлично # survey feeling
+fo_27: Некорректный e-mail
 fo_28: Обязательное поле
-fo_29: Форма отправлена
-fo_30: К сожалению, я не могу ответить на Ваш звонок. Пожалуйста, оставьте мне сообщение!
+fo_29: Ответ отправлен
+fo_30: К сожалению, я не могу ответить. Пожалуйста, оставьте мне сообщение!
 fo_31: Вернуться к списку
-fo_32: К сожалению наши агенты будут недоступны.
+fo_32: К сожалению, наши агенты недоступны.
 fo_33: Пожалуйста, оставьте нам сообщение!
-fo_34: Send and quit
-fo_35: Back to feedback
-fo_36: Any suggestions?
-fo_37: I have opened a co-browse session.
-fo_38: Позволять
-fo_39: Отказывать
-fo_40: Пожалуйста заполните хотя бы одно из указанных полей
-fo_41: I would like to share a file with you.
-fo_42: File accepted
-fo_43: File declined
-fo_44: Accept
-fo_45: Decline
-fo_46: "No, thanks"
-fo_47: "Thanks for contacting us."
-fo_48: "Would you like a copy of this conversation?"
-fo_49: Please enter a valid email address or a telephone number.
+fo_34: Отправить и выйти
+fo_35: Вернуться к отзывам
+fo_36: Комментарии и предложения
+fo_37: Я открываю сессию совместного просмотра
+fo_38: Разрешить
+fo_39: Отказать
+fo_40: Пожалуйста, заполните хотя бы одно из указанных полей
+fo_41: Я хотел бы поделиться с вами файлом
+fo_42: Файл принят
+fo_43: Файл отклонен
+fo_44: Принять
+fo_45: Отказать
+fo_46: "Нет, спасибо"
+fo_47: "Благодарим за обращение"
+fo_48: "Вы бы хотели получить копию сессии?"
+fo_49: Введите действительный номер телефона или e-mail.
 fo_50: PDF Push
 fo_51: Video Push
-fo_52: Product camera
-fo_53: Your text conversation is now over.
-fo_54: Click here to expand
-fo_55: The agent is not available
-fo_56: Agent
-fo_57: Ongoing co-browse session
-fo_58: During co-browse, our agent can only see what's on the web page itself, not your browser, nor any other tab with open website. The agent never sees anything else on your computer.
-fo_59: Connecting
-fo_60: Close video
-fo_61: Presentation video
-fo_62: Start a text conversation
-fo_63: Start a video conversation
-fo_64: Сервис временно недоступен.
-fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
-fo_66: Can I activate your webcam? I will be able to see and hear you.
-fo_67: Audio access allowed
-fo_68: Video access allowed
-fo_69: Audio access denied
-fo_70: Video access denied
-fo_71: Allow
-fo_72: Deny
-fo_73: Can I co-browse our store with you?
-fo_74: Co-browse session has ended
-fo_75: Co-browse session has ended
-fo_76: Cobrowsing access granted
-fo_77: Cobrowsing access denied
-fo_78: Select an option to start the conversation
-fo_79: Don't worry, I will not see you
-fo_80: Video call
-fo_81: Text chat
-fo_82: Tired of typing?
-fo_83: We are also available for a video chat
+fo_52: Продуктовая камера
+fo_53: Ваш диалог окончен
+fo_54: Нажмите чтобы раскрыть
+fo_55: Агент недоступен
+fo_56: Агент
+fo_57: Идет сессия совместного просмотра
+fo_58: Во время совместного просмотра  наш агент видит только происходящее на текущей странице, но не в вашем компьютере или браузере. Агент не видит других окон.
+fo_59: Подключение
+fo_60: Закрыть видео
+fo_61: Видео презентация
+fo_62: Начать диалог
+fo_63: Начать видео-чат
+fo_64: Сервис временно недоступен
+fo_65: Хотели бы вы перейти к голосовому чату? <br> Вы будете видеть и слышать меня. Я не буду вас видеть.
+fo_66: Хотели бы вы перейти к видео чату? <br> Вы будете видеть и слышать меня. Я буду вас видеть и слышать
+fo_67: Доступ к микрофону разрешен
+fo_68: Доступ к камере разрешен
+fo_69: Доступ к микрофону - отказ
+fo_70: Доступ к камере - отказ
+fo_71: Разрешить
+fo_72: Отказать
+fo_73: Вы хотели бы включить совместный просмотр сайта?
+fo_74: Совместный просмотр окончен
+fo_75: Совместный просмотр окончен
+fo_76: Совместный просмотр разрешен 
+fo_77: Совместный просмотр - отказ
+fo_78: Выберите вариант для начала диалога
+fo_79: Не беспокойтесь, я вас не вижу
+fo_80: Видео-чат
+fo_81: Чат
+fo_82: Устали печатать?
+fo_83: Мы доступны для видео-чата
 fo_84: Мы можем говорить, вы видите
 fo_85: Мы можем говорить, вы не видите
-fo_86: Type your message here...
+fo_86: Введите ваше сообщение
 fo_87: будет доступен в течение нескольких секунд.
-fo_88: Вы подтвердили аудио диалог
-fo_89: Вы подтвердили видео диалог
-fo_90: Обсуждение с 
-fo_91: Maximize
-fo_92: Hang up
-fo_93: Mute the webcam
-fo_94: Webcam is on
-fo_95: Mute the microphone
+fo_88: Вы подтвердили голосовой-чат
+fo_89: Вы подтвердили видео-чат
+fo_90: Диалог с
+fo_91: Увеличить
+fo_92: Положить трубку
+fo_93: Отключить камеру
+fo_94: Камера включена
+fo_95: Выключить микрофон
 fo_96: Мой микрофон включен
 fo_97: Мой микрофон выключен
 fo_98: Моя вебкамера включена
 fo_99: Моя вебкамера выключена
 fo_100: You are seeing
 fo_101: You are not seeing
-fo_102: Microphone is on
+fo_102: Микрофон включен
 fo_103: Я
-fo_104: you deny authorization bar
-fo_105: The agent cannot see or hear you.
+fo_104: вы отказали в авторизации
+fo_105: The agent cannot see or hear you. #not used anymore
 fo_106: Соединение устанавливается. Подождите пожалуйста.
-fo_107: Are you sure you want to end this conversation?
-fo_108: Are you sure? This will end the conversation.
-fo_109: Your Internet connection does not support video chat. However we can still voice or text chat.
-fo_110: You did not enable your microphone. I cannot hear you but I can receive your text messages.
-fo_111: The agent cannot see or hear you.
-fo_112: Can I co-browse our store with you?
-fo_113: Allow
-fo_114: Deny
-fo_115: Send and quit
-fo_116: Survey sent.
-fo_117: Click this button to turn on your microphone.
-fo_118: I will now switch on my microphone.
-fo_119: Sorry, no agents has responded in time.
-fo_120: Unable to connect.
-fo_121: I am currently not available. Please leave a message.
-fo_122: Your video chat has ended.
-fo_123: Your opinion matters to us.
-fo_124: Thanks for chatting with us today.
-fo_125: Invalid email address.
-fo_126: Enter your email address.
-fo_127: No thanks
-fo_128: Submit
-fo_129: Transcript sent
-fo_130: We are unable to connect you to an agent.
-fo_131: Your email address
-fo_132: Your phone number
-fo_133: Your message here
-fo_134: Message sent
-fo_135: Close
-fo_136: The agent cannot see or hear you.
-fo_137: The agent cannot see you but he is able to hear you.
-fo_138: allowed
-fo_139: denied
-fo_140: Access
-fo_141: The
-fo_142: cannot see you but he is able to hear you.
-fo_143: cannot see or hear you.
-fo_144: The agent can see and hear you.
-fo_145: We're sorry. Unfortunately, the agent you called is unavailable at the moment.
-fo_146: Do you want a copy of our conversation?
-fo_147: Click on the ‘‘Allow’’ button,
-fo_148: to turn on your webcam.
-fo_149: to turn on your microphone.
-fo_150: By clicking “Allow”, the support agent on the website you are browsing will be able to see and hear you.
-fo_151: By clicking “Allow”, the support agent on the website you are browsing will be able to hear you.
-fo_152: microphone icon
-fo_153: camera icon
-fo_154: First click on the
-fo_155: above.
-fo_156: this will make the menu appear.
-fo_157: Click “Share selected device” button,
-fo_158: By clicking “Allow once”, the support agent on the website you are browsing will be able to see and hear you.
-fo_159: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
-fo_160: Co-browse session has ended.
-fo_161: Click “allow once” button
-fo_162: I will be with you in just a moment. Please wait while the text chat loads.
-fo_163: Your text chat has ended.
-fo_164: The agent can see you but is not able to hear you.
-fo_165: Этот разговор был полезен?
-fo_166: Вы готовы порекомендовать чат Вашим знакомым?
-fo_167: Your Internet connection does not support video or audio chat. However we can still text chat. #when webuser switch to chat text
-
-
-fo_168: We're here to help #grabber_advisor_1 
-fo_169: Live sales advisors #grabber_advisor_2 
-fo_170: How can I help you? #grabber_message_1 
-fo_171: An operator is available now to answer your questions. #grabber_message_2 
-fo_172: Start a conversation now #call_button_txt
-fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
-fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
-fo_175: Leave a message
-fo_176: Your conversation transcript with
-fo_177: My text chat conversation  #My text chat conversation
-fo_178: My video chat conversation #My video chat conversation
-fo_179: Hello, #Hi
-fo_180: Your recent chat with one of our agents is attached below. #We have to pleasure to send you the transcript of your discussion.
-fo_181: Please find the entire conversation attached below. #Please find the entire conversation attached below.
-fo_182: We hope to see you again, soon! #We look forward to seeing you again on
-fo_183: Thank you for your visit, #Thank you for your visit
-fo_184: Videos shared during the conversation. #videos push during the conversation
-fo_185: Files shared during the conversation. #files push during the conversation
-fo_186: View this email in your browser # do not exist in old file
-fo_187: If you select Video Call, I'll be able to see you. # do not exist in old file
-
+fo_107: Вы уверены что хотите закончить диалог?
+fo_108: Вы уверены? Действие окончит диалог.
+fo_109: Ваше соединение не позволит включит видео-чат. Голосовой и текстовый чаты доступны.
+fo_110: Вы не разрешили доступ браузера к микрофону. Я вас не слышу, но могу читать ваши сообщения.
+fo_111: Агент вас не слышит и не видит.
+fo_112: Вы хотели бы включит совместный просмотр сайта?
+fo_113: Разрешить
+fo_114: Отказать
+fo_115: Отправить и выйти
+fo_116: Ответ отправлен.
+fo_117: Нажмите на клавишу чтобы включить свой микрофон.
+fo_118: Сейчас я включу свой микрофон.
+fo_119: Нам очень жаль, но все наши агенты сейчас не могут принять ваш вызов. #respond to your call
+fo_120: Не удалось подключиться.
+fo_121: В данный момент я не доступен.</br> Оставьте сообщение.
+fo_122: Ваш видео-чат окончен
+fo_123: Ваше мнение важно
+fo_124: Благодарим за общение.
+fo_125: Некорректный e-mail.
+fo_126: Введите свой e-mail.
+fo_127: Нет, спасибо
+fo_128: Отправить
+fo_129: Текст отправлен
+fo_130: У нас не получается соединить вас с агентом.
+fo_131: Ваш e-mail
+fo_132: Ваш телефон
+fo_133: Ваше сообщение
+fo_134: Сообщение отправлено
+fo_135: Закрыть
+fo_136: Агент не может видеть и слышать вас.
+fo_137: Агент не может вас видеть, но слышит вас.
+fo_138: разрешено
+fo_139: отказано
+fo_140: Доступ
+fo_141: #no analogue, leave blank
+fo_142: не может вас видеть, но слышит вас.
+fo_143: не может видеть и слышать вас.
+fo_144: Агент слышит и видит вас.
+fo_145: К сожалению, сейчас нет доступных агентов
+fo_146: Хотите получить e-mail копию нашей переписки?
+fo_147: Нажмите на кнопку "Разрешить",
+fo_148: чтобы включить свою веб-камеру.
+fo_149: чтобы включить свой микрофон.
+fo_150: Нажимая “Разрешить”, вы позволите агенту сайта видеть и слышать вас.
+fo_151: Нажимая “Разрешить”, вы позволите агенту сайта слышать вас.
+fo_152: иконку микрофона
+fo_153: иконку камеры
+fo_154: Сначала нажмите на
+fo_155: выше.
+fo_156: это вызовет меню.
+fo_157: Нажмите "Разрешить доступ к выбранному устройству”,
+fo_158: Нажимая “Разрешить один раз”, вы позволите агенту сайта видеть и слышать вас.
+fo_159: Нажимая “Разрешить один раз”, вы позволите агенту сайта слышать вас.
+fo_160: Совместный просмотр окончен.
+fo_161: Нажмите "разрешить сейчас"
+fo_162: Я буду доступ через мгновение. Пожалуйста подождите пока  загружается чат.
+fo_163: Ваш чат окончен.
+fo_164: Агент может вас видеть, но не слышит вас.
+fo_165: Этот диалог был полезен?
+fo_166: Вы бы порекомендовали сервис знакомым?
+fo_167: Ваше соединение не поддерживает голосовой или текстовый чат. Вы можете писать текст в чат. #when webuser switch to chat text
+fo_168: Мы готовы помочь #grabber_advisor_1 
+fo_169: Конусльтанты в сети #grabber_advisor_2 
+fo_170: Как я могу помочь? #grabber_message_1 
+fo_171: Оператор доступен сейчас. Задайте вопрос. #grabber_message_2 
+fo_172: Начать диалог #call_button_txt
+fo_173: Наши агенты сейчас недоступны. Попробуйте позвонить позднее. #fallback_timeout_calls_txt
+fo_174: Наши агенты сейчас недоступны. Попробуйте позвонить позднее. #fallback_timeout_unavailble_txt
+fo_175: Оставьте сообщение
+fo_176: Текст вашего диалога с
+fo_177: Мой чат #My text chat conversation
+fo_178: Мой видео-чат #My video chat conversation
+fo_179: Здравствуйте, #Hi
+fo_180: Ваш чат с одним из наших агентов в приложении ниже. #We have to pleasure to send you the transcript of your discussion.
+fo_181: Вы можете найти весь диалог в приложении ниже#Please find the entire conversation attached below.
+fo_182: Надеемся увидеть вас снова! #We look forward to seeing you again on
+fo_183: Благодарим вас за посещение, #Thank you for your visit
+fo_184: Видео использованные в диалоге. #videos push during the conversation
+fo_185: Файл использованные в диалоге. #files push during the conversation
+fo_186: Просмотреть это письмо в браузере # do not exist in old file
+fo_187: Если вы выберите, I'll be able to see you. # do not exist in old file
 fo_188: PDF
-fo_189: You might also be interested in:
-fo_190: has shared the following:
-fo_191: Video
-fo_192: KB
-
-
-fo_193: PDF document shared by
-fo_194: Video shared by
-
-fo_195: The agent cannot see you 
-fo_196: but is able to hear you.
-
-fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
+fo_189: Возможно вам будет интересно
+fo_190: поделился
+fo_191: Видео
+fo_192: Кб
+fo_193: PDF файл от 
+fo_194: Видео от
+fo_195: Агент не видит вас
+fo_196: но может слышать вас
+fo_197: Могу я включить ваш микрофон? Мы сможем говорить и слшать друг друга. Я не буду вас видеть.
+fo_198: Нажимая “Разрешить доступ к выбранным устройствам”, вы позволите агенту сайта видеть и слышать вас.
+fo_199: Нажимая “Разрешить доступ к выбранным устройствам”, вы позволите агенту сайта слышать вас.
+fo_200: Я не могу слышать вас, но я буду получать ваши текстовые сообщения.
+fo_201: Окном поделился
+fo_202: Продуктовой камерой поделился
+fo_203: Экраном поделился
+fo_204: Давайте включим голос!
+fo_205: Давайте включим видео!
+fo_206: Звучит неплохо!
+fo_207: Ваш видео-чат окончен
+fo_208: Что-то пошло не так
+fo_209: Можно я включу совместный просмотр сайта?
+fo_210: Скорость соединения недостаточна.
+fo_211: Только голосовой чат доступен на данный момент.
+fo_212: Только текстовый чат доступен на данный момент.
+fo_213: Шаг
+fo_214: Чтобы разрешить голосовой чат следуйте<br>инструкциям на экране
+fo_215: Разрешите доступ к вашему микрофону
+fo_216: Запустите аудио
+fo_217: Подтвердите: "Разрешить" 
+fo_218: Не волнуйтесь, мы не будем видеть вас 
+fo_219: Чтобы разрешить голосовой чат нажмите
+fo_220: Чтобы разрешить голосовой чат нажмите
+fo_221: "Разрешить"
+fo_222: "Разрешить доступ к выбранным устройствам"
+fo_223: когда браузер запросит
+fo_224: Отправка
+fo_225: Совместный просмотр - ок
+fo_226: Совместный просмотр - отказ
+fo_227: Микрофон обеззвучен
+fo_228: Разрешить доступ
+fo_229: Сейчас я не слышу вас. Если вы хотите говорить со мной, пожалуйста, включите ваш микрофон.
+fo_230: Совместный просмотр закрыт
+fo_231: Не удалось закрыть 
+fo_232: API просмотра не готов
+fo_233: закрываем…
+fo_234: уже закрываем…
+fo_235: Агент закончил совместный просмотр
+fo_236: Клиент закрыл совместный просмотр
+fo_237: Не беспокойтесь, агент неможет управлять 
+fo_238: <p> Чтобы разрешить голосовой чат, нажмите</p><p> на <span> "разрешить"</span></p><p>когда браузер запросит подтверждение.</p>
+fo_239: Спасибо!
+fo_240: Теперь вы можете говорить с агентом.
+fo_241: Пожалуйста не закрывайте это окно.
+fo_242: Нажмите здесь чтобы уменьшить это окно.
+fo_243: Не волнуйтесь, мы не будем вас видеть!
+fo_244: в противном случае агент вас не услышит.
+fo_245: Камера выключена
+fo_246: Не беспокойтесь, вы можете отключить камеру и микрофон в любой момент
+fo_247: <p>Чтобы включить видео-чат, нажмите</p><p>кнопку<span>"разрешить"</span> </p><p>когда запросит браузер.</p>
+fo_248: Вы можете говорить с агентом. Агент вас видит.
+fo_249: Нажмите здесь чтобы исправить сбой
+fo_250: Что-то пошло не так при авторизации микрофона и камеры.
+fo_251: В данный момент я не миогу вас видеть и слышать. Если вы хотите, чтобы я вас видел и слышал - пожалуйста включите веб-камеру
+fo_252: иначе агент не сможет видеть или слышать вас.
+fo_253: Вас не будет слышно
+fo_254: Вас не будет слышно или видно агенту
+fo_255: Агент переключился на видео-чат
+fo_256: Агент переключился на голосовой чат
+fo_257: Агент переключился на чат
+#live file sharing: 
+fo_258: Файл загружен
+fo_259: Что-то пошло не так
+#audio chat: 
+fo_260: Начать голосовой-чат
+fo_261: Голосовой чат
+fo_262: Пользователь просматривает файл
+fo_263: Файл слишком большой (5MB MAX)
+fo_264: Некорректный формат файла
+fo_265: Загрузка в процессе
+fo_266: Загрузка файла завершена
+fo_267: Что-то пошло не так при загрузке файла
+fo_268: Загрузка отменена
+fo_269: Загрузите файл
+fo_270: Загрузка завершена
+fo_271: Мы можем переключится на голосовой чат  <br>  Вы будете меня слышать. Я не буд вас видеть.
+fo_272: Мой голосовой чат #My voice chat conversation
+fo_273: Повторить
+fo_274: Я буду доступен через мгновение. Пожалуйста подождите пока  загружается голсовой-чат.
+fo_275: Ваш голосовой чат окончен
