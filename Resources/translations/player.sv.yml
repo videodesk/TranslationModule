@@ -1,15 +1,15 @@
-fo_1: Skriv ditt meddelande här ...
-fo_2: Vill du avsluta diskussionen?
-fo_3: Ja
-fo_4: Nej
-fo_5: Skicka
+fo_1: Napišite sporočilo ...
+fo_2: Ste prepričani, da želite zaključiti klepet?
+fo_3: Da
+fo_4: Ne
+fo_5: Pošljite
 fo_6: Förnamn
 fo_7: Efternamn
 fo_8: Företag
 fo_9: Din E-postadress
 fo_10: Ditt telefonnummer
 fo_11: Ditt meddelande
-fo_12: Ge oss dina <strong>synpunkterk</strong><br/>om din konversation.
+fo_12: Vaše mnenje o klepetu
 fo_13: Skulle du rekommendera denna erfarenhet till dina Facebook-vänner?
 fo_14: Vänligen Fyll i din E-postadress
 fo_15: Inspelningen har skickats med lyckat resultat.
@@ -19,11 +19,11 @@ fo_18: Vänligen fyll i Telefonfält
 fo_19: Vänligen fyll i förnamn fältet
 fo_20: Vänligen fyll i efternamn fältet
 fo_21: Vänligen fyll i företagets fältet
-fo_22: Usel
+fo_22: Zelo slabo
 fo_23: Dålig
 fo_24: OK
 fo_25: Bra
-fo_26: Superbra
+fo_26: Odlično
 fo_27: Oigiltig E-postadress
 fo_28: Obligatoriska fält
 fo_29: Undersökning skickad
@@ -31,7 +31,7 @@ fo_30: Ledsen, jag kan inte ta ditt samtal. Lämna ett meddelande till mig!
 fo_31: Tillbaka till listan
 fo_32: Tyvärr vår operatör är inte tillgänglig just nu.
 fo_33: Lämna oss ett meddelande!
-fo_34: Skicka och avsluta
+fo_34: Zaključite in pošljite
 fo_35: Tillbaka till synpunkter
 fo_36: Any suggestions?
 fo_37: I have opened a co-browse session.
@@ -159,7 +159,7 @@ fo_158: By clicking “Allow once”, the support agent on the website you are b
 fo_159: By clicking “Allow once”, the support agent on the website you are browsing will be able to hear you.
 fo_160: Co-browse session has ended.
 fo_161: Click “allow once” button
-fo_162: I will be with you in just a moment. Please wait while the text chat loads.
+fo_162: Takoj vam bomo odgovorili, prosimo počakajte, da se besedilo naloži.
 fo_163: Your text chat has ended.
 fo_164: The agent can see you but is not able to hear you.
 fo_165: Has this conversation been helpful?
@@ -202,3 +202,20 @@ fo_195: The agent cannot see you
 fo_196: but is able to hear you.
 
 fo_197: Can I activate your microphone?	We will be able to talk and hear each other.I will not be able to see you.
+
+fo_198: By clicking “Share selected device”, the support agent on the website you are browsing will be able to see and hear you.
+fo_199: By clicking “Share selected device”, the support agent on the website you are browsing will be able to hear you.
+
+fo_200: I can't hear you but I can receive your text messages.
+
+fo_201: URL window shared by
+fo_202: Product webcam shared by
+fo_203: Screen shared by
+
+fo_204: Let's voice chat!
+fo_205: Let's video chat!
+
+fo_206: Sounds good!
+
+fo_207: Your video conversation has ended
+fo_208: Napaka
