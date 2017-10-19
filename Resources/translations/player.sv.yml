@@ -61,7 +61,7 @@ fo_60: Close video
 fo_61: Presentation video
 fo_62: Začni pogovor
 fo_63: Start a video conversation
-fo_64: We are unavailable.
+fo_64: Za vprašanja smo trenutno nedosegljivi.
 fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
 fo_66: Can I activate your webcam? I will be able to see and hear you.
 fo_67: Audio access allowed
@@ -171,7 +171,7 @@ fo_168: We're here to help #grabber_advisor_1
 fo_169: Live sales advisors #grabber_advisor_2 
 fo_170: How can I help you? #grabber_message_1 
 fo_171: An operator is available now to answer your questions. #grabber_message_2 
-fo_172: Start a conversation now #call_button_txt
+fo_172: Začni pogovor #call_button_txt
 fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
 fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
 fo_175: Leave a message
