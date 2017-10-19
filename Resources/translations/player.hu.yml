@@ -43,14 +43,14 @@ fo_42: File accepted
 fo_43: File declined
 fo_44: Accept
 fo_45: Decline
-fo_46: "No, thanks"
-fo_47: "Thanks for contacting us."
-fo_48: "Would you like a copy of this conversation?"
+fo_46: "Nem, köszönöm."
+fo_47: "Köszönjük megkeresését! "
+fo_48: "Szeretne másolatot a párbeszédről?"
 fo_49: Please enter a valid email address or a telephone number.
 fo_50: PDF Push
 fo_51: Video Push
 fo_52: Product camera
-fo_53: Your text conversation is now over.
+fo_53: Az üzenetváltás véget ért.
 fo_54: Click here to expand
 fo_55: The agent is not available
 fo_56: Agent
@@ -61,7 +61,7 @@ fo_60: Close video
 fo_61: Presentation video
 fo_62: Start a text conversation
 fo_63: Start a video conversation
-fo_64: We are unavailable.
+fo_64: Nem vagyunk elérhetőek or inaktív chat.
 fo_65: Can I activate your microphone? You will be able to see and hear me, I will not see you.
 fo_66: Can I activate your webcam? I will be able to see and hear you.
 fo_67: Audio access allowed
