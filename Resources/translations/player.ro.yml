@@ -8,7 +8,7 @@ fo_7: Munele de familie
 fo_8: Cmpanie
 fo_9: E-mail
 fo_10: Telefon
-fo_11: Messaj
+fo_11: Mesaj
 fo_12: Lasati-ne <b> opinia</b><br/> dumneavoastra despre conversatie
 fo_13: Ati recomanda aceasta experienta prietenilor?
 fo_14: Va rugam introduceti adresa dumneavoastra de e-mail.
@@ -29,7 +29,7 @@ fo_28: Càmp necesar
 fo_29: Opinie treimisa
 fo_30: Îmi pare rău, eu nu pot prelua apelul. Vă rugăm să lăsați-mi un mesaj!
 fo_31: Inapoi la lista
-fo_32: Ne pare rău agenții noștri nu sunt disponibile.
+fo_32: Ne pare rău, agenții noștri nu sunt disponibili.
 fo_33: Vă rugăm să ne lăsați un mesaj!
 fo_34: Send and quit
 fo_35: Back to feedback
@@ -174,7 +174,7 @@ fo_171: An operator is available now to answer your questions. #grabber_message_
 fo_172: Start a conversation now #call_button_txt
 fo_173: There are no available video chat agents. #fallback_timeout_calls_txt
 fo_174: There are no available video chat agents. #fallback_timeout_unavailble_txt
-fo_175: Leave a message
+fo_175: Lăsați un mesaj
 fo_176: Your conversation transcript with
 fo_177: My text chat conversation  #My text chat conversation
 fo_178: My video chat conversation #My video chat conversation
